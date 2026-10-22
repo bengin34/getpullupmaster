@@ -9,6 +9,18 @@
     window.addEventListener("scroll", onScroll, { passive: true });
   }
 
+
+  // Mobile: the header Download button is hidden, so keep both store links pinned to the bottom.
+  const storeLabels = { en: "Download", de: "Laden", es: "Descargar", fr: "Télécharger", tr: "İndir" };
+  const pageLang = (document.documentElement.lang || "en").slice(0, 2);
+  const bar = document.createElement("div");
+  bar.className = "sticky-cta";
+  bar.innerHTML =
+    '<a class="btn btn-primary" href="https://apps.apple.com/app/id6799707900" rel="noopener">' +
+    (storeLabels[pageLang] || storeLabels.en) + " · App Store</a>" +
+    '<a class="btn btn-ghost" href="https://play.google.com/store/apps/details?id=com.pullup.master" rel="noopener">Google Play</a>';
+  document.body.appendChild(bar);
+
   // Mobile menu.
   if (header && toggle) {
     const setOpen = (open) => {
