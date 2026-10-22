@@ -7,7 +7,7 @@
     <link rel="canonical" href="https://getpullupmaster.app/privacy/" />
     <meta
       name="description"
-      content="PullUpMaster privacy policy: what account and workout data we store via our Supabase backend, how Email, Google, and Apple sign-in work, and how to delete your data."
+      content="PullUpMaster privacy policy: what account and workout data we store via our Supabase backend, how subscriptions (RevenueCat) and product analytics (PostHog, EU) work, how Email, Google, and Apple sign-in work, and how to delete your account in the app."
     />
     <meta name="theme-color" content="#0a0b0e" />
     <meta property="og:title" content="PullUpMaster Privacy Policy" />
@@ -49,15 +49,17 @@
     <main id="main" class="page">
       <div class="container page-card">
         <h1>Privacy Policy</h1>
-        <p><strong>Last updated:</strong> August 9, 2026</p>
+        <p><strong>Last updated:</strong> October 17, 2026</p>
 
         <p>
           PullUpMaster ("PullUpMaster", "we", "us") is a pull-up training app.
-          Because your training programs, streaks, and workout history are
-          backed up to your account and synced across devices, PullUpMaster
-          stores personal data on our backend, provided by
-          <strong>Supabase</strong>. This policy explains what we collect,
-          why, and how you can access or delete it.
+          If you create an account, your training programs, streaks, and
+          workout history are backed up to it and synced across devices, so
+          PullUpMaster stores personal data on our backend, provided by
+          <strong>Supabase</strong>. We also use <strong>RevenueCat</strong>
+          to manage subscriptions and <strong>PostHog</strong> (EU-hosted) for
+          product analytics. This policy explains what we collect, why, and
+          how you can access or delete it.
         </p>
 
         <h2>Data controller</h2>
@@ -67,11 +69,13 @@
           <a href="mailto:support@qrodesk.com">support@qrodesk.com</a>.
         </p>
 
-        <h2>Account required</h2>
+        <h2>Account (optional)</h2>
         <p>
-          You must create an account to use PullUpMaster, so that your
-          programs and workout log can be saved to our backend and restored
-          on any device you sign in on. You can create an account with:
+          You can use PullUpMaster — including buying a subscription — without
+          an account; your training data then stays on your device. If you
+          create an account, your programs and workout log are saved to our
+          backend and restored on any device you sign in on. You can create an
+          account with:
         </p>
         <ul>
           <li><strong>Email & password</strong> — handled by Supabase Auth.</li>
@@ -100,7 +104,7 @@
             </tr>
             <tr>
               <td>Training data</td>
-              <td>Selected program, workout sessions, sets, reps, tempo, added weight, streaks, personal records, reminder settings.</td>
+              <td>Current pull-up ability, goal, training place, equipment, training days per week, pain indicator, selected program, workout sessions, sets, reps, streaks, personal records, reminder settings. Stored on your device, and on our backend only if you have an account. The pain indicator and your rep numbers are never sent to analytics.</td>
             </tr>
             <tr>
               <td>Optional profile data</td>
@@ -109,6 +113,10 @@
             <tr>
               <td>Subscription status</td>
               <td>Entitlement flag, product ID, and expiration date used to unlock Pro features. Payment card details are never seen by us — billing is handled entirely by Apple or Google.</td>
+            </tr>
+            <tr>
+              <td>Product usage (analytics)</td>
+              <td>Onboarding, workout, paywall, checkout, and share events, linked to your account ID once you sign in. You can turn this off in the app under Settings → Privacy. See <a href="#analytics">Product analytics (PostHog)</a>.</td>
             </tr>
             <tr>
               <td>Technical data</td>
@@ -121,7 +129,14 @@
         <ul>
           <li>No camera or microphone access — reps are logged manually, not detected automatically.</li>
           <li>No precise location data.</li>
-          <li>No access to your contacts, photos, or health app data.</li>
+          <li>No access to your contacts or photos.</li>
+          <li>
+            Apple Health: if you train with the Apple Watch app and grant
+            permission, the watch records the workout (including heart rate and
+            active energy) in Apple Health. These health readings stay on your
+            iPhone and Apple Watch — they are not sent to our backend or to any
+            analytics provider.
+          </li>
           <li>No advertising trackers or third-party ad SDKs.</li>
           <li>No public profile, social feed, or leaderboard — your training data is private to your account.</li>
         </ul>
@@ -140,6 +155,8 @@
         <h2>Other service providers</h2>
         <ul>
           <li><strong>Supabase</strong> — database, authentication, and data storage.</li>
+          <li><strong>RevenueCat</strong> — subscription validation, entitlement management, restore purchases, and subscription reporting. RevenueCat receives a random app user ID (or your account ID once you sign in) and your purchase and subscription status.</li>
+          <li><strong>PostHog</strong> (PostHog Cloud EU) — product analytics, described below.</li>
           <li><strong>Apple</strong> — Sign in with Apple, and App Store subscription billing on iOS.</li>
           <li><strong>Google</strong> — Google Sign-In, and Google Play subscription billing on Android.</li>
         </ul>
@@ -149,11 +166,75 @@
           or Google Play). We do not sell your personal data to anyone.
         </p>
 
+        <h2 id="analytics">Product analytics (PostHog)</h2>
+        <p>
+          We use PostHog, hosted in the European Union
+          (<code>eu.i.posthog.com</code>), to understand how people move
+          through the app — for example how many people finish onboarding,
+          start and finish a workout, or open the subscription screen — so we
+          can fix drop-off points and improve the app. We do not use it for
+          advertising, and session recording (screen replay) is turned off.
+        </p>
+        <p>What the app sends to PostHog:</p>
+        <ul>
+          <li>
+            <strong>App lifecycle events</strong> — app installed, opened, and
+            updated.
+          </li>
+          <li>
+            <strong>Onboarding</strong> — which onboarding step was shown, and
+            on completion your goal type and training days per week. Your
+            starting reps and your answer to the pain question are not sent.
+          </li>
+          <li>
+            <strong>Workouts</strong> — workout started/ended, session number,
+            program week, whether it was a test day, how far you got, and
+            whether the free session was completed.
+          </li>
+          <li>
+            <strong>Subscription screen and checkout</strong> — which screen
+            was shown and why, the estimated weeks to your goal and your level
+            shown on it, the offer, price, and currency displayed, how checkout
+            ended (purchased, restored, cancelled), and restore results.
+            RevenueCat may also forward subscription events (such as trial
+            start, renewal, or cancellation) to PostHog.
+          </li>
+          <li>
+            <strong>Sharing</strong> — that an achievement card was opened in
+            the share sheet (not the image itself).
+          </li>
+          <li>
+            <strong>Identifiers and device information</strong> — a random
+            identifier created on your device and, after you sign in, your
+            PullUpMaster account ID (the same ID used with Supabase and
+            RevenueCat), plus standard technical data the PostHog SDK
+            attaches, such as app version, device model, operating system,
+            and locale. PostHog also receives the IP address of each request.
+          </li>
+        </ul>
+        <p>
+          Events recorded before you sign in are linked to your account once
+          you sign in. When you sign out, the app resets the analytics
+          identity on that device so later activity is not added to your
+          account. We do not send your email address, name, pain answers, or
+          Apple Health readings to PostHog, and PostHog data is not used to
+          track you across other companies' apps or websites.
+        </p>
+        <p>
+          <strong>Your choice:</strong> analytics can be turned off at any time
+          in the app under <strong>Settings → Privacy → Share anonymous usage
+          analytics</strong>. While it is off, the app sends no events to
+          PostHog; you can turn it back on the same way. To have analytics
+          data already linked to your account ID deleted, email
+          <a href="mailto:support@qrodesk.com">support@qrodesk.com</a>.
+        </p>
+
         <h2>Why we process your data</h2>
         <ul>
           <li>To create and secure your account, and let you sign in across devices.</li>
           <li>To save and sync your programs, workout history, and progress.</li>
           <li>To unlock and manage your Pro subscription.</li>
+          <li>To measure and improve onboarding, workouts, and the subscription flow (product analytics).</li>
           <li>To provide customer support when you contact us.</li>
         </ul>
 
@@ -163,16 +244,37 @@
           is active. If you delete your account, we delete your personal
           data and workout history from our systems within 30 days, except
           where we must retain limited records to comply with legal or tax
-          obligations.
+          obligations. Analytics events in PostHog are kept for as long as
+          they are useful for improving the app and are deleted on request.
         </p>
 
         <h2>Deleting your account and data</h2>
         <p>
-          You can permanently delete your account and all associated data at
-          any time from <strong>Settings → Account → Delete Account</strong>
-          inside the app. You can also request deletion by emailing
+          You can permanently delete your account at any time inside the app:
+          open <strong>Settings → Account → Delete account</strong> and
+          confirm. This deletes your PullUpMaster account and the training
+          data synced to our backend, and clears the data stored on the
+          device. You must be signed in to see this option. If you signed in
+          with Apple, the app also asks Apple to revoke PullUpMaster's Sign in
+          with Apple access as part of the deletion; if that step fails, the
+          app tells you how to remove PullUpMaster under Sign in with Apple in
+          your Apple Account settings. The account is deleted either way.
+        </p>
+        <p>
+          If you cannot use the app (for example, you no longer have it
+          installed), email
           <a href="mailto:support@qrodesk.com">support@qrodesk.com</a> from
-          your registered email address.
+          your registered email address and we will delete the account for
+          you. The in-app deletion does not automatically erase the analytics
+          events held by PostHog or the purchase records held by RevenueCat
+          and Apple; email us if you want the PostHog and RevenueCat data
+          linked to your account ID erased as well (purchase records may be
+          retained where the law requires).
+        </p>
+        <p>
+          Deleting your account does not cancel an App Store subscription.
+          Manage or cancel it in your Apple Account subscription settings.
+          Deleting the app alone does not delete your account or cloud data.
         </p>
 
         <h2>Your rights</h2>
@@ -182,7 +284,17 @@
           personal data, and to object to or restrict certain processing.
           Contact us at
           <a href="mailto:support@qrodesk.com">support@qrodesk.com</a> to
-          exercise any of these rights.
+          exercise any of these rights. You may also lodge a complaint with
+          your local data-protection authority.
+        </p>
+        <p>
+          <strong>Withdrawing consent and objecting:</strong> where we rely on
+          your permission, you can withdraw it at any time without affecting
+          processing that already took place — turn off notifications or
+          Apple Health access in iOS Settings, or sign out and delete your
+          account in the app. To stop product analytics, turn off
+          <strong>Settings → Privacy → Share anonymous usage analytics</strong>
+          in the app (see <a href="#analytics">Product analytics</a>).
         </p>
 
         <h2>Children's privacy</h2>
