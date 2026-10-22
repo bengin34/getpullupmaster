@@ -1,0 +1,579 @@
+<!doctype html>
+<html lang="tr" class="no-js">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>PullUp Master — Sana uyum sağlayan bir planla ilk barfiksin</title>
+    <meta name="description" content="Henüz tek barfiks çekemiyor musun? PullUp Master sıfırdan adaptif bir plan kurar — dead hang, negatifler, bantlı barfiks — ve 1, 10, sonra 20+ barfikse ulaşana kadar her seanstan sonra planı yeniden yazar. iPhone ve Apple Watch." />
+    <link rel="canonical" href="https://getpullupmaster.app/tr/" />
+    <link rel="alternate" hreflang="en" href="https://getpullupmaster.app/" />
+    <link rel="alternate" hreflang="de" href="https://getpullupmaster.app/de/" />
+    <link rel="alternate" hreflang="tr" href="https://getpullupmaster.app/tr/" />
+    <link rel="alternate" hreflang="es" href="https://getpullupmaster.app/es/" />
+    <link rel="alternate" hreflang="fr" href="https://getpullupmaster.app/fr/" />
+    <link rel="alternate" hreflang="x-default" href="https://getpullupmaster.app/" />
+    <meta name="theme-color" content="#0a0b0d" />
+    <meta name="apple-itunes-app" content="app-id=6799707900" />
+
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="PullUp Master" />
+    <meta property="og:locale" content="tr_TR" />
+    <meta property="og:title" content="PullUp Master — İlk barfiksinin bir tarihi var" />
+    <meta property="og:description" content="Henüz tek barfiks çekemiyor musun? PullUp Master sıfırdan adaptif bir plan kurar — dead hang, negatifler, bantlı barfiks — ve 1, 10, sonra 20+ barfikse ulaşana kadar her seanstan sonra planı yeniden yazar. iPhone ve Apple Watch." />
+    <meta property="og:url" content="https://getpullupmaster.app/tr/" />
+    <meta property="og:image" content="https://getpullupmaster.app/assets/img/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta name="twitter:card" content="summary_large_image" />
+
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/icon-32.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="preload" href="/assets/fonts/barlow-condensed-800.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/assets/fonts/manrope-var.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="stylesheet" href="/assets/css/site.css" />
+    <script>document.documentElement.classList.remove("no-js");</script>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "PullUp Master",
+  "operatingSystem": "iOS, watchOS",
+  "applicationCategory": "HealthApplication",
+  "inLanguage": "tr",
+  "description": "Henüz tek barfiks çekemiyor musun? PullUp Master sıfırdan adaptif bir plan kurar — dead hang, negatifler, bantlı barfiks — ve 1, 10, sonra 20+ barfikse ulaşana kadar her seanstan sonra planı yeniden yazar. iPhone ve Apple Watch.",
+  "url": "https://getpullupmaster.app/tr/",
+  "image": "https://getpullupmaster.app/assets/img/icon-512.png",
+  "installUrl": "https://apps.apple.com/app/id6799707900",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Qrodesk",
+    "url": "https://qrodesk.com"
+  }
+}
+    </script>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "inLanguage": "tr",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Tek bir barfiks bile çekemiyorsam başlayabilir miyim?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet — Temel blok tam olarak bunun için var. Dead hang, skapular çekiş, yavaş negatifler, Avustralya rowing ve bantlı barfiksle başlarsın; bunlar ilk barfiksin için gereken kuvveti doğrudan inşa eder."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Hangi ekipmana ihtiyacım var?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Asılabileceğin bir bar — kapı barfiks barı, park ya da spor salonu. Direnç bandı yardımlı tekrarlarda işe yarar; bandın yoksa her hareketin bir alternatifi var."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "İlk barfiksime ne kadar sürede ulaşırım?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Nereden başladığına bağlı. Başlangıç testinden sonra uygulama ilk tekrarına kaç hafta kaldığını tahmin eder ve antrenman yaptıkça bu tahmin güncellenir — haftalık özetin tarihin değişip değişmediğini söyler."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Zaten birkaç tane çekebiliyorum. Yine de bana uygun mu?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evet. Başlangıç testi seni doğru bloğa yerleştirir — İlk tekrarlar, Hacim, Gelişmiş, Ağırlıklı ya da Muscle-up yolu — böylece zaten ustalaştığın şeyi tekrarlamazsın."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Hesap gerekli mi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hayır. Hesapsız antrenman yapabilirsin, verilerin cihazında kalır. Geçmişini yedeklemek ve senkronize etmek istersen E-posta, Google veya Apple ile hesap oluşturabilirsin."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Uygulama hangi dilleri destekliyor?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Uygulama Türkçe, İngilizce, Almanca, İspanyolca ve Fransızca dahil 30'dan fazla dilde kullanılabilir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Android sürümü var mı?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PullUp Master şu anda iPhone ve Apple Watch'ta. Android sürümü üzerinde çalışıyoruz."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Bu tıbbi tavsiye mi?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Hayır. PullUp Master bir antrenman aracıdır. Kendi sınırların içinde çalış, ağrı olduğunda işaretle ve devam ederse bir uzmana başvur."
+      }
+    }
+  ]
+}
+    </script>
+  </head>
+  <body>
+    <a class="skip-link" href="#main">İçeriğe geç</a>
+
+    <header class="site-header" data-open="false">
+      <div class="wrap nav">
+        <a class="brand" href="/tr/" aria-label="PullUp Master ana sayfa">
+          <img src="/assets/img/icon-64.png" width="34" height="34" alt="" />
+          <span>PullUp Master</span>
+        </a>
+        <nav id="site-nav" class="nav-links" aria-label="Ana menü">
+          <a href="/tr/#climb">Tırmanış</a>
+          <a href="/tr/#adaptive">Nasıl uyum sağlar</a>
+          <a href="/tr/#watch">Apple Watch</a>
+          <a href="/tr/#pricing">Fiyatlar</a>
+          <a href="/tr/ilk-barfiks/">Rehber</a>
+        </nav>
+        <div class="nav-cta">
+          <details class="lang">
+            <summary aria-label="Dil">TR</summary>
+            <div class="lang-menu"><a href="/" hreflang="en" lang="en"><b>EN</b> English</a><a href="/de/" hreflang="de" lang="de"><b>DE</b> Deutsch</a><a href="/tr/" hreflang="tr" lang="tr" aria-current="true"><b>TR</b> Türkçe</a><a href="/es/" hreflang="es" lang="es"><b>ES</b> Español</a><a href="/fr/" hreflang="fr" lang="fr"><b>FR</b> Français</a></div>
+          </details>
+          <a class="btn btn-primary btn-sm" href="https://apps.apple.com/app/id6799707900" rel="noopener">İndir</a>
+          <button class="nav-toggle" aria-expanded="false" aria-controls="site-nav" aria-label="Menü"><span></span></button>
+        </div>
+      </div>
+    </header>
+
+    <main id="main">
+      <!-- HERO -->
+      <section class="hero">
+        <div class="wrap hero-grid">
+          <div class="hero-copy">
+            <p class="eyebrow reveal">Adaptif barfiks koçu</p>
+            <h1 class="display h-xl reveal" style="--d: 0.05s; --chars: 15">
+              <span class="line">İlk barfiksinin</span>
+              <span class="line">bir tarihi</span>
+              <span class="line accent">var.</span>
+            </h1>
+            <p class="lede reveal" style="--d: 0.12s">Sıfırdan başla. PullUp Master, <strong>bugün</strong> yapabildiklerine göre bir plan kurar — dead hang, negatifler, bantlı barfiks — ve bar seni yenmeyi bırakana kadar her seanstan sonra planı yeniden yazar.</p>
+            <div class="cta-row reveal" style="--d: 0.18s">
+              <a class="store-btn" href="https://apps.apple.com/app/id6799707900" rel="noopener">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M16.37 12.6c-.02-2.3 1.88-3.4 1.96-3.46-1.07-1.56-2.73-1.77-3.32-1.8-1.41-.14-2.76.83-3.47.83-.72 0-1.82-.81-2.99-.79-1.54.02-2.96.9-3.75 2.27-1.6 2.78-.41 6.9 1.15 9.15.76 1.1 1.67 2.34 2.86 2.3 1.15-.05 1.58-.74 2.97-.74 1.38 0 1.77.74 2.98.72 1.24-.02 2.02-1.12 2.77-2.23.87-1.28 1.23-2.52 1.25-2.58-.03-.01-2.4-.92-2.41-3.66zM14.1 5.86c.63-.77 1.06-1.83.94-2.89-.91.04-2.01.61-2.66 1.37-.58.67-1.09 1.76-.96 2.79 1.02.08 2.05-.52 2.68-1.27z"/></svg>
+                <span><small>Hemen indir:</small><strong>App Store</strong></span>
+              </a>
+              <div class="cta-note">
+                <span>2 tam seans ücretsiz</span>
+                <span>Başlamak için hesap gerekmez</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="hero-visual reveal" style="--d: 0.2s">
+            <div class="phone">
+              <img
+                src="/assets/img/screen-today-780.webp"
+                srcset="/assets/img/screen-today-390.webp 390w, /assets/img/screen-today-780.webp 780w"
+                sizes="(max-width: 900px) 78vw, 340px"
+                width="780" height="1695"
+                alt="PullUp Master Bugün ekranı: dead hang, skapular çekiş, negatifler, Avustralya rowing ve bantlı barfiks içeren Temel blok seansı."
+                fetchpriority="high"
+              />
+            </div>
+            <div class="float-card float-eta" aria-hidden="true">
+              <div class="k">7 hafta</div>
+              <div class="l">ilk barfiksine kalan</div>
+            </div>
+            <div class="float-card float-feel" aria-hidden="true">
+              <div class="l" style="margin: 0">Nasıl hissettirdi?</div>
+              <div class="feel-chips"><span>Kolay</span><span class="on">İdare eder</span><span>Zor</span></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="wrap">
+          <div class="stats reveal">
+            <div class="stat"><div class="n">0 → 20<span class="accent">+</span></div><div class="t">İlk tekrarından gerçek hacme</div></div>
+            <div class="stat"><div class="n">6</div><div class="t">Antrenman bloğu, tek net yol</div></div>
+            <div class="stat"><div class="n">Her</div><div class="t">seans bir sonrakini yeniden yazar</div></div>
+            <div class="stat"><div class="n">Watch</div><div class="t">Bileğinden set set antrenman</div></div>
+          </div>
+        </div>
+      </section>
+
+      <div class="marquee" aria-hidden="true">
+        <div class="marquee-track">
+          <span>Dead hang</span><span>Skapular çekiş</span><span>Negatif barfiks</span><span>Avustralya rowing</span><span>Bantlı barfiks</span><span>EMOM barfiks</span><span>Merdiven setler</span><span>Ağırlıklı barfiks</span><span>Patlayıcı barfiks</span><span>Muscle-up hazırlığı</span>
+          <span>Dead hang</span><span>Skapular çekiş</span><span>Negatif barfiks</span><span>Avustralya rowing</span><span>Bantlı barfiks</span><span>EMOM barfiks</span><span>Merdiven setler</span><span>Ağırlıklı barfiks</span><span>Patlayıcı barfiks</span><span>Muscle-up hazırlığı</span>
+        </div>
+      </div>
+
+      <!-- THE CLIMB -->
+      <section class="section" id="climb">
+        <div class="wrap climb">
+          <div class="climb-intro">
+            <p class="eyebrow reveal">Tırmanış</p>
+            <h2 class="display h-lg reveal" style="--d: 0.05s">Basamak<br />basamak.</h2>
+            <p class="lede reveal" style="--d: 0.1s">Kısa bir başlangıç testi seni doğru basamağa yerleştirir. Sonrası her birinin tek bir görevi olan altı blok — bir sonrakini ne zaman hak ettiğine ise yeniden test karar verir.</p>
+            <div class="cta-row reveal" style="--d: 0.15s">
+              <a class="btn btn-ghost" href="/tr/ilk-barfiks/">Oku: ilk barfiksini nasıl çekersin →</a>
+            </div>
+          </div>
+
+          <ol class="ladder" reversed>
+            <li class="rung reveal">
+              <div class="rung-top"><h3>Muscle-up yolu</h3><span class="reps">Barın üstüne</span></div>
+              <p>Muscle-up için geçiş gücü ve becerisi.</p>
+              <ul class="tags"><li>Göğüs kemiğine yüksek çekiş</li><li>Bar geçiş çalışması</li><li>Yalancı kavrama ile asılma</li></ul>
+            </li>
+            <li class="rung reveal">
+              <div class="rung-top"><h3>Ağırlıklı</h3><span class="reps">Yük ekle</span></div>
+              <p>Dış yükle progresif aşırı yükleme.</p>
+              <ul class="tags"><li>Ağır ağırlıklı barfiks</li><li>Hafifletilmiş setler</li><li>Patlayıcı barfiks</li></ul>
+            </li>
+            <li class="rung reveal">
+              <div class="rung-top"><h3>Gelişmiş</h3><span class="reps">Güç ve patlayıcılık</span></div>
+              <p>Güç, patlayıcılık ve muscle-up'a ilk adımlar.</p>
+              <ul class="tags"><li>Ağırlıklı barfiks</li><li>Patlayıcı barfiks</li><li>Yüksek çekiş</li></ul>
+            </li>
+            <li class="rung reveal">
+              <div class="rung-top"><h3>Hacim</h3><span class="reps">10+ tekrara doğru</span></div>
+              <p>Çift hanelere doğru tekrar biriktirme.</p>
+              <ul class="tags"><li>Hacim ilerlemesi</li><li>EMOM (10 dk)</li><li>Merdiven 1-2-3-4</li><li>Yoğunluk AMRAP</li></ul>
+            </li>
+            <li class="rung reveal">
+              <div class="rung-top"><h3>İlk tekrarlar</h3><span class="reps">1–3 temiz tekrar</span></div>
+              <p>İlk temiz tekrarlarını gerçek hacme dönüştürme.</p>
+              <ul class="tags"><li>Barfiks kümesi</li><li>Negatif bitiriş</li><li>Çene barın üstünde tutuş</li><li>Yardımlı hacim</li></ul>
+            </li>
+            <li class="rung reveal">
+              <div class="rung-top"><h3>Temel</h3><span class="reps">Sıfırdan başla</span></div>
+              <p>İlk tekrarından önce çekiş gücü oluşturma.</p>
+              <ul class="tags"><li>Dead hang</li><li>Skapular çekiş</li><li>Negatif barfiks</li><li>Avustralya rowing</li><li>Bantlı barfiks</li></ul>
+            </li>
+          </ol>
+        </div>
+      </section>
+
+      <!-- ADAPTIVE -->
+      <section class="section" id="adaptive" style="padding-top: 0">
+        <div class="wrap adaptive">
+          <div>
+            <p class="eyebrow reveal">Seni dinleyen bir plan</p>
+            <h2 class="display h-lg reveal" style="--d: 0.05s">Puanla.<br /><span class="accent">Plan yeniden yazılsın.</span></h2>
+            <p class="lede reveal" style="--d: 0.1s">Her hareketten sonra nasıl hissettirdiğine dokunursun. Planın bir sonraki seansına karar vermek için ihtiyacı olan tek şey bu — hazır olduğunda zorlaşır, takılmadan önce geri çekilir.</p>
+            <ul class="points">
+              <li class="reveal" style="--d: 0.12s">
+                <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l6-6 4 4 8-8" /><path d="M14 7h7v7" /></svg></span>
+                <div><h3>Kaprisle değil, seriyle ilerler</h3><p>Art arda kolay geçen seanslar hacim ekler. Art arda zor geçenler hacmi azaltır.</p></div>
+              </li>
+              <li class="reveal" style="--d: 0.16s">
+                <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 9v4" /><path d="M12 17h.01" /><path d="M10.3 3.9L1.8 18a2 2 0 001.7 3h17a2 2 0 001.7-3L13.7 3.9a2 2 0 00-3.4 0z" /></svg></span>
+                <div><h3>Ağrı bir dur işaretidir</h3><p>Omuz ya da dirsek ağrısını işaretlersen o hareket daha nazik bir alternatifle değişir ve seans hafifler.</p></div>
+              </li>
+              <li class="reveal" style="--d: 0.2s">
+                <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" /></svg></span>
+                <div><h3>Testler seni yukarı taşır</h3><p>Test günleri gerçek maksimumunu ölçer ve seni doğru bloğa yerleştirir — seviye atlamak tahmin işi değil.</p></div>
+              </li>
+            </ul>
+          </div>
+
+          <div class="feedback-board reveal" style="--d: 0.1s" data-feedback>
+            <div class="fb-label">Hareket 3 / 5 · Set 4 tamam</div>
+            <div class="fb-ex">Negatif barfiks</div>
+            <div class="fb-label" style="margin-bottom: 12px">Nasıl hissettirdi?</div>
+            <div class="fb-grid" role="group" aria-label="Hareketi puanla">
+              <button class="fb-btn" type="button" data-rate="easy" data-arrow="↑" data-msg="<strong>Kolay geldi.</strong> Art arda iki kolay seans ve bu harekete daha fazla hacim eklenir." aria-pressed="false">Kolay</button>
+              <button class="fb-btn" type="button" data-rate="ok" data-arrow="=" data-msg="<strong>Tam hedefte.</strong> Plan sabit kalır ve inşa etmeye devam eder." aria-pressed="true">İdare eder</button>
+              <button class="fb-btn" type="button" data-rate="hard" data-arrow="↓" data-msg="<strong>Zor geldi.</strong> Art arda iki zor seans ve hacim bir kademe düşer." aria-pressed="false">Zor</button>
+              <button class="fb-btn" type="button" data-rate="failed" data-arrow="↺" data-msg="<strong>Hedef kaçtı.</strong> İki kez kaçarsa plan yükü azaltır — inatla zorlamak yerine yeniden inşa edersin." aria-pressed="false">Başarısız</button>
+            </div>
+            <div class="fb-pain">
+              <span>Omuz / dirsek ağrısı</span>
+              <button class="toggle" type="button" data-pain data-arrow="⇄" data-msg="<strong>Ağrı işaretlendi.</strong> Bu hareket daha nazik bir alternatifle değişir ve seans hafifler." aria-pressed="false" aria-label="Omuz veya dirsek ağrısını işaretle"></button>
+            </div>
+            <div class="fb-result" aria-live="polite">
+              <span class="arrow" data-arrow>=</span>
+              <p data-result><strong>Tam hedefte.</strong> Plan sabit kalır ve inşa etmeye devam eder.</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
+      <!-- FEATURES -->
+      <section class="section" id="features" style="padding-top: 0">
+        <div class="wrap">
+          <div class="section-head">
+            <p class="eyebrow reveal">İhtiyacın olan her şey</p>
+            <h2 class="display h-lg reveal" style="--d: 0.05s">Bar için yapıldı.<br />Başka hiçbir şey için değil.</h2>
+          </div>
+
+          <div class="bento">
+            <article class="tile hero-tile reveal">
+              <div>
+                <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19V5" /><path d="M4 19h16" /><path d="M8 15l3-4 3 2 5-6" /></svg></span>
+                <h3>Gerçekten görebildiğin ilerleme</h3>
+                <p>Maksimum barfiks, en uzun dead hang, tamamlanan negatifler, seans başına tekrar — ve bir sonraki hedefine kaç hafta kaldığına dair canlı tahmin. Pazar özetin, emeğinin tarihi öne çekip çekmediğini söyler.</p>
+              </div>
+              <div class="phone phone-sm">
+                <img src="/assets/img/screen-progress-390.webp" srcset="/assets/img/screen-progress-390.webp 390w, /assets/img/screen-progress-780.webp 780w" sizes="300px" width="390" height="847" loading="lazy" alt="Maksimum barfiks, haftalık seri, bu haftaki tekrarlar ve ilk tekrar tahmini gösteren İlerleme ekranı." />
+              </div>
+            </article>
+
+            <article class="tile reveal" style="--d: 0.05s">
+              <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polygon points="6 4 20 12 6 20 6 4" /></svg></span>
+              <h3>Demo videoları ve form ipuçları</h3>
+              <p>Her hareketin bir videosu ve bir koçluk ipucu var. Koç sekmesi, bulunduğun blokta açılır.</p>
+            </article>
+
+            <article class="tile reveal" style="--d: 0.1s">
+              <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="13" r="8" /><path d="M12 9v4l2 2" /><path d="M9 2h6" /></svg></span>
+              <h3>Dahili dinlenme sayacı</h3>
+              <p>Setler ve dinlenmeler kendiliğinden akar; sesli uyarılar sayesinde gözün ekranda olmak zorunda değil.</p>
+              <div class="ring" aria-hidden="true">
+                <svg viewBox="0 0 100 100"><circle class="track" cx="50" cy="50" r="46" fill="none" stroke-width="7" /><circle class="bar" cx="50" cy="50" r="46" fill="none" stroke-width="7" /></svg>
+                <b>90</b>
+              </div>
+            </article>
+
+            <article class="tile wide reveal" style="--d: 0.05s">
+              <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l2.4 7.4H22l-6.2 4.5 2.4 7.4L12 16.8l-6.2 4.5 2.4-7.4L2 9.4h7.6z" /></svg></span>
+              <h3>Paylaşmaya değer kilometre taşları</h3>
+              <p>2, 4, 8, 12, 24 ve 52 antrenman haftasında ödüller — önemli anlar için paylaşım kartıyla.</p>
+              <div class="milestones" aria-hidden="true">
+<span>2<small>HF</small></span><span>4<small>HF</small></span><span>8<small>HF</small></span><span>12<small>HF</small></span><span>24<small>HF</small></span><span>52<small>HF</small></span>
+              </div>
+            </article>
+
+            <article class="tile wide reveal" style="--d: 0.1s">
+              <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2c1 3 4 5 4 9a4 4 0 01-8 0c0-2 1-3 1-3s-3 1-3 5a6 6 0 0012 0c0-6-6-8-6-11z" /></svg></span>
+              <h3>Hayatın akışını affeden seriler</h3>
+              <p>Haftalık seriler ve hayatın araya girdiği hafta için seri dondurma — üstüne yeniden test ve seri koruma hatırlatıcıları, böylece hiç kopmazsın.</p>
+            </article>
+          </div>
+        </div>
+      </section>
+
+      <!-- APPLE WATCH -->
+      <section class="section watch-section" id="watch">
+        <div class="wrap">
+          <div class="section-head center">
+            <p class="eyebrow reveal">Apple Watch</p>
+            <h2 class="display h-lg reveal" style="--d: 0.05s">Telefon<br /><span class="accent">yerde kalsın.</span></h2>
+            <p class="lede reveal" style="--d: 0.1s">Bugünün tüm seansını bileğinden yönet: tekrarları Digital Crown ile gir, dokunsal halkayla dinlen, her hareketi puanla — hepsi Apple Sağlık'a kaydedilir.</p>
+          </div>
+
+          <div class="watch-row">
+            <div class="watch reveal" style="--d: 0.05s"><img src="/assets/img/watch-set.webp" width="422" height="514" loading="lazy" alt="Watch set ekranı: Digital Crown ile 5 tekrar gir ve seti tamamla." /></div>
+            <div class="watch reveal"><img src="/assets/img/watch-rest.webp" width="422" height="514" loading="lazy" alt="Bir sonraki sete 87 saniye geri sayan Watch dinlenme halkası." /></div>
+            <div class="watch reveal" style="--d: 0.1s"><img src="/assets/img/watch-feel.webp" width="422" height="514" loading="lazy" alt="Watch geri bildirim ekranı: hareketi Kolay, İdare eder, Zor veya Başarısız olarak puanla ve ağrıyı işaretle." /></div>
+          </div>
+
+          <div class="watch-feats">
+            <div class="reveal"><h3>Digital Crown ile tekrar</h3><p>Setler arasında hiçbir şeyin kilidini açmadan tekrarlarını gir.</p></div>
+            <div class="reveal" style="--d: 0.05s"><h3>Dokunsal dinlenme</h3><p>10 saniyede bir dokunuş, başlama zamanı geldiğinde bir tane daha.</p></div>
+            <div class="reveal" style="--d: 0.1s"><h3>Apple Health</h3><p>Nabız ve aktif kalori, kuvvet antrenmanı olarak kaydedilir.</p></div>
+            <div class="reveal" style="--d: 0.15s"><h3>Tek başına çalışır</h3><p>Telefon uzakta mı? Yine de antrenman yap — geri döndüğünde senkronize olur.</p></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- GALLERY -->
+      <section class="section" id="screens" style="padding-top: 0">
+        <div class="wrap gallery-head">
+          <div class="section-head" style="margin-bottom: 40px">
+            <p class="eyebrow reveal">Uygulamanın içi</p>
+            <h2 class="display h-lg reveal" style="--d: 0.05s">Sakin. Odaklı.<br />Sabah 6 için yapıldı.</h2>
+          </div>
+          <div class="gallery-nav reveal" style="margin-bottom: 48px">
+            <button type="button" data-gallery="-1" aria-label="Önceki ekranlar">←</button>
+            <button type="button" data-gallery="1" aria-label="Sonraki ekranlar">→</button>
+          </div>
+        </div>
+        <div class="gallery" data-gallery-track tabindex="0" aria-label="Uygulama ekran görüntüleri">
+          <figure class="reveal" style="--d: 0.00s">
+            <div class="phone phone-sm"><img src="/assets/img/screen-plan-390.webp" width="390" height="847" loading="lazy" alt="Planın hazır: Temel blok, ilk barfiksine 7 hafta." /></div>
+            <figcaption><b>Haftalarla planın</b><span>İlk tekrarın için gerçek bir tarih.</span></figcaption>
+          </figure>
+          <figure class="reveal" style="--d: 0.05s">
+            <div class="phone phone-sm"><img src="/assets/img/screen-today-390.webp" width="390" height="847" loading="lazy" alt="Günün seansını gösteren Bugün ekranı." /></div>
+            <figcaption><b>Bugün</b><span>Uygulamayı aç, başlat'a bas.</span></figcaption>
+          </figure>
+          <figure class="reveal" style="--d: 0.10s">
+            <div class="phone phone-sm"><img src="/assets/img/screen-workout-390.webp" width="390" height="847" loading="lazy" alt="Hareket çizimi ve set sayacıyla dead hang antrenman ekranı." /></div>
+            <figcaption><b>Rehberli setler</b><span>Video, ipucu, sayaç, zamanlayıcı.</span></figcaption>
+          </figure>
+          <figure class="reveal" style="--d: 0.15s">
+            <div class="phone phone-sm"><img src="/assets/img/screen-session-390.webp" width="390" height="847" loading="lazy" alt="Beş Temel hareketi set ve tekrarlarıyla listeleyen seans planı." /></div>
+            <figcaption><b>Seans planı</b><span>Bara asılmadan önce sırada ne olduğunu bil.</span></figcaption>
+          </figure>
+          <figure class="reveal" style="--d: 0.20s">
+            <div class="phone phone-sm"><img src="/assets/img/screen-progress-390.webp" width="390" height="847" loading="lazy" alt="İstatistikler ve hedef ilerlemesini gösteren İlerleme ekranı." /></div>
+            <figcaption><b>İlerleme</b><span>Her tekrar sayılır, her eğilim görünür.</span></figcaption>
+          </figure>
+          <figure class="reveal" style="--d: 0.25s">
+            <div class="phone phone-sm"><img src="/assets/img/screen-coach-390.webp" width="390" height="847" loading="lazy" alt="Kısa teknik okumalarıyla Koç sekmesi." /></div>
+            <figcaption><b>Koç</b><span>Formunu düzelten kısa okumalar.</span></figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <!-- PRICING -->
+      <section class="section" id="pricing" style="padding-top: 0">
+        <div class="wrap">
+          <div class="section-head center">
+            <p class="eyebrow reveal">Fiyatlar</p>
+            <h2 class="display h-lg reveal" style="--d: 0.05s">İki seans dene.<br /><span class="accent">Sonra karar ver.</span></h2>
+            <p class="lede reveal" style="--d: 0.1s">Herhangi bir şey kart sormadan önce planın kendini iki kez yeniden yazdığını izle.</p>
+          </div>
+
+          <div class="plans">
+            <article class="plan reveal">
+              <div class="name">Ücretsiz</div>
+              <div class="price">2 seans</div>
+              <p class="sub">Tam başlangıç testi, kişisel planın ve iki eksiksiz antrenman.</p>
+              <ul><li>Seviye tespiti + ilk tekrar tahmini</li><li>İki tam rehberli seans</li><li>Planın sana uyum sağladığını gör</li><li>Hesap gerekmez</li></ul>
+              <a class="btn btn-ghost" href="https://apps.apple.com/app/id6799707900" rel="noopener">Ücretsiz indir</a>
+            </article>
+
+            <article class="plan featured reveal" style="--d: 0.05s">
+              <span class="badge">3 gün ücretsiz deneme</span>
+              <div class="name">Pro · Yıllık</div>
+              <div class="price">En avantajlı</div>
+              <p class="sub">3 gün ücretsiz dene, sonra yılda bir kez ücretlendirilir.</p>
+              <ul><li>Tam program — altı bloğun tamamı</li><li>Kişiselleştirilmiş günlük antrenmanlar</li><li>İlerleme takibi ve tüm geçmiş</li><li>Antrenman hatırlatıcıları ve özetler</li><li>Apple Watch uygulaması</li></ul>
+              <a class="btn btn-primary" href="https://apps.apple.com/app/id6799707900" rel="noopener">Ücretsiz denemeyi başlat</a>
+            </article>
+
+            <article class="plan reveal" style="--d: 0.1s">
+              <div class="name">Pro · Aylık</div>
+              <div class="price">Esnek</div>
+              <p class="sub">Aynı özellikler, aylık ücretlendirme.</p>
+              <ul><li>Tam program — altı bloğun tamamı</li><li>Kişiselleştirilmiş günlük antrenmanlar</li><li>İlerleme takibi ve tüm geçmiş</li><li>Antrenman hatırlatıcıları ve özetler</li><li>Apple Watch uygulaması</li></ul>
+              <a class="btn btn-ghost" href="https://apps.apple.com/app/id6799707900" rel="noopener">Aylık başla</a>
+            </article>
+          </div>
+
+          <p class="fine">Fiyatlar App Store'da yerel para biriminde gösterilir. Abonelikler, mevcut dönemin bitiminden en az 24 saat önce kapatılmadıkça otomatik olarak yenilenir ve App Store hesap ayarlarından yönetilebilir.</p>
+        </div>
+      </section>
+
+      <!-- FAQ -->
+      <section class="section" id="faq" style="padding-top: 0">
+        <div class="wrap faq-grid">
+          <div>
+            <p class="eyebrow reveal">FAQ</p>
+            <h2 class="display h-lg reveal" style="--d: 0.05s">Asılmadan<br />önce.</h2>
+            <p class="lede reveal" style="--d: 0.1s">Başka bir sorun mu var? <a href="/support/" style="color: var(--flame)">Bize sor</a>.</p>
+          </div>
+          <div class="faq reveal">
+            <details open>
+              <summary>Tek bir barfiks bile çekemiyorsam başlayabilir miyim?</summary>
+              <p>Evet — Temel blok tam olarak bunun için var. Dead hang, skapular çekiş, yavaş negatifler, Avustralya rowing ve bantlı barfiksle başlarsın; bunlar ilk barfiksin için gereken kuvveti doğrudan inşa eder.</p>
+            </details>
+            <details>
+              <summary>Hangi ekipmana ihtiyacım var?</summary>
+              <p>Asılabileceğin bir bar — kapı barfiks barı, park ya da spor salonu. Direnç bandı yardımlı tekrarlarda işe yarar; bandın yoksa her hareketin bir alternatifi var.</p>
+            </details>
+            <details>
+              <summary>İlk barfiksime ne kadar sürede ulaşırım?</summary>
+              <p>Nereden başladığına bağlı. Başlangıç testinden sonra uygulama ilk tekrarına kaç hafta kaldığını tahmin eder ve antrenman yaptıkça bu tahmin güncellenir — haftalık özetin tarihin değişip değişmediğini söyler.</p>
+            </details>
+            <details>
+              <summary>Zaten birkaç tane çekebiliyorum. Yine de bana uygun mu?</summary>
+              <p>Evet. Başlangıç testi seni doğru bloğa yerleştirir — İlk tekrarlar, Hacim, Gelişmiş, Ağırlıklı ya da Muscle-up yolu — böylece zaten ustalaştığın şeyi tekrarlamazsın.</p>
+            </details>
+            <details>
+              <summary>Hesap gerekli mi?</summary>
+              <p>Hayır. Hesapsız antrenman yapabilirsin, verilerin cihazında kalır. Geçmişini yedeklemek ve senkronize etmek istersen E-posta, Google veya Apple ile hesap oluşturabilirsin.</p>
+            </details>
+            <details>
+              <summary>Uygulama hangi dilleri destekliyor?</summary>
+              <p>Uygulama Türkçe, İngilizce, Almanca, İspanyolca ve Fransızca dahil 30'dan fazla dilde kullanılabilir.</p>
+            </details>
+            <details>
+              <summary>Android sürümü var mı?</summary>
+              <p>PullUp Master şu anda iPhone ve Apple Watch'ta. Android sürümü üzerinde çalışıyoruz.</p>
+            </details>
+            <details>
+              <summary>Bu tıbbi tavsiye mi?</summary>
+              <p>Hayır. PullUp Master bir antrenman aracıdır. Kendi sınırların içinde çalış, ağrı olduğunda işaretle ve devam ederse bir uzmana başvur.</p>
+            </details>
+          </div>
+        </div>
+      </section>
+
+      <!-- FINAL CTA -->
+      <section class="wrap">
+        <div class="final reveal">
+          <img class="mark" src="/assets/img/icon-180.png" width="84" height="84" alt="" loading="lazy" />
+          <h2 class="display h-lg">Sıfırdan başla.<br /><span class="accent">Barın üstünde bitir.</span></h2>
+          <p class="lede" style="margin-left: auto; margin-right: auto">Planın seni bekliyor. Hazırlanması yaklaşık bir dakika sürer.</p>
+          <div class="cta-row">
+              <a class="store-btn" href="https://apps.apple.com/app/id6799707900" rel="noopener">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M16.37 12.6c-.02-2.3 1.88-3.4 1.96-3.46-1.07-1.56-2.73-1.77-3.32-1.8-1.41-.14-2.76.83-3.47.83-.72 0-1.82-.81-2.99-.79-1.54.02-2.96.9-3.75 2.27-1.6 2.78-.41 6.9 1.15 9.15.76 1.1 1.67 2.34 2.86 2.3 1.15-.05 1.58-.74 2.97-.74 1.38 0 1.77.74 2.98.72 1.24-.02 2.02-1.12 2.77-2.23.87-1.28 1.23-2.52 1.25-2.58-.03-.01-2.4-.92-2.41-3.66zM14.1 5.86c.63-.77 1.06-1.83.94-2.89-.91.04-2.01.61-2.66 1.37-.58.67-1.09 1.76-.96 2.79 1.02.08 2.05-.52 2.68-1.27z"/></svg>
+                <span><small>Hemen indir:</small><strong>App Store</strong></span>
+              </a>
+          </div>
+        </div>
+      </section>
+    </main>
+
+
+    <footer class="footer">
+      <div class="wrap">
+        <div class="footer-grid">
+          <div>
+            <a class="brand" href="/tr/"><img src="/assets/img/icon-64.png" width="34" height="34" alt="" loading="lazy" /><span>PullUp Master</span></a>
+            <p class="tag">Sıfırdan başlayan ve her seanstan sonra kendini yeniden yazan adaptif barfiks planı.</p>
+          </div>
+          <div>
+            <h4>Ürün</h4>
+            <ul>
+              <li><a href="/tr/#climb">Tırmanış</a></li>
+              <li><a href="/tr/#watch">Apple Watch</a></li>
+              <li><a href="/tr/#pricing">Fiyatlar</a></li>
+              <li><a href="https://apps.apple.com/app/id6799707900" rel="noopener">App Store</a></li>
+            </ul>
+          </div>
+          <div>
+            <h4>Öğren</h4>
+            <ul>
+              <li><a href="/tr/ilk-barfiks/">İlk barfiks rehberi</a></li>
+              <li><a href="/tr/#faq">FAQ</a></li>
+              <li><a href="/support/">Destek</a></li>
+            </ul>
+          </div>
+          <div>
+            <h4>Yasal</h4>
+            <ul>
+              <li><a href="/privacy/">Gizlilik</a></li>
+              <li><a href="/terms/">Kullanım koşulları</a></li>
+              <li><a href="/delete-account/">Hesabı sil</a></li>
+              <li><a href="https://qrodesk.com/impressum.html" rel="noopener">Impressum</a></li>
+            </ul>
+          </div>
+        </div>
+        <div class="footer-bottom">
+          <span>© <span data-year>2026</span> Qrodesk. Tüm hakları saklıdır.</span>
+          <span>Bir antrenman aracıdır, tıbbi tavsiye değildir.</span>
+        </div>
+      </div>
+    </footer>
+
+    <script src="/assets/js/site.js" defer></script>
+  </body>
+</html>

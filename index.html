@@ -1,444 +1,579 @@
 <!doctype html>
-<html lang="en">
+<html lang="en" class="no-js">
   <head>
     <meta charset="utf-8" />
-    <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>PullUpMaster | Train pull-ups. Track every rep.</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <title>PullUp Master — Your first pull-up, on a plan that adapts</title>
+    <meta name="description" content="Can&#x27;t do a pull-up yet? PullUp Master builds an adaptive plan from zero — dead hangs, negatives, band-assisted reps — and rewrites it after every session until you hit 1, 10, then 20+ pull-ups. iPhone &amp; Apple Watch." />
     <link rel="canonical" href="https://getpullupmaster.app/" />
-    <meta
-      name="description"
-      content="PullUpMaster is a structured pull-up training app: programs from your first pull-up to advanced strength, rep & set tracking, streaks, and progress synced across devices."
-    />
-    <meta name="theme-color" content="#0a0b0e" />
+    <link rel="alternate" hreflang="en" href="https://getpullupmaster.app/" />
+    <link rel="alternate" hreflang="de" href="https://getpullupmaster.app/de/" />
+    <link rel="alternate" hreflang="tr" href="https://getpullupmaster.app/tr/" />
+    <link rel="alternate" hreflang="es" href="https://getpullupmaster.app/es/" />
+    <link rel="alternate" hreflang="fr" href="https://getpullupmaster.app/fr/" />
+    <link rel="alternate" hreflang="x-default" href="https://getpullupmaster.app/" />
+    <meta name="theme-color" content="#0a0b0d" />
+    <meta name="apple-itunes-app" content="app-id=6799707900" />
 
-    <meta property="og:title" content="PullUpMaster | Train pull-ups. Track every rep." />
-    <meta
-      property="og:description"
-      content="Structured pull-up programs, rep & set tracking, streaks, and progress synced securely across your devices."
-    />
-    <meta property="og:image" content="https://getpullupmaster.app/assets/og-image.svg" />
-    <meta property="og:url" content="https://getpullupmaster.app/" />
     <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="PullUp Master" />
+    <meta property="og:locale" content="en_US" />
+    <meta property="og:title" content="PullUp Master — Your first pull-up has a date" />
+    <meta property="og:description" content="Can&#x27;t do a pull-up yet? PullUp Master builds an adaptive plan from zero — dead hangs, negatives, band-assisted reps — and rewrites it after every session until you hit 1, 10, then 20+ pull-ups. iPhone &amp; Apple Watch." />
+    <meta property="og:url" content="https://getpullupmaster.app/" />
+    <meta property="og:image" content="https://getpullupmaster.app/assets/img/og-image.png" />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
     <meta name="twitter:card" content="summary_large_image" />
 
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link
-      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap"
-      rel="stylesheet"
-    />
-    <link rel="stylesheet" href="/assets/styles.css" />
+    <link rel="icon" href="/favicon.ico" sizes="any" />
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/icon-32.png" />
+    <link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <link rel="preload" href="/assets/fonts/barlow-condensed-800.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="preload" href="/assets/fonts/manrope-var.woff2" as="font" type="font/woff2" crossorigin />
+    <link rel="stylesheet" href="/assets/css/site.css" />
+    <script>document.documentElement.classList.remove("no-js");</script>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "MobileApplication",
+  "name": "PullUp Master",
+  "operatingSystem": "iOS, watchOS",
+  "applicationCategory": "HealthApplication",
+  "inLanguage": "en",
+  "description": "Can't do a pull-up yet? PullUp Master builds an adaptive plan from zero — dead hangs, negatives, band-assisted reps — and rewrites it after every session until you hit 1, 10, then 20+ pull-ups. iPhone & Apple Watch.",
+  "url": "https://getpullupmaster.app/",
+  "image": "https://getpullupmaster.app/assets/img/icon-512.png",
+  "installUrl": "https://apps.apple.com/app/id6799707900",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "publisher": {
+    "@type": "Organization",
+    "name": "Qrodesk",
+    "url": "https://qrodesk.com"
+  }
+}
+    </script>
+    <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "inLanguage": "en",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Can I start if I can't do a single pull-up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes — that's exactly who the Foundation block is for. You start with dead hangs, scapular pulls, slow negatives, Australian rows and band-assisted reps, which build the specific strength your first pull-up needs."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What equipment do I need?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A bar you can hang from — a doorway bar, a park, or the gym. A resistance band helps for assisted reps, and every exercise has an alternative if you don't have one."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How long until my first pull-up?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "It depends on where you start. After onboarding the app estimates how many weeks your first rep is away, and the estimate updates as you train — your weekly recap tells you whether it moved."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "I can already do a few. Is it still for me?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Onboarding places you on the right block — First reps, Volume, Advanced, Weighted or the Muscle-up path — so you never repeat what you've already mastered."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Do I need an account?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. You can train without an account and your data stays on your device. Create one with Email, Google or Apple only if you want your history backed up and synced."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which languages does the app support?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The app is available in more than 30 languages, including English, German, Turkish, Spanish and French."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is there an Android version?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "PullUp Master is available on iPhone and Apple Watch today. Android is in the works."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is this medical advice?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "No. PullUp Master is a training tool. Train within your ability, flag pain when it shows up, and see a professional if it persists."
+      }
+    }
+  ]
+}
+    </script>
   </head>
   <body>
     <a class="skip-link" href="#main">Skip to content</a>
 
     <header class="site-header" data-open="false">
-      <div class="container nav">
-        <a class="brand" href="/">
-          <span class="brand-mark" aria-hidden="true">PUM</span>
-          <span>PullUpMaster</span>
+      <div class="wrap nav">
+        <a class="brand" href="/" aria-label="PullUp Master home">
+          <img src="/assets/img/icon-64.png" width="34" height="34" alt="" />
+          <span>PullUp Master</span>
         </a>
-        <button class="nav-toggle" aria-expanded="false" aria-controls="site-nav">
-          Menu
-        </button>
         <nav id="site-nav" class="nav-links" aria-label="Primary">
-          <a href="#features">Features</a>
-          <a href="#programs">Programs</a>
-          <a href="#pricing">Pricing</a>
-          <a href="#faq">FAQ</a>
-          <a href="/support/">Support</a>
-          <a href="/privacy/">Privacy</a>
-          <a href="/terms/">Terms</a>
+          <a href="/#climb">The climb</a>
+          <a href="/#adaptive">How it adapts</a>
+          <a href="/#watch">Apple Watch</a>
+          <a href="/#pricing">Pricing</a>
+          <a href="/first-pull-up/">Guide</a>
         </nav>
+        <div class="nav-cta">
+          <details class="lang">
+            <summary aria-label="Language">EN</summary>
+            <div class="lang-menu"><a href="/" hreflang="en" lang="en" aria-current="true"><b>EN</b> English</a><a href="/de/" hreflang="de" lang="de"><b>DE</b> Deutsch</a><a href="/tr/" hreflang="tr" lang="tr"><b>TR</b> Türkçe</a><a href="/es/" hreflang="es" lang="es"><b>ES</b> Español</a><a href="/fr/" hreflang="fr" lang="fr"><b>FR</b> Français</a></div>
+          </details>
+          <a class="btn btn-primary btn-sm" href="https://apps.apple.com/app/id6799707900" rel="noopener">Download</a>
+          <button class="nav-toggle" aria-expanded="false" aria-controls="site-nav" aria-label="Menu"><span></span></button>
+        </div>
       </div>
     </header>
 
     <main id="main">
+      <!-- HERO -->
       <section class="hero">
-        <div class="container hero-grid">
+        <div class="wrap hero-grid">
+          <div class="hero-copy">
+            <p class="eyebrow reveal">Adaptive pull-up coach</p>
+            <h1 class="display h-xl reveal" style="--d: 0.05s; --chars: 11">
+              <span class="line">Your first</span>
+              <span class="line">pull-up</span>
+              <span class="line accent">has a date.</span>
+            </h1>
+            <p class="lede reveal" style="--d: 0.12s">Start at zero. PullUp Master builds a plan around what you can do <strong>today</strong> — dead hangs, negatives, band-assisted reps — and rewrites it after every session until the bar stops winning.</p>
+            <div class="cta-row reveal" style="--d: 0.18s">
+              <a class="store-btn" href="https://apps.apple.com/app/id6799707900" rel="noopener">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M16.37 12.6c-.02-2.3 1.88-3.4 1.96-3.46-1.07-1.56-2.73-1.77-3.32-1.8-1.41-.14-2.76.83-3.47.83-.72 0-1.82-.81-2.99-.79-1.54.02-2.96.9-3.75 2.27-1.6 2.78-.41 6.9 1.15 9.15.76 1.1 1.67 2.34 2.86 2.3 1.15-.05 1.58-.74 2.97-.74 1.38 0 1.77.74 2.98.72 1.24-.02 2.02-1.12 2.77-2.23.87-1.28 1.23-2.52 1.25-2.58-.03-.01-2.4-.92-2.41-3.66zM14.1 5.86c.63-.77 1.06-1.83.94-2.89-.91.04-2.01.61-2.66 1.37-.58.67-1.09 1.76-.96 2.79 1.02.08 2.05-.52 2.68-1.27z"/></svg>
+                <span><small>Download on the</small><strong>App Store</strong></span>
+              </a>
+              <div class="cta-note">
+                <span>2 full sessions free</span>
+                <span>No account needed to start</span>
+              </div>
+            </div>
+          </div>
+
+          <div class="hero-visual reveal" style="--d: 0.2s">
+            <div class="phone">
+              <img
+                src="/assets/img/screen-today-780.webp"
+                srcset="/assets/img/screen-today-390.webp 390w, /assets/img/screen-today-780.webp 780w"
+                sizes="(max-width: 900px) 78vw, 340px"
+                width="780" height="1695"
+                alt="PullUp Master Today screen: the Foundation block session with dead hangs, scapular pulls, negatives, Australian rows and band-assisted pull-ups."
+                fetchpriority="high"
+              />
+            </div>
+            <div class="float-card float-eta" aria-hidden="true">
+              <div class="k">7 wks</div>
+              <div class="l">to your first pull-up</div>
+            </div>
+            <div class="float-card float-feel" aria-hidden="true">
+              <div class="l" style="margin: 0">How did it feel?</div>
+              <div class="feel-chips"><span>Easy</span><span class="on">OK</span><span>Hard</span></div>
+            </div>
+          </div>
+        </div>
+
+        <div class="wrap">
+          <div class="stats reveal">
+            <div class="stat"><div class="n">0 → 20<span class="accent">+</span></div><div class="t">From your first rep to real volume</div></div>
+            <div class="stat"><div class="n">6</div><div class="t">Training blocks, one clear path</div></div>
+            <div class="stat"><div class="n">Every</div><div class="t">session rewrites the next one</div></div>
+            <div class="stat"><div class="n">Watch</div><div class="t">Train set-by-set from your wrist</div></div>
+          </div>
+        </div>
+      </section>
+
+      <div class="marquee" aria-hidden="true">
+        <div class="marquee-track">
+          <span>Dead hang</span><span>Scapular pull</span><span>Negative pull-up</span><span>Australian row</span><span>Band-assisted pull-up</span><span>EMOM pull-ups</span><span>Ladder sets</span><span>Weighted pull-up</span><span>Explosive pull-up</span><span>Muscle-up prep</span>
+          <span>Dead hang</span><span>Scapular pull</span><span>Negative pull-up</span><span>Australian row</span><span>Band-assisted pull-up</span><span>EMOM pull-ups</span><span>Ladder sets</span><span>Weighted pull-up</span><span>Explosive pull-up</span><span>Muscle-up prep</span>
+        </div>
+      </div>
+
+      <!-- THE CLIMB -->
+      <section class="section" id="climb">
+        <div class="wrap climb">
+          <div class="climb-intro">
+            <p class="eyebrow reveal">The climb</p>
+            <h2 class="display h-lg reveal" style="--d: 0.05s">One rung<br />at a time.</h2>
+            <p class="lede reveal" style="--d: 0.1s">A short onboarding places you on the right rung. From there it's six blocks, each with a single job — and a retest decides when you've earned the next one.</p>
+            <div class="cta-row reveal" style="--d: 0.15s">
+              <a class="btn btn-ghost" href="/first-pull-up/">Read: how to get your first pull-up →</a>
+            </div>
+          </div>
+
+          <ol class="ladder" reversed>
+            <li class="rung reveal">
+              <div class="rung-top"><h3>Muscle-up path</h3><span class="reps">Over the bar</span></div>
+              <p>Transition strength and skill for the muscle-up.</p>
+              <ul class="tags"><li>High pull to sternum</li><li>Bar transition drill</li><li>False-grip hang</li></ul>
+            </li>
+            <li class="rung reveal">
+              <div class="rung-top"><h3>Weighted</h3><span class="reps">Add load</span></div>
+              <p>Progressive overload with external weight.</p>
+              <ul class="tags"><li>Heavy weighted pull-up</li><li>Back-off sets</li><li>Explosive pull-up</li></ul>
+            </li>
+            <li class="rung reveal">
+              <div class="rung-top"><h3>Advanced</h3><span class="reps">Strength &amp; power</span></div>
+              <p>Strength, power, and the first steps toward the muscle-up.</p>
+              <ul class="tags"><li>Weighted pull-up</li><li>Explosive pull-up</li><li>High pull</li></ul>
+            </li>
+            <li class="rung reveal">
+              <div class="rung-top"><h3>Volume</h3><span class="reps">Toward 10+ reps</span></div>
+              <p>Stacking reps toward double digits.</p>
+              <ul class="tags"><li>Volume progression</li><li>EMOM (10 min)</li><li>Ladder 1-2-3-4</li><li>Density AMRAP</li></ul>
+            </li>
+            <li class="rung reveal">
+              <div class="rung-top"><h3>First reps</h3><span class="reps">1–3 clean reps</span></div>
+              <p>Turning your first clean reps into real volume.</p>
+              <ul class="tags"><li>Pull-up clusters</li><li>Negative finisher</li><li>Chin-over-bar hold</li><li>Assisted volume</li></ul>
+            </li>
+            <li class="rung reveal">
+              <div class="rung-top"><h3>Foundation</h3><span class="reps">Start at zero</span></div>
+              <p>Building the pull before your first rep.</p>
+              <ul class="tags"><li>Dead hang</li><li>Scapular pull</li><li>Negative pull-up</li><li>Australian row</li><li>Band-assisted pull-up</li></ul>
+            </li>
+          </ol>
+        </div>
+      </section>
+
+      <!-- ADAPTIVE -->
+      <section class="section" id="adaptive" style="padding-top: 0">
+        <div class="wrap adaptive">
           <div>
-            <div class="eyebrow reveal" style="--delay: 0s">Pull-up training, tracked</div>
-            <h1 class="reveal" style="--delay: 0.04s">Train pull-ups. Track every rep.</h1>
-            <p class="reveal" style="--delay: 0.08s">
-              PullUpMaster turns bodyweight pulling into a structured program:
-              log every set and rep, follow a plan built for your level, and
-              watch your strength curve climb — synced securely across your
-              devices.
-            </p>
-            <ul class="benefits reveal" style="--delay: 0.12s">
-              <li>Programs from your first pull-up to advanced strength.</li>
-              <li>Fast rep & set logging with a built-in workout timer.</li>
-              <li>Streaks, reminders, and progress charts that keep you honest.</li>
-              <li>Free to start. Pro unlocks every program and full history.</li>
+            <p class="eyebrow reveal">A plan that listens</p>
+            <h2 class="display h-lg reveal" style="--d: 0.05s">Rate it.<br /><span class="accent">It rewrites.</span></h2>
+            <p class="lede reveal" style="--d: 0.1s">After each exercise you tap how it felt. That's all the plan needs to decide your next session — so it gets harder exactly when you're ready, and backs off before you stall.</p>
+            <ul class="points">
+              <li class="reveal" style="--d: 0.12s">
+                <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 17l6-6 4 4 8-8" /><path d="M14 7h7v7" /></svg></span>
+                <div><h3>Progresses on a streak, not a whim</h3><p>Back-to-back easy sessions add volume. Back-to-back hard ones take it away.</p></div>
+              </li>
+              <li class="reveal" style="--d: 0.16s">
+                <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 9v4" /><path d="M12 17h.01" /><path d="M10.3 3.9L1.8 18a2 2 0 001.7 3h17a2 2 0 001.7-3L13.7 3.9a2 2 0 00-3.4 0z" /></svg></span>
+                <div><h3>Pain is a stop sign</h3><p>Flag shoulder or elbow pain and that movement is swapped for a friendlier one while the session lightens.</p></div>
+              </li>
+              <li class="reveal" style="--d: 0.2s">
+                <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="9" /><path d="M12 7v5l3 2" /></svg></span>
+                <div><h3>Retests move you up</h3><p>Test days measure your true max and place you on the right block — no guessing when to level up.</p></div>
+              </li>
             </ul>
-            <div class="hero-actions reveal" style="--delay: 0.16s">
-              <a class="btn btn-primary" href="https://apps.apple.com/app/id6799707900" rel="noopener noreferrer">
-                Download on the App Store
-              </a>
-              <a class="btn btn-secondary" href="#" rel="noopener noreferrer">
-                Get it on Google Play
-              </a>
+          </div>
+
+          <div class="feedback-board reveal" style="--d: 0.1s" data-feedback>
+            <div class="fb-label">Exercise 3 / 5 · Set 4 done</div>
+            <div class="fb-ex">Negative pull-up</div>
+            <div class="fb-label" style="margin-bottom: 12px">How did it feel?</div>
+            <div class="fb-grid" role="group" aria-label="Rate the exercise">
+              <button class="fb-btn" type="button" data-rate="easy" data-arrow="↑" data-msg="<strong>Felt easy.</strong> Two easy sessions in a row and this movement gets more volume." aria-pressed="false">Easy</button>
+              <button class="fb-btn" type="button" data-rate="ok" data-arrow="=" data-msg="<strong>Right on target.</strong> The plan holds steady and keeps building." aria-pressed="true">OK</button>
+              <button class="fb-btn" type="button" data-rate="hard" data-arrow="↓" data-msg="<strong>Felt hard.</strong> Two hard sessions in a row and the volume comes down a notch." aria-pressed="false">Hard</button>
+              <button class="fb-btn" type="button" data-rate="failed" data-arrow="↺" data-msg="<strong>Missed the target.</strong> Miss it twice and the plan deloads, so you rebuild instead of grinding." aria-pressed="false">Failed</button>
             </div>
-          </div>
-          <aside class="hero-card reveal" style="--delay: 0.2s" aria-label="App positioning">
-            <h2>Built for real progress</h2>
-            <ul>
-              <li>Log sets, reps, tempo, and added weight in seconds.</li>
-              <li>Follow structured programs, not guesswork.</li>
-              <li>See your max reps and volume trend over weeks.</li>
-              <li>Sign in with Email, Google, or Apple — your data follows you.</li>
-            </ul>
-            <p class="disclaimer">
-              <strong>PullUpMaster is a training tool, not medical advice. Train within your ability and stop if something hurts.</strong>
-            </p>
-          </aside>
-        </div>
-      </section>
-
-      <section class="section" id="problem">
-        <div class="container">
-          <h2 class="reveal" style="--delay: 0s">From random reps to a real plan</h2>
-          <p class="reveal" style="--delay: 0.04s">
-            Most people either avoid the pull-up bar or grind on it without a
-            plan. PullUpMaster gives you a program and a log, so every session
-            builds on the last one.
-          </p>
-          <div class="problem-solution">
-            <article class="split-card reveal" style="--delay: 0.08s">
-              <div class="split-tag">Problem</div>
-              <h3>No structure, no visible progress.</h3>
-              <p>
-                Without tracking, it's hard to tell if you're actually getting
-                stronger — or just tired.
-              </p>
-            </article>
-            <article class="split-card reveal" style="--delay: 0.12s">
-              <div class="split-tag">Solution</div>
-              <h3>A program, a logbook, and a progress line that goes up.</h3>
-              <p>
-                Pick a program for your level, log each session in seconds, and
-                let PullUpMaster show you the trend.
-              </p>
-            </article>
-          </div>
-          <div class="callout reveal" style="--delay: 0.16s">
-            <h3>Synced, not siloed</h3>
-            <p>
-              Your training history is backed up to your account, so switching
-              phones or reinstalling never means starting over.
-            </p>
-          </div>
-        </div>
-      </section>
-
-      <section class="section" id="features">
-        <div class="container">
-          <h2 class="reveal" style="--delay: 0s">Core features</h2>
-          <p class="reveal" style="--delay: 0.04s">
-            Everything you need to train pull-ups with intent.
-          </p>
-          <div class="feature-grid">
-            <article class="feature-card reveal" style="--delay: 0.08s">
-              <div class="feature-icon" aria-hidden="true">LOG</div>
-              <h3>Rep & set logger</h3>
-              <ul>
-                <li>Log sets, reps, tempo, and added weight fast.</li>
-                <li>Built-in rest timer between sets.</li>
-                <li>Full workout history, searchable by date or program.</li>
-              </ul>
-            </article>
-            <article class="feature-card reveal" style="--delay: 0.12s">
-              <div class="feature-icon" aria-hidden="true">PGM</div>
-              <h3>Structured programs</h3>
-              <ul>
-                <li>Beginner: negatives and assisted reps to your first pull-up.</li>
-                <li>Intermediate: volume programs to add clean reps.</li>
-                <li>Advanced: weighted and strict-strength cycles.</li>
-              </ul>
-            </article>
-            <article class="feature-card reveal" style="--delay: 0.16s">
-              <div class="feature-icon" aria-hidden="true">STK</div>
-              <h3>Streaks & reminders</h3>
-              <ul>
-                <li>Daily streak tracking to build the habit.</li>
-                <li>Optional workout reminders.</li>
-                <li>Rest-day aware, no guilt trips.</li>
-              </ul>
-            </article>
-            <article class="feature-card reveal" style="--delay: 0.2s">
-              <div class="feature-icon" aria-hidden="true">CHT</div>
-              <h3>Progress charts</h3>
-              <ul>
-                <li>Max reps, total volume, and consistency over time.</li>
-                <li>Personal records, automatically detected.</li>
-                <li>Weekly and monthly summaries.</li>
-              </ul>
-            </article>
-            <article class="feature-card reveal" style="--delay: 0.24s">
-              <div class="feature-icon" aria-hidden="true">SYC</div>
-              <h3>Cloud sync</h3>
-              <ul>
-                <li>Account-backed storage, so your log survives a new phone.</li>
-                <li>Same history whether you train on iOS or Android.</li>
-                <li>Encrypted in transit between the app and your account.</li>
-              </ul>
-            </article>
-            <article class="feature-card reveal" style="--delay: 0.28s">
-              <div class="feature-icon" aria-hidden="true">AUTH</div>
-              <h3>Sign in your way</h3>
-              <ul>
-                <li>Email & password, Google, or Sign in with Apple.</li>
-                <li>One account, all your devices.</li>
-                <li>Delete your account and data anytime.</li>
-              </ul>
-            </article>
-          </div>
-        </div>
-      </section>
-
-      <section class="section" id="programs">
-        <div class="container">
-          <h2 class="reveal" style="--delay: 0s">Programs for every level</h2>
-          <div class="problem-solution">
-            <article class="split-card reveal" style="--delay: 0.06s">
-              <div class="split-tag">Can do</div>
-              <ul>
-                <li>Guided programs from zero to your first strict pull-up.</li>
-                <li>Volume and strength cycles once you can already do reps.</li>
-                <li>Manual logging of sets, reps, tempo, and added weight.</li>
-                <li>Cloud-synced history across every signed-in device.</li>
-                <li>Local reminders for your training days.</li>
-              </ul>
-            </article>
-            <article class="split-card reveal" style="--delay: 0.1s">
-              <div class="split-tag">Not included</div>
-              <ul>
-                <li>No camera-based automatic rep counting.</li>
-                <li>No wearable or heart-rate integrations at launch.</li>
-                <li>No social feed, public profiles, or leaderboards.</li>
-                <li>No medical, physiotherapy, or injury diagnosis advice.</li>
-              </ul>
-            </article>
-          </div>
-        </div>
-      </section>
-
-      <section class="section" id="shots">
-        <div class="container">
-          <h2 class="reveal" style="--delay: 0s">Product screenshot placeholders</h2>
-          <div class="capture-grid">
-            <div class="shot reveal" style="--delay: 0.08s">Screenshot 1<br />Today's Workout</div>
-            <div class="shot reveal" style="--delay: 0.12s">Screenshot 2<br />Program Overview</div>
-            <div class="shot reveal" style="--delay: 0.16s">Screenshot 3<br />Progress Chart</div>
-          </div>
-        </div>
-      </section>
-
-      <section class="section" id="workflow">
-        <div class="container">
-          <h2 class="reveal" style="--delay: 0s">A typical session</h2>
-          <pre class="workflow reveal" style="--delay: 0.08s"><strong>07:15</strong> Open today's workout
-- Program: Volume Builder, Week 3, Day 2
-- Target: 5 sets, AMRAP last set
-
-<strong>07:18</strong> Log set 1: 8 reps
-- Rest timer: 90s
-- Log set 2: 7 reps ... set 5 (AMRAP): 9 reps — new PR
-
-<strong>07:31</strong> Session complete
-- Streak: 12 days
-- Synced to your account automatically</pre>
-
-          <div class="steps">
-            <article class="step reveal" style="--delay: 0.12s">
-              <span>Step 01</span>
-              <h3>Pick a program</h3>
-              <p>Choose the plan that matches your current level.</p>
-            </article>
-            <article class="step reveal" style="--delay: 0.16s">
-              <span>Step 02</span>
-              <h3>Log each set</h3>
-              <p>Tap in reps as you go, with a rest timer between sets.</p>
-            </article>
-            <article class="step reveal" style="--delay: 0.2s">
-              <span>Step 03</span>
-              <h3>Watch the trend</h3>
-              <p>Check your progress chart and personal records after each session.</p>
-            </article>
-          </div>
-        </div>
-      </section>
-
-      <section class="section" id="auth">
-        <div class="container">
-          <h2 class="reveal" style="--delay: 0s">One account, every device</h2>
-          <p class="reveal" style="--delay: 0.04s">
-            Create an account to keep your training history safe and synced —
-            sign in however you prefer.
-          </p>
-          <div class="auth-grid">
-            <div class="auth-card reveal" style="--delay: 0.08s">
-              <div class="feature-icon" aria-hidden="true">@</div>
-              <h3>Email & password</h3>
-              <p>Classic sign-up, secured by our backend provider.</p>
+            <div class="fb-pain">
+              <span>Shoulder / elbow pain</span>
+              <button class="toggle" type="button" data-pain data-arrow="⇄" data-msg="<strong>Pain flagged.</strong> This movement is swapped for a friendlier alternative and the session gets lighter." aria-pressed="false" aria-label="Flag shoulder or elbow pain"></button>
             </div>
-            <div class="auth-card reveal" style="--delay: 0.12s">
-              <div class="feature-icon" aria-hidden="true">G</div>
-              <h3>Sign in with Google</h3>
-              <p>One tap using your existing Google account.</p>
-            </div>
-            <div class="auth-card reveal" style="--delay: 0.16s">
-              <div class="feature-icon" aria-hidden="true">A</div>
-              <h3>Sign in with Apple</h3>
-              <p>Fast, private sign-in with optional email hiding.</p>
+            <div class="fb-result" aria-live="polite">
+              <span class="arrow" data-arrow>=</span>
+              <p data-result><strong>Right on target.</strong> The plan holds steady and keeps building.</p>
             </div>
           </div>
         </div>
       </section>
 
-      <section class="section" id="pricing">
-        <div class="container">
-          <h2 class="reveal" style="--delay: 0s">Pricing</h2>
-          <p class="reveal" style="--delay: 0.04s">
-            Start free. Upgrade to Pro for every program and full history.
-          </p>
-          <div class="pricing-grid">
-            <article class="plan-card reveal" style="--delay: 0.06s">
-              <span class="plan-label">Free</span>
-              <h3>Starter</h3>
-              <p class="price">$0</p>
-              <ul>
-                <li>One beginner program</li>
-                <li>Rep & set logging</li>
-                <li>Basic streak tracking</li>
-                <li>Cloud sync on your account</li>
-              </ul>
-              <a class="btn btn-secondary" href="https://apps.apple.com/app/id6799707900" rel="noopener noreferrer">
-                Download the app
-              </a>
-            </article>
-            <article class="plan-card pro reveal" style="--delay: 0.1s">
-              <span class="plan-badge">Most popular</span>
-              <span class="plan-label">Monthly</span>
-              <h3>PullUpMaster Pro</h3>
-              <p class="price">$4.99 <small>/ month</small></p>
-              <ul>
-                <li>All programs, every level</li>
-                <li>Full progress history & charts</li>
-                <li>Personal record tracking</li>
-                <li>Priority support</li>
-                <li>Restore purchases on iOS & Android</li>
-              </ul>
-              <a class="btn btn-primary" href="https://apps.apple.com/app/id6799707900" rel="noopener noreferrer">
-                Start Pro monthly
-              </a>
-            </article>
-            <article class="plan-card pro reveal" style="--delay: 0.14s">
-              <span class="plan-badge">Best value</span>
-              <span class="plan-label">Yearly</span>
-              <h3>PullUpMaster Pro</h3>
-              <p class="price">$29.99 <small>/ year</small></p>
-              <ul>
-                <li>Everything in Pro Monthly</li>
-                <li>Save vs. paying monthly</li>
-                <li>Same account, all devices</li>
-                <li>Cancel anytime from your store account</li>
-              </ul>
-              <a class="btn btn-primary" href="https://apps.apple.com/app/id6799707900" rel="noopener noreferrer">
-                Start Pro yearly
-              </a>
-            </article>
+      <!-- FEATURES -->
+      <section class="section" id="features" style="padding-top: 0">
+        <div class="wrap">
+          <div class="section-head">
+            <p class="eyebrow reveal">Everything in the bag</p>
+            <h2 class="display h-lg reveal" style="--d: 0.05s">Built for the bar.<br />Nothing else.</h2>
           </div>
-          <p class="fine-print">
-            Subscriptions are billed by the App Store or Google Play depending
-            on where you subscribe, auto-renew unless cancelled, and can be
-            managed from your Apple ID or Google account settings.
-          </p>
-        </div>
-      </section>
 
-      <section class="section" id="faq">
-        <div class="container">
-          <h2 class="reveal" style="--delay: 0s">FAQ</h2>
-          <div class="faq">
-            <details class="reveal" style="--delay: 0.04s">
-              <summary>Do I need an account to use PullUpMaster?</summary>
-              <p>
-                Yes. An account (Email, Google, or Apple) is required so your
-                workout log and program progress can be securely saved and
-                synced to your devices.
-              </p>
-            </details>
-            <details class="reveal" style="--delay: 0.08s">
-              <summary>Does PullUpMaster count reps automatically?</summary>
-              <p>
-                No. You log your reps and sets manually after each set — there
-                is no camera or motion-based automatic counting.
-              </p>
-            </details>
-            <details class="reveal" style="--delay: 0.12s">
-              <summary>What happens to my data if I switch phones?</summary>
-              <p>
-                Sign in with the same account on your new device and your full
-                program progress and workout history sync automatically.
-              </p>
-            </details>
-            <details class="reveal" style="--delay: 0.16s">
-              <summary>Can I delete my account and data?</summary>
-              <p>
-                Yes. You can delete your account and all associated data from
-                inside the app, or by contacting
-                <a href="mailto:support@qrodesk.com">support@qrodesk.com</a>.
-              </p>
-            </details>
-            <details class="reveal" style="--delay: 0.2s">
-              <summary>How much does PullUpMaster Pro cost?</summary>
-              <p>
-                Pro is available as a <strong>$4.99 monthly</strong> or
-                <strong>$29.99 yearly</strong> subscription, billed through the
-                App Store or Google Play. Restore purchases is available in-app.
-              </p>
-            </details>
+          <div class="bento">
+            <article class="tile hero-tile reveal">
+              <div>
+                <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 19V5" /><path d="M4 19h16" /><path d="M8 15l3-4 3 2 5-6" /></svg></span>
+                <h3>Progress you can actually see</h3>
+                <p>Max pull-ups, best dead hang, negatives done, reps per session — and a live estimate of how many weeks your next goal is away. Your Sunday recap tells you whether the work moved the date.</p>
+              </div>
+              <div class="phone phone-sm">
+                <img src="/assets/img/screen-progress-390.webp" srcset="/assets/img/screen-progress-390.webp 390w, /assets/img/screen-progress-780.webp 780w" sizes="300px" width="390" height="847" loading="lazy" alt="Progress screen with max pull-ups, week streak, reps this week and first-rep ETA." />
+              </div>
+            </article>
+
+            <article class="tile reveal" style="--d: 0.05s">
+              <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><polygon points="6 4 20 12 6 20 6 4" /></svg></span>
+              <h3>Demo clips &amp; form cues</h3>
+              <p>Every movement comes with a clip and a coaching cue. The Coach tab opens on the block you're in.</p>
+            </article>
+
+            <article class="tile reveal" style="--d: 0.1s">
+              <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="13" r="8" /><path d="M12 9v4l2 2" /><path d="M9 2h6" /></svg></span>
+              <h3>Rest timer, built in</h3>
+              <p>Sets and rests flow on their own, with sound cues so you can keep your eyes off the screen.</p>
+              <div class="ring" aria-hidden="true">
+                <svg viewBox="0 0 100 100"><circle class="track" cx="50" cy="50" r="46" fill="none" stroke-width="7" /><circle class="bar" cx="50" cy="50" r="46" fill="none" stroke-width="7" /></svg>
+                <b>90</b>
+              </div>
+            </article>
+
+            <article class="tile wide reveal" style="--d: 0.05s">
+              <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2l2.4 7.4H22l-6.2 4.5 2.4 7.4L12 16.8l-6.2 4.5 2.4-7.4L2 9.4h7.6z" /></svg></span>
+              <h3>Milestones worth sharing</h3>
+              <p>Rewards at 2, 4, 8, 12, 24 and 52 training weeks — with a share card for the moments that matter.</p>
+              <div class="milestones" aria-hidden="true">
+<span>2<small>WK</small></span><span>4<small>WK</small></span><span>8<small>WK</small></span><span>12<small>WK</small></span><span>24<small>WK</small></span><span>52<small>WK</small></span>
+              </div>
+            </article>
+
+            <article class="tile wide reveal" style="--d: 0.1s">
+              <span class="ic"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2c1 3 4 5 4 9a4 4 0 01-8 0c0-2 1-3 1-3s-3 1-3 5a6 6 0 0012 0c0-6-6-8-6-11z" /></svg></span>
+              <h3>Streaks that forgive real life</h3>
+              <p>Weekly streaks with a streak freeze for the week life gets in the way, plus retest and streak-guard reminders so you never drift.</p>
+            </article>
           </div>
         </div>
       </section>
 
-      <section class="section">
-        <div class="container callout reveal" style="--delay: 0s">
+      <!-- APPLE WATCH -->
+      <section class="section watch-section" id="watch">
+        <div class="wrap">
+          <div class="section-head center">
+            <p class="eyebrow reveal">Apple Watch</p>
+            <h2 class="display h-lg reveal" style="--d: 0.05s">Leave the phone<br /><span class="accent">on the floor.</span></h2>
+            <p class="lede reveal" style="--d: 0.1s">Run today's whole session from your wrist: log reps with the Digital Crown, rest on a haptic ring, rate each exercise — all saved to Apple Health.</p>
+          </div>
+
+          <div class="watch-row">
+            <div class="watch reveal" style="--d: 0.05s"><img src="/assets/img/watch-set.webp" width="422" height="514" loading="lazy" alt="Watch set screen: log 5 reps with the Digital Crown and tap Complete set." /></div>
+            <div class="watch reveal"><img src="/assets/img/watch-rest.webp" width="422" height="514" loading="lazy" alt="Watch rest ring counting down 87 seconds before the next set." /></div>
+            <div class="watch reveal" style="--d: 0.1s"><img src="/assets/img/watch-feel.webp" width="422" height="514" loading="lazy" alt="Watch feedback screen: rate the exercise Easy, OK, Hard or Failed and flag pain." /></div>
+          </div>
+
+          <div class="watch-feats">
+            <div class="reveal"><h3>Digital Crown reps</h3><p>Dial in your reps between sets without unlocking anything.</p></div>
+            <div class="reveal" style="--d: 0.05s"><h3>Haptic rest</h3><p>A tap at 10 seconds, another when it's time to go.</p></div>
+            <div class="reveal" style="--d: 0.1s"><h3>Apple Health</h3><p>Heart rate and active calories recorded as a strength workout.</p></div>
+            <div class="reveal" style="--d: 0.15s"><h3>Works on its own</h3><p>Phone out of reach? Train anyway — it syncs when you're back.</p></div>
+          </div>
+        </div>
+      </section>
+
+      <!-- GALLERY -->
+      <section class="section" id="screens" style="padding-top: 0">
+        <div class="wrap gallery-head">
+          <div class="section-head" style="margin-bottom: 40px">
+            <p class="eyebrow reveal">Inside the app</p>
+            <h2 class="display h-lg reveal" style="--d: 0.05s">Quiet. Focused.<br />Built for 6am.</h2>
+          </div>
+          <div class="gallery-nav reveal" style="margin-bottom: 48px">
+            <button type="button" data-gallery="-1" aria-label="Previous screens">←</button>
+            <button type="button" data-gallery="1" aria-label="Next screens">→</button>
+          </div>
+        </div>
+        <div class="gallery" data-gallery-track tabindex="0" aria-label="App screenshots">
+          <figure class="reveal" style="--d: 0.00s">
+            <div class="phone phone-sm"><img src="/assets/img/screen-plan-390.webp" width="390" height="847" loading="lazy" alt="Your plan is ready: Foundation block, 7 weeks to your first pull-up." /></div>
+            <figcaption><b>Your plan, in weeks</b><span>A real date for your first rep.</span></figcaption>
+          </figure>
+          <figure class="reveal" style="--d: 0.05s">
+            <div class="phone phone-sm"><img src="/assets/img/screen-today-390.webp" width="390" height="847" loading="lazy" alt="Today screen with the day's session." /></div>
+            <figcaption><b>Today</b><span>Open the app, press start.</span></figcaption>
+          </figure>
+          <figure class="reveal" style="--d: 0.10s">
+            <div class="phone phone-sm"><img src="/assets/img/screen-workout-390.webp" width="390" height="847" loading="lazy" alt="Workout screen for the dead hang with an exercise illustration and set counter." /></div>
+            <figcaption><b>Guided sets</b><span>Clip, cue, counter, timer.</span></figcaption>
+          </figure>
+          <figure class="reveal" style="--d: 0.15s">
+            <div class="phone phone-sm"><img src="/assets/img/screen-session-390.webp" width="390" height="847" loading="lazy" alt="Session plan listing the five Foundation exercises with sets and reps." /></div>
+            <figcaption><b>Session plan</b><span>Know what's next before you hang.</span></figcaption>
+          </figure>
+          <figure class="reveal" style="--d: 0.20s">
+            <div class="phone phone-sm"><img src="/assets/img/screen-progress-390.webp" width="390" height="847" loading="lazy" alt="Progress screen with stats and goal progress." /></div>
+            <figcaption><b>Progress</b><span>Every rep counted, every trend shown.</span></figcaption>
+          </figure>
+          <figure class="reveal" style="--d: 0.25s">
+            <div class="phone phone-sm"><img src="/assets/img/screen-coach-390.webp" width="390" height="847" loading="lazy" alt="Coach tab with short technique reads." /></div>
+            <figcaption><b>Coach</b><span>Short reads that fix your form.</span></figcaption>
+          </figure>
+        </div>
+      </section>
+
+      <!-- PRICING -->
+      <section class="section" id="pricing" style="padding-top: 0">
+        <div class="wrap">
+          <div class="section-head center">
+            <p class="eyebrow reveal">Pricing</p>
+            <h2 class="display h-lg reveal" style="--d: 0.05s">Try two sessions.<br /><span class="accent">Then decide.</span></h2>
+            <p class="lede reveal" style="--d: 0.1s">Watch the plan rewrite itself twice before anything asks for a card.</p>
+          </div>
+
+          <div class="plans">
+            <article class="plan reveal">
+              <div class="name">Free</div>
+              <div class="price">2 sessions</div>
+              <p class="sub">Full onboarding, your personal plan and two complete workouts.</p>
+              <ul><li>Placement + first-rep estimate</li><li>Two full guided sessions</li><li>See the plan adapt to you</li><li>No account required</li></ul>
+              <a class="btn btn-ghost" href="https://apps.apple.com/app/id6799707900" rel="noopener">Download free</a>
+            </article>
+
+            <article class="plan featured reveal" style="--d: 0.05s">
+              <span class="badge">3-day free trial</span>
+              <div class="name">Pro · Annual</div>
+              <div class="price">Best value</div>
+              <p class="sub">Try it free for 3 days, then billed once a year.</p>
+              <ul><li>Full program — all six blocks</li><li>Personalized daily workouts</li><li>Progress tracking &amp; full history</li><li>Training reminders &amp; recaps</li><li>Apple Watch app</li></ul>
+              <a class="btn btn-primary" href="https://apps.apple.com/app/id6799707900" rel="noopener">Start free trial</a>
+            </article>
+
+            <article class="plan reveal" style="--d: 0.1s">
+              <div class="name">Pro · Monthly</div>
+              <div class="price">Flexible</div>
+              <p class="sub">Same features, billed month to month.</p>
+              <ul><li>Full program — all six blocks</li><li>Personalized daily workouts</li><li>Progress tracking &amp; full history</li><li>Training reminders &amp; recaps</li><li>Apple Watch app</li></ul>
+              <a class="btn btn-ghost" href="https://apps.apple.com/app/id6799707900" rel="noopener">Go monthly</a>
+            </article>
+          </div>
+
+          <p class="fine">Prices are shown in your local currency in the App Store. Subscriptions renew automatically unless turned off at least 24 hours before the end of the current period, and can be managed in your App Store account settings.</p>
+        </div>
+      </section>
+
+      <!-- FAQ -->
+      <section class="section" id="faq" style="padding-top: 0">
+        <div class="wrap faq-grid">
           <div>
-            <div class="eyebrow">Final CTA</div>
-            <h2>Start your first pull-up program today.</h2>
-            <p>Free to download. Sign in and your progress is safe from day one.</p>
+            <p class="eyebrow reveal">FAQ</p>
+            <h2 class="display h-lg reveal" style="--d: 0.05s">Before you<br />hang.</h2>
+            <p class="lede reveal" style="--d: 0.1s">Something else? <a href="/support/" style="color: var(--flame)">Ask us</a>.</p>
           </div>
-          <div class="hero-actions">
-            <a class="btn btn-primary" href="https://apps.apple.com/app/id6799707900" rel="noopener noreferrer">
-              Download on the App Store
-            </a>
-            <a class="btn btn-secondary" href="#" rel="noopener noreferrer">
-              Get it on Google Play
-            </a>
+          <div class="faq reveal">
+            <details open>
+              <summary>Can I start if I can't do a single pull-up?</summary>
+              <p>Yes — that's exactly who the Foundation block is for. You start with dead hangs, scapular pulls, slow negatives, Australian rows and band-assisted reps, which build the specific strength your first pull-up needs.</p>
+            </details>
+            <details>
+              <summary>What equipment do I need?</summary>
+              <p>A bar you can hang from — a doorway bar, a park, or the gym. A resistance band helps for assisted reps, and every exercise has an alternative if you don't have one.</p>
+            </details>
+            <details>
+              <summary>How long until my first pull-up?</summary>
+              <p>It depends on where you start. After onboarding the app estimates how many weeks your first rep is away, and the estimate updates as you train — your weekly recap tells you whether it moved.</p>
+            </details>
+            <details>
+              <summary>I can already do a few. Is it still for me?</summary>
+              <p>Yes. Onboarding places you on the right block — First reps, Volume, Advanced, Weighted or the Muscle-up path — so you never repeat what you've already mastered.</p>
+            </details>
+            <details>
+              <summary>Do I need an account?</summary>
+              <p>No. You can train without an account and your data stays on your device. Create one with Email, Google or Apple only if you want your history backed up and synced.</p>
+            </details>
+            <details>
+              <summary>Which languages does the app support?</summary>
+              <p>The app is available in more than 30 languages, including English, German, Turkish, Spanish and French.</p>
+            </details>
+            <details>
+              <summary>Is there an Android version?</summary>
+              <p>PullUp Master is available on iPhone and Apple Watch today. Android is in the works.</p>
+            </details>
+            <details>
+              <summary>Is this medical advice?</summary>
+              <p>No. PullUp Master is a training tool. Train within your ability, flag pain when it shows up, and see a professional if it persists.</p>
+            </details>
+          </div>
+        </div>
+      </section>
+
+      <!-- FINAL CTA -->
+      <section class="wrap">
+        <div class="final reveal">
+          <img class="mark" src="/assets/img/icon-180.png" width="84" height="84" alt="" loading="lazy" />
+          <h2 class="display h-lg">Start at zero.<br /><span class="accent">Finish over the bar.</span></h2>
+          <p class="lede" style="margin-left: auto; margin-right: auto">Your plan is waiting. It takes about a minute to build.</p>
+          <div class="cta-row">
+              <a class="store-btn" href="https://apps.apple.com/app/id6799707900" rel="noopener">
+                <svg viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M16.37 12.6c-.02-2.3 1.88-3.4 1.96-3.46-1.07-1.56-2.73-1.77-3.32-1.8-1.41-.14-2.76.83-3.47.83-.72 0-1.82-.81-2.99-.79-1.54.02-2.96.9-3.75 2.27-1.6 2.78-.41 6.9 1.15 9.15.76 1.1 1.67 2.34 2.86 2.3 1.15-.05 1.58-.74 2.97-.74 1.38 0 1.77.74 2.98.72 1.24-.02 2.02-1.12 2.77-2.23.87-1.28 1.23-2.52 1.25-2.58-.03-.01-2.4-.92-2.41-3.66zM14.1 5.86c.63-.77 1.06-1.83.94-2.89-.91.04-2.01.61-2.66 1.37-.58.67-1.09 1.76-.96 2.79 1.02.08 2.05-.52 2.68-1.27z"/></svg>
+                <span><small>Download on the</small><strong>App Store</strong></span>
+              </a>
           </div>
         </div>
       </section>
     </main>
 
+
     <footer class="footer">
-      <div class="container footer-grid">
-        <div>
-          <strong>PullUpMaster</strong><br />
-          Train pull-ups. Track every rep.
+      <div class="wrap">
+        <div class="footer-grid">
+          <div>
+            <a class="brand" href="/"><img src="/assets/img/icon-64.png" width="34" height="34" alt="" loading="lazy" /><span>PullUp Master</span></a>
+            <p class="tag">An adaptive pull-up plan that starts at zero and rewrites itself after every session.</p>
+          </div>
+          <div>
+            <h4>Product</h4>
+            <ul>
+              <li><a href="/#climb">The climb</a></li>
+              <li><a href="/#watch">Apple Watch</a></li>
+              <li><a href="/#pricing">Pricing</a></li>
+              <li><a href="https://apps.apple.com/app/id6799707900" rel="noopener">App Store</a></li>
+            </ul>
+          </div>
+          <div>
+            <h4>Learn</h4>
+            <ul>
+              <li><a href="/first-pull-up/">First pull-up guide</a></li>
+              <li><a href="/#faq">FAQ</a></li>
+              <li><a href="/support/">Support</a></li>
+            </ul>
+          </div>
+          <div>
+            <h4>Legal</h4>
+            <ul>
+              <li><a href="/privacy/">Privacy</a></li>
+              <li><a href="/terms/">Terms</a></li>
+              <li><a href="/delete-account/">Delete account</a></li>
+              <li><a href="https://qrodesk.com/impressum.html" rel="noopener">Impressum</a></li>
+            </ul>
+          </div>
         </div>
-        <div class="footer-links">
-          <a href="/">Home</a>
-          <a href="#pricing">Pricing</a>
-          <a href="/support/">Support</a>
-          <a href="/privacy/">Privacy</a>
-          <a href="/terms/">Terms</a>
+        <div class="footer-bottom">
+          <span>© <span data-year>2026</span> Qrodesk. All rights reserved.</span>
+          <span>Training tool, not medical advice.</span>
         </div>
-        <div>© <span data-year></span> PullUpMaster</div>
       </div>
     </footer>
 
-    <script src="/assets/site.js" defer></script>
+    <script src="/assets/js/site.js" defer></script>
   </body>
 </html>

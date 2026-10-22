@@ -1,0 +1,131 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <!-- The one-time token travels in this page's query string. No referrer, no
+         indexing, and no third-party requests, so it never leaves the device. -->
+    <meta name="referrer" content="no-referrer" />
+    <meta name="robots" content="noindex,nofollow" />
+    <title>Opening PullUpMaster</title>
+    <meta name="theme-color" content="#0a0b0e" />
+    <style>
+      :root {
+        --ink: #0a0b0d;
+        --panel: #141619;
+        --line: rgba(255, 255, 255, 0.08);
+        --chalk: #f4f5f7;
+        --muted: #9aa0a8;
+        --steel: #5c626b;
+        --flame: #e2622e;
+      }
+      * { box-sizing: border-box; }
+      body {
+        margin: 0;
+        min-height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        padding: 24px;
+        background: var(--ink);
+        color: var(--chalk);
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+      }
+      .card {
+        width: 100%;
+        max-width: 420px;
+        background: var(--panel);
+        border: 1px solid var(--line);
+        border-radius: 20px;
+        padding: 36px 28px;
+        text-align: center;
+      }
+      .kicker {
+        margin: 0 0 14px;
+        font-size: 12px;
+        font-weight: 600;
+        letter-spacing: 2px;
+        text-transform: uppercase;
+        color: var(--flame);
+      }
+      h1 { margin: 0 0 10px; font-size: 26px; line-height: 1.2; }
+      p { margin: 0 0 18px; font-size: 15px; line-height: 1.6; color: var(--muted); }
+      .btn {
+        display: block;
+        padding: 15px 18px;
+        border-radius: 14px;
+        background: var(--flame);
+        color: #fff;
+        font-size: 15px;
+        font-weight: 600;
+        text-decoration: none;
+      }
+      .secondary {
+        display: block;
+        margin-top: 12px;
+        font-size: 14px;
+        color: var(--muted);
+        text-decoration: none;
+      }
+      .fine { margin: 22px 0 0; font-size: 13px; color: var(--steel); }
+      [hidden] { display: none !important; }
+    </style>
+  </head>
+  <body>
+    <main class="card">
+      <p class="kicker">PullUpMaster</p>
+
+      <div id="handoff">
+        <h1>Opening the app…</h1>
+        <p>
+          If nothing happens in a moment, tap the button below. Open this link on the
+          phone that has PullUpMaster installed.
+        </p>
+        <a class="btn" id="open" href="#">Open PullUpMaster</a>
+        <a class="secondary" href="https://apps.apple.com/app/id6799707900" rel="noopener noreferrer">
+          Don't have the app yet?
+        </a>
+        <p class="fine">This link works once and expires after a while. Ask for a new one from the app if it has already been used.</p>
+      </div>
+
+      <div id="invalid" hidden>
+        <h1>This link is incomplete</h1>
+        <p>
+          It looks like the address was cut short — some mail apps break long links across
+          lines. Copy the whole link from the email, or request a new one from the app.
+        </p>
+        <a class="secondary" href="/support/">Get support</a>
+      </div>
+    </main>
+
+    <script>
+      (function () {
+        var params = new URLSearchParams(window.location.search);
+        var tokenHash = params.get('token_hash');
+        var type = params.get('type') || 'signup';
+
+        if (!tokenHash) {
+          document.getElementById('handoff').hidden = true;
+          document.getElementById('invalid').hidden = false;
+          return;
+        }
+
+        var target =
+          'pullupmaster://login?token_hash=' +
+          encodeURIComponent(tokenHash) +
+          '&type=' +
+          encodeURIComponent(type);
+
+        document.getElementById('open').setAttribute('href', target);
+
+        // Drop the token out of the address bar so it does not linger in
+        // browser history or get shared with a screenshot of the URL.
+        if (window.history && window.history.replaceState) {
+          window.history.replaceState({}, '', window.location.pathname);
+        }
+
+        window.location.href = target;
+      })();
+    </script>
+  </body>
+</html>
