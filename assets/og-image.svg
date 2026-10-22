@@ -1,0 +1,31 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1200" y2="630" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0a0b0e" />
+      <stop offset="1" stop-color="#141a10" />
+    </linearGradient>
+    <linearGradient id="chip" x1="260" y1="220" x2="940" y2="470" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#c6ff33" />
+      <stop offset="1" stop-color="#33d1ff" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)" />
+
+  <rect x="150" y="150" width="900" height="330" rx="34" fill="#15171d" stroke="#2a2d36" stroke-width="2" />
+  <rect x="220" y="220" width="230" height="46" rx="16" fill="#1b2a10" />
+  <text x="240" y="250" font-family="Space Grotesk, Arial, sans-serif" font-size="24" font-weight="700" fill="#c6ff33">PullUpMaster</text>
+
+  <text x="220" y="316" font-family="Space Grotesk, Arial, sans-serif" font-size="58" font-weight="700" fill="#f5f6f9">
+    Train pull-ups. Track every rep.
+  </text>
+
+  <text x="220" y="372" font-family="Inter, Arial, sans-serif" font-size="28" font-weight="500" fill="#9aa1b0">
+    Structured programs + progress tracking, synced across devices
+  </text>
+
+  <rect x="220" y="406" width="440" height="54" rx="22" fill="url(#chip)" />
+  <text x="252" y="442" font-family="Inter, Arial, sans-serif" font-size="22" font-weight="700" fill="#08240a">
+    0 to your first pull-up — and beyond
+  </text>
+</svg>

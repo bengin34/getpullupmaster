@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Delete Account - PullUpMaster</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Space+Mono:wght@400;700&family=Lora:wght@400;500;600&display=swap" rel="stylesheet">
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Lora', serif;
+            background: linear-gradient(135deg, #f8fafc 0%, #f1f5f9 100%);
+            color: #334155;
+            line-height: 1.7;
+            min-height: 100vh;
+        }
+
+        .container {
+            max-width: 720px;
+            margin: 0 auto;
+            padding: 60px 32px;
+            animation: fadeInUp 0.8s ease-out;
+        }
+
+        @keyframes fadeInUp {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .header {
+            text-align: center;
+            margin-bottom: 48px;
+            animation: fadeInDown 0.8s ease-out 0.1s both;
+        }
+
+        @keyframes fadeInDown {
+            from {
+                opacity: 0;
+                transform: translateY(-20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        .logo {
+            font-family: 'Space Mono', monospace;
+            font-size: 14px;
+            font-weight: 700;
+            color: #0f766e;
+            letter-spacing: 2px;
+            text-transform: uppercase;
+            margin-bottom: 16px;
+        }
+
+        h1 {
+            font-size: 42px;
+            font-weight: 600;
+            color: #1e293b;
+            margin-bottom: 12px;
+            letter-spacing: -0.5px;
+        }
+
+        .subtitle {
+            font-size: 18px;
+            color: #64748b;
+            font-weight: 400;
+        }
+
+        .divider {
+            width: 48px;
+            height: 2px;
+            background: #0f766e;
+            margin: 24px auto;
+            animation: scaleIn 0.6s ease-out 0.3s both;
+        }
+
+        @keyframes scaleIn {
+            from {
+                width: 0;
+                opacity: 0;
+            }
+            to {
+                width: 48px;
+                opacity: 1;
+            }
+        }
+
+        .content {
+            display: grid;
+            gap: 48px;
+        }
+
+        .section {
+            animation: fadeInUp 0.8s ease-out;
+        }
+
+        .section:nth-child(1) { animation-delay: 0.2s; }
+        .section:nth-child(2) { animation-delay: 0.3s; }
+        .section:nth-child(3) { animation-delay: 0.4s; }
+        .section:nth-child(4) { animation-delay: 0.5s; }
+
+        .section-title {
+            font-family: 'Space Mono', monospace;
+            font-size: 13px;
+            font-weight: 700;
+            color: #0f766e;
+            letter-spacing: 1.5px;
+            text-transform: uppercase;
+            margin-bottom: 16px;
+        }
+
+        .section-content {
+            background: white;
+            padding: 24px;
+            border-radius: 8px;
+            border-left: 3px solid #0f766e;
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+        }
+
+        .section-content p {
+            margin-bottom: 16px;
+            color: #475569;
+            font-size: 16px;
+        }
+
+        .section-content p:last-child {
+            margin-bottom: 0;
+        }
+
+        .highlight {
+            font-weight: 600;
+            color: #1e293b;
+        }
+
+        .method {
+            display: grid;
+            gap: 32px;
+        }
+
+        .method-box {
+            padding: 20px;
+            background: #f8fafc;
+            border-radius: 6px;
+            border: 1px solid #e2e8f0;
+        }
+
+        .method-title {
+            font-family: 'Space Mono', monospace;
+            font-size: 14px;
+            font-weight: 700;
+            color: #1e293b;
+            margin-bottom: 12px;
+        }
+
+        .method-box p {
+            font-size: 15px;
+            color: #475569;
+            margin-bottom: 8px;
+        }
+
+        .method-box p:last-child {
+            margin-bottom: 0;
+        }
+
+        .code {
+            font-family: 'Space Mono', monospace;
+            background: white;
+            padding: 12px 16px;
+            border-radius: 4px;
+            color: #0f766e;
+            font-size: 13px;
+            margin: 12px 0;
+            border: 1px solid #e2e8f0;
+            display: inline-block;
+        }
+
+        .email-link {
+            font-family: 'Space Mono', monospace;
+            color: #0f766e;
+            text-decoration: none;
+            font-weight: 600;
+            border-bottom: 2px solid #0f766e;
+            transition: all 0.3s ease;
+        }
+
+        .email-link:hover {
+            color: #134e4a;
+            border-bottom-color: #134e4a;
+        }
+
+        .timeline {
+            display: grid;
+            gap: 16px;
+        }
+
+        .timeline-item {
+            display: flex;
+            gap: 16px;
+            padding: 12px 0;
+        }
+
+        .timeline-marker {
+            width: 24px;
+            height: 24px;
+            background: #0f766e;
+            border-radius: 50%;
+            flex-shrink: 0;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            color: white;
+            font-family: 'Space Mono', monospace;
+            font-size: 12px;
+            font-weight: 700;
+        }
+
+        .timeline-content {
+            flex: 1;
+            padding-top: 2px;
+        }
+
+        .timeline-content strong {
+            color: #1e293b;
+            font-weight: 600;
+        }
+
+        .timeline-content p {
+            color: #475569;
+            font-size: 15px;
+            margin: 4px 0 0 0;
+        }
+
+        .data-list {
+            display: grid;
+            gap: 12px;
+        }
+
+        .data-item {
+            display: flex;
+            align-items: flex-start;
+            gap: 12px;
+            padding: 8px 0;
+        }
+
+        .data-item::before {
+            content: "•";
+            color: #0f766e;
+            font-weight: 700;
+            font-size: 18px;
+            margin-top: -4px;
+            flex-shrink: 0;
+        }
+
+        .data-item span {
+            color: #475569;
+            font-size: 15px;
+        }
+
+        .legal-notice {
+            background: #f0fdf4;
+            border-left: 3px solid #10b981;
+            padding: 20px;
+            border-radius: 6px;
+            font-size: 14px;
+            color: #166534;
+        }
+
+        .legal-notice strong {
+            color: #15803d;
+        }
+
+        .footer {
+            margin-top: 60px;
+            padding-top: 32px;
+            border-top: 1px solid #e2e8f0;
+            text-align: center;
+            color: #94a3b8;
+            font-size: 14px;
+        }
+
+        .footer a {
+            color: #0f766e;
+            text-decoration: none;
+            transition: color 0.3s ease;
+        }
+
+        .footer a:hover {
+            color: #134e4a;
+        }
+
+        @media (max-width: 640px) {
+            .container {
+                padding: 40px 20px;
+            }
+
+            h1 {
+                font-size: 32px;
+            }
+
+            .subtitle {
+                font-size: 16px;
+            }
+
+            .section-content {
+                padding: 16px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <div class="logo">PullUpMaster</div>
+            <h1>Delete Account</h1>
+            <div class="divider"></div>
+            <p class="subtitle">We understand your decision. Here's how account deletion works.</p>
+        </div>
+
+        <div class="content">
+            <!-- How to Delete Section -->
+            <section class="section">
+                <h2 class="section-title">How to Delete Your Account</h2>
+                <div class="section-content">
+                    <p>You have two options to request account deletion:</p>
+                    <div class="method">
+                        <div class="method-box">
+                            <div class="method-title">Option 1: In-App Deletion</div>
+                            <p>The quickest way to delete your account:</p>
+                            <div class="code">Settings → Account → Delete Account</div>
+                            <p>Follow the prompts to confirm your request.</p>
+                        </div>
+                        <div class="method-box">
+                            <div class="method-title">Option 2: Web Request</div>
+                            <p>Send a deletion request to:</p>
+                            <div class="code"><a href="mailto:support@qrodesk.com" class="email-link">support@qrodesk.com</a></div>
+                            <p><span class="highlight">Important:</span> Use the email address associated with your account.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- What Gets Deleted Section -->
+            <section class="section">
+                <h2 class="section-title">What Will Be Deleted</h2>
+                <div class="section-content">
+                    <p>When your account is deleted, the following data is permanently removed:</p>
+                    <div class="data-list">
+                        <div class="data-item">
+                            <span>All workout history and exercise records</span>
+                        </div>
+                        <div class="data-item">
+                            <span>Training plans and custom programs</span>
+                        </div>
+                        <div class="data-item">
+                            <span>Personal profile information and preferences</span>
+                        </div>
+                        <div class="data-item">
+                            <span>Performance statistics and achievement data</span>
+                        </div>
+                        <div class="data-item">
+                            <span>Any photos or media associated with your account</span>
+                        </div>
+                        <div class="data-item">
+                            <span>Synced data from connected devices or services</span>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Timeline Section -->
+            <section class="section">
+                <h2 class="section-title">Deletion Timeline</h2>
+                <div class="section-content">
+                    <div class="timeline">
+                        <div class="timeline-item">
+                            <div class="timeline-marker">1</div>
+                            <div class="timeline-content">
+                                <strong>Request Submitted</strong>
+                                <p>Your deletion request is received and verified.</p>
+                            </div>
+                        </div>
+                        <div class="timeline-item">
+                            <div class="timeline-marker">2</div>
+                            <div class="timeline-content">
+                                <strong>Processing Period</strong>
+                                <p>Your data is securely deleted over the next 30 days.</p>
+                            </div>
+                        </div>
+                        <div class="timeline-item">
+                            <div class="timeline-marker">3</div>
+                            <div class="timeline-content">
+                                <strong>Completion</strong>
+                                <p>Account fully deleted. Confirmation sent to your email.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Legal Retention Section -->
+            <section class="section">
+                <h2 class="section-title">Legal & Tax Requirements</h2>
+                <div class="legal-notice">
+                    <p>In accordance with applicable laws and regulations, <strong>limited records</strong> related to your account may be retained for:</p>
+                    <ul style="margin: 12px 0 0 0; padding-left: 20px;">
+                        <li>Tax and financial compliance</li>
+                        <li>Legal and regulatory obligations</li>
+                        <li>Fraud prevention and security purposes</li>
+                    </ul>
+                    <p style="margin-top: 12px;">These records are kept securely and separately from your active account data, and are subject to strict confidentiality measures.</p>
+                </div>
+            </section>
+        </div>
+
+        <div class="footer">
+            <p>Have questions? Contact us at <a href="mailto:support@qrodesk.com">support@qrodesk.com</a></p>
+            <p style="margin-top: 12px; font-size: 12px;">PullUpMaster • Your Account Privacy Matters</p>
+        </div>
+    </div>
+</body>
+</html>

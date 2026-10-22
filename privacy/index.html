@@ -1,0 +1,239 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>PullUpMaster Privacy Policy</title>
+    <link rel="canonical" href="https://getpullupmaster.app/privacy/" />
+    <meta
+      name="description"
+      content="PullUpMaster privacy policy: what account and workout data we store via our Supabase backend, how Email, Google, and Apple sign-in work, and how to delete your data."
+    />
+    <meta name="theme-color" content="#0a0b0e" />
+    <meta property="og:title" content="PullUpMaster Privacy Policy" />
+    <meta
+      property="og:description"
+      content="How PullUpMaster handles account and training data stored on our Supabase backend."
+    />
+    <meta property="og:image" content="https://getpullupmaster.app/assets/og-image.svg" />
+    <meta property="og:url" content="https://getpullupmaster.app/privacy/" />
+    <meta property="og:type" content="website" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=Inter:wght@400;500;600&family=Space+Grotesk:wght@500;600;700&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="/assets/styles.css" />
+  </head>
+  <body>
+    <a class="skip-link" href="#main">Skip to content</a>
+
+    <header class="site-header" data-open="false">
+      <div class="container nav">
+        <a class="brand" href="/">
+          <span class="brand-mark" aria-hidden="true">PUM</span>
+          <span>PullUpMaster</span>
+        </a>
+        <button class="nav-toggle" aria-expanded="false" aria-controls="site-nav">Menu</button>
+        <nav id="site-nav" class="nav-links" aria-label="Primary">
+          <a href="/">Home</a>
+          <a href="/support/">Support</a>
+          <a href="/privacy/">Privacy</a>
+          <a href="/terms/">Terms</a>
+        </nav>
+      </div>
+    </header>
+
+    <main id="main" class="page">
+      <div class="container page-card">
+        <h1>Privacy Policy</h1>
+        <p><strong>Last updated:</strong> August 9, 2026</p>
+
+        <p>
+          PullUpMaster ("PullUpMaster", "we", "us") is a pull-up training app.
+          Because your training programs, streaks, and workout history are
+          backed up to your account and synced across devices, PullUpMaster
+          stores personal data on our backend, provided by
+          <strong>Supabase</strong>. This policy explains what we collect,
+          why, and how you can access or delete it.
+        </p>
+
+        <h2>Data controller</h2>
+        <p>
+          PullUpMaster is published by Mendi Tekstilwaren / Dilara Demir
+          Caglar, Fauststrasse 44a, 81827 München, Germany. Contact:
+          <a href="mailto:support@qrodesk.com">support@qrodesk.com</a>.
+        </p>
+
+        <h2>Account required</h2>
+        <p>
+          You must create an account to use PullUpMaster, so that your
+          programs and workout log can be saved to our backend and restored
+          on any device you sign in on. You can create an account with:
+        </p>
+        <ul>
+          <li><strong>Email & password</strong> — handled by Supabase Auth.</li>
+          <li><strong>Google Sign-In</strong> — authenticated via your Google account.</li>
+          <li><strong>Sign in with Apple</strong> — including Apple's "Hide My Email" option.</li>
+        </ul>
+        <p>
+          When you use Google or Apple sign-in, we receive a unique identifier
+          for your account and the email address associated with it (a
+          private relay address if you choose to hide your email with Apple).
+          We do not receive your Google or Apple account password.
+        </p>
+
+        <h2>What data we store</h2>
+        <table>
+          <thead>
+            <tr>
+              <th>Category</th>
+              <th>Examples</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Account data</td>
+              <td>Email address, authentication provider ID, display name (if you set one), account creation date.</td>
+            </tr>
+            <tr>
+              <td>Training data</td>
+              <td>Selected program, workout sessions, sets, reps, tempo, added weight, streaks, personal records, reminder settings.</td>
+            </tr>
+            <tr>
+              <td>Optional profile data</td>
+              <td>Body weight or other stats you choose to enter to personalize a program.</td>
+            </tr>
+            <tr>
+              <td>Subscription status</td>
+              <td>Entitlement flag, product ID, and expiration date used to unlock Pro features. Payment card details are never seen by us — billing is handled entirely by Apple or Google.</td>
+            </tr>
+            <tr>
+              <td>Technical data</td>
+              <td>App version, device type, and OS version, used only for support and reliability — not for advertising.</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <h2>What PullUpMaster does not collect</h2>
+        <ul>
+          <li>No camera or microphone access — reps are logged manually, not detected automatically.</li>
+          <li>No precise location data.</li>
+          <li>No access to your contacts, photos, or health app data.</li>
+          <li>No advertising trackers or third-party ad SDKs.</li>
+          <li>No public profile, social feed, or leaderboard — your training data is private to your account.</li>
+        </ul>
+
+        <h2>Where your data is stored</h2>
+        <p>
+          Your account and training data are stored in our Supabase project
+          (PostgreSQL database and authentication service). Data is encrypted
+          in transit (TLS) between the app and our backend. Supabase acts as
+          our data processor and applies its own security and access
+          controls; see
+          <a href="https://supabase.com/privacy" target="_blank" rel="noopener noreferrer">Supabase's privacy policy</a>
+          for details on their infrastructure.
+        </p>
+
+        <h2>Other service providers</h2>
+        <ul>
+          <li><strong>Supabase</strong> — database, authentication, and data storage.</li>
+          <li><strong>Apple</strong> — Sign in with Apple, and App Store subscription billing on iOS.</li>
+          <li><strong>Google</strong> — Google Sign-In, and Google Play subscription billing on Android.</li>
+        </ul>
+        <p>
+          We share only the data each provider needs to perform its function
+          (for example, verifying your subscription status with the App Store
+          or Google Play). We do not sell your personal data to anyone.
+        </p>
+
+        <h2>Why we process your data</h2>
+        <ul>
+          <li>To create and secure your account, and let you sign in across devices.</li>
+          <li>To save and sync your programs, workout history, and progress.</li>
+          <li>To unlock and manage your Pro subscription.</li>
+          <li>To provide customer support when you contact us.</li>
+        </ul>
+
+        <h2>Data retention</h2>
+        <p>
+          We keep your account and training data for as long as your account
+          is active. If you delete your account, we delete your personal
+          data and workout history from our systems within 30 days, except
+          where we must retain limited records to comply with legal or tax
+          obligations.
+        </p>
+
+        <h2>Deleting your account and data</h2>
+        <p>
+          You can permanently delete your account and all associated data at
+          any time from <strong>Settings → Account → Delete Account</strong>
+          inside the app. You can also request deletion by emailing
+          <a href="mailto:support@qrodesk.com">support@qrodesk.com</a> from
+          your registered email address.
+        </p>
+
+        <h2>Your rights</h2>
+        <p>
+          Depending on where you live (including under GDPR and CCPA), you
+          may have the right to access, correct, export, or delete your
+          personal data, and to object to or restrict certain processing.
+          Contact us at
+          <a href="mailto:support@qrodesk.com">support@qrodesk.com</a> to
+          exercise any of these rights.
+        </p>
+
+        <h2>Children's privacy</h2>
+        <p>
+          PullUpMaster is not directed at children under 13 (or the minimum
+          age required in your country), and we do not knowingly collect data
+          from children. If you believe a child has created an account,
+          contact us and we will delete it.
+        </p>
+
+        <h2>Security</h2>
+        <p>
+          We rely on Supabase's authentication and database security, use
+          encrypted connections between the app and our backend, and limit
+          access to production data to what is necessary to operate the
+          service. No method of transmission or storage is 100% secure, but
+          we work to protect your information.
+        </p>
+
+        <h2>Changes to this policy</h2>
+        <p>
+          We may update this policy as PullUpMaster evolves. Material changes
+          will be reflected by updating the "Last updated" date above.
+        </p>
+
+        <h2>Contact</h2>
+        <div class="notice">
+          <p>
+            For privacy questions or data requests, contact
+            <a href="mailto:support@qrodesk.com">support@qrodesk.com</a>.
+          </p>
+        </div>
+      </div>
+    </main>
+
+    <footer class="footer">
+      <div class="container footer-grid">
+        <div>
+          <strong>PullUpMaster</strong><br />
+          Train pull-ups. Track every rep.
+        </div>
+        <div class="footer-links">
+          <a href="/">Home</a>
+          <a href="/support/">Support</a>
+          <a href="/privacy/">Privacy</a>
+          <a href="/terms/">Terms</a>
+        </div>
+        <div>© <span data-year></span> PullUpMaster</div>
+      </div>
+    </footer>
+
+    <script src="/assets/site.js" defer></script>
+  </body>
+</html>
