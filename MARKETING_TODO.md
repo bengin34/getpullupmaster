@@ -52,5 +52,5 @@
 2. **Hero CTA above the fold** (after 1 is live): tighten hero spacing or move the store buttons above the lede on ≥1280px. Metric: hero-placement install share. Guardrail: LCP stays under 1s, CLS 0.
 3. **first-pull-up rebuild via generator** with FAQ block and trimmed title/description. Metric: Search Console impressions/CTR for that URL family over 4 weeks vs prior 4 weeks (needs Search Console access). Guardrail: same sources, same claims, no new medical statements.
 
-**Not verified / needs owner:** Search Console access, 28-day organic baseline, Google Play rating, mobile viewport check (window resize failed in the browser tool; re-run on a real phone).
+**Not verified / needs owner:** Search Console access, 28-day organic baseline, mobile viewport screenshot (browser window resize failed; CSS review shows the sticky store bar is fixed to the bottom under 900px with 72px body padding and safe-area inset, so no content overlap is expected; confirm on a real phone). Google Play shows no rating yet (listing has too few ratings to display one; 100+ installs, updated 2026-10-22).
 
