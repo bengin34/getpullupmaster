@@ -31,4 +31,26 @@
 | Date | Skill / workflow | Baseline and evidence | Decision | Owner | Next review |
 |---|---|---|---|---|---|
 | 2026-10-25 | Setup | Vendored seo-audit / cro / copywriting; wrote `.agents/product-marketing.md` from repo evidence; no analytics present on site | Setup done; audit still pending owner inputs (baseline, Search Console) | Owner | 2026-10-26 |
-| 2026-10-26 (planned) | Initial audit | Pending | Pending | TBD | 2026-11-02 |
+| 2026-10-25 | Initial audit (seo-audit + cro, code-only; no analytics exist) | 89 pages, all in sitemap, hreflang reciprocal + x-default, Article+FAQPage schema, 301/404/canonical OK, TTFB ~0.3s, LCP ~0.6s, CLS 0 (desktop). Store: App Store 1 rating, Google Play 100+ installs. See findings section below. | Proposals only; owner to confirm trial length and approve store-link attribution | Owner | 2026-11-02 |
+
+## Initial audit findings (2026-10-25, proposals only)
+| # | Finding | Evidence | Impact | Confidence | Effort |
+|---|---|---|---|---|---|
+| 1 | Trial-length claim mismatch: site says "3-day free trial" (all 5 langs, pricing cards), App Store 2.4.0 release notes say a free **week** of Pro | `index.html` pricing; apps.apple.com id6799707900 What's New | High (trust, refund risk) | High that they differ; owner must say which is right | Low |
+| 2 | No analytics and no store-link attribution: every store link is the bare URL, so website-driven installs cannot be measured | `index.html`, `assets/js/site.js`, article CTAs | High (no baseline possible) | High | Low (App Store campaign `pt`/`ct` params + Play `referrer` need no on-site tracking; still needs approval) |
+| 3 | Primary CTA below the fold on a 1440x778 laptop viewport: hero store buttons start at y=756, "2 sessions free" note at y=832 | measured in Chrome on `/` | Medium | High (one viewport measured) | Low-Medium |
+| 4 | `first-pull-up` family (5 langs) predates the generator: no FAQ/FAQPage schema, descriptions 181-233 chars, DE/ES/FR titles 64-70 chars | audit script over `*/index.html` | Medium (highest-priority article) | High | Medium (migrate to `content/first-pull-up.json`) |
+| 5 | Home page titles 62-70 chars (DE/ES/FR) and descriptions 215-255 chars on all 5 homes: truncated in SERPs | audit script | Medium | High | Low |
+| 6 | No guide hub page: nav "Guide" goes to one article; 12 of 16 EN articles have 0 links from home; anatomy series has 4-5 inbound links each | link graph over `*/index.html` | Medium | High | Medium |
+| 7 | Store subtitle "Calisthenics progress tracker" does not match site positioning "adaptive pull-up coach / first pull-up" | App Store listing vs `index.html` H1 | Medium (ASO + message match) | Medium | Low (store copy change) |
+| 8 | Sitemap has no `lastmod`; legal pages lack hreflang (EN only, acceptable) | `sitemap.xml` | Low | High | Low |
+
+**Backlog (priority order):** 1 → 2 → 4 → 5 → 3 → 6 → 7 → 8.
+
+**Experiments (max 3, all need approval before deploy):**
+1. **Attribution first:** add App Store campaign params and Play `referrer` per placement (hero / sticky / pricing / article CTA). Metric: installs by placement in App Store Connect + Play Console after 28 days. Guardrail: no on-site tracking, links must still resolve.
+2. **Hero CTA above the fold** (after 1 is live): tighten hero spacing or move the store buttons above the lede on ≥1280px. Metric: hero-placement install share. Guardrail: LCP stays under 1s, CLS 0.
+3. **first-pull-up rebuild via generator** with FAQ block and trimmed title/description. Metric: Search Console impressions/CTR for that URL family over 4 weeks vs prior 4 weeks (needs Search Console access). Guardrail: same sources, same claims, no new medical statements.
+
+**Not verified / needs owner:** Search Console access, 28-day organic baseline, Google Play rating, mobile viewport check (window resize failed in the browser tool; re-run on a real phone).
+
