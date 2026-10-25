@@ -1,0 +1,467 @@
+{
+  "slugs": {
+    "en": "rotator-cuff-pull-ups",
+    "de": "rotatorenmanschette-klimmzug",
+    "tr": "rotator-manset-barfiks",
+    "es": "manguito-rotador-dominadas",
+    "fr": "coiffe-des-rotateurs-tractions"
+  },
+  "priority": "0.8",
+  "langs": {
+    "en": {
+      "title": "Rotator Cuff Pull-Ups: Shoulder Anatomy and Safety",
+      "description": "How the rotator cuff and shoulder joint work during a pull-up, what the research shows, technique rules, prehab drills and when shoulder pain needs a clinician.",
+      "headline": "Rotator cuff and pull-ups: how the shoulder works and how to keep it healthy",
+      "subtitle": "An anatomy lesson for people who train",
+      "read_time": "9 min read",
+      "lede": "The rotator cuff is a set of four small muscles that holds the ball of your upper arm centred in its shallow socket while the lats and biceps do the pulling. Pull-ups are not bad for a healthy shoulder, but hard passive hangs, a bar behind the neck and sloppy reps under fatigue load the cuff and labrum in ways they tolerate poorly. Here is the anatomy, the research, the technique and prehab that protect the joint, and the signs that pain needs a clinician.",
+      "body_html": "<h2>What is the rotator cuff and how does it fit around the shoulder joint?</h2>\n<p>Four muscles run from the shoulder blade (scapula) to the top of the upper arm bone (humerus). Their tendons blend into a cuff around the joint. The usual mnemonic is SITS: supraspinatus, infraspinatus, teres minor, subscapularis.<sup>[1]</sup></p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Muscle</th><th>Origin</th><th>Insertion</th><th>Nerve</th><th>Main action</th><th>Role in a pull-up</th></tr></thead>\n<tbody>\n<tr><td>Supraspinatus</td><td>Supraspinous fossa of the scapula</td><td>Greater tubercle, superior facet</td><td>Suprascapular nerve (C5–C6)</td><td>Starts abduction, presses the humeral head into the socket</td><td>Keeps the head seated in the hang and during the first pull</td></tr>\n<tr><td>Infraspinatus</td><td>Infraspinous fossa</td><td>Greater tubercle, middle facet</td><td>Suprascapular nerve (C5–C6)</td><td>External rotation</td><td>Resists the internal-rotation pull of the lats; highly active through the rep</td></tr>\n<tr><td>Teres minor</td><td>Lateral border of the scapula</td><td>Greater tubercle, inferior facet</td><td>Axillary nerve (C5–C6)</td><td>External rotation</td><td>Backs up the infraspinatus, especially with the arm overhead</td></tr>\n<tr><td>Subscapularis</td><td>Subscapular fossa (front of the scapula)</td><td>Lesser tubercle</td><td>Upper and lower subscapular nerves (C5–C7)</td><td>Internal rotation, anterior stability</td><td>Stops the head sliding forward at the bottom and the top</td></tr>\n</tbody></table></div>\n<p>The glenohumeral joint is a ball and socket, but the socket (glenoid) is small and flat. A ring of fibrocartilage, the labrum, deepens it a little, and the long head of the biceps tendon anchors to the top of that ring. The design gives the shoulder more range of motion than any other joint, and it pays for it with less passive stability. The cuff provides the missing stability actively, by compressing the ball into the socket in every position.<sup>[1]</sup></p>\n<p>Clinicians call the arrangement a force couple. Big muscles such as the lats and deltoid move the arm through space, while the cuff muscles pull on the humeral head from opposite sides, so the ball spins in place instead of sliding. The infraspinatus and subscapularis are not weak helpers: in scapular-plane raises they produce an estimated two to three times the force of the supraspinatus.<sup>[3]</sup> If the cuff is weak, tired or late, the ball drifts and the tendons and labrum take load they were not built for.</p>\n\n<h2>What does the cuff do in each phase of a pull-up?</h2>\n<h3>Dead hang</h3>\n<p>In a fully relaxed hang your bodyweight rests on the capsule, the ligaments and the labrum. It is a stretch, and it is the position with the least muscular protection. In an active hang you pull the shoulder blades down and slightly back, and the cuff plus the lower trapezius switch on and share the load. Our <a href=\"/dead-hang-benefits/\">dead hang guide</a> covers how long to hold each version.</p>\n<h3>Initiation</h3>\n<p>EMG work on pull-ups and chin-ups suggests the rep starts with the lower trapezius and pectoralis major, and that the biceps and lats finish it.<sup>[5]</sup> The scapula depresses first. The supraspinatus and subscapularis keep the ball seated while the elbow has not yet bent.</p>\n<h3>Mid-pull</h3>\n<p>The lats are strong internal rotators and extensors. While they pull you up, the infraspinatus and teres minor resist that internal rotation and keep the head centred. In the same EMG study the infraspinatus averaged 71–79 percent of its maximal contraction across pull-up variations, next to 117–130 percent for the lats and 78–96 percent for the biceps.<sup>[5]</sup></p>\n<h3>Top</h3>\n<p>At the bar the elbows are tucked and the humerus is extended. Two habits cause trouble here: rolling the shoulders forward into heavy internal rotation to squeeze out the last inch, and poking the chin forward. Both tilt the scapula forward, which narrows the space under the acromion.<sup>[3]</sup></p>\n<h3>Lowering</h3>\n<p>Lower in two to three seconds and keep the shoulder blades under control until the elbows are straight. Dropping into the bottom means the capsule and labrum catch you, not the muscles.</p>\n\n<h2>What does the research say about shoulders and pull-ups?</h2>\n<p>Shoulder complaints are common in people who lift. A review of resistance-training injuries found that up to 36 percent of documented injuries and disorders involved the shoulder complex, with muscle imbalance and poor technique as recurring risk factors. Most of that evidence is retrospective, so it describes patterns rather than proving causes.<sup>[4]</sup> In clinics, subacromial impingement is the most common shoulder diagnosis, reported in roughly 44 to 65 percent of shoulder complaints, and it is increasingly seen as a cluster of symptoms rather than one structural fault.<sup>[2]</sup></p>\n<p>Exercises that put the arm in the high-five position, such as behind-the-neck pulldowns and presses, were associated with clinical signs of anterior instability in a case-control study of 159 men who weight-train; strengthening the external rotators showed the opposite association.<sup>[7]</sup> A small kinematics study of eleven regular pull-up trainees found that the wide-grip and the reverse (behind-the-neck style) techniques produced scapular and glenohumeral patterns linked with higher impingement risk, and that high arm elevation itself reduces subacromial space.<sup>[6]</sup></p>\n<p>Grip matters less than many people think. Lat, biceps and infraspinatus activity were in similar ranges across pull-ups and chin-ups; the chin-up showed more pectoralis and biceps activity, the pull-up more lower trapezius.<sup>[5]</sup> We could not find a controlled study of cuff load in kipping versus strict pull-ups, so treat this as reasoning, not data: kipping adds speed and a ballistic stretch at the bottom, which shifts load from muscle to passive tissue at the moment it is least protected. Learn strict first.</p>\n\n<h2>Which technique rules protect the cuff?</h2>\n<ul>\n<li><strong>Depress the shoulder blades before you bend the elbows.</strong> Scapular retraction and depression widen the subacromial space and let the supraspinatus work from a better position.<sup>[3]</sup></li>\n<li><strong>Elbows slightly in front of the body at the bottom.</strong> Hang with a hint of shoulder flexion, not with the arms pulled behind the ears. Arms fully behind the body load the front of the capsule.</li>\n<li><strong>No hard drop into the hang when you are tired.</strong> The last rep of the last set is when passive tissue gets surprised. Lower slowly or stop a rep early.</li>\n<li><strong>Use a neutral grip if the shoulders complain.</strong> Palms facing each other keeps the humerus closer to the scapular plane, and activation across grips is similar, so you lose little. See <a href=\"/chin-up-vs-pull-up/\">chin-up vs pull-up</a>.</li>\n<li><strong>Full range only if it is pain-free.</strong> A slightly shortened bottom position for a few weeks beats pushing through a pinch. Our <a href=\"/band-assisted-pull-ups/\">band-assisted pull-up guide</a> shows how to use bands without cheating.</li>\n<li><strong>Chest to the bar, not chin.</strong> Forward head plus rounded shoulders at the top is one of the <a href=\"/pull-up-mistakes/\">pull-up mistakes</a> that quietly irritates the cuff.</li>\n</ul>\n\n<h2>Which warm-up and prehab drills help?</h2>\n<p>Five to eight minutes before you touch the bar, plus one short block on two other days, is plenty. External rotation and prone raises show consistently high cuff and scapular activity in EMG studies.<sup>[3]</sup></p>\n<ul>\n<li><strong>Band external rotations</strong>, elbow at the ribs: 2 sets of 15 each side. Slow, no shrug.</li>\n<li><strong>Side-lying external rotation</strong> with a light dumbbell, 1–3 kg: 2 sets of 12–15. This isolates the infraspinatus and teres minor.</li>\n<li><strong>Prone Y and T raises</strong>, thumbs up: 2 sets of 10 each. Lower trapezius and the posterior cuff.</li>\n<li><strong>Face pulls</strong> with a band or cable: 2 sets of 15. Pull to the forehead, finish with the knuckles facing the ceiling.</li>\n<li><strong>Active hang holds</strong>: 3 sets of 10–20 seconds, shoulder blades down, elbows straight.</li>\n<li><strong>Controlled dead hangs</strong>: 2 sets of 20–30 seconds, only after the active holds, and never to failure on a tired shoulder.</li>\n</ul>\n<p>Before a session, do one set of each; on rest days, the full list. Loads stay light. The goal is control, not fatigue.</p>\n\n<h2>What can go wrong, and when should you see a clinician?</h2>\n<p>These notes are for orientation, not diagnosis. Shoulder pain has overlapping causes, and an examination sorts them out faster than a website.</p>\n<ul>\n<li><strong>Subacromial pain syndrome (impingement).</strong> Pain at the front or side of the shoulder in a painful arc as the arm goes overhead, often worst at the top of the pull-up. It is now understood as irritation of the cuff and bursa under the acromion rather than a single bony cause. First-line care is load management plus strengthening of the cuff and scapular muscles, with medication for pain where needed.<sup>[2]</sup></li>\n<li><strong>Rotator cuff tendinopathy.</strong> A tendon that has done more than it can recover from: a dull ache that warms up during training and returns afterwards, plus weakness in external rotation. Rehab is progressive loading over weeks, not rest alone.</li>\n<li><strong>SLAP lesions and the long head of biceps.</strong> The biceps tendon anchors on the upper labrum, and repeated hard hangs and ballistic reps can irritate that anchor. Deep pain, painful clicking and discomfort at the bottom of a chin-up are typical, but only an examination and imaging can confirm it.</li>\n<li><strong>Anterior instability.</strong> A feeling that the shoulder might slip, often in the high-five position. More common in lifters than non-lifters and associated with behind-the-neck work.<sup>[7]</sup> Avoid those positions and build the external rotators.</li>\n</ul>\n<p><strong>Red flags</strong> that mean an appointment rather than a tweak to your training: pain at night or at rest, pain that lasts more than two or three weeks despite easing off, clear weakness lifting or rotating the arm, clicking or catching with pain, numbness in the arm, or a shoulder that has dislocated. A clinician will test strength and range, check scapular control and sometimes order imaging. Most non-traumatic cuff problems are managed without surgery: a few weeks of adjusted load, a graded strengthening programme, then a slow return to hanging work.</p>\n\n<h2>How should you program pull-ups to keep the shoulders fresh?</h2>\n<p>The cuff adapts more slowly than the lats. Add volume in small steps, roughly one set or a few reps per week, and rest two to three minutes between hard sets so the small muscles are not failing before the big ones. Train pull-ups two to three times a week with a day between sessions, and plan a lighter week every four to six weeks or whenever the first rep of a set starts to feel off. Our <a href=\"/pull-up-workout-plan/\">pull-up workout plan</a> lays out a weekly structure, and the <a href=\"/pull-up-plateau/\">plateau guide</a> covers stalled progress. The app follows the same logic: it rewrites your next session from how the last one went, so a tired shoulder gets a lighter block instead of a harder one.</p>",
+      "faq": [
+        {
+          "q": "Are pull-ups bad for your shoulders?",
+          "a": "Not for a healthy shoulder with sound technique. Problems usually come from passive hangs under fatigue, bars behind the neck, fast kipping reps and adding volume too quickly. If a pull-up hurts every time, get it checked rather than pushing through."
+        },
+        {
+          "q": "Why does my shoulder click during pull-ups?",
+          "a": "Painless clicking is common and usually comes from a tendon or bursa moving over bone. Clicking that hurts, catches or comes with weakness can point to the labrum or the biceps anchor, and that is worth a clinician's examination."
+        },
+        {
+          "q": "Is a dead hang good or bad for the rotator cuff?",
+          "a": "Both, depending on how you do it. A controlled hang with the shoulder blades slightly engaged builds tolerance; a long, fully relaxed hang on a tired or irritated shoulder loads the capsule and labrum instead of the muscles. Start active, keep passive hangs short."
+        },
+        {
+          "q": "Can I do pull-ups with shoulder impingement?",
+          "a": "Often yes, with modifications: neutral grip, a shortened bottom position, slow lowering and lower volume. Stop the set at the first pinch. Follow the plan a physiotherapist or doctor gives you, and let pain-free range decide how far you go."
+        },
+        {
+          "q": "Which grip is easiest on the shoulders?",
+          "a": "Most people find a neutral grip, palms facing each other at about shoulder width, the most comfortable. Muscle activation is similar across grips, so you give up very little by switching. Avoid very wide grips and anything behind the neck."
+        }
+      ],
+      "sources": [
+        {
+          "label": "La Rose J, Madrazo-Ibarra A, Varacallo MA. Anatomy, Rotator Cuff. StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK441844/"
+        },
+        {
+          "label": "Creech JA, Busse A, Li D, Pinkerman S, Silver S. Shoulder Impingement Syndrome. StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK554518/"
+        },
+        {
+          "label": "Escamilla RF, Yamashiro K, Paulos L, Andrews JR. Shoulder muscle activity and function in common shoulder rehabilitation exercises. Sports Med, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19769415/"
+        },
+        {
+          "label": "Kolber MJ, Beekhuizen KS, Cheng MS, Hellman MA. Shoulder injuries attributed to resistance training: a brief review. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20508476/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, et al. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or Perfect-Pullup rotational exercise. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Prinold JA, Bull AM. Scapula kinematics of pull-up techniques: avoiding impingement risk with training changes. J Sci Med Sport, 2016.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26383875/"
+        },
+        {
+          "label": "Kolber MJ, Corrao M, Hanney WJ. Characteristics of anterior shoulder instability and hyperlaxity in the weight-training population. J Strength Cond Res, 2013.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22836608/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/grip-forearm-anatomy-pull-ups/",
+          "title": "Grip strength for pull-ups: forearm anatomy, why it fails first and how to train it"
+        },
+        {
+          "href": "/scapular-muscles-pull-ups/",
+          "title": "Scapular muscles and pull-ups: an anatomy lesson for trainees"
+        },
+        {
+          "href": "/pull-up-muscles-worked/",
+          "title": "Pull-up muscles worked: what you're really training"
+        },
+        {
+          "href": "/dead-hang-benefits/",
+          "title": "Dead hang benefits: what it does, how long to hang and how to progress"
+        },
+        {
+          "href": "/pull-up-mistakes/",
+          "title": "Pull-up mistakes: 7 form errors that hold you back (and the fixes)"
+        },
+        {
+          "href": "/pull-up-workout-plan/",
+          "title": "Pull-up workout plan: a weekly routine to add reps"
+        },
+        {
+          "href": "/pull-up-plateau/",
+          "title": "Pull-up plateau: why your reps stopped going up and how to break through"
+        }
+      ]
+    },
+    "de": {
+      "title": "Rotatorenmanschette Klimmzug: Anatomie, Technik, Schutz",
+      "description": "Wie Rotatorenmanschette und Schultergelenk beim Klimmzug arbeiten, was Studien zeigen, welche Technik und Prehab schützen und wann Schmerz zum Arzt gehört.",
+      "headline": "Rotatorenmanschette und Klimmzug: So arbeitet die Schulter und so bleibt sie gesund",
+      "subtitle": "Eine Anatomiestunde für Trainierende",
+      "read_time": "9 Min. Lesezeit",
+      "lede": "Die Rotatorenmanschette besteht aus vier kleinen Muskeln, die den Oberarmkopf in der flachen Gelenkpfanne zentrieren, während Latissimus und Bizeps ziehen. Klimmzüge sind für eine gesunde Schulter nicht schädlich, aber harte passive Hänge, die Stange im Nacken und schlampige Wiederholungen unter Ermüdung belasten Manschette und Labrum auf eine Weise, die sie schlecht vertragen. Hier bekommst du die Anatomie, die Studienlage, die Technik- und Prehab-Regeln, die das Gelenk schützen, und die Zeichen, bei denen Schmerz in ärztliche Hände gehört.",
+      "body_html": "<h2>Was ist die Rotatorenmanschette und wie sitzt sie am Schultergelenk?</h2>\n<p>Vier Muskeln ziehen vom Schulterblatt (Scapula) zum oberen Ende des Oberarmknochens (Humerus). Ihre Sehnen verschmelzen zu einer Manschette rund um das Gelenk. Die gängige Eselsbrücke heißt SITS: Supraspinatus, Infraspinatus, Teres minor, Subscapularis.<sup>[1]</sup></p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Muskel</th><th>Ursprung</th><th>Ansatz</th><th>Nerv</th><th>Hauptfunktion</th><th>Rolle im Klimmzug</th></tr></thead>\n<tbody>\n<tr><td>Supraspinatus</td><td>Fossa supraspinata des Schulterblatts</td><td>Tuberculum majus, obere Facette</td><td>N. suprascapularis (C5–C6)</td><td>Leitet die Abduktion ein, drückt den Oberarmkopf in die Pfanne</td><td>Hält den Kopf im Hang und beim ersten Zug zentriert</td></tr>\n<tr><td>Infraspinatus</td><td>Fossa infraspinata</td><td>Tuberculum majus, mittlere Facette</td><td>N. suprascapularis (C5–C6)</td><td>Außenrotation</td><td>Bremst den Innenrotationszug des Latissimus; über die ganze Wiederholung sehr aktiv</td></tr>\n<tr><td>Teres minor</td><td>Seitlicher Rand des Schulterblatts</td><td>Tuberculum majus, untere Facette</td><td>N. axillaris (C5–C6)</td><td>Außenrotation</td><td>Unterstützt den Infraspinatus, vor allem mit dem Arm über Kopf</td></tr>\n<tr><td>Subscapularis</td><td>Fossa subscapularis (Vorderseite des Schulterblatts)</td><td>Tuberculum minus</td><td>Nn. subscapulares superior und inferior (C5–C7)</td><td>Innenrotation, vordere Stabilität</td><td>Verhindert, dass der Kopf unten und oben nach vorn rutscht</td></tr>\n</tbody></table></div>\n<p>Das Schultergelenk (Glenohumeralgelenk) ist ein Kugelgelenk, aber die Pfanne (Glenoid) ist klein und flach. Ein Ring aus Faserknorpel, das Labrum, vertieft sie ein wenig, und die lange Bizepssehne setzt am oberen Rand dieses Rings an. Diese Bauweise gibt der Schulter mehr Bewegungsumfang als jedem anderen Gelenk, und sie bezahlt dafür mit weniger passiver Stabilität. Die Manschette liefert die fehlende Stabilität aktiv, indem sie die Kugel in jeder Position in die Pfanne presst.<sup>[1]</sup></p>\n<p>Kliniker nennen dieses Zusammenspiel ein Kräftepaar. Große Muskeln wie Latissimus und Deltamuskel bewegen den Arm durch den Raum, während die Manschettenmuskeln von gegenüberliegenden Seiten am Oberarmkopf ziehen. So dreht sich die Kugel an Ort und Stelle, statt zu verrutschen. Infraspinatus und Subscapularis sind dabei keine schwachen Helfer: Beim Anheben in der Schulterblattebene erzeugen sie schätzungsweise das Zwei- bis Dreifache der Kraft des Supraspinatus.<sup>[3]</sup> Ist die Manschette schwach, müde oder zu spät dran, wandert die Kugel, und Sehnen und Labrum tragen Last, für die sie nicht gebaut sind.</p>\n\n<h2>Was macht die Manschette in jeder Phase des Klimmzugs?</h2>\n<h3>Dead Hang</h3>\n<p>Im völlig entspannten Hang ruht dein Körpergewicht auf Kapsel, Bändern und Labrum. Das dehnt, und es ist zugleich die Position mit dem geringsten muskulären Schutz. Im aktiven Hang ziehst du die Schulterblätter nach unten und leicht nach hinten; Manschette und unterer Trapezius schalten sich zu und teilen sich die Last. Unser <a href=\"/de/dead-hang-vorteile/\">Dead-Hang-Ratgeber</a> erklärt, wie lange du jede Variante halten solltest.</p>\n<h3>Einleitung</h3>\n<p>EMG-Messungen an Klimmzügen und Chin-ups deuten darauf hin, dass die Wiederholung mit unterem Trapezius und großem Brustmuskel beginnt und Bizeps und Latissimus sie abschließen.<sup>[5]</sup> Das Schulterblatt senkt sich zuerst. Supraspinatus und Subscapularis halten die Kugel zentriert, solange der Ellbogen noch gestreckt ist.</p>\n<h3>Mittlerer Zug</h3>\n<p>Der Latissimus ist ein starker Innenrotator und Strecker. Während er dich nach oben zieht, halten Infraspinatus und Teres minor gegen diese Innenrotation und zentrieren den Kopf. In derselben EMG-Studie lag der Infraspinatus über alle Klimmzugvarianten bei durchschnittlich 71–79 Prozent seiner Maximalkontraktion, neben 117–130 Prozent beim Latissimus und 78–96 Prozent beim Bizeps.<sup>[5]</sup></p>\n<h3>Oben</h3>\n<p>An der Stange sind die Ellbogen eng am Körper und der Oberarm ist gestreckt. Zwei Gewohnheiten machen hier Ärger: die Schultern für den letzten Zentimeter nach vorn in starke Innenrotation rollen und das Kinn nach vorn schieben. Beides kippt das Schulterblatt nach vorn und verengt den Raum unter dem Schulterdach (Akromion).<sup>[3]</sup></p>\n<h3>Ablassen</h3>\n<p>Lass dich in zwei bis drei Sekunden ab und halte die Schulterblätter unter Kontrolle, bis die Ellbogen gestreckt sind. Wer in die Endposition fällt, wird von Kapsel und Labrum aufgefangen, nicht von den Muskeln.</p>\n\n<h2>Was sagt die Forschung zu Schulter und Klimmzug?</h2>\n<p>Schulterbeschwerden sind bei Kraftsportlern häufig. Eine Übersichtsarbeit zu Verletzungen im Krafttraining fand, dass bis zu 36 Prozent der dokumentierten Verletzungen und Beschwerden den Schulterkomplex betrafen; muskuläre Dysbalancen und schlechte Technik tauchten immer wieder als Risikofaktoren auf. Der Großteil dieser Daten ist retrospektiv, beschreibt also Muster, statt Ursachen zu beweisen.<sup>[4]</sup> In Praxen ist das subakromiale Impingement die häufigste Schulterdiagnose, berichtet bei rund 44 bis 65 Prozent der Schulterbeschwerden, und es wird zunehmend als Symptomkomplex und nicht als einzelner struktureller Defekt verstanden.<sup>[2]</sup></p>\n<p>Übungen in der „High-five“-Position, etwa Latzug und Drücken hinter dem Nacken, waren in einer Fall-Kontroll-Studie mit 159 krafttrainierenden Männern mit klinischen Zeichen vorderer Instabilität verbunden; das Kräftigen der Außenrotatoren zeigte den gegenteiligen Zusammenhang.<sup>[7]</sup> Eine kleine Bewegungsanalyse mit elf regelmäßigen Klimmzugtrainierenden fand, dass breiter Griff und die „Reverse“-Technik (im Nackenstil) Schulterblatt- und Gelenkmuster erzeugen, die mit höherem Impingement-Risiko in Verbindung stehen, und dass hohe Armelevation an sich den subakromialen Raum verkleinert.<sup>[6]</sup></p>\n<p>Der Griff ist weniger entscheidend, als viele denken. Die Aktivität von Latissimus, Bizeps und Infraspinatus lag bei Klimmzug und Chin-up in ähnlichen Bereichen; der Chin-up zeigte mehr Brust- und Bizepsaktivität, der Klimmzug mehr unteren Trapezius.<sup>[5]</sup> Eine kontrollierte Studie zur Manschettenbelastung bei Kipping- gegenüber strikten Klimmzügen konnten wir nicht finden, also nimm das Folgende als Überlegung, nicht als Datenlage: Kipping bringt Tempo und eine ballistische Dehnung unten, was Last in dem Moment vom Muskel auf passives Gewebe verlagert, in dem es am wenigsten geschützt ist. Lerne zuerst strikt.</p>\n\n<h2>Welche Technikregeln schützen die Manschette?</h2>\n<ul>\n<li><strong>Schulterblätter senken, bevor du die Ellbogen beugst.</strong> Retraktion und Depression des Schulterblatts weiten den subakromialen Raum und lassen den Supraspinatus aus einer besseren Position arbeiten.<sup>[3]</sup></li>\n<li><strong>Ellbogen unten leicht vor dem Körper.</strong> Hänge mit einem Hauch Schulterflexion, nicht mit den Armen hinter den Ohren. Arme komplett hinter dem Körper belasten die vordere Kapsel.</li>\n<li><strong>Kein hartes Fallenlassen in den Hang, wenn du müde bist.</strong> Die letzte Wiederholung des letzten Satzes ist der Moment, in dem passives Gewebe überrascht wird. Langsam ablassen oder eine Wiederholung früher aufhören.</li>\n<li><strong>Neutraler Griff, wenn die Schultern meckern.</strong> Handflächen zueinander halten den Oberarm näher an der Schulterblattebene, und die Aktivierung ist über alle Griffe ähnlich, du verlierst also wenig. Siehe <a href=\"/de/klimmzug-vs-chin-up/\">Klimmzug vs. Chin-up</a>.</li>\n<li><strong>Volle Bewegungsamplitude nur schmerzfrei.</strong> Eine leicht verkürzte Endposition über ein paar Wochen ist besser, als durch ein Zwicken hindurchzuziehen. Unser Ratgeber zum <a href=\"/de/klimmzug-mit-widerstandsband/\">Klimmzug mit Widerstandsband</a> zeigt, wie du Bänder einsetzt, ohne zu schummeln.</li>\n<li><strong>Brust zur Stange, nicht das Kinn.</strong> Vorgeschobener Kopf plus runde Schultern oben gehört zu den <a href=\"/de/klimmzug-fehler/\">Klimmzug-Fehlern</a>, die die Manschette still und leise reizen.</li>\n</ul>\n\n<h2>Welche Aufwärm- und Prehab-Übungen helfen?</h2>\n<p>Fünf bis acht Minuten, bevor du die Stange anfasst, plus ein kurzer Block an zwei weiteren Tagen reichen aus. Außenrotation und Anheben in Bauchlage zeigen in EMG-Studien durchgehend hohe Aktivität von Manschette und Schulterblattmuskeln.<sup>[3]</sup></p>\n<ul>\n<li><strong>Außenrotation mit Band</strong>, Ellbogen an den Rippen: 2 Sätze à 15 pro Seite. Langsam, nicht die Schulter hochziehen.</li>\n<li><strong>Außenrotation in Seitlage</strong> mit leichter Kurzhantel, 1–3 kg: 2 Sätze à 12–15. Isoliert Infraspinatus und Teres minor.</li>\n<li><strong>Y- und T-Raises in Bauchlage</strong>, Daumen nach oben: je 2 Sätze à 10. Unterer Trapezius und hintere Manschette.</li>\n<li><strong>Face Pulls</strong> mit Band oder Kabelzug: 2 Sätze à 15. Zur Stirn ziehen, Knöchel am Ende zur Decke.</li>\n<li><strong>Aktive Hänge</strong>: 3 Sätze à 10–20 Sekunden, Schulterblätter unten, Ellbogen gestreckt.</li>\n<li><strong>Kontrollierte Dead Hangs</strong>: 2 Sätze à 20–30 Sekunden, erst nach den aktiven Hängen und nie bis zum Versagen mit müder Schulter.</li>\n</ul>\n<p>Vor einer Einheit je einen Satz, an Ruhetagen die ganze Liste. Die Lasten bleiben leicht. Ziel ist Kontrolle, nicht Ermüdung.</p>\n\n<h2>Was kann schiefgehen, und wann solltest du zum Arzt?</h2>\n<p>Diese Hinweise dienen der Orientierung, nicht der Diagnose. Schulterschmerz hat überlappende Ursachen, und eine Untersuchung sortiert sie schneller als eine Website.</p>\n<ul>\n<li><strong>Subakromiales Schmerzsyndrom (Impingement).</strong> Schmerz vorn oder seitlich an der Schulter in einem schmerzhaften Bogen, wenn der Arm über Kopf geht, oft am stärksten oben im Klimmzug. Heute versteht man es als Reizung von Manschette und Schleimbeutel unter dem Akromion statt als einzelne knöcherne Ursache. Erste Wahl sind Belastungssteuerung plus Kräftigung von Manschette und Schulterblattmuskulatur, bei Bedarf Schmerzmedikation.<sup>[2]</sup></li>\n<li><strong>Tendinopathie der Rotatorenmanschette.</strong> Eine Sehne, die mehr getan hat, als sie regenerieren konnte: dumpfer Schmerz, der sich im Training einläuft und danach zurückkommt, plus Schwäche in der Außenrotation. Die Reha besteht aus progressiver Belastung über Wochen, nicht aus Ruhe allein.</li>\n<li><strong>SLAP-Läsionen und die lange Bizepssehne.</strong> Die Bizepssehne verankert sich am oberen Labrum, und wiederholte harte Hänge sowie ballistische Wiederholungen können diesen Anker reizen. Tiefer Schmerz, schmerzhaftes Knacken und Beschwerden am tiefsten Punkt eines Chin-ups sind typisch, aber nur Untersuchung und Bildgebung können es bestätigen.</li>\n<li><strong>Vordere Instabilität.</strong> Das Gefühl, die Schulter könnte herausrutschen, oft in der High-five-Position. Bei Kraftsportlern häufiger als bei Nichtsportlern und mit Nackenübungen assoziiert.<sup>[7]</sup> Meide diese Positionen und baue die Außenrotatoren auf.</li>\n</ul>\n<p><strong>Warnzeichen</strong>, die einen Termin statt einer Trainingsanpassung bedeuten: Schmerz nachts oder in Ruhe, Schmerz, der trotz Schonung länger als zwei bis drei Wochen anhält, deutliche Schwäche beim Heben oder Drehen des Arms, Knacken oder Hängenbleiben mit Schmerz, Taubheit im Arm oder eine Schulter, die ausgekugelt war. Ärztin oder Physiotherapeut testen Kraft und Beweglichkeit, prüfen die Schulterblattkontrolle und ordnen manchmal Bildgebung an. Die meisten nicht traumatischen Manschettenprobleme werden ohne Operation behandelt: ein paar Wochen angepasste Belastung, ein gestuftes Kräftigungsprogramm, dann eine langsame Rückkehr zur Hängearbeit.</p>\n\n<h2>Wie planst du Klimmzüge so, dass die Schultern frisch bleiben?</h2>\n<p>Die Manschette passt sich langsamer an als der Latissimus. Steigere das Volumen in kleinen Schritten, etwa ein Satz oder ein paar Wiederholungen pro Woche, und pausiere zwei bis drei Minuten zwischen harten Sätzen, damit die kleinen Muskeln nicht vor den großen versagen. Trainiere Klimmzüge zwei- bis dreimal pro Woche mit einem Tag Abstand und plane alle vier bis sechs Wochen eine leichtere Woche ein, oder sobald sich die erste Wiederholung eines Satzes komisch anfühlt. Unser <a href=\"/de/klimmzug-trainingsplan/\">Klimmzug-Trainingsplan</a> zeigt eine Wochenstruktur, und der <a href=\"/de/klimmzug-plateau/\">Plateau-Ratgeber</a> hilft, wenn es nicht weitergeht. Die App folgt derselben Logik: Sie schreibt deine nächste Einheit danach neu, wie die letzte gelaufen ist, sodass eine müde Schulter einen leichteren Block bekommt statt eines härteren.</p>",
+      "faq": [
+        {
+          "q": "Sind Klimmzüge schlecht für die Schultern?",
+          "a": "Für eine gesunde Schulter mit sauberer Technik nicht. Probleme entstehen meist durch passive Hänge unter Ermüdung, die Stange im Nacken, schnelle Kipping-Wiederholungen und zu schnell gesteigertes Volumen. Tut ein Klimmzug jedes Mal weh, lass es abklären, statt durchzuziehen."
+        },
+        {
+          "q": "Warum knackt meine Schulter beim Klimmzug?",
+          "a": "Schmerzfreies Knacken ist häufig und kommt meist von einer Sehne oder einem Schleimbeutel, der über Knochen gleitet. Knacken, das wehtut, hängen bleibt oder mit Schwäche einhergeht, kann auf Labrum oder Bizepsanker hindeuten und gehört in eine ärztliche Untersuchung."
+        },
+        {
+          "q": "Ist der Dead Hang gut oder schlecht für die Rotatorenmanschette?",
+          "a": "Beides, je nach Ausführung. Ein kontrollierter Hang mit leicht angespannten Schulterblättern baut Belastbarkeit auf; ein langer, völlig entspannter Hang mit müder oder gereizter Schulter belastet Kapsel und Labrum statt der Muskeln. Beginne aktiv und halte passive Hänge kurz."
+        },
+        {
+          "q": "Kann ich mit Impingement Klimmzüge machen?",
+          "a": "Oft ja, mit Anpassungen: neutraler Griff, verkürzte Endposition, langsames Ablassen und weniger Volumen. Beende den Satz beim ersten Zwicken. Halte dich an den Plan deiner Physiotherapeutin oder deines Arztes und lass den schmerzfreien Bereich entscheiden, wie weit du gehst."
+        },
+        {
+          "q": "Welcher Griff ist am schonendsten für die Schultern?",
+          "a": "Die meisten empfinden den neutralen Griff, Handflächen zueinander etwa schulterbreit, als am angenehmsten. Die Muskelaktivierung ist über alle Griffe ähnlich, du gibst also kaum etwas auf. Meide sehr breite Griffe und alles hinter dem Nacken."
+        }
+      ],
+      "sources": [
+        {
+          "label": "La Rose J, Madrazo-Ibarra A, Varacallo MA. Anatomy, Rotator Cuff. StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK441844/"
+        },
+        {
+          "label": "Creech JA, Busse A, Li D, Pinkerman S, Silver S. Shoulder Impingement Syndrome. StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK554518/"
+        },
+        {
+          "label": "Escamilla RF, Yamashiro K, Paulos L, Andrews JR. Shoulder muscle activity and function in common shoulder rehabilitation exercises. Sports Med, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19769415/"
+        },
+        {
+          "label": "Kolber MJ, Beekhuizen KS, Cheng MS, Hellman MA. Shoulder injuries attributed to resistance training: a brief review. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20508476/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, et al. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or Perfect-Pullup rotational exercise. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Prinold JA, Bull AM. Scapula kinematics of pull-up techniques: avoiding impingement risk with training changes. J Sci Med Sport, 2016.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26383875/"
+        },
+        {
+          "label": "Kolber MJ, Corrao M, Hanney WJ. Characteristics of anterior shoulder instability and hyperlaxity in the weight-training population. J Strength Cond Res, 2013.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22836608/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/de/griffkraft-unterarm-klimmzug/",
+          "title": "Griffkraft beim Klimmzug: Unterarm-Anatomie, warum der Griff zuerst versagt und wie du ihn trainierst"
+        },
+        {
+          "href": "/de/schulterblatt-muskeln-klimmzug/",
+          "title": "Schulterblatt und Klimmzug: Die Schulterblattmuskeln erklärt"
+        },
+        {
+          "href": "/de/klimmzug-muskeln/",
+          "title": "Klimmzug Muskeln: Welche Muskeln werden trainiert?"
+        },
+        {
+          "href": "/de/dead-hang-vorteile/",
+          "title": "Dead Hang: Vorteile, Dauer und richtige Technik"
+        },
+        {
+          "href": "/de/klimmzug-fehler/",
+          "title": "Klimmzug Fehler: Die 7 häufigsten und wie du sie behebst"
+        },
+        {
+          "href": "/de/klimmzug-trainingsplan/",
+          "title": "Klimmzug Trainingsplan: So steigerst du deine Wiederholungen"
+        },
+        {
+          "href": "/de/klimmzug-plateau/",
+          "title": "Klimmzug-Plateau: So kommst du wieder voran"
+        }
+      ]
+    },
+    "tr": {
+      "title": "Rotator Manşet Barfiks Rehberi: Omuz Anatomisi ve Koruma",
+      "description": "Barfikste rotator manşet ve omuz eklemi nasıl çalışır, araştırmalar ne diyor, hangi teknik ve ısınma hareketleri korur, omuz ağrısı ne zaman doktora gitmeli.",
+      "headline": "Rotator manşet ve barfiks: omuz nasıl çalışır, nasıl sağlıklı kalır",
+      "subtitle": "Antrenman yapanlar için bir anatomi dersi",
+      "read_time": "9 dk okuma",
+      "lede": "Rotator manşet, latissimus ve biseps çekerken üst kol kemiğinin başını sığ eklem yuvasında ortalayan dört küçük kastan oluşur. Barfiks sağlıklı bir omuz için zararlı değildir; ama sert pasif asılışlar, ense arkasına çekilen bar ve yorgunken yapılan özensiz tekrarlar manşeti ve labrumu iyi tolere edemedikleri biçimde yükler. Bu rehberde anatomiyi, araştırmaları, eklemi koruyan teknik ve ısınma kurallarını ve ağrının ne zaman klinisyene gitmesi gerektiğini bulacaksın.",
+      "body_html": "<h2>Rotator manşet nedir ve omuz eklemine nasıl oturur?</h2>\n<p>Dört kas kürek kemiğinden (skapula) üst kol kemiğinin (humerus) tepesine uzanır. Tendonları eklemin etrafında bir manşet gibi kaynaşır. Yaygın kısaltma SITS'tir: supraspinatus, infraspinatus, teres minor, subskapularis.<sup>[1]</sup></p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Kas</th><th>Başlangıç</th><th>Yapışma</th><th>Sinir</th><th>Ana görev</th><th>Barfikste rolü</th></tr></thead>\n<tbody>\n<tr><td>Supraspinatus</td><td>Kürek kemiğinin supraspinöz çukuru</td><td>Büyük tüberkül, üst yüz</td><td>Supraskapular sinir (C5–C6)</td><td>Abduksiyonu başlatır, humerus başını yuvaya bastırır</td><td>Asılışta ve ilk çekişte başı yerinde tutar</td></tr>\n<tr><td>İnfraspinatus</td><td>İnfraspinöz çukur</td><td>Büyük tüberkül, orta yüz</td><td>Supraskapular sinir (C5–C6)</td><td>Dış rotasyon</td><td>Latissimusun iç rotasyon çekişine direnir; tekrar boyunca çok aktif</td></tr>\n<tr><td>Teres minor</td><td>Kürek kemiğinin dış kenarı</td><td>Büyük tüberkül, alt yüz</td><td>Aksiller sinir (C5–C6)</td><td>Dış rotasyon</td><td>Özellikle kol baş üstündeyken infraspinatusu destekler</td></tr>\n<tr><td>Subskapularis</td><td>Subskapular çukur (kürek kemiğinin ön yüzü)</td><td>Küçük tüberkül</td><td>Üst ve alt subskapular sinirler (C5–C7)</td><td>İç rotasyon, ön stabilite</td><td>Başın en altta ve en üstte öne kaymasını engeller</td></tr>\n</tbody></table></div>\n<p>Omuz eklemi (glenohumeral eklem) bir top-yuva eklemidir, ama yuva (glenoid) küçük ve sığdır. Labrum denen fibrokıkırdak halka onu biraz derinleştirir; bisepsin uzun başının tendonu da bu halkanın tepesine tutunur. Bu tasarım omza diğer tüm eklemlerden fazla hareket açıklığı verir ve bedeli daha az pasif stabilitedir. Eksik stabiliteyi manşet aktif olarak sağlar: her pozisyonda topu yuvaya bastırır.<sup>[1]</sup></p>\n<p>Klinisyenler bu düzene kuvvet çifti der. Latissimus ve deltoid gibi büyük kaslar kolu uzayda hareket ettirirken manşet kasları humerus başını karşıt yönlerden çeker; böylece top kaymak yerine yerinde döner. İnfraspinatus ve subskapularis zayıf yardımcılar değildir: kürek kemiği düzleminde kol kaldırmada supraspinatusun tahminen iki ila üç katı kuvvet üretirler.<sup>[3]</sup> Manşet zayıf, yorgun veya geç kalırsa top kayar; tendonlar ve labrum, tasarlanmadıkları bir yükü taşır.</p>\n\n<h2>Barfiksin her evresinde manşet ne yapar?</h2>\n<h3>Dead hang</h3>\n<p>Tamamen gevşek asılışta vücut ağırlığın kapsül, bağlar ve labrum üzerinde durur. Bu bir esnemedir ve aynı zamanda kas korumasının en az olduğu pozisyondur. Aktif asılışta kürek kemiklerini aşağı ve hafifçe geriye çekersin; manşet ve alt trapez devreye girip yükü paylaşır. <a href=\"/tr/dead-hang-faydalari/\">Dead hang rehberimiz</a> her iki biçimi ne kadar tutman gerektiğini anlatır.</p>\n<h3>Başlangıç</h3>\n<p>Barfiks ve chin-up üzerine EMG çalışmaları, tekrarın alt trapez ve büyük göğüs kasıyla başladığını, biseps ve latissimusla bittiğini gösteriyor.<sup>[5]</sup> Önce kürek kemiği aşağı iner. Dirsek henüz bükülmemişken supraspinatus ve subskapularis topu yerinde tutar.</p>\n<h3>Çekişin ortası</h3>\n<p>Latissimus güçlü bir iç rotatör ve ekstansördür. Seni yukarı çekerken infraspinatus ve teres minor bu iç rotasyona direnip başı ortalar. Aynı EMG çalışmasında infraspinatus, barfiks varyasyonları boyunca maksimum kasılmasının ortalama yüzde 71–79'unda çalıştı; latissimus yüzde 117–130, biseps yüzde 78–96 düzeyindeydi.<sup>[5]</sup></p>\n<h3>Tepe</h3>\n<p>Barda dirsekler gövdeye yakın, humerus ekstansiyondadır. Burada iki alışkanlık sorun çıkarır: son santimi kazanmak için omuzları öne yuvarlayıp aşırı iç rotasyona girmek ve çeneyi öne uzatmak. İkisi de kürek kemiğini öne yatırır ve akromiyon altındaki boşluğu daraltır.<sup>[3]</sup></p>\n<h3>İniş</h3>\n<p>İki-üç saniyede in ve dirsekler düzelene kadar kürek kemiklerini kontrolde tut. En alta düşersen seni kaslar değil, kapsül ve labrum yakalar.</p>\n\n<h2>Araştırmalar omuz ve barfiks hakkında ne diyor?</h2>\n<p>Ağırlık çalışanlarda omuz şikâyetleri yaygındır. Direnç antrenmanı yaralanmalarını inceleyen bir derleme, belgelenen yaralanma ve rahatsızlıkların yüzde 36'ya kadarının omuz kompleksini ilgilendirdiğini buldu; kas dengesizliği ve kötü teknik tekrarlayan risk faktörleriydi. Bu kanıtın çoğu geriye dönük, yani neden kanıtlamaktan çok örüntü tarif ediyor.<sup>[4]</sup> Kliniklerde subakromiyal sıkışma en sık omuz tanısıdır; omuz şikâyetlerinin kabaca yüzde 44–65'inde bildirilir ve artık tek bir yapısal kusur değil, bir belirti kümesi olarak görülür.<sup>[2]</sup></p>\n<p>Kolu \"beşlik çakma\" pozisyonuna sokan hareketler, örneğin ense arkası lat çekişi ve ense arkası pres, ağırlık çalışan 159 erkekle yapılan bir vaka-kontrol çalışmasında ön instabilite bulgularıyla ilişkiliydi; dış rotatörleri güçlendirmek ise ters ilişki gösterdi.<sup>[7]</sup> Düzenli barfiks yapan on bir kişiyle yapılan küçük bir kinematik çalışma, geniş tutuşun ve \"ters\" (ense arkası tarzı) tekniğin yüksek sıkışma riskiyle ilişkili kürek kemiği ve eklem örüntüleri ürettiğini, kolun yüksek elevasyonunun da tek başına subakromiyal boşluğu azalttığını buldu.<sup>[6]</sup></p>\n<p>Tutuş çoğu kişinin sandığından daha az önemlidir. Latissimus, biseps ve infraspinatus aktivitesi barfiks ile chin-up arasında benzer aralıktaydı; chin-up'ta göğüs ve biseps, barfikste alt trapez daha aktifti.<sup>[5]</sup> Kipping ile strict barfikste manşet yükünü ölçen kontrollü bir çalışma bulamadık; bu yüzden şunu veri değil, akıl yürütme olarak al: kipping hız ve en altta balistik bir gerilme ekler, bu da yükü tam korumasız anda kastan pasif dokuya kaydırır. Önce strict öğren.</p>\n\n<h2>Manşeti koruyan teknik kuralları nelerdir?</h2>\n<ul>\n<li><strong>Dirsekleri bükmeden önce kürek kemiklerini indir.</strong> Kürek kemiği retraksiyonu ve depresyonu subakromiyal boşluğu genişletir ve supraspinatusun daha iyi bir pozisyondan çalışmasını sağlar.<sup>[3]</sup></li>\n<li><strong>En altta dirsekler gövdenin hafifçe önünde.</strong> Kollar kulakların arkasına kaçmış halde değil, hafif omuz fleksiyonuyla asıl. Tamamen gövdenin gerisine giden kollar ön kapsülü yükler.</li>\n<li><strong>Yorgunken asılışa sert düşme.</strong> Son setin son tekrarı, pasif dokunun gafil avlandığı andır. Yavaş in ya da bir tekrar erken bırak.</li>\n<li><strong>Omuzlar şikâyet ediyorsa nötr tutuş.</strong> Avuçlar birbirine bakınca humerus kürek kemiği düzlemine daha yakın kalır; aktivasyon tutuşlar arasında benzer olduğundan kaybın azdır. Bkz. <a href=\"/tr/barfiks-vs-chin-up/\">barfiks mi chin-up mı</a>.</li>\n<li><strong>Tam hareket açıklığı yalnızca ağrısızsa.</strong> Birkaç hafta hafifçe kısaltılmış bir alt pozisyon, batmaya rağmen zorlamaktan iyidir. <a href=\"/tr/bantli-barfiks/\">Bantlı barfiks rehberimiz</a> bandı hile yapmadan nasıl kullanacağını gösterir.</li>\n<li><strong>Bara çene değil, göğüs.</strong> Tepede öne uzanmış baş ve yuvarlanmış omuzlar, manşeti sessizce tahriş eden <a href=\"/tr/barfiks-hatalari/\">barfiks hatalarından</a> biridir.</li>\n</ul>\n\n<h2>Hangi ısınma ve koruyucu hareketler işe yarar?</h2>\n<p>Bara dokunmadan önce beş-sekiz dakika, artı iki ayrı günde kısa bir blok yeterlidir. Dış rotasyon ve yüzüstü kaldırışlar EMG çalışmalarında tutarlı biçimde yüksek manşet ve kürek kemiği kası aktivitesi gösterir.<sup>[3]</sup></p>\n<ul>\n<li><strong>Bantla dış rotasyon</strong>, dirsek kaburgada: her taraf 2 set 15 tekrar. Yavaş, omuz kaldırmadan.</li>\n<li><strong>Yan yatarak dış rotasyon</strong>, 1–3 kg hafif dambılla: 2 set 12–15 tekrar. İnfraspinatus ve teres minoru izole eder.</li>\n<li><strong>Yüzüstü Y ve T kaldırış</strong>, başparmaklar yukarı: her biri 2 set 10 tekrar. Alt trapez ve arka manşet.</li>\n<li><strong>Face pull</strong>, bant veya kabloyla: 2 set 15 tekrar. Alna doğru çek, bitişte eklemler tavana baksın.</li>\n<li><strong>Aktif asılış</strong>: 3 set 10–20 saniye, kürek kemikleri aşağıda, dirsekler düz.</li>\n<li><strong>Kontrollü dead hang</strong>: 2 set 20–30 saniye, yalnızca aktif asılışlardan sonra ve yorgun omuzla asla tükenene kadar değil.</li>\n</ul>\n<p>Antrenman öncesi her birinden birer set; dinlenme günlerinde listenin tamamı. Yükler hafif kalır. Amaç yorgunluk değil, kontroldür.</p>\n\n<h2>Neler ters gidebilir, ne zaman klinisyene gitmelisin?</h2>\n<p>Bu notlar yön göstermek içindir, tanı koymak için değil. Omuz ağrısının örtüşen nedenleri vardır ve bir muayene bunları bir web sitesinden daha hızlı ayırır.</p>\n<ul>\n<li><strong>Subakromiyal ağrı sendromu (sıkışma).</strong> Kol baş üstüne giderken ağrılı bir yay içinde omzun ön veya yan tarafında ağrı; çoğu zaman barfiksin tepesinde en kötüsüdür. Artık tek bir kemiksel neden değil, akromiyon altındaki manşet ve bursanın tahrişi olarak anlaşılıyor. İlk basamak tedavi yük yönetimi ile manşet ve kürek kemiği kaslarının güçlendirilmesidir; gerekirse ağrı için ilaç eklenir.<sup>[2]</sup></li>\n<li><strong>Rotator manşet tendinopatisi.</strong> Toparlayabileceğinden fazlasını yapmış bir tendon: antrenmanda ısınınca azalan, sonra geri gelen künt bir ağrı ve dış rotasyonda güçsüzlük. Rehabilitasyon tek başına dinlenme değil, haftalar süren kademeli yüklemedir.</li>\n<li><strong>SLAP lezyonları ve bisepsin uzun başı.</strong> Biseps tendonu üst labruma tutunur; tekrarlayan sert asılışlar ve balistik tekrarlar bu tutunma noktasını tahriş edebilir. Derin ağrı, ağrılı tıkırtı ve chin-up'ın en altında rahatsızlık tipiktir, ama yalnızca muayene ve görüntüleme doğrulayabilir.</li>\n<li><strong>Ön instabilite.</strong> Omzun kayabileceği hissi, çoğunlukla beşlik çakma pozisyonunda. Ağırlık çalışanlarda çalışmayanlara göre daha sık ve ense arkası hareketlerle ilişkili.<sup>[7]</sup> Bu pozisyonlardan kaçın ve dış rotatörleri güçlendir.</li>\n</ul>\n<p><strong>Kırmızı bayraklar</strong>, yani antrenmanı ayarlamak yerine randevu almanı gerektiren durumlar: gece veya istirahatte ağrı, yükü azaltmana rağmen iki-üç haftadan uzun süren ağrı, kolu kaldırırken veya döndürürken belirgin güçsüzlük, ağrıyla birlikte tıkırtı veya takılma, kolda uyuşma ya da çıkmış bir omuz. Klinisyen kuvveti ve hareket açıklığını test eder, kürek kemiği kontrolüne bakar ve bazen görüntüleme ister. Travmatik olmayan manşet sorunlarının çoğu ameliyatsız yönetilir: birkaç hafta ayarlanmış yük, kademeli bir güçlendirme programı, sonra asılı çalışmaya yavaş dönüş.</p>\n\n<h2>Omuzlar dinç kalsın diye barfiksi nasıl programlamalısın?</h2>\n<p>Manşet latissimustan daha yavaş uyum sağlar. Hacmi küçük adımlarla artır, haftada kabaca bir set ya da birkaç tekrar, ve zor setler arasında iki-üç dakika dinlen ki küçük kaslar büyüklerden önce tükenmesin. Barfiksi haftada iki-üç kez, araya bir gün koyarak çalış; her dört-altı haftada bir ya da bir setin ilk tekrarı tuhaf hissettirmeye başladığında daha hafif bir hafta planla. <a href=\"/tr/barfiks-antrenman-programi/\">Barfiks antrenman programımız</a> haftalık yapıyı veriyor, <a href=\"/tr/barfiks-plato/\">plato rehberi</a> ise ilerleme durduğunda ne yapacağını anlatıyor. Uygulama aynı mantıkla çalışır: bir sonraki seansı öncekinin nasıl geçtiğine göre yeniden yazar; yorgun bir omuz daha zor değil, daha hafif bir blok alır.</p>",
+      "faq": [
+        {
+          "q": "Barfiks omuzlar için zararlı mı?",
+          "a": "Sağlıklı bir omuz ve düzgün teknikle hayır. Sorunlar genellikle yorgunken yapılan pasif asılışlardan, ense arkasına çekilen bardan, hızlı kipping tekrarlarından ve hacmi çok hızlı artırmaktan çıkar. Barfiks her seferinde ağrıtıyorsa zorlamak yerine kontrol ettir."
+        },
+        {
+          "q": "Barfiks yaparken omzum neden tıkırdıyor?",
+          "a": "Ağrısız tıkırtı yaygındır ve genellikle bir tendonun veya bursanın kemik üzerinden kaymasından kaynaklanır. Ağrıyan, takılan veya güçsüzlükle birlikte gelen tıkırtı labruma ya da biseps tutunma noktasına işaret edebilir; bu bir klinisyen muayenesi gerektirir."
+        },
+        {
+          "q": "Dead hang rotator manşet için iyi mi kötü mü?",
+          "a": "Nasıl yaptığına bağlı olarak ikisi de. Kürek kemikleri hafif aktifken kontrollü asılış dayanıklılık kazandırır; yorgun veya tahriş olmuş bir omuzla uzun, tamamen gevşek asılış kasları değil kapsülü ve labrumu yükler. Aktif başla, pasif asılışları kısa tut."
+        },
+        {
+          "q": "Omuz sıkışması varken barfiks yapabilir miyim?",
+          "a": "Çoğu zaman evet, uyarlamalarla: nötr tutuş, kısaltılmış alt pozisyon, yavaş iniş ve daha az hacim. İlk batmada seti bitir. Fizyoterapistinin veya doktorunun verdiği plana uy ve ne kadar ileri gideceğine ağrısız açıklık karar versin."
+        },
+        {
+          "q": "Omuzlar için en rahat tutuş hangisi?",
+          "a": "Çoğu kişi için omuz genişliğinde, avuçlar birbirine bakan nötr tutuş en rahatıdır. Kas aktivasyonu tutuşlar arasında benzer olduğundan geçişle çok az şey kaybedersin. Çok geniş tutuşlardan ve ense arkası her şeyden kaçın."
+        }
+      ],
+      "sources": [
+        {
+          "label": "La Rose J, Madrazo-Ibarra A, Varacallo MA. Anatomy, Rotator Cuff. StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK441844/"
+        },
+        {
+          "label": "Creech JA, Busse A, Li D, Pinkerman S, Silver S. Shoulder Impingement Syndrome. StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK554518/"
+        },
+        {
+          "label": "Escamilla RF, Yamashiro K, Paulos L, Andrews JR. Shoulder muscle activity and function in common shoulder rehabilitation exercises. Sports Med, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19769415/"
+        },
+        {
+          "label": "Kolber MJ, Beekhuizen KS, Cheng MS, Hellman MA. Shoulder injuries attributed to resistance training: a brief review. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20508476/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, et al. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or Perfect-Pullup rotational exercise. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Prinold JA, Bull AM. Scapula kinematics of pull-up techniques: avoiding impingement risk with training changes. J Sci Med Sport, 2016.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26383875/"
+        },
+        {
+          "label": "Kolber MJ, Corrao M, Hanney WJ. Characteristics of anterior shoulder instability and hyperlaxity in the weight-training population. J Strength Cond Res, 2013.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22836608/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/tr/kavrama-kuvveti-on-kol-barfiks/",
+          "title": "Barfikste kavrama kuvveti: ön kol anatomisi, neden ilk o pes eder ve nasıl çalıştırılır"
+        },
+        {
+          "href": "/tr/kurek-kemigi-kaslari-barfiks/",
+          "title": "Kürek kemiği kasları ve barfiks: sporcular için anatomi dersi"
+        },
+        {
+          "href": "/tr/barfiks-hangi-kaslari-calistirir/",
+          "title": "Barfiks hangi kasları çalıştırır?"
+        },
+        {
+          "href": "/tr/dead-hang-faydalari/",
+          "title": "Dead hang faydaları: ne kadar süre asılmalısın"
+        },
+        {
+          "href": "/tr/barfiks-hatalari/",
+          "title": "Barfiks hataları: en yaygın 7 form hatası ve nasıl düzeltilir"
+        },
+        {
+          "href": "/tr/barfiks-antrenman-programi/",
+          "title": "Barfiks antrenman programı: tekrar sayını artıran haftalık plan"
+        },
+        {
+          "href": "/tr/barfiks-plato/",
+          "title": "Barfiks plato: aynı tekrarda takılırsan ne yapmalı"
+        }
+      ]
+    },
+    "es": {
+      "title": "Manguito rotador y dominadas: anatomía y hombro sano",
+      "description": "Cómo trabajan el manguito rotador y el hombro en las dominadas, qué dice la ciencia, reglas de técnica, ejercicios de prevención y cuándo ir al médico.",
+      "headline": "Manguito rotador y dominadas: cómo funciona el hombro y cómo mantenerlo sano",
+      "subtitle": "Una clase de anatomía para quienes entrenan",
+      "read_time": "9 min de lectura",
+      "lede": "El manguito rotador son cuatro músculos pequeños que mantienen la cabeza del húmero centrada en su cavidad poco profunda mientras el dorsal y el bíceps tiran. Las dominadas no son malas para un hombro sano, pero los cuelgues pasivos bruscos, la barra tras la nuca y las repeticiones descuidadas con fatiga cargan el manguito y el labrum de una forma que toleran mal. Aquí tienes la anatomía, la investigación, la técnica y la prevención que protegen la articulación, y las señales de que el dolor necesita un profesional.",
+      "body_html": "<h2>¿Qué es el manguito rotador y cómo encaja en la articulación del hombro?</h2>\n<p>Cuatro músculos van desde el omóplato (escápula) hasta la parte alta del hueso del brazo (húmero). Sus tendones se funden en un manguito alrededor de la articulación. La regla mnemotécnica habitual es SITS: supraespinoso, infraespinoso, redondo menor y subescapular.<sup>[1]</sup></p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Músculo</th><th>Origen</th><th>Inserción</th><th>Nervio</th><th>Acción principal</th><th>Papel en la dominada</th></tr></thead>\n<tbody>\n<tr><td>Supraespinoso</td><td>Fosa supraespinosa de la escápula</td><td>Tubérculo mayor, carilla superior</td><td>Nervio supraescapular (C5–C6)</td><td>Inicia la abducción, presiona la cabeza humeral contra la cavidad</td><td>Mantiene la cabeza encajada en el cuelgue y en el primer tirón</td></tr>\n<tr><td>Infraespinoso</td><td>Fosa infraespinosa</td><td>Tubérculo mayor, carilla media</td><td>Nervio supraescapular (C5–C6)</td><td>Rotación externa</td><td>Frena la rotación interna que provoca el dorsal; muy activo durante toda la repetición</td></tr>\n<tr><td>Redondo menor</td><td>Borde lateral de la escápula</td><td>Tubérculo mayor, carilla inferior</td><td>Nervio axilar (C5–C6)</td><td>Rotación externa</td><td>Apoya al infraespinoso, sobre todo con el brazo por encima de la cabeza</td></tr>\n<tr><td>Subescapular</td><td>Fosa subescapular (cara anterior de la escápula)</td><td>Tubérculo menor</td><td>Nervios subescapulares superior e inferior (C5–C7)</td><td>Rotación interna, estabilidad anterior</td><td>Evita que la cabeza se deslice hacia delante abajo y arriba</td></tr>\n</tbody></table></div>\n<p>La articulación glenohumeral es una esfera dentro de una cavidad, pero la cavidad (glenoides) es pequeña y plana. Un anillo de fibrocartílago, el labrum, la profundiza un poco, y el tendón de la cabeza larga del bíceps se ancla en la parte alta de ese anillo. Este diseño da al hombro más rango de movimiento que a cualquier otra articulación, y lo paga con menos estabilidad pasiva. El manguito aporta la estabilidad que falta de forma activa: comprime la esfera contra la cavidad en todas las posiciones.<sup>[1]</sup></p>\n<p>Los clínicos llaman a este reparto par de fuerzas. Músculos grandes como el dorsal y el deltoides mueven el brazo por el espacio, mientras los del manguito tiran de la cabeza humeral desde lados opuestos, de modo que la esfera gira en su sitio en vez de deslizarse. El infraespinoso y el subescapular no son ayudantes débiles: en las elevaciones en el plano escapular producen, según las estimaciones, de dos a tres veces la fuerza del supraespinoso.<sup>[3]</sup> Si el manguito está débil, cansado o llega tarde, la esfera se desplaza y los tendones y el labrum soportan una carga para la que no están hechos.</p>\n\n<h2>¿Qué hace el manguito en cada fase de la dominada?</h2>\n<h3>Cuelgue pasivo (dead hang)</h3>\n<p>En un cuelgue completamente relajado tu peso descansa sobre la cápsula, los ligamentos y el labrum. Es un estiramiento, y también la posición con menos protección muscular. En el cuelgue activo bajas las escápulas y las llevas un poco atrás; el manguito y el trapecio inferior se activan y reparten la carga. Nuestra <a href=\"/es/beneficios-dead-hang/\">guía del dead hang</a> explica cuánto aguantar cada versión.</p>\n<h3>Inicio</h3>\n<p>Los estudios con EMG en dominadas y chin-ups sugieren que la repetición empieza con el trapecio inferior y el pectoral mayor, y que el bíceps y el dorsal la terminan.<sup>[5]</sup> La escápula desciende primero. El supraespinoso y el subescapular mantienen la esfera encajada mientras el codo todavía no se ha doblado.</p>\n<h3>Mitad del tirón</h3>\n<p>El dorsal es un rotador interno y extensor potente. Mientras te sube, el infraespinoso y el redondo menor resisten esa rotación interna y mantienen la cabeza centrada. En el mismo estudio EMG, el infraespinoso promedió un 71–79 por ciento de su contracción máxima en las distintas variantes, junto a un 117–130 por ciento del dorsal y un 78–96 por ciento del bíceps.<sup>[5]</sup></p>\n<h3>Arriba</h3>\n<p>En la barra los codos van pegados y el húmero está en extensión. Dos hábitos dan problemas aquí: enrollar los hombros hacia delante en una rotación interna fuerte para rascar el último centímetro, y adelantar la barbilla. Ambos inclinan la escápula hacia delante y estrechan el espacio bajo el acromion.<sup>[3]</sup></p>\n<h3>Bajada</h3>\n<p>Baja en dos o tres segundos y mantén las escápulas bajo control hasta que los codos queden rectos. Si te dejas caer al fondo, te frenan la cápsula y el labrum, no los músculos.</p>\n\n<h2>¿Qué dice la investigación sobre el hombro y las dominadas?</h2>\n<p>Las molestias de hombro son frecuentes en quienes levantan peso. Una revisión sobre lesiones en entrenamiento de fuerza encontró que hasta el 36 por ciento de las lesiones y trastornos documentados afectaban al complejo del hombro, con el desequilibrio muscular y la mala técnica como factores de riesgo recurrentes. La mayor parte de esa evidencia es retrospectiva, así que describe patrones más que demostrar causas.<sup>[4]</sup> En consulta, el pinzamiento subacromial es el diagnóstico de hombro más común, descrito en alrededor del 44 al 65 por ciento de las molestias de hombro, y cada vez se entiende más como un conjunto de síntomas que como un único fallo estructural.<sup>[2]</sup></p>\n<p>Los ejercicios que colocan el brazo en posición de «chocar los cinco», como el jalón tras nuca y el press tras nuca, se asociaron con signos clínicos de inestabilidad anterior en un estudio de casos y controles con 159 hombres que entrenaban con pesas; fortalecer los rotadores externos mostró la asociación contraria.<sup>[7]</sup> Un pequeño estudio cinemático con once personas que hacían dominadas con regularidad halló que el agarre ancho y la técnica «inversa» (estilo tras nuca) producían patrones escapulares y glenohumerales vinculados a mayor riesgo de pinzamiento, y que la elevación alta del brazo reduce por sí misma el espacio subacromial.<sup>[6]</sup></p>\n<p>El agarre importa menos de lo que mucha gente cree. La actividad del dorsal, el bíceps y el infraespinoso se movió en rangos parecidos en dominadas y chin-ups; el chin-up mostró más pectoral y bíceps, la dominada más trapecio inferior.<sup>[5]</sup> No encontramos un estudio controlado que midiera la carga del manguito en dominadas con kipping frente a estrictas, así que toma esto como razonamiento y no como dato: el kipping añade velocidad y un estiramiento balístico en el fondo, lo que traslada la carga del músculo al tejido pasivo justo cuando está menos protegido. Aprende primero la versión estricta.</p>\n\n<h2>¿Qué reglas de técnica protegen el manguito?</h2>\n<ul>\n<li><strong>Deprime las escápulas antes de doblar los codos.</strong> La retracción y depresión escapular amplían el espacio subacromial y permiten al supraespinoso trabajar desde una posición mejor.<sup>[3]</sup></li>\n<li><strong>Codos ligeramente por delante del cuerpo abajo.</strong> Cuélgate con un punto de flexión de hombro, no con los brazos por detrás de las orejas. Los brazos totalmente por detrás del cuerpo cargan la cápsula anterior.</li>\n<li><strong>Nada de caer de golpe al cuelgue cuando estás cansado.</strong> La última repetición de la última serie es cuando el tejido pasivo se lleva la sorpresa. Baja despacio o deja una repetición en la recámara.</li>\n<li><strong>Agarre neutro si los hombros protestan.</strong> Con las palmas enfrentadas el húmero queda más cerca del plano escapular, y la activación es parecida entre agarres, así que pierdes poco. Mira <a href=\"/es/dominadas-vs-chin-up/\">dominadas vs chin-ups</a>.</li>\n<li><strong>Rango completo solo si no duele.</strong> Una posición inferior algo acortada durante unas semanas es mejor que forzar a través de un pinchazo. Nuestra guía de <a href=\"/es/dominadas-con-banda/\">dominadas con banda</a> enseña a usar las gomas sin hacer trampa.</li>\n<li><strong>Pecho a la barra, no barbilla.</strong> Cabeza adelantada más hombros redondeados arriba es uno de los <a href=\"/es/errores-dominadas/\">errores en las dominadas</a> que irritan el manguito sin que te des cuenta.</li>\n</ul>\n\n<h2>¿Qué calentamiento y ejercicios de prevención ayudan?</h2>\n<p>Basta con cinco a ocho minutos antes de tocar la barra, más un bloque corto otros dos días. La rotación externa y las elevaciones en decúbito prono muestran de forma consistente alta actividad del manguito y de los músculos escapulares en los estudios EMG.<sup>[3]</sup></p>\n<ul>\n<li><strong>Rotaciones externas con banda</strong>, codo pegado a las costillas: 2 series de 15 por lado. Despacio, sin encoger los hombros.</li>\n<li><strong>Rotación externa tumbado de lado</strong> con una mancuerna ligera, 1–3 kg: 2 series de 12–15. Aísla el infraespinoso y el redondo menor.</li>\n<li><strong>Elevaciones en Y y en T boca abajo</strong>, pulgares arriba: 2 series de 10 de cada una. Trapecio inferior y manguito posterior.</li>\n<li><strong>Face pulls</strong> con banda o polea: 2 series de 15. Tira hacia la frente y termina con los nudillos mirando al techo.</li>\n<li><strong>Cuelgues activos</strong>: 3 series de 10–20 segundos, escápulas abajo, codos rectos.</li>\n<li><strong>Dead hangs controlados</strong>: 2 series de 20–30 segundos, solo después de los activos y nunca hasta el fallo con el hombro cansado.</li>\n</ul>\n<p>Antes de entrenar, una serie de cada; en días de descanso, la lista completa. Las cargas se quedan ligeras. El objetivo es control, no fatiga.</p>\n\n<h2>¿Qué puede ir mal y cuándo deberías ir a un profesional?</h2>\n<p>Estas notas sirven para orientarte, no para diagnosticar. El dolor de hombro tiene causas que se solapan, y una exploración las separa más rápido que una página web.</p>\n<ul>\n<li><strong>Síndrome de dolor subacromial (pinzamiento).</strong> Dolor en la parte anterior o lateral del hombro en un arco doloroso al subir el brazo, a menudo peor en la parte alta de la dominada. Hoy se entiende como irritación del manguito y la bursa bajo el acromion, no como una única causa ósea. El tratamiento de primera línea es gestionar la carga y fortalecer el manguito y los músculos escapulares, con medicación para el dolor si hace falta.<sup>[2]</sup></li>\n<li><strong>Tendinopatía del manguito rotador.</strong> Un tendón que ha hecho más de lo que podía recuperar: un dolor sordo que se calienta durante el entrenamiento y vuelve después, más debilidad en rotación externa. La rehabilitación es carga progresiva durante semanas, no solo reposo.</li>\n<li><strong>Lesiones SLAP y la cabeza larga del bíceps.</strong> El tendón del bíceps se ancla en el labrum superior, y los cuelgues bruscos repetidos y las repeticiones balísticas pueden irritar ese anclaje. Son típicos el dolor profundo, el chasquido doloroso y la molestia en el fondo de un chin-up, pero solo una exploración con pruebas de imagen lo confirma.</li>\n<li><strong>Inestabilidad anterior.</strong> La sensación de que el hombro podría salirse, a menudo en la posición de chocar los cinco. Es más frecuente en quienes levantan peso que en quienes no, y se asocia al trabajo tras nuca.<sup>[7]</sup> Evita esas posiciones y fortalece los rotadores externos.</li>\n</ul>\n<p><strong>Señales de alarma</strong> que piden una cita y no un ajuste del entrenamiento: dolor nocturno o en reposo, dolor que dura más de dos o tres semanas pese a bajar el ritmo, debilidad clara al levantar o rotar el brazo, chasquidos o bloqueos con dolor, hormigueo en el brazo o un hombro que se ha luxado. El profesional probará fuerza y rango, revisará el control escapular y a veces pedirá imagen. La mayoría de los problemas no traumáticos del manguito se tratan sin cirugía: unas semanas de carga ajustada, un programa gradual de fortalecimiento y una vuelta lenta al trabajo colgado.</p>\n\n<h2>¿Cómo programar las dominadas para que los hombros se mantengan frescos?</h2>\n<p>El manguito se adapta más despacio que el dorsal. Sube el volumen en pasos pequeños, más o menos una serie o unas pocas repeticiones por semana, y descansa dos o tres minutos entre series duras para que los músculos pequeños no fallen antes que los grandes. Entrena dominadas dos o tres veces por semana con un día entre sesiones, y planifica una semana más ligera cada cuatro a seis semanas o en cuanto la primera repetición de una serie empiece a sentirse rara. Nuestra <a href=\"/es/rutina-dominadas/\">rutina de dominadas</a> propone una estructura semanal, y la <a href=\"/es/estancamiento-dominadas/\">guía sobre el estancamiento</a> explica qué hacer cuando el progreso se frena. La app sigue la misma lógica: reescribe tu próxima sesión según cómo fue la anterior, así que un hombro cansado recibe un bloque más ligero en vez de uno más duro.</p>",
+      "faq": [
+        {
+          "q": "¿Las dominadas son malas para los hombros?",
+          "a": "No para un hombro sano con buena técnica. Los problemas suelen venir de los cuelgues pasivos con fatiga, de la barra tras la nuca, de las repeticiones rápidas con kipping y de subir el volumen demasiado deprisa. Si una dominada duele siempre, haz que te lo revisen en vez de forzar."
+        },
+        {
+          "q": "¿Por qué me cruje el hombro al hacer dominadas?",
+          "a": "El crujido sin dolor es común y suele deberse a un tendón o una bursa que se desliza sobre el hueso. Un crujido que duele, que se engancha o que viene con debilidad puede apuntar al labrum o al anclaje del bíceps, y eso merece la exploración de un profesional."
+        },
+        {
+          "q": "¿El dead hang es bueno o malo para el manguito rotador?",
+          "a": "Las dos cosas, según cómo lo hagas. Un cuelgue controlado con las escápulas algo activas construye tolerancia; un cuelgue largo y totalmente relajado con el hombro cansado o irritado carga la cápsula y el labrum en lugar de los músculos. Empieza en activo y mantén cortos los pasivos."
+        },
+        {
+          "q": "¿Puedo hacer dominadas con pinzamiento de hombro?",
+          "a": "A menudo sí, con adaptaciones: agarre neutro, posición inferior acortada, bajada lenta y menos volumen. Corta la serie al primer pinchazo. Sigue el plan de tu fisioterapeuta o médico y deja que el rango sin dolor decida hasta dónde llegas."
+        },
+        {
+          "q": "¿Qué agarre es el más suave para los hombros?",
+          "a": "La mayoría encuentra más cómodo el agarre neutro, con las palmas enfrentadas a la anchura de los hombros. La activación muscular es parecida entre agarres, así que renuncias a muy poco al cambiar. Evita los agarres muy anchos y cualquier cosa tras la nuca."
+        }
+      ],
+      "sources": [
+        {
+          "label": "La Rose J, Madrazo-Ibarra A, Varacallo MA. Anatomy, Rotator Cuff. StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK441844/"
+        },
+        {
+          "label": "Creech JA, Busse A, Li D, Pinkerman S, Silver S. Shoulder Impingement Syndrome. StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK554518/"
+        },
+        {
+          "label": "Escamilla RF, Yamashiro K, Paulos L, Andrews JR. Shoulder muscle activity and function in common shoulder rehabilitation exercises. Sports Med, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19769415/"
+        },
+        {
+          "label": "Kolber MJ, Beekhuizen KS, Cheng MS, Hellman MA. Shoulder injuries attributed to resistance training: a brief review. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20508476/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, et al. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or Perfect-Pullup rotational exercise. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Prinold JA, Bull AM. Scapula kinematics of pull-up techniques: avoiding impingement risk with training changes. J Sci Med Sport, 2016.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26383875/"
+        },
+        {
+          "label": "Kolber MJ, Corrao M, Hanney WJ. Characteristics of anterior shoulder instability and hyperlaxity in the weight-training population. J Strength Cond Res, 2013.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22836608/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/es/agarre-antebrazo-dominadas/",
+          "title": "Fuerza de agarre en dominadas: anatomía del antebrazo, por qué falla primero y cómo entrenarla"
+        },
+        {
+          "href": "/es/musculos-escapulares-dominadas/",
+          "title": "Músculos escapulares y dominadas: una lección de anatomía para quien entrena"
+        },
+        {
+          "href": "/es/musculos-dominadas/",
+          "title": "¿Qué músculos trabajan las dominadas?"
+        },
+        {
+          "href": "/es/beneficios-dead-hang/",
+          "title": "Dead hang: beneficios, cuánto tiempo y cómo hacerlo"
+        },
+        {
+          "href": "/es/errores-dominadas/",
+          "title": "Errores en las dominadas y cómo corregirlos"
+        },
+        {
+          "href": "/es/rutina-dominadas/",
+          "title": "Rutina de dominadas para ganar repeticiones"
+        },
+        {
+          "href": "/es/estancamiento-dominadas/",
+          "title": "Estancamiento en dominadas: por qué y cómo superarlo"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Coiffe des rotateurs et tractions : anatomie et santé",
+      "description": "Comment la coiffe des rotateurs travaille pendant une traction, ce que montrent les études, les règles de technique, la prévention et quand consulter.",
+      "headline": "Coiffe des rotateurs et tractions : comment l'épaule travaille et comment la garder en bonne santé",
+      "subtitle": "Une leçon d'anatomie pour ceux qui s'entraînent",
+      "read_time": "9 min de lecture",
+      "lede": "La coiffe des rotateurs regroupe quatre petits muscles qui maintiennent la tête de l'humérus centrée dans sa cavité peu profonde pendant que le grand dorsal et le biceps tirent. Les tractions ne sont pas mauvaises pour une épaule saine, mais les suspensions passives brutales, la barre derrière la nuque et les répétitions bâclées sous fatigue chargent la coiffe et le bourrelet d'une façon qu'ils tolèrent mal. Voici l'anatomie, les études, la technique et la prévention qui protègent l'articulation, et les signes qui doivent t'envoyer chez un professionnel de santé.",
+      "body_html": "<h2>Qu'est-ce que la coiffe des rotateurs et comment s'articule-t-elle avec l'épaule ?</h2>\n<p>Quatre muscles partent de l'omoplate (scapula) et rejoignent le haut de l'os du bras (humérus). Leurs tendons fusionnent en une coiffe autour de l'articulation. Le moyen mnémotechnique habituel est SITS : supra-épineux, infra-épineux, petit rond, subscapulaire.<sup>[1]</sup></p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Muscle</th><th>Origine</th><th>Insertion</th><th>Nerf</th><th>Action principale</th><th>Rôle dans la traction</th></tr></thead>\n<tbody>\n<tr><td>Supra-épineux</td><td>Fosse supra-épineuse de la scapula</td><td>Tubercule majeur, facette supérieure</td><td>Nerf suprascapulaire (C5–C6)</td><td>Amorce l'abduction, plaque la tête humérale dans la cavité</td><td>Garde la tête en place en suspension et au premier tirage</td></tr>\n<tr><td>Infra-épineux</td><td>Fosse infra-épineuse</td><td>Tubercule majeur, facette moyenne</td><td>Nerf suprascapulaire (C5–C6)</td><td>Rotation externe</td><td>Résiste à la rotation interne imposée par le grand dorsal ; très actif sur toute la répétition</td></tr>\n<tr><td>Petit rond</td><td>Bord latéral de la scapula</td><td>Tubercule majeur, facette inférieure</td><td>Nerf axillaire (C5–C6)</td><td>Rotation externe</td><td>Seconde l'infra-épineux, surtout bras au-dessus de la tête</td></tr>\n<tr><td>Subscapulaire</td><td>Fosse subscapulaire (face antérieure de la scapula)</td><td>Tubercule mineur</td><td>Nerfs subscapulaires supérieur et inférieur (C5–C7)</td><td>Rotation interne, stabilité antérieure</td><td>Empêche la tête de glisser vers l'avant en bas et en haut</td></tr>\n</tbody></table></div>\n<p>L'articulation gléno-humérale est une énarthrose, une boule dans une cavité, mais la cavité (glène) est petite et plate. Un anneau de fibrocartilage, le bourrelet glénoïdien (labrum), l'approfondit un peu, et le tendon du long biceps s'ancre au sommet de cet anneau. Cette architecture donne à l'épaule plus d'amplitude qu'à n'importe quelle autre articulation, au prix d'une stabilité passive réduite. La coiffe fournit la stabilité manquante de façon active : elle comprime la boule dans la cavité dans toutes les positions.<sup>[1]</sup></p>\n<p>Les cliniciens appellent ce dispositif un couple de forces. Les gros muscles comme le grand dorsal et le deltoïde déplacent le bras dans l'espace, pendant que les muscles de la coiffe tirent sur la tête humérale depuis des côtés opposés ; la boule tourne donc sur place au lieu de glisser. L'infra-épineux et le subscapulaire ne sont pas de petits assistants : lors des élévations dans le plan de la scapula, ils produisent, selon les estimations, deux à trois fois la force du supra-épineux.<sup>[3]</sup> Si la coiffe est faible, fatiguée ou en retard, la boule dérive, et les tendons et le bourrelet encaissent une charge pour laquelle ils ne sont pas faits.</p>\n\n<h2>Que fait la coiffe à chaque phase d'une traction ?</h2>\n<h3>Suspension passive (dead hang)</h3>\n<p>En suspension complètement relâchée, ton poids repose sur la capsule, les ligaments et le bourrelet. C'est un étirement, et c'est aussi la position avec le moins de protection musculaire. En suspension active, tu abaisses les omoplates et tu les ramènes légèrement en arrière ; la coiffe et le trapèze inférieur s'activent et partagent la charge. Notre <a href=\"/fr/bienfaits-dead-hang/\">guide du dead hang</a> indique combien de temps tenir chaque version.</p>\n<h3>Démarrage</h3>\n<p>Les mesures EMG sur tractions et chin-ups suggèrent que la répétition commence par le trapèze inférieur et le grand pectoral, et que le biceps et le grand dorsal la terminent.<sup>[5]</sup> La scapula s'abaisse d'abord. Le supra-épineux et le subscapulaire gardent la boule en place tant que le coude n'a pas encore plié.</p>\n<h3>Milieu du tirage</h3>\n<p>Le grand dorsal est un puissant rotateur interne et extenseur. Pendant qu'il te hisse, l'infra-épineux et le petit rond résistent à cette rotation interne et gardent la tête centrée. Dans la même étude EMG, l'infra-épineux travaillait en moyenne à 71–79 pour cent de sa contraction maximale selon les variantes, contre 117–130 pour cent pour le grand dorsal et 78–96 pour cent pour le biceps.<sup>[5]</sup></p>\n<h3>Haut</h3>\n<p>À la barre, les coudes sont serrés et l'humérus est en extension. Deux habitudes posent problème ici : enrouler les épaules vers l'avant en forte rotation interne pour gratter le dernier centimètre, et avancer le menton. Les deux basculent la scapula vers l'avant et rétrécissent l'espace sous l'acromion.<sup>[3]</sup></p>\n<h3>Descente</h3>\n<p>Descends en deux à trois secondes et garde les omoplates sous contrôle jusqu'à ce que les coudes soient tendus. Si tu te laisses tomber en bas, ce sont la capsule et le bourrelet qui te rattrapent, pas les muscles.</p>\n\n<h2>Que dit la recherche sur l'épaule et les tractions ?</h2>\n<p>Les douleurs d'épaule sont fréquentes chez les pratiquants de musculation. Une revue sur les blessures en entraînement de force a trouvé que jusqu'à 36 pour cent des blessures et troubles documentés touchaient le complexe de l'épaule, avec les déséquilibres musculaires et la mauvaise technique comme facteurs de risque récurrents. La plupart de ces données sont rétrospectives : elles décrivent des tendances plus qu'elles ne prouvent des causes.<sup>[4]</sup> En consultation, le conflit sous-acromial est le diagnostic d'épaule le plus courant, rapporté dans environ 44 à 65 pour cent des plaintes d'épaule, et il est de plus en plus vu comme un ensemble de symptômes plutôt qu'un défaut structurel unique.<sup>[2]</sup></p>\n<p>Les exercices qui placent le bras en position de « high five », comme le tirage nuque et le développé nuque, étaient associés à des signes cliniques d'instabilité antérieure dans une étude cas-témoins menée chez 159 hommes pratiquant la musculation ; le renforcement des rotateurs externes montrait l'association inverse.<sup>[7]</sup> Une petite étude cinématique sur onze pratiquants réguliers de tractions a trouvé que la prise large et la technique « inversée » (style nuque) produisaient des schémas scapulaires et gléno-huméraux liés à un risque accru de conflit, et que l'élévation haute du bras réduit à elle seule l'espace sous-acromial.<sup>[6]</sup></p>\n<p>La prise compte moins qu'on ne le croit. L'activité du grand dorsal, du biceps et de l'infra-épineux était dans des plages similaires entre tractions et chin-ups ; le chin-up montrait plus de pectoral et de biceps, la traction plus de trapèze inférieur.<sup>[5]</sup> Nous n'avons pas trouvé d'étude contrôlée mesurant la charge sur la coiffe en kipping par rapport aux tractions strictes, alors prends ce qui suit comme un raisonnement, pas comme une donnée : le kipping ajoute de la vitesse et un étirement balistique en bas, ce qui déplace la charge du muscle vers les tissus passifs au moment où ils sont le moins protégés. Apprends d'abord la version stricte.</p>\n\n<h2>Quelles règles de technique protègent la coiffe ?</h2>\n<ul>\n<li><strong>Abaisse les omoplates avant de plier les coudes.</strong> La rétraction et l'abaissement de la scapula élargissent l'espace sous-acromial et permettent au supra-épineux de travailler dans une meilleure position.<sup>[3]</sup></li>\n<li><strong>Coudes légèrement devant le corps en bas.</strong> Suspends-toi avec une pointe de flexion d'épaule, pas les bras derrière les oreilles. Les bras complètement derrière le corps chargent la capsule antérieure.</li>\n<li><strong>Pas de chute brutale en suspension quand tu es fatigué.</strong> La dernière répétition de la dernière série est le moment où les tissus passifs se font surprendre. Descends lentement ou arrête une répétition plus tôt.</li>\n<li><strong>Prise neutre si les épaules se plaignent.</strong> Paumes face à face, l'humérus reste plus proche du plan de la scapula, et l'activation est similaire d'une prise à l'autre, donc tu perds peu. Voir <a href=\"/fr/tractions-vs-chin-up/\">tractions ou chin-up</a>.</li>\n<li><strong>Amplitude complète seulement sans douleur.</strong> Une position basse légèrement raccourcie pendant quelques semaines vaut mieux que de forcer à travers un pincement. Notre guide des <a href=\"/fr/tractions-avec-elastique/\">tractions avec élastique</a> montre comment utiliser les bandes sans tricher.</li>\n<li><strong>La poitrine vers la barre, pas le menton.</strong> Tête en avant et épaules enroulées en haut font partie des <a href=\"/fr/erreurs-tractions/\">erreurs aux tractions</a> qui irritent la coiffe sans bruit.</li>\n</ul>\n\n<h2>Quels échauffements et exercices de prévention aident ?</h2>\n<p>Cinq à huit minutes avant de toucher la barre, plus un bloc court deux autres jours, suffisent. La rotation externe et les élévations à plat ventre montrent de façon constante une activité élevée de la coiffe et des muscles scapulaires dans les études EMG.<sup>[3]</sup></p>\n<ul>\n<li><strong>Rotations externes à l'élastique</strong>, coude collé aux côtes : 2 séries de 15 par côté. Lentement, sans hausser l'épaule.</li>\n<li><strong>Rotation externe couché sur le côté</strong> avec un haltère léger, 1–3 kg : 2 séries de 12–15. Isole l'infra-épineux et le petit rond.</li>\n<li><strong>Élévations en Y et en T à plat ventre</strong>, pouces vers le haut : 2 séries de 10 chacune. Trapèze inférieur et coiffe postérieure.</li>\n<li><strong>Face pulls</strong> à l'élastique ou à la poulie : 2 séries de 15. Tire vers le front, finis les phalanges vers le plafond.</li>\n<li><strong>Suspensions actives</strong> : 3 séries de 10–20 secondes, omoplates basses, coudes tendus.</li>\n<li><strong>Dead hangs contrôlés</strong> : 2 séries de 20–30 secondes, seulement après les suspensions actives et jamais jusqu'à l'échec avec une épaule fatiguée.</li>\n</ul>\n<p>Avant une séance, une série de chaque ; les jours de repos, la liste complète. Les charges restent légères. L'objectif est le contrôle, pas la fatigue.</p>\n\n<h2>Que peut-il arriver, et quand consulter ?</h2>\n<p>Ces notes servent à t'orienter, pas à poser un diagnostic. La douleur d'épaule a des causes qui se recoupent, et un examen les démêle plus vite qu'un site web.</p>\n<ul>\n<li><strong>Syndrome douloureux sous-acromial (conflit).</strong> Douleur à l'avant ou sur le côté de l'épaule, dans un arc douloureux quand le bras monte, souvent maximale en haut de la traction. On la comprend aujourd'hui comme une irritation de la coiffe et de la bourse sous l'acromion plutôt qu'une cause osseuse unique. Le traitement de première intention repose sur la gestion de la charge et le renforcement de la coiffe et des muscles scapulaires, avec des médicaments contre la douleur si besoin.<sup>[2]</sup></li>\n<li><strong>Tendinopathie de la coiffe des rotateurs.</strong> Un tendon qui en a fait plus qu'il ne pouvait récupérer : une douleur sourde qui s'estompe à l'échauffement et revient après, plus une faiblesse en rotation externe. La rééducation est une mise en charge progressive sur plusieurs semaines, pas seulement du repos.</li>\n<li><strong>Lésions SLAP et long biceps.</strong> Le tendon du biceps s'ancre sur le bourrelet supérieur, et les suspensions brutales répétées comme les répétitions balistiques peuvent irriter cet ancrage. Douleur profonde, claquement douloureux et gêne en bas d'un chin-up sont typiques, mais seuls un examen et une imagerie peuvent le confirmer.</li>\n<li><strong>Instabilité antérieure.</strong> La sensation que l'épaule pourrait partir, souvent en position de high five. Plus fréquente chez les pratiquants de musculation que chez les non-pratiquants, et associée au travail derrière la nuque.<sup>[7]</sup> Évite ces positions et renforce les rotateurs externes.</li>\n</ul>\n<p><strong>Signaux d'alerte</strong> qui justifient un rendez-vous plutôt qu'un simple ajustement de l'entraînement : douleur la nuit ou au repos, douleur qui dure plus de deux ou trois semaines malgré une baisse de charge, faiblesse nette pour lever ou tourner le bras, claquement ou accrochage douloureux, engourdissement du bras, ou une épaule qui s'est luxée. Le professionnel testera la force et l'amplitude, vérifiera le contrôle scapulaire et prescrira parfois une imagerie. La plupart des problèmes de coiffe non traumatiques se traitent sans chirurgie : quelques semaines de charge adaptée, un programme de renforcement progressif, puis un retour lent au travail en suspension.</p>\n\n<h2>Comment programmer les tractions pour garder des épaules fraîches ?</h2>\n<p>La coiffe s'adapte plus lentement que le grand dorsal. Augmente le volume par petits paliers, en gros une série ou quelques répétitions par semaine, et repose-toi deux à trois minutes entre les séries dures pour que les petits muscles ne lâchent pas avant les gros. Entraîne les tractions deux à trois fois par semaine avec un jour entre les séances, et prévois une semaine plus légère toutes les quatre à six semaines, ou dès que la première répétition d'une série commence à sembler bizarre. Notre <a href=\"/fr/programme-tractions/\">programme de tractions</a> propose une structure hebdomadaire, et le <a href=\"/fr/plateau-tractions/\">guide du plateau</a> explique quoi faire quand la progression cale. L'app suit la même logique : elle réécrit ta prochaine séance selon la précédente, donc une épaule fatiguée reçoit un bloc plus léger au lieu d'un bloc plus dur.</p>",
+      "faq": [
+        {
+          "q": "Les tractions sont-elles mauvaises pour les épaules ?",
+          "a": "Pas pour une épaule saine avec une bonne technique. Les problèmes viennent surtout des suspensions passives sous fatigue, de la barre derrière la nuque, des répétitions rapides en kipping et d'un volume augmenté trop vite. Si une traction fait mal à chaque fois, fais-la examiner au lieu de forcer."
+        },
+        {
+          "q": "Pourquoi mon épaule claque-t-elle pendant les tractions ?",
+          "a": "Un claquement indolore est courant et vient généralement d'un tendon ou d'une bourse qui glisse sur l'os. Un claquement qui fait mal, qui accroche ou qui s'accompagne de faiblesse peut évoquer le bourrelet ou l'ancrage du biceps, et mérite l'examen d'un professionnel."
+        },
+        {
+          "q": "Le dead hang est-il bon ou mauvais pour la coiffe des rotateurs ?",
+          "a": "Les deux, selon la façon de le faire. Une suspension contrôlée avec les omoplates légèrement engagées construit la tolérance ; une suspension longue et totalement relâchée sur une épaule fatiguée ou irritée charge la capsule et le bourrelet à la place des muscles. Commence en actif et garde les suspensions passives courtes."
+        },
+        {
+          "q": "Puis-je faire des tractions avec un conflit sous-acromial ?",
+          "a": "Souvent oui, avec des adaptations : prise neutre, position basse raccourcie, descente lente et moins de volume. Arrête la série au premier pincement. Suis le plan donné par ton kiné ou ton médecin, et laisse l'amplitude sans douleur décider jusqu'où tu vas."
+        },
+        {
+          "q": "Quelle prise est la plus douce pour les épaules ?",
+          "a": "La plupart des gens trouvent la prise neutre, paumes face à face à peu près à la largeur des épaules, la plus confortable. L'activation musculaire est similaire d'une prise à l'autre, donc tu ne sacrifies presque rien en changeant. Évite les prises très larges et tout ce qui passe derrière la nuque."
+        }
+      ],
+      "sources": [
+        {
+          "label": "La Rose J, Madrazo-Ibarra A, Varacallo MA. Anatomy, Rotator Cuff. StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK441844/"
+        },
+        {
+          "label": "Creech JA, Busse A, Li D, Pinkerman S, Silver S. Shoulder Impingement Syndrome. StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK554518/"
+        },
+        {
+          "label": "Escamilla RF, Yamashiro K, Paulos L, Andrews JR. Shoulder muscle activity and function in common shoulder rehabilitation exercises. Sports Med, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19769415/"
+        },
+        {
+          "label": "Kolber MJ, Beekhuizen KS, Cheng MS, Hellman MA. Shoulder injuries attributed to resistance training: a brief review. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20508476/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, et al. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or Perfect-Pullup rotational exercise. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Prinold JA, Bull AM. Scapula kinematics of pull-up techniques: avoiding impingement risk with training changes. J Sci Med Sport, 2016.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26383875/"
+        },
+        {
+          "label": "Kolber MJ, Corrao M, Hanney WJ. Characteristics of anterior shoulder instability and hyperlaxity in the weight-training population. J Strength Cond Res, 2013.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/22836608/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/fr/prise-avant-bras-tractions/",
+          "title": "Force de préhension aux tractions : anatomie de l'avant-bras, pourquoi elle lâche en premier et comment l'entraîner"
+        },
+        {
+          "href": "/fr/muscles-scapulaires-tractions/",
+          "title": "Muscles scapulaires et tractions : une leçon d'anatomie pour qui s'entraîne"
+        },
+        {
+          "href": "/fr/muscles-tractions/",
+          "title": "Quels muscles travaillent aux tractions ?"
+        },
+        {
+          "href": "/fr/bienfaits-dead-hang/",
+          "title": "Dead hang : bienfaits, durée idéale et progression"
+        },
+        {
+          "href": "/fr/erreurs-tractions/",
+          "title": "Les erreurs aux tractions qui bloquent ta progression"
+        },
+        {
+          "href": "/fr/programme-tractions/",
+          "title": "Programme de tractions : un plan de la semaine pour progresser"
+        },
+        {
+          "href": "/fr/plateau-tractions/",
+          "title": "Plateau aux tractions : pourquoi tu stagnes et comment avancer"
+        }
+      ]
+    }
+  }
+}

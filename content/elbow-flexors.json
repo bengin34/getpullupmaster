@@ -1,0 +1,447 @@
+{
+  "slugs": {
+    "en": "biceps-brachialis-pull-ups",
+    "de": "bizeps-brachialis-klimmzug",
+    "tr": "biceps-brachialis-barfiks",
+    "es": "biceps-braquial-dominadas",
+    "fr": "biceps-brachial-tractions"
+  },
+  "priority": "0.8",
+  "langs": {
+    "en": {
+      "title": "Biceps and Brachialis in Pull-Ups: An Anatomy Lesson",
+      "description": "Biceps, brachialis and brachioradialis in the pull-up: anatomy table, which flexor leads with each grip, phase-by-phase roles, EMG data and elbow pain.",
+      "headline": "Biceps, brachialis and brachioradialis: the elbow flexors in the pull-up",
+      "subtitle": "Which arm muscle leads with each grip, what happens in every phase of the rep, and why the inside of your elbow sometimes hurts",
+      "read_time": "8 min read",
+      "lede": "Three muscles bend your elbow in a pull-up: the biceps brachii, the brachialis and the brachioradialis. Which one leads depends on how your palms face: a supinated chin-up grip favors the biceps, an overhand pull-up grip shifts work toward the brachialis and brachioradialis, and a neutral grip sits in between. Here is how each one is built, what it does in every phase of the rep, and why high-volume chin-ups sometimes leave the inside of your elbow sore.",
+      "body_html": "<h2>Anatomy at a glance: the three elbow flexors</h2><p>Three muscles bend your elbow when you pull. They sit in layers on the front of the upper arm and the top of the forearm, and each one behaves differently depending on how your hand is turned.<sup>[1]</sup><sup>[2]</sup><sup>[3]</sup></p><div class=\"table-scroll\"><table><thead><tr><th>Muscle</th><th>Origin</th><th>Insertion</th><th>Nerve</th><th>Action</th></tr></thead><tbody><tr><td><strong>Biceps brachii</strong> (long and short head)</td><td>Long head: supraglenoid tubercle of the scapula. Short head: coracoid process</td><td>Radial tuberosity, plus the bicipital aponeurosis into the forearm fascia</td><td>Musculocutaneous nerve (C5–C6)</td><td>Flexes the elbow, supinates the forearm (its most powerful action once the elbow is bent), weak shoulder flexion<sup>[1]</sup></td></tr><tr><td><strong>Brachialis</strong></td><td>Distal half of the anterior humerus</td><td>Ulnar tuberosity and coronoid process of the ulna</td><td>Musculocutaneous nerve; the lateral part usually also gets a branch from the radial nerve</td><td>Pure elbow flexion in every forearm position; the strongest of the three flexors<sup>[2]</sup></td></tr><tr><td><strong>Brachioradialis</strong></td><td>Lateral supracondylar ridge of the humerus</td><td>Distal radius, near the styloid process</td><td>Radial nerve (C5–C6)</td><td>Flexes the elbow, strongest in mid-pronation (neutral grip); brings the forearm back to neutral from either extreme<sup>[3]</sup></td></tr></tbody></table></div><p>You can find all three on yourself. Bend your elbow to 90 degrees, turn your palm up and squeeze: the belly that rises in the middle of the upper arm is the biceps. Now turn your palm down and keep squeezing. The biceps softens, and on either side of its lower tendon, just above the elbow crease, you can press into a firmer, deeper muscle. That is the brachialis.</p><p>For the brachioradialis, rest your forearm on a table with the thumb pointing up, as if holding a hammer. Push the back of your wrist up against your other hand and the long ridge on the thumb side of the forearm hardens from the elbow halfway to the wrist.</p><h2>Which flexor leads with which grip?</h2><p>The biceps is the only one of the three that also supinates: it turns the palm up by pulling the radius around the ulna. When the forearm is already supinated, the biceps tendon is unwrapped from the radius and pulls in a straight line. That is why a <a href=\"/chin-up-vs-pull-up/\">chin-up (supinated, palms facing you)</a> puts the biceps in its strongest position.<sup>[1]</sup></p><p>Turn the palms down for a pull-up and the biceps tendon wraps around the radius. The muscle is now at a mechanical disadvantage for bending the elbow, so more of the work shifts to the muscles that do not care about forearm rotation: the brachialis, which flexes the same way in every position, and the brachioradialis, which is at its best near mid-pronation.<sup>[2]</sup><sup>[3]</sup> The biceps still works hard in a pull-up, just not as the lead flexor.</p><p>A neutral grip (palms facing each other) is the middle ground. The brachioradialis is close to its strongest line of pull, the biceps is partly unwrapped, and most people find it the most elbow-friendly of the three.</p><h2>What happens phase by phase?</h2><ul><li><strong>Dead hang.</strong> With the elbows straight, the flexors are nearly silent. The long head of the biceps still matters: its tendon runs over the top of the humeral head inside the shoulder joint and helps keep the joint centered under load.<sup>[1]</sup> That is one reason a <a href=\"/dead-hang-benefits/\">long hang</a> feels like shoulder work, not arm work.</li><li><strong>Initiation.</strong> The first few centimeters come from the shoulder blades and the lats. In EMG recordings the lower trapezius and the pectoralis major reach their peak early, before the elbow flexors.<sup>[4]</sup></li><li><strong>Mid-pull.</strong> Between roughly 90 degrees of elbow bend and the chin reaching bar height, elbow flexor demand peaks. The biceps and brachialis are both near their best working length and the lats are shortening fast.</li><li><strong>Top.</strong> At the bar the elbow is fully bent. The biceps is short and weak here, the brachialis still produces force, and the shoulder extensors finish the job.</li><li><strong>Lowering.</strong> On the way down the same muscles lengthen under load. Average activation is lower in the eccentric phase than in the concentric one,<sup>[5]</sup> but the tendons at the elbow still carry large forces, and this is the phase that tends to irritate them when volume climbs.</li></ul><h2>What does the research say?</h2><p>Surface EMG studies agree on the big picture. Youdas and colleagues recorded 25 trained adults doing pull-ups and chin-ups and found the latissimus dorsi at roughly 117 to 130 percent of its maximum voluntary isometric contraction, with the biceps brachii at 78 to 96 percent. The biceps and the pectoralis major were significantly more active in the chin-up than in the pull-up, while the lower trapezius was more active in the pull-up.<sup>[4]</sup></p><p>Dickie and colleagues compared supinated, pronated, neutral and rope grips in 19 strength-trained men. Across a full repetition, peak and average activation of the arm and shoulder muscles were similar between hand positions. The only clear grip effect was higher middle trapezius activity with the pronated grip than with the neutral grip. In every variation the concentric phase produced more brachioradialis, biceps and pectoralis activation than the eccentric phase.<sup>[5]</sup></p><p>Read these results with two caveats. First, the differences between grips are modest: the lats dominate every version, and the biceps works hard in all of them. Second, none of these studies measured the brachialis directly. It lies under the biceps, so surface electrodes pick up mostly biceps signal, and fine-wire recordings are rare in pull-up research.</p><p>Grip width is barely studied for the elbow flexors. Mechanically, a narrower grip lets the elbow bend further and asks more of the flexors; a wider grip shortens the elbow range and shifts emphasis to the shoulder. Treat that as a model, not a measured result.</p><h2>\"All arms, no back\" or \"arms give out first\": what to do</h2><p><strong>You feel it only in your arms.</strong> The usual reason is that the shoulder blades never move. You hang passively, bend the elbows first and curl yourself up. The fix is sequencing, not more arm strength: pull the shoulder blades down and together before the elbows bend, and drive the elbows toward your ribs rather than toward the floor. Scapular pull-ups and assisted reps with a slow two-second start from the bottom teach this well. The <a href=\"/pull-up-mistakes/\">common form mistakes</a> guide covers the pattern in detail.</p><p><strong>Your back feels fine but your arms fail first.</strong> Then the flexors really are the weak link. Train them directly:</p><ul><li>Chin-up negatives: jump or step to the top, lower in 4 to 6 seconds, 3 to 5 reps, twice a week.</li><li>Hammer curls and reverse curls: the neutral and pronated grips bias the brachialis and brachioradialis, which do most of the flexing in an overhand pull-up. 2 to 3 sets of 8 to 12.</li><li>Slow eccentric curls with a supinated grip for the biceps, and <a href=\"/band-assisted-pull-ups/\">band-assisted chin-ups</a> to practice the full range under lighter load.</li></ul><p>If your reps are stuck and the arms give out before anything else, the <a href=\"/pull-up-plateau/\">plateau guide</a> walks through how to tell a strength limit from a fatigue limit. If the back is the limit instead, shift the volume to rows and pull-downs for a block and keep arm work at maintenance level. The full muscle map is in <a href=\"/pull-up-muscles-worked/\">the muscles a pull-up trains</a>.</p><h2>Elbow problems in pull-up trainees: what to watch</h2><p>Three tendon complaints come up again and again in high-volume pull-up trainees. None of this is a diagnosis; it is a map of what clinicians look at.</p><p><strong>Inside of the elbow: medial epicondylalgia (\"golfer's elbow\").</strong> This is a tendinopathy of the common flexor-pronator origin on the medial epicondyle, the bony bump on the inside of the elbow. The classic signs are local tenderness over that bump and pain with resisted wrist flexion or forearm pronation. It is linked to repetitive, forceful gripping.<sup>[6]</sup> High-volume chin-ups, where you grip hard with the wrist bent and the forearm loaded in supination, are a typical trigger.</p><p><strong>Front of the elbow: distal biceps tendinopathy.</strong> Pain sits deep in the elbow crease where the biceps tendon reaches the radial tuberosity, often worse when you lower slowly from a chin-up or resist supination.</p><p><strong>Front of the elbow, deeper: \"climber's elbow\" (brachialis tendinopathy).</strong> Common in climbers who hang on bent arms for long periods, and in pull-up trainees who do a lot of top holds and lock-offs. Pain is at the front of the elbow, just above the joint, and gets worse with loaded flexion in a pronated or neutral grip.</p><p>Load management is the part of treatment every version shares. Cut the volume that provokes it rather than stopping entirely, change the grip so the sore tendon is unloaded for a few weeks, slow the eccentric, and add light isometric and slow-loaded work for the painful tendon as it calms down.</p><p>See a clinician if pain lasts more than a few weeks despite reduced load, if there is swelling or a loss of elbow motion, if you have numbness or tingling in the ring and little finger (the ulnar nerve runs just behind the medial epicondyle), or, urgently, if you felt a sudden pop at the elbow followed by bruising and weakness turning the palm up. That last pattern can mean a distal biceps tendon rupture, which has a time-sensitive repair window.</p><h2>How to program for your elbow flexors</h2><p>Two to three pulling sessions a week is enough for most people. Rotate grips across the week so no single tendon takes all the volume: one overhand day, one neutral or underhand day, and a third session that is lighter or assisted. Ramp total weekly reps by no more than roughly 10 to 20 percent at a time, and hold a level for a week before adding again. If your elbows complain, drop the underhand volume first, keep the neutral grip, and slow your negatives. The <a href=\"/pull-up-workout-plan/\">weekly pull-up plan</a> shows how that looks on paper. PullUp Master applies the same rules automatically: it adjusts volume from how the last session felt, so a sore elbow or a failed set lowers the next day's load instead of pushing it up.</p>",
+      "faq": [
+        {
+          "q": "Do pull-ups build biceps?",
+          "a": "Yes. Surface EMG shows the biceps working at roughly 78 to 96 percent of its maximum in pull-ups and chin-ups, more in the chin-up. They do not isolate it like a curl does, but they load it heavily."
+        },
+        {
+          "q": "Are chin-ups or curls better for biceps?",
+          "a": "Chin-ups load the biceps with more weight and train the back at the same time; curls isolate it and are easier to progress in small steps. For arm size use both; for pull-up performance prioritize chin-ups and add curls as accessory work."
+        },
+        {
+          "q": "Why does the inside of my elbow hurt after pull-ups?",
+          "a": "Most often it is irritation of the common flexor-pronator tendon at the medial epicondyle, known as golfer's elbow, which is linked to hard, repetitive gripping. Reduce the volume that provokes it, change grip for a few weeks, and see a clinician if it lasts or comes with numbness."
+        },
+        {
+          "q": "What is the brachialis?",
+          "a": "A thick muscle under the biceps that runs from the front of the humerus to the ulna. It flexes the elbow in every forearm position and is the strongest elbow flexor, which is why it does much of the work in an overhand pull-up."
+        },
+        {
+          "q": "Should I train biceps separately?",
+          "a": "Only if your arms fail before your back does, or you want more arm size. Two or three sets of hammer curls and slow chin-up negatives twice a week are usually enough; keep it small so it does not eat into recovery for your pulling sessions."
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/grip-forearm-anatomy-pull-ups/",
+          "title": "Grip strength for pull-ups: forearm anatomy, why it fails first and how to train it"
+        },
+        {
+          "href": "/latissimus-dorsi-pull-ups/",
+          "title": "Latissimus dorsi and pull-ups: an anatomy lesson for people who train"
+        },
+        {
+          "href": "/pull-up-muscles-worked/",
+          "title": "Pull-up muscles worked: what you're really training"
+        },
+        {
+          "href": "/chin-up-vs-pull-up/",
+          "title": "Chin-up vs pull-up: what's the difference and which should you do?"
+        },
+        {
+          "href": "/pull-up-mistakes/",
+          "title": "Pull-up mistakes: 7 form errors that hold you back (and the fixes)"
+        },
+        {
+          "href": "/pull-up-plateau/",
+          "title": "Pull-up plateau: why your reps stopped going up and how to break through"
+        },
+        {
+          "href": "/pull-up-workout-plan/",
+          "title": "Pull-up workout plan: a weekly routine to add reps"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Tiwana MS, Charlick M, Varacallo MA. Anatomy, Shoulder and Upper Limb, Biceps Muscle. StatPearls [Internet], NCBI Bookshelf, 2024.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519538/"
+        },
+        {
+          "label": "Plantz MA, Bordoni B. Anatomy, Shoulder and Upper Limb, Brachialis Muscle. StatPearls [Internet], NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK551630/"
+        },
+        {
+          "label": "Lung BE, Ekblad J, Bisogno M. Anatomy, Shoulder and Upper Limb, Forearm Brachioradialis Muscle. StatPearls [Internet], NCBI Bookshelf, 2024.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526110/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, Hahn JJ, Harezlak DT, Hollman JH. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or Perfect-Pullup rotational exercise. J Strength Cond Res, 2010;24(12):3404-3414.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Dickie JA, Faulkner JA, Barnes MJ, Lark SD. Electromyographic analysis of muscle activation during pull-up variations. J Electromyogr Kinesiol, 2017;32:30-36.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28011412/"
+        },
+        {
+          "label": "Li D, Hammad A, Kaiser K. Medial Epicondylitis (Golfer's Elbow). StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519000/"
+        }
+      ]
+    },
+    "de": {
+      "title": "Bizeps Klimmzug: Welche Armbeuger ziehen dich hoch?",
+      "description": "Bizeps, Brachialis und Brachioradialis im Klimmzug: Anatomie, welcher Beuger bei welchem Griff führt, Phasen der Wiederholung, EMG-Daten und Ellbogenschmerz.",
+      "headline": "Bizeps, Brachialis und Brachioradialis: die Armbeuger im Klimmzug",
+      "subtitle": "Welcher Armmuskel bei welchem Griff führt, was in jeder Phase passiert und warum die Ellbogeninnenseite manchmal schmerzt",
+      "read_time": "8 Min. Lesezeit",
+      "lede": "Drei Muskeln beugen deinen Ellbogen im Klimmzug: der Bizeps (Biceps brachii), der Armbeuger (Brachialis) und der Oberarmspeichenmuskel (Brachioradialis). Wer führt, hängt davon ab, wohin deine Handflächen zeigen: Der Untergriff im Chin-up begünstigt den Bizeps, der Obergriff im Klimmzug verlagert die Arbeit auf Brachialis und Brachioradialis, der neutrale Griff liegt dazwischen. Hier liest du, wie jeder der drei gebaut ist, was er in jeder Phase der Wiederholung tut und warum viele Chin-ups manchmal die Ellbogeninnenseite reizen.",
+      "body_html": "<h2>Anatomie auf einen Blick: die drei Ellbogenbeuger</h2><p>Drei Muskeln beugen deinen Ellbogen, wenn du ziehst. Sie liegen in Schichten an der Vorderseite des Oberarms und am oberen Unterarm, und jeder verhält sich anders, je nachdem, wie deine Hand gedreht ist.<sup>[1]</sup><sup>[2]</sup><sup>[3]</sup></p><div class=\"table-scroll\"><table><thead><tr><th>Muskel</th><th>Ursprung</th><th>Ansatz</th><th>Nerv</th><th>Funktion</th></tr></thead><tbody><tr><td><strong>Bizeps (Biceps brachii)</strong>, langer und kurzer Kopf</td><td>Langer Kopf: Tuberculum supraglenoidale des Schulterblatts. Kurzer Kopf: Processus coracoideus</td><td>Tuberositas radii, dazu die Bizepsaponeurose in die Unterarmfaszie</td><td>Nervus musculocutaneus (C5–C6)</td><td>Beugt den Ellbogen, supiniert den Unterarm (seine stärkste Aktion bei gebeugtem Ellbogen), schwache Schulterbeugung<sup>[1]</sup></td></tr><tr><td><strong>Armbeuger (Brachialis)</strong></td><td>Distale Hälfte der Humerus-Vorderseite</td><td>Tuberositas ulnae und Processus coronoideus der Elle</td><td>Nervus musculocutaneus; der seitliche Anteil bekommt meist zusätzlich einen Ast des Nervus radialis</td><td>Reine Ellbogenbeugung in jeder Unterarmstellung; der stärkste der drei Beuger<sup>[2]</sup></td></tr><tr><td><strong>Oberarmspeichenmuskel (Brachioradialis)</strong></td><td>Crista supracondylaris lateralis des Humerus</td><td>Distale Speiche, nahe dem Processus styloideus</td><td>Nervus radialis (C5–C6)</td><td>Beugt den Ellbogen, am stärksten in Mittelstellung (neutraler Griff); führt den Unterarm aus beiden Extremen zurück zur Neutralstellung<sup>[3]</sup></td></tr></tbody></table></div><p>Alle drei kannst du an dir selbst finden. Beuge den Ellbogen auf 90 Grad, dreh die Handfläche nach oben und spann an: Der Bauch, der sich in der Mitte des Oberarms hebt, ist der Bizeps. Jetzt dreh die Handfläche nach unten und bleib angespannt. Der Bizeps wird weicher, und beidseits seiner unteren Sehne, knapp oberhalb der Ellenbeuge, drückst du auf einen festeren, tiefer liegenden Muskel. Das ist der Brachialis.</p><p>Für den Brachioradialis legst du den Unterarm mit dem Daumen nach oben auf einen Tisch, als würdest du einen Hammer halten. Drück den Handrücken gegen deine andere Hand, und die lange Wulst auf der Daumenseite des Unterarms wird vom Ellbogen bis zur Mitte des Unterarms hart.</p><h2>Welcher Beuger führt bei welchem Griff?</h2><p>Der Bizeps ist der einzige der drei, der auch supiniert: Er dreht die Handfläche nach oben, indem er die Speiche um die Elle zieht. Ist der Unterarm bereits supiniert, liegt die Bizepssehne nicht mehr um die Speiche gewickelt und zieht in gerader Linie. Deshalb bringt der <a href=\"/de/klimmzug-vs-chin-up/\">Chin-up (Untergriff, Handflächen zu dir)</a> den Bizeps in seine stärkste Position.<sup>[1]</sup></p><p>Drehst du die Handflächen für den Klimmzug nach unten, wickelt sich die Bizepssehne um die Speiche. Der Muskel ist jetzt für die Ellbogenbeugung mechanisch im Nachteil, und mehr Arbeit geht an die Muskeln, denen die Unterarmdrehung egal ist: den Brachialis, der in jeder Stellung gleich beugt, und den Brachioradialis, der nahe der Mittelstellung am besten arbeitet.<sup>[2]</sup><sup>[3]</sup> Der Bizeps arbeitet im Klimmzug weiter kräftig mit, nur nicht als führender Beuger.</p><p>Der neutrale Griff (Handflächen zueinander) ist der Mittelweg. Der Brachioradialis ist nahe seiner stärksten Zuglinie, der Bizeps teilweise entwickelt, und die meisten empfinden ihn als den ellbogenfreundlichsten der drei Griffe.</p><h2>Was passiert Phase für Phase?</h2><ul><li><strong>Dead Hang.</strong> Mit gestreckten Ellbogen sind die Beuger fast still. Der lange Bizepskopf zählt trotzdem: Seine Sehne läuft innerhalb des Schultergelenks über den Oberarmkopf und hilft, das Gelenk unter Last zentriert zu halten.<sup>[1]</sup> Ein Grund, warum sich ein <a href=\"/de/dead-hang-vorteile/\">langes Hängen</a> nach Schulter- und nicht nach Armarbeit anfühlt.</li><li><strong>Einleitung.</strong> Die ersten Zentimeter kommen aus den Schulterblättern und dem Latissimus. In EMG-Aufzeichnungen erreichen unterer Trapezius und großer Brustmuskel ihren Gipfel früh, vor den Ellbogenbeugern.<sup>[4]</sup></li><li><strong>Mittlerer Zug.</strong> Zwischen etwa 90 Grad Ellbogenbeugung und dem Moment, in dem das Kinn Stangenhöhe erreicht, ist der Bedarf der Ellbogenbeuger am höchsten. Bizeps und Brachialis sind beide nahe ihrer besten Arbeitslänge, der Latissimus verkürzt sich schnell.</li><li><strong>Oben.</strong> An der Stange ist der Ellbogen voll gebeugt. Der Bizeps ist hier kurz und schwach, der Brachialis liefert weiter Kraft, und die Schulterstrecker machen den Rest.</li><li><strong>Ablassen.</strong> Auf dem Weg nach unten verlängern sich dieselben Muskeln unter Last. Die mittlere Aktivierung ist in der exzentrischen Phase niedriger als in der konzentrischen,<sup>[5]</sup> aber die Sehnen am Ellbogen tragen weiterhin große Kräfte, und genau diese Phase reizt sie gern, wenn das Volumen steigt.</li></ul><h2>Was sagt die Forschung?</h2><p>Oberflächen-EMG-Studien sind sich im Großen einig. Youdas und Kollegen zeichneten 25 trainierte Erwachsene bei Klimmzügen und Chin-ups auf und fanden den Latissimus dorsi bei etwa 117 bis 130 Prozent seiner maximalen willkürlichen isometrischen Kontraktion, den Bizeps bei 78 bis 96 Prozent. Bizeps und großer Brustmuskel waren im Chin-up signifikant aktiver als im Klimmzug, der untere Trapezius dagegen im Klimmzug.<sup>[4]</sup></p><p>Dickie und Kollegen verglichen Unter-, Ober-, Neutral- und Seilgriff bei 19 krafttrainierten Männern. Über eine komplette Wiederholung waren Spitzen- und mittlere Aktivierung der Arm- und Schultermuskeln zwischen den Handstellungen ähnlich. Der einzige klare Griffeffekt war eine höhere Aktivität des mittleren Trapezius im Obergriff gegenüber dem neutralen Griff. In jeder Variante erzeugte die konzentrische Phase mehr Aktivierung von Brachioradialis, Bizeps und Brustmuskel als die exzentrische.<sup>[5]</sup></p><p>Lies diese Ergebnisse mit zwei Einschränkungen. Erstens sind die Unterschiede zwischen den Griffen moderat: Der Latissimus dominiert jede Variante, und der Bizeps arbeitet in allen kräftig. Zweitens hat keine dieser Studien den Brachialis direkt gemessen. Er liegt unter dem Bizeps, Oberflächenelektroden fangen also vor allem Bizepssignal ein, und Feindraht-Messungen sind in der Klimmzugforschung selten.</p><p>Die Griffbreite ist für die Ellbogenbeuger kaum untersucht. Mechanisch lässt ein engerer Griff den Ellbogen weiter beugen und verlangt mehr von den Beugern; ein breiterer Griff verkürzt den Ellbogenweg und verlagert den Schwerpunkt zur Schulter. Nimm das als Modell, nicht als gemessenes Ergebnis.</p><h2>\"Nur Arme, kein Rücken\" oder \"die Arme geben zuerst auf\": was tun?</h2><p><strong>Du spürst es nur in den Armen.</strong> Der übliche Grund: Die Schulterblätter bewegen sich nie. Du hängst passiv, beugst zuerst die Ellbogen und curlst dich hoch. Die Lösung ist Reihenfolge, nicht mehr Armkraft: Zieh die Schulterblätter nach unten und zusammen, bevor die Ellbogen beugen, und führe die Ellbogen zu den Rippen statt zum Boden. Skapula-Klimmzüge und unterstützte Wiederholungen mit einem langsamen Zwei-Sekunden-Start aus dem Hang bringen das gut bei. Der Ratgeber zu den <a href=\"/de/klimmzug-fehler/\">häufigsten Formfehlern</a> beschreibt das Muster im Detail.</p><p><strong>Der Rücken fühlt sich gut an, aber die Arme versagen zuerst.</strong> Dann sind die Beuger wirklich das schwache Glied. Trainiere sie direkt:</p><ul><li>Chin-up-Negative: spring oder steig nach oben, lass dich in 4 bis 6 Sekunden ab, 3 bis 5 Wiederholungen, zweimal pro Woche.</li><li>Hammercurls und Reverse Curls: Neutral- und Obergriff betonen Brachialis und Brachioradialis, die im Klimmzug im Obergriff den Großteil der Beugung leisten. 2 bis 3 Sätze mit 8 bis 12 Wiederholungen.</li><li>Langsame exzentrische Curls im Untergriff für den Bizeps und <a href=\"/de/klimmzug-mit-widerstandsband/\">Chin-ups mit Band</a>, um den vollen Bewegungsumfang unter leichterer Last zu üben.</li></ul><p>Wenn deine Wiederholungen festhängen und die Arme vor allem anderen aufgeben, zeigt dir der <a href=\"/de/klimmzug-plateau/\">Plateau-Ratgeber</a>, wie du eine Kraftgrenze von einer Ermüdungsgrenze unterscheidest. Ist stattdessen der Rücken die Grenze, verlagere das Volumen für einen Block auf Rudern und Latzug und halte die Armarbeit auf Erhaltungsniveau. Die vollständige Muskelkarte findest du unter <a href=\"/de/klimmzug-muskeln/\">Welche Muskeln ein Klimmzug trainiert</a>.</p><h2>Ellbogenprobleme bei Klimmzug-Trainierenden: worauf du achten solltest</h2><p>Drei Sehnenbeschwerden tauchen bei Klimmzug-Trainierenden mit hohem Volumen immer wieder auf. Nichts davon ist eine Diagnose; es ist eine Landkarte dessen, worauf Behandelnde schauen.</p><p><strong>Ellbogeninnenseite: mediale Epikondylalgie (\"Golferellbogen\").</strong> Das ist eine Tendinopathie des gemeinsamen Beuger-Pronatoren-Ursprungs am medialen Epikondylus, dem Knochenvorsprung an der Innenseite des Ellbogens. Die klassischen Zeichen sind Druckschmerz über diesem Vorsprung und Schmerz bei Handgelenkbeugung oder Unterarmpronation gegen Widerstand. Sie wird mit wiederholtem, kräftigem Greifen in Verbindung gebracht.<sup>[6]</sup> Viele Chin-ups, bei denen du mit gebeugtem Handgelenk hart greifst und der Unterarm in Supination belastet wird, sind ein typischer Auslöser.</p><p><strong>Ellbogenvorderseite: distale Bizepssehnen-Tendinopathie.</strong> Der Schmerz sitzt tief in der Ellenbeuge, wo die Bizepssehne die Tuberositas radii erreicht, oft schlimmer beim langsamen Ablassen aus dem Chin-up oder beim Supinieren gegen Widerstand.</p><p><strong>Ellbogenvorderseite, tiefer: \"Kletterellbogen\" (Brachialis-Tendinopathie).</strong> Häufig bei Kletterern, die lange mit gebeugten Armen hängen, und bei Klimmzug-Trainierenden mit vielen Halteübungen oben und Lock-offs. Der Schmerz sitzt vorn am Ellbogen, knapp oberhalb des Gelenks, und nimmt bei belasteter Beugung im Ober- oder Neutralgriff zu.</p><p>Belastungssteuerung ist der Teil der Behandlung, den alle Varianten teilen. Reduziere das Volumen, das die Beschwerden auslöst, statt ganz aufzuhören, wechsle den Griff, damit die gereizte Sehne ein paar Wochen entlastet ist, verlangsame die Exzentrik und ergänze leichte isometrische und langsam belastete Arbeit für die schmerzende Sehne, sobald sie sich beruhigt.</p><p>Geh zu einer Ärztin, einem Arzt oder in die Physiotherapie, wenn der Schmerz trotz reduzierter Last länger als ein paar Wochen anhält, wenn eine Schwellung oder ein Bewegungsverlust im Ellbogen auftritt, wenn Ring- und Kleinfinger taub werden oder kribbeln (der Nervus ulnaris läuft direkt hinter dem medialen Epikondylus) oder, dringend, wenn du ein plötzliches Knacken im Ellbogen gespürt hast, gefolgt von einem Bluterguss und Schwäche beim Drehen der Handfläche nach oben. Dieses letzte Muster kann auf einen Riss der distalen Bizepssehne hindeuten, dessen Versorgung zeitkritisch ist.</p><h2>Wie du für deine Ellbogenbeuger planst</h2><p>Zwei bis drei Zugeinheiten pro Woche reichen den meisten. Rotiere die Griffe über die Woche, damit keine einzelne Sehne das ganze Volumen trägt: ein Tag Obergriff, ein Tag neutral oder Untergriff und eine dritte, leichtere oder unterstützte Einheit. Steigere die wöchentliche Gesamtzahl an Wiederholungen um höchstens etwa 10 bis 20 Prozent auf einmal und halte ein Niveau eine Woche, bevor du wieder zulegst. Wenn die Ellbogen meckern, streich zuerst das Untergriff-Volumen, behalte den neutralen Griff und verlangsame deine Negativen. Der <a href=\"/de/klimmzug-trainingsplan/\">wöchentliche Klimmzug-Plan</a> zeigt, wie das auf dem Papier aussieht. PullUp Master wendet dieselben Regeln automatisch an: Die App passt das Volumen danach an, wie sich die letzte Einheit angefühlt hat, sodass ein gereizter Ellbogen oder ein gescheiterter Satz die Last am nächsten Tag senkt, statt sie hochzutreiben.</p>",
+      "faq": [
+        {
+          "q": "Trainieren Klimmzüge den Bizeps?",
+          "a": "Ja. Oberflächen-EMG zeigt den Bizeps bei Klimmzügen und Chin-ups bei etwa 78 bis 96 Prozent seines Maximums, im Chin-up mehr. Sie isolieren ihn nicht wie ein Curl, belasten ihn aber stark."
+        },
+        {
+          "q": "Chin-ups oder Curls für den Bizeps?",
+          "a": "Chin-ups belasten den Bizeps mit mehr Gewicht und trainieren gleichzeitig den Rücken; Curls isolieren ihn und lassen sich in kleinen Schritten steigern. Für Armumfang beides; für die Klimmzugleistung zuerst Chin-ups, Curls als Ergänzung."
+        },
+        {
+          "q": "Warum schmerzt die Ellbogeninnenseite nach Klimmzügen?",
+          "a": "Meist ist es eine Reizung der gemeinsamen Beuger-Pronatoren-Sehne am medialen Epikondylus, bekannt als Golferellbogen, die mit hartem, wiederholtem Greifen zusammenhängt. Reduziere das auslösende Volumen, wechsle für ein paar Wochen den Griff und lass es abklären, wenn es anhält oder mit Taubheit einhergeht."
+        },
+        {
+          "q": "Was ist der Brachialis?",
+          "a": "Ein dicker Muskel unter dem Bizeps, der von der Vorderseite des Oberarmknochens zur Elle zieht. Er beugt den Ellbogen in jeder Unterarmstellung und ist der stärkste Ellbogenbeuger, weshalb er im Klimmzug im Obergriff einen Großteil der Arbeit leistet."
+        },
+        {
+          "q": "Soll ich den Bizeps separat trainieren?",
+          "a": "Nur wenn deine Arme vor dem Rücken versagen oder du mehr Armumfang willst. Zwei bis drei Sätze Hammercurls und langsame Chin-up-Negative zweimal pro Woche reichen meist; halte es klein, damit es die Erholung für deine Zugeinheiten nicht auffrisst."
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/de/griffkraft-unterarm-klimmzug/",
+          "title": "Griffkraft beim Klimmzug: Unterarm-Anatomie, warum der Griff zuerst versagt und wie du ihn trainierst"
+        },
+        {
+          "href": "/de/latissimus-klimmzug/",
+          "title": "Latissimus und Klimmzug: eine Anatomiestunde für Trainierende"
+        },
+        {
+          "href": "/de/klimmzug-muskeln/",
+          "title": "Klimmzug Muskeln: Welche Muskeln werden trainiert?"
+        },
+        {
+          "href": "/de/klimmzug-vs-chin-up/",
+          "title": "Klimmzug vs. Chin-up: Was ist der Unterschied?"
+        },
+        {
+          "href": "/de/klimmzug-fehler/",
+          "title": "Klimmzug Fehler: Die 7 häufigsten und wie du sie behebst"
+        },
+        {
+          "href": "/de/klimmzug-plateau/",
+          "title": "Klimmzug-Plateau: So kommst du wieder voran"
+        },
+        {
+          "href": "/de/klimmzug-trainingsplan/",
+          "title": "Klimmzug Trainingsplan: So steigerst du deine Wiederholungen"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Tiwana MS, Charlick M, Varacallo MA. Anatomy, Shoulder and Upper Limb, Biceps Muscle. StatPearls [Internet], NCBI Bookshelf, 2024.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519538/"
+        },
+        {
+          "label": "Plantz MA, Bordoni B. Anatomy, Shoulder and Upper Limb, Brachialis Muscle. StatPearls [Internet], NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK551630/"
+        },
+        {
+          "label": "Lung BE, Ekblad J, Bisogno M. Anatomy, Shoulder and Upper Limb, Forearm Brachioradialis Muscle. StatPearls [Internet], NCBI Bookshelf, 2024.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526110/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, Hahn JJ, Harezlak DT, Hollman JH. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or Perfect-Pullup rotational exercise. J Strength Cond Res, 2010;24(12):3404-3414.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Dickie JA, Faulkner JA, Barnes MJ, Lark SD. Electromyographic analysis of muscle activation during pull-up variations. J Electromyogr Kinesiol, 2017;32:30-36.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28011412/"
+        },
+        {
+          "label": "Li D, Hammad A, Kaiser K. Medial Epicondylitis (Golfer's Elbow). StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519000/"
+        }
+      ]
+    },
+    "tr": {
+      "title": "Biceps barfiks anatomisi: pazı, brachialis, brachioradialis",
+      "description": "Barfikste pazı (biceps), brachialis ve brachioradialis: anatomi tablosu, hangi tutuşta hangi kas öne çıkar, EMG verileri ve dirsek ağrısı.",
+      "headline": "Pazı, brachialis ve brachioradialis: barfikste dirseği büken kaslar",
+      "subtitle": "Hangi tutuşta hangi kol kası öne çıkar, tekrarın her evresinde ne olur ve dirseğin iç tarafı neden bazen ağrır",
+      "read_time": "8 dk okuma",
+      "lede": "Barfikste dirseğini üç kas büker: pazı kası (biceps brachii), kol kası (brachialis) ve brachioradialis. Hangisinin öne çıktığı avuçlarının yönüne bağlı: avuç içi sana dönük chin-up tutuşu pazıyı öne çıkarır, avuç dışa dönük barfiks tutuşu işi brachialis ve brachioradialis'e kaydırır, nötr tutuş ikisinin arasında kalır. Bu yazıda her kasın nasıl yapılandığını, tekrarın her evresinde ne yaptığını ve yüksek hacimli chin-up'ın dirseğin iç tarafını neden bazen hassaslaştırdığını okuyacaksın.",
+      "body_html": "<h2>Tek bakışta anatomi: dirseği büken üç kas</h2><p>Çekiş sırasında dirseğini üç kas büker. Üst kolun ön yüzünde ve ön kolun üst kısmında katmanlar hâlinde dururlar ve her biri elinin dönüşüne göre farklı davranır.<sup>[1]</sup><sup>[2]</sup><sup>[3]</sup></p><div class=\"table-scroll\"><table><thead><tr><th>Kas</th><th>Başlangıç (origo)</th><th>Yapışma (insertio)</th><th>Sinir</th><th>Görevi</th></tr></thead><tbody><tr><td><strong>Pazı kası (biceps brachii)</strong>, uzun ve kısa baş</td><td>Uzun baş: kürek kemiğinin supraglenoid tüberkülü. Kısa baş: korakoid çıkıntı</td><td>Radius tüberositası, artı ön kol fasyasına uzanan bisipital aponevroz</td><td>Muskulokutan sinir (C5–C6)</td><td>Dirseği büker, ön kolu supine eder (dirsek bükülüyken en güçlü işi budur), zayıf omuz fleksiyonu<sup>[1]</sup></td></tr><tr><td><strong>Kol kası (brachialis)</strong></td><td>Humerus ön yüzünün alt yarısı</td><td>Ulna tüberositası ve koronoid çıkıntı</td><td>Muskulokutan sinir; dış kısmı çoğunlukla radial sinirden de bir dal alır</td><td>Ön kolun her konumunda saf dirsek fleksiyonu; üç bükücünün en güçlüsü<sup>[2]</sup></td></tr><tr><td><strong>Brachioradialis</strong></td><td>Humerusun lateral suprakondiler çıkıntısı</td><td>Radiusun alt ucu, stiloid çıkıntının yakını</td><td>Radial sinir (C5–C6)</td><td>Dirseği büker, orta pronasyonda (nötr tutuş) en güçlüdür; ön kolu iki uçtan da nötr konuma geri getirir<sup>[3]</sup></td></tr></tbody></table></div><p>Üçünü de kendi kolunda bulabilirsin. Dirseğini 90 dereceye bük, avucunu yukarı çevir ve kas: üst kolun ortasında kabaran kütle pazı. Şimdi avucunu aşağı çevir ve kasmaya devam et. Pazı yumuşar ve alt tendonunun iki yanında, dirsek kıvrımının hemen üstünde daha sert, daha derin bir kasa bastırırsın. Bu brachialis.</p><p>Brachioradialis için ön kolunu baş parmağın yukarı bakacak şekilde, çekiç tutar gibi masaya koy. El bileğinin sırtını diğer eline doğru it; ön kolun baş parmak tarafındaki uzun kabartı dirsekten bileğin yarısına kadar sertleşir.</p><h2>Hangi tutuşta hangi bükücü öne çıkar?</h2><p>Pazı, üçü arasında supinasyon da yapan tek kastır: radiusu ulnanın etrafında çekerek avucu yukarı çevirir. Ön kol zaten supine durumdaysa pazı tendonu radiusun etrafından çözülmüştür ve düz bir hatta çeker. Bu yüzden <a href=\"/tr/barfiks-vs-chin-up/\">chin-up (avuç içi sana dönük)</a> pazıyı en güçlü konumuna sokar.<sup>[1]</sup></p><p>Barfiks için avuçlarını dışa çevirdiğinde pazı tendonu radiusun etrafına sarılır. Kas artık dirseği bükmek için mekanik olarak dezavantajlıdır; iş, ön kol dönüşünü umursamayan kaslara kayar: her konumda aynı şekilde büken brachialis ve orta pronasyona yakınken en iyi çalışan brachioradialis.<sup>[2]</sup><sup>[3]</sup> Pazı barfikste yine sıkı çalışır, ama öncü bükücü olarak değil.</p><p>Nötr tutuş (avuçlar birbirine bakar) orta yoldur. Brachioradialis en güçlü çekiş hattına yakındır, pazı kısmen çözülmüştür ve çoğu kişi için üç tutuş arasında dirseğe en dost olanıdır.</p><h2>Evre evre ne olur?</h2><ul><li><strong>Dead hang.</strong> Dirsekler düzken bükücüler neredeyse sessizdir. Pazının uzun başı yine de önemlidir: tendonu omuz ekleminin içinde humerus başının üzerinden geçer ve yük altında eklemi ortalanmış tutmaya yardım eder.<sup>[1]</sup> <a href=\"/tr/dead-hang-faydalari/\">Uzun bir asılışın</a> kol değil omuz çalışması gibi hissettirmesinin bir nedeni budur.</li><li><strong>Başlangıç.</strong> İlk birkaç santim kürek kemiklerinden ve sırt kaslarından (latissimus) gelir. EMG kayıtlarında alt trapez ve büyük göğüs kası zirvesine erken, dirsek bükücülerden önce ulaşır.<sup>[4]</sup></li><li><strong>Orta çekiş.</strong> Yaklaşık 90 derece dirsek bükülmesiyle çenenin bar hizasına geldiği an arasında dirsek bükücülere olan talep zirve yapar. Pazı ve brachialis en iyi çalışma uzunluklarına yakındır, latissimus hızla kısalır.</li><li><strong>Tepe.</strong> Barda dirsek tamamen bükülüdür. Pazı burada kısa ve zayıftır, brachialis kuvvet üretmeye devam eder, omuz ekstansörleri işi bitirir.</li><li><strong>İniş.</strong> Aşağı inerken aynı kaslar yük altında uzar. Ortalama aktivasyon eksantrik evrede konsantrik evreye göre düşüktür,<sup>[5]</sup> ama dirsekteki tendonlar hâlâ büyük kuvvet taşır ve hacim arttığında onları en çok rahatsız eden evre budur.</li></ul><h2>Araştırmalar ne diyor?</h2><p>Yüzey EMG çalışmaları büyük resimde hemfikir. Youdas ve ekibi barfiks ve chin-up yapan 25 antrenmanlı yetişkini kaydetti; latissimus dorsi maksimum istemli izometrik kasılmasının yaklaşık yüzde 117 ila 130'unda, pazı ise yüzde 78 ila 96'sında çalıştı. Pazı ve büyük göğüs kası chin-up'ta barfikse göre anlamlı ölçüde daha aktifti; alt trapez ise barfikste daha aktifti.<sup>[4]</sup></p><p>Dickie ve ekibi 19 kuvvet antrenmanlı erkekte avuç içe dönük, dışa dönük, nötr ve halat tutuşlarını karşılaştırdı. Tam bir tekrar boyunca kol ve omuz kaslarının zirve ve ortalama aktivasyonu el konumları arasında benzerdi. Tek net tutuş etkisi, dışa dönük tutuşta orta trapezin nötr tutuşa göre daha yüksek aktivitesiydi. Her varyasyonda konsantrik evre, eksantrik evreye göre daha fazla brachioradialis, pazı ve göğüs aktivasyonu üretti.<sup>[5]</sup></p><p>Bu sonuçları iki çekinceyle oku. Birincisi, tutuşlar arasındaki farklar ılımlı: her versiyonda sırt kasları baskın ve pazı hepsinde sıkı çalışıyor. İkincisi, bu çalışmaların hiçbiri brachialis'i doğrudan ölçmedi. Pazının altında yattığı için yüzey elektrotları çoğunlukla pazı sinyalini yakalar; ince tel kayıtlarıysa barfiks araştırmalarında nadirdir.</p><p>Tutuş genişliği dirsek bükücüler açısından neredeyse hiç incelenmemiştir. Mekanik olarak dar tutuş dirseğin daha fazla bükülmesine izin verir ve bükücülerden daha fazlasını ister; geniş tutuş dirsek yolunu kısaltır ve vurguyu omza kaydırır. Bunu ölçülmüş bir sonuç değil, bir model olarak al.</p><h2>\"Hep kol, hiç sırt\" ya da \"önce kollar bitiyor\": ne yapmalı?</h2><p><strong>Sadece kollarında hissediyorsun.</strong> Genel neden kürek kemiklerinin hiç hareket etmemesidir. Pasif asılıyor, önce dirsekleri büküyor ve kendini curl yapar gibi yukarı çekiyorsun. Çözüm daha fazla kol kuvveti değil, sıralamadır: dirsekler bükülmeden önce kürek kemiklerini aşağı ve birbirine doğru çek, dirsekleri yere değil kaburgalarına doğru sür. Skapula barfiksi ve en alttan yavaş, iki saniyelik başlangıçla yapılan destekli tekrarlar bunu iyi öğretir. <a href=\"/tr/barfiks-hatalari/\">Yaygın form hataları</a> rehberi bu kalıbı ayrıntılı anlatır.</p><p><strong>Sırtın iyi ama kolların önce pes ediyor.</strong> O zaman bükücüler gerçekten zayıf halkadır. Onları doğrudan çalıştır:</p><ul><li>Chin-up negatifleri: zıplayarak ya da basamakla tepeye çık, 4 ila 6 saniyede in, 3 ila 5 tekrar, haftada iki kez.</li><li>Çekiç curl ve ters curl: nötr ve dışa dönük tutuşlar, dışa dönük barfikste bükmenin çoğunu yapan brachialis ve brachioradialis'i öne çıkarır. 8 ila 12 tekrarlık 2 ila 3 set.</li><li>Pazı için avuç içe dönük yavaş eksantrik curl ve tam hareket açıklığını daha hafif yükle çalışmak için <a href=\"/tr/bantli-barfiks/\">bantlı chin-up</a>.</li></ul><p>Tekrarların takıldıysa ve her şeyden önce kolların bitiyorsa <a href=\"/tr/barfiks-plato/\">plato rehberi</a> kuvvet sınırını yorgunluk sınırından nasıl ayıracağını anlatır. Sınır sırtsa, bir blok boyunca hacmi kürek ve lat pulldown'a kaydır, kol çalışmasını koruma düzeyinde tut. Tam kas haritası <a href=\"/tr/barfiks-hangi-kaslari-calistirir/\">barfiksin çalıştırdığı kaslar</a> yazısında.</p><h2>Barfiks yapanlarda dirsek sorunları: nelere dikkat etmelisin?</h2><p>Yüksek hacimle barfiks çalışanlarda üç tendon şikâyeti tekrar tekrar karşımıza çıkar. Bunların hiçbiri tanı değil; klinisyenlerin neye baktığının haritasıdır.</p><p><strong>Dirseğin iç tarafı: medial epikondilalji (\"golfçü dirseği\").</strong> Dirseğin iç tarafındaki kemik çıkıntı olan medial epikondilde, ortak fleksör-pronator başlangıcının tendinopatisidir. Klasik bulgular bu çıkıntı üzerinde hassasiyet ve dirence karşı el bileği fleksiyonunda ya da ön kol pronasyonunda ağrıdır. Tekrarlayan, kuvvetli kavramayla ilişkilidir.<sup>[6]</sup> El bileği bükük hâlde sıkı kavradığın ve ön kolun supinasyonda yüklendiği yüksek hacimli chin-up tipik bir tetikleyicidir.</p><p><strong>Dirseğin ön yüzü: distal pazı tendinopatisi.</strong> Ağrı, pazı tendonunun radius tüberositasına ulaştığı yerde, dirsek kıvrımının derininde oturur; chin-up'tan yavaş inerken ya da supinasyona direnirken genelde artar.</p><p><strong>Dirseğin ön yüzü, daha derin: \"tırmanıcı dirseği\" (brachialis tendinopatisi).</strong> Uzun süre bükük kolla asılı kalan tırmanıcılarda ve tepede çok bekleyen, çok lock-off yapan barfiksçilerde sık görülür. Ağrı dirseğin önünde, eklemin hemen üstündedir ve dışa dönük ya da nötr tutuşta yüklü bükmeyle artar.</p><p>Yük yönetimi, her versiyonun paylaştığı tedavi parçasıdır. Tamamen bırakmak yerine şikâyeti tetikleyen hacmi azalt, ağrıyan tendonun birkaç hafta yüklenmemesi için tutuşu değiştir, eksantriği yavaşlat ve tendon sakinleştikçe hafif izometrik ve yavaş yüklü çalışma ekle.</p><p>Yükü azaltmana rağmen ağrı birkaç haftadan uzun sürüyorsa, dirsekte şişlik ya da hareket kaybı varsa, yüzük ve serçe parmakta uyuşma ya da karıncalanma hissediyorsan (ulnar sinir medial epikondilin hemen arkasından geçer) ya da, acil olarak, dirseğinde ani bir kopma sesi duyup ardından morarma ve avucu yukarı çevirmede güçsüzlük yaşadıysan bir hekime ya da fizyoterapiste git. Bu son tablo, onarımı zamana duyarlı olan distal pazı tendonu kopmasına işaret edebilir.</p><h2>Dirsek bükücüler için program nasıl kurulur?</h2><p>Haftada iki ila üç çekiş seansı çoğu kişi için yeterli. Tek bir tendonun bütün hacmi taşımaması için tutuşları hafta içinde döndür: bir gün dışa dönük, bir gün nötr ya da içe dönük, üçüncüsü daha hafif ya da destekli bir seans. Haftalık toplam tekrarı her seferinde en fazla yüzde 10 ila 20 artır ve yeniden eklemeden önce bir hafta aynı seviyede kal. Dirseklerin söylenirse önce içe dönük hacmi kes, nötr tutuşu koru ve negatiflerini yavaşlat. <a href=\"/tr/barfiks-antrenman-programi/\">Haftalık barfiks programı</a> bunun kâğıt üstünde nasıl göründüğünü gösterir. PullUp Master aynı kuralları otomatik uygular: hacmi son seansın nasıl hissettirdiğine göre ayarlar, böylece hassas bir dirsek ya da başarısız bir set ertesi günün yükünü artırmak yerine düşürür.</p>",
+      "faq": [
+        {
+          "q": "Barfiks pazı geliştirir mi?",
+          "a": "Evet. Yüzey EMG, barfiks ve chin-up'ta pazının maksimumunun yaklaşık yüzde 78 ila 96'sında çalıştığını, chin-up'ta daha fazla olduğunu gösteriyor. Curl gibi izole etmezler ama ağır yüklerler."
+        },
+        {
+          "q": "Pazı için chin-up mı curl mü?",
+          "a": "Chin-up pazıyı daha fazla ağırlıkla yükler ve aynı anda sırtı çalıştırır; curl onu izole eder ve küçük adımlarla ilerletmesi kolaydır. Kol hacmi için ikisini de kullan; barfiks performansı için önce chin-up, curl'ü yardımcı çalışma olarak ekle."
+        },
+        {
+          "q": "Barfiksten sonra dirseğimin iç tarafı neden ağrıyor?",
+          "a": "Çoğunlukla medial epikondildeki ortak fleksör-pronator tendonun tahrişidir; golfçü dirseği olarak bilinir ve sert, tekrarlayan kavramayla ilişkilidir. Tetikleyen hacmi azalt, birkaç hafta tutuşu değiştir; sürerse ya da uyuşma eşlik ederse bir klinisyene görün."
+        },
+        {
+          "q": "Brachialis nedir?",
+          "a": "Pazının altında, humerusun ön yüzünden ulnaya uzanan kalın bir kastır. Ön kolun her konumunda dirseği büker ve en güçlü dirsek bükücüdür; bu yüzden avuç dışa dönük barfikste işin büyük kısmını o yapar."
+        },
+        {
+          "q": "Pazıyı ayrıca çalıştırmalı mıyım?",
+          "a": "Yalnızca kolların sırtından önce bitiyorsa ya da daha fazla kol hacmi istiyorsan. Haftada iki kez iki ila üç set çekiç curl ve yavaş chin-up negatifi genelde yeter; çekiş seanslarının toparlanmasını yemesin diye küçük tut."
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/tr/kavrama-kuvveti-on-kol-barfiks/",
+          "title": "Barfikste kavrama kuvveti: ön kol anatomisi, neden ilk o pes eder ve nasıl çalıştırılır"
+        },
+        {
+          "href": "/tr/kanat-kasi-latissimus-barfiks/",
+          "title": "Kanat kası (latissimus dorsi) ve barfiks: antrenman yapanlar için anatomi dersi"
+        },
+        {
+          "href": "/tr/barfiks-hangi-kaslari-calistirir/",
+          "title": "Barfiks hangi kasları çalıştırır?"
+        },
+        {
+          "href": "/tr/barfiks-vs-chin-up/",
+          "title": "Barfiks mi chin-up mı? Farkları ve hangisiyle başlamalı"
+        },
+        {
+          "href": "/tr/barfiks-hatalari/",
+          "title": "Barfiks hataları: en yaygın 7 form hatası ve nasıl düzeltilir"
+        },
+        {
+          "href": "/tr/barfiks-plato/",
+          "title": "Barfiks plato: aynı tekrarda takılırsan ne yapmalı"
+        },
+        {
+          "href": "/tr/barfiks-antrenman-programi/",
+          "title": "Barfiks antrenman programı: tekrar sayını artıran haftalık plan"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Tiwana MS, Charlick M, Varacallo MA. Anatomy, Shoulder and Upper Limb, Biceps Muscle. StatPearls [Internet], NCBI Bookshelf, 2024.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519538/"
+        },
+        {
+          "label": "Plantz MA, Bordoni B. Anatomy, Shoulder and Upper Limb, Brachialis Muscle. StatPearls [Internet], NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK551630/"
+        },
+        {
+          "label": "Lung BE, Ekblad J, Bisogno M. Anatomy, Shoulder and Upper Limb, Forearm Brachioradialis Muscle. StatPearls [Internet], NCBI Bookshelf, 2024.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526110/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, Hahn JJ, Harezlak DT, Hollman JH. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or Perfect-Pullup rotational exercise. J Strength Cond Res, 2010;24(12):3404-3414.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Dickie JA, Faulkner JA, Barnes MJ, Lark SD. Electromyographic analysis of muscle activation during pull-up variations. J Electromyogr Kinesiol, 2017;32:30-36.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28011412/"
+        },
+        {
+          "label": "Li D, Hammad A, Kaiser K. Medial Epicondylitis (Golfer's Elbow). StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519000/"
+        }
+      ]
+    },
+    "es": {
+      "title": "Bíceps en dominadas: braquial, braquiorradial y agarre",
+      "description": "Bíceps, braquial anterior y braquiorradial en las dominadas: anatomía, qué flexor manda con cada agarre, fases del movimiento, datos EMG y dolor de codo.",
+      "headline": "Bíceps, braquial anterior y braquiorradial: los flexores del codo en las dominadas",
+      "subtitle": "Qué músculo del brazo manda con cada agarre, qué pasa en cada fase de la repetición y por qué a veces te duele la cara interna del codo",
+      "read_time": "8 min de lectura",
+      "lede": "En una dominada te flexionan el codo tres músculos: el bíceps braquial, el braquial anterior y el braquiorradial. Cuál manda depende de hacia dónde miran tus palmas: el agarre supino del chin-up favorece al bíceps, el agarre prono de la dominada desplaza el trabajo hacia el braquial y el braquiorradial, y el agarre neutro queda en medio. Aquí tienes cómo está construido cada uno, qué hace en cada fase de la repetición y por qué un volumen alto de chin-ups a veces deja dolorida la cara interna del codo.",
+      "body_html": "<h2>Anatomía de un vistazo: los tres flexores del codo</h2><p>Tres músculos te doblan el codo cuando tiras. Están en capas en la cara anterior del brazo y en la parte alta del antebrazo, y cada uno se comporta distinto según cómo tengas girada la mano.<sup>[1]</sup><sup>[2]</sup><sup>[3]</sup></p><div class=\"table-scroll\"><table><thead><tr><th>Músculo</th><th>Origen</th><th>Inserción</th><th>Nervio</th><th>Acción</th></tr></thead><tbody><tr><td><strong>Bíceps braquial</strong> (porción larga y corta)</td><td>Porción larga: tubérculo supraglenoideo de la escápula. Porción corta: apófisis coracoides</td><td>Tuberosidad radial, más la aponeurosis bicipital hacia la fascia del antebrazo</td><td>Nervio musculocutáneo (C5–C6)</td><td>Flexiona el codo, supina el antebrazo (su acción más potente con el codo flexionado), flexión débil del hombro<sup>[1]</sup></td></tr><tr><td><strong>Braquial anterior</strong></td><td>Mitad distal de la cara anterior del húmero</td><td>Tuberosidad cubital y apófisis coronoides del cúbito</td><td>Nervio musculocutáneo; la parte lateral suele recibir además una rama del nervio radial</td><td>Flexión pura del codo en cualquier posición del antebrazo; el más fuerte de los tres flexores<sup>[2]</sup></td></tr><tr><td><strong>Braquiorradial</strong></td><td>Cresta supracondílea lateral del húmero</td><td>Radio distal, cerca de la apófisis estiloides</td><td>Nervio radial (C5–C6)</td><td>Flexiona el codo, más fuerte en pronación media (agarre neutro); devuelve el antebrazo a la posición neutra desde cualquiera de los extremos<sup>[3]</sup></td></tr></tbody></table></div><p>Puedes localizar los tres en tu propio brazo. Flexiona el codo a 90 grados, gira la palma hacia arriba y aprieta: el vientre que sube en el centro del brazo es el bíceps. Ahora gira la palma hacia abajo y sigue apretando. El bíceps se ablanda y, a ambos lados de su tendón inferior, justo por encima del pliegue del codo, notas al presionar un músculo más firme y más profundo. Ese es el braquial anterior.</p><p>Para el braquiorradial, apoya el antebrazo en una mesa con el pulgar hacia arriba, como si sujetaras un martillo. Empuja el dorso de la muñeca contra la otra mano y el cordón largo del lado del pulgar se endurece desde el codo hasta la mitad del antebrazo.</p><h2>¿Qué flexor manda con cada agarre?</h2><p>El bíceps es el único de los tres que además supina: gira la palma hacia arriba tirando del radio alrededor del cúbito. Cuando el antebrazo ya está en supinación, el tendón del bíceps está desenrollado del radio y tira en línea recta. Por eso el <a href=\"/es/dominadas-vs-chin-up/\">chin-up (agarre supino, palmas hacia ti)</a> coloca al bíceps en su posición más fuerte.<sup>[1]</sup></p><p>Gira las palmas hacia abajo para una dominada y el tendón del bíceps se enrolla alrededor del radio. El músculo queda en desventaja mecánica para flexionar el codo, así que más trabajo pasa a los músculos a los que no les importa la rotación del antebrazo: el braquial anterior, que flexiona igual en cualquier posición, y el braquiorradial, que rinde mejor cerca de la pronación media.<sup>[2]</sup><sup>[3]</sup> El bíceps sigue trabajando duro en la dominada, solo que no como flexor principal.</p><p>El agarre neutro (palmas enfrentadas) es el punto medio. El braquiorradial está cerca de su mejor línea de tracción, el bíceps está parcialmente desenrollado y la mayoría lo encuentra el más amable con el codo de los tres.</p><h2>¿Qué pasa fase por fase?</h2><ul><li><strong>Dead hang.</strong> Con los codos estirados, los flexores están casi en silencio. La porción larga del bíceps sigue importando: su tendón pasa por encima de la cabeza del húmero dentro de la articulación del hombro y ayuda a mantenerla centrada bajo carga.<sup>[1]</sup> Es una de las razones por las que un <a href=\"/es/beneficios-dead-hang/\">colgado largo</a> se siente como trabajo de hombro, no de brazo.</li><li><strong>Inicio.</strong> Los primeros centímetros salen de las escápulas y los dorsales. En los registros EMG, el trapecio inferior y el pectoral mayor alcanzan su pico pronto, antes que los flexores del codo.<sup>[4]</sup></li><li><strong>Tramo medio.</strong> Entre unos 90 grados de flexión de codo y el momento en que la barbilla llega a la altura de la barra, la demanda sobre los flexores del codo toca techo. Bíceps y braquial están cerca de su mejor longitud de trabajo y los dorsales se acortan rápido.</li><li><strong>Arriba.</strong> En la barra el codo está totalmente flexionado. El bíceps está corto y débil aquí, el braquial anterior sigue produciendo fuerza y los extensores del hombro rematan.</li><li><strong>Bajada.</strong> Al bajar, los mismos músculos se alargan bajo carga. La activación media es menor en la fase excéntrica que en la concéntrica,<sup>[5]</sup> pero los tendones del codo siguen soportando fuerzas grandes, y esta es la fase que suele irritarlos cuando sube el volumen.</li></ul><h2>¿Qué dice la investigación?</h2><p>Los estudios con EMG de superficie coinciden en lo esencial. Youdas y colaboradores registraron a 25 adultos entrenados haciendo dominadas y chin-ups y encontraron al dorsal ancho en torno al 117 a 130 por ciento de su contracción isométrica voluntaria máxima, con el bíceps braquial en el 78 a 96 por ciento. El bíceps y el pectoral mayor fueron significativamente más activos en el chin-up que en la dominada, mientras que el trapecio inferior lo fue más en la dominada.<sup>[4]</sup></p><p>Dickie y colaboradores compararon agarre supino, prono, neutro y en cuerda en 19 hombres entrenados en fuerza. A lo largo de una repetición completa, la activación pico y media de los músculos del brazo y el hombro fue similar entre posiciones de la mano. El único efecto claro del agarre fue una mayor actividad del trapecio medio con el agarre prono que con el neutro. En todas las variantes la fase concéntrica produjo más activación de braquiorradial, bíceps y pectoral que la excéntrica.<sup>[5]</sup></p><p>Lee estos resultados con dos matices. Primero, las diferencias entre agarres son modestas: los dorsales dominan en todas las versiones y el bíceps trabaja duro en todas. Segundo, ninguno de estos estudios midió el braquial anterior directamente. Está debajo del bíceps, así que los electrodos de superficie recogen sobre todo señal del bíceps, y los registros con aguja fina son raros en la investigación sobre dominadas.</p><p>La anchura del agarre apenas está estudiada para los flexores del codo. Mecánicamente, un agarre más estrecho permite flexionar más el codo y exige más a los flexores; uno más ancho acorta el recorrido del codo y desplaza el énfasis al hombro. Tómalo como un modelo, no como un resultado medido.</p><h2>\"Todo brazo, nada de espalda\" o \"los brazos fallan primero\": qué hacer</h2><p><strong>Solo lo sientes en los brazos.</strong> La razón habitual es que las escápulas nunca se mueven. Cuelgas pasivo, doblas primero los codos y te enroscas hacia arriba. El arreglo es la secuencia, no más fuerza de brazo: lleva las escápulas abajo y juntas antes de que se doblen los codos, y dirige los codos hacia las costillas y no hacia el suelo. Las dominadas escapulares y las repeticiones asistidas con un arranque lento de dos segundos desde abajo lo enseñan bien. La guía de <a href=\"/es/errores-dominadas/\">errores de técnica más comunes</a> explica el patrón con detalle.</p><p><strong>La espalda va bien, pero los brazos fallan antes.</strong> Entonces los flexores sí son el eslabón débil. Entrénalos directamente:</p><ul><li>Negativas de chin-up: sube de un salto o con un escalón, baja en 4 a 6 segundos, 3 a 5 repeticiones, dos veces por semana.</li><li>Curl martillo y curl inverso: los agarres neutro y prono cargan el braquial anterior y el braquiorradial, que hacen la mayor parte de la flexión en una dominada prona. 2 a 3 series de 8 a 12.</li><li>Curl con excéntrica lenta en supinación para el bíceps y <a href=\"/es/dominadas-con-banda/\">chin-ups con banda</a> para practicar el recorrido completo con menos carga.</li></ul><p>Si tus repeticiones están estancadas y los brazos fallan antes que nada, la <a href=\"/es/estancamiento-dominadas/\">guía sobre el estancamiento</a> explica cómo distinguir un límite de fuerza de un límite de fatiga. Si el límite es la espalda, pasa el volumen a remos y jalones durante un bloque y deja el trabajo de brazo en nivel de mantenimiento. El mapa muscular completo está en <a href=\"/es/musculos-dominadas/\">qué músculos trabajan las dominadas</a>.</p><h2>Problemas de codo en quien entrena dominadas: qué vigilar</h2><p>Tres molestias tendinosas aparecen una y otra vez en quienes entrenan dominadas con mucho volumen. Nada de esto es un diagnóstico; es un mapa de lo que miran los clínicos.</p><p><strong>Cara interna del codo: epicondilalgia medial (\"codo de golfista\").</strong> Es una tendinopatía del origen común flexor-pronador en el epicóndilo medial, el bulto óseo de la cara interna del codo. Los signos clásicos son dolor a la presión sobre ese bulto y dolor con la flexión de muñeca o la pronación del antebrazo contra resistencia. Se asocia al agarre repetitivo y forzado.<sup>[6]</sup> Un volumen alto de chin-ups, donde agarras fuerte con la muñeca flexionada y el antebrazo cargado en supinación, es un desencadenante típico.</p><p><strong>Cara anterior del codo: tendinopatía del bíceps distal.</strong> El dolor se sitúa en lo profundo del pliegue del codo, donde el tendón del bíceps llega a la tuberosidad radial, y suele empeorar al bajar despacio desde un chin-up o al resistir la supinación.</p><p><strong>Cara anterior del codo, más profundo: \"codo de escalador\" (tendinopatía del braquial).</strong> Frecuente en escaladores que cuelgan con los brazos flexionados durante mucho tiempo y en quienes hacen muchas pausas arriba y bloqueos. El dolor está en la parte frontal del codo, justo por encima de la articulación, y empeora con la flexión cargada en agarre prono o neutro.</p><p>La gestión de la carga es la parte del tratamiento que comparten todas las versiones. Recorta el volumen que lo provoca en vez de parar del todo, cambia el agarre para descargar el tendón dolorido unas semanas, ralentiza la excéntrica y añade trabajo isométrico ligero y de carga lenta para ese tendón a medida que se calma.</p><p>Acude a un profesional si el dolor dura más de unas semanas pese a reducir la carga, si hay hinchazón o pérdida de movilidad del codo, si notas hormigueo o entumecimiento en el anular y el meñique (el nervio cubital pasa justo detrás del epicóndilo medial) o, con urgencia, si sentiste un chasquido repentino en el codo seguido de un hematoma y debilidad al girar la palma hacia arriba. Ese último patrón puede indicar una rotura del tendón distal del bíceps, cuya reparación tiene una ventana de tiempo limitada.</p><h2>Cómo programar para tus flexores del codo</h2><p>Dos o tres sesiones de tracción por semana bastan para la mayoría. Rota los agarres a lo largo de la semana para que ningún tendón cargue con todo el volumen: un día prono, un día neutro o supino y una tercera sesión más ligera o asistida. Aumenta las repeticiones semanales totales como mucho un 10 a 20 por ciento cada vez y mantén ese nivel una semana antes de volver a subir. Si los codos protestan, quita primero el volumen en supino, conserva el agarre neutro y haz las negativas más lentas. La <a href=\"/es/rutina-dominadas/\">rutina semanal de dominadas</a> muestra cómo queda sobre el papel. PullUp Master aplica las mismas reglas de forma automática: ajusta el volumen según cómo te sentiste en la última sesión, de modo que un codo dolorido o una serie fallida bajan la carga del día siguiente en vez de subirla.</p>",
+      "faq": [
+        {
+          "q": "¿Las dominadas desarrollan el bíceps?",
+          "a": "Sí. La EMG de superficie muestra al bíceps trabajando en torno al 78 a 96 por ciento de su máximo en dominadas y chin-ups, más en el chin-up. No lo aíslan como un curl, pero lo cargan mucho."
+        },
+        {
+          "q": "¿Chin-ups o curls para el bíceps?",
+          "a": "Los chin-ups cargan el bíceps con más peso y entrenan la espalda a la vez; los curls lo aíslan y son más fáciles de progresar en pasos pequeños. Para tamaño de brazo, usa ambos; para rendir en dominadas, prioriza los chin-ups y añade curls como accesorio."
+        },
+        {
+          "q": "¿Por qué me duele la cara interna del codo después de las dominadas?",
+          "a": "Casi siempre es una irritación del tendón común flexor-pronador en el epicóndilo medial, el llamado codo de golfista, asociado al agarre fuerte y repetitivo. Reduce el volumen que lo provoca, cambia de agarre unas semanas y consulta si persiste o aparece entumecimiento."
+        },
+        {
+          "q": "¿Qué es el braquial anterior?",
+          "a": "Un músculo grueso situado bajo el bíceps que va de la cara anterior del húmero al cúbito. Flexiona el codo en cualquier posición del antebrazo y es el flexor de codo más fuerte, por eso hace gran parte del trabajo en una dominada prona."
+        },
+        {
+          "q": "¿Debería entrenar el bíceps por separado?",
+          "a": "Solo si tus brazos fallan antes que tu espalda o quieres más tamaño de brazo. Dos o tres series de curl martillo y negativas lentas de chin-up dos veces por semana suelen bastar; mantenlo pequeño para que no reste recuperación a tus sesiones de tracción."
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/es/agarre-antebrazo-dominadas/",
+          "title": "Fuerza de agarre en dominadas: anatomía del antebrazo, por qué falla primero y cómo entrenarla"
+        },
+        {
+          "href": "/es/dorsal-ancho-dominadas/",
+          "title": "Dorsal ancho y dominadas: una lección de anatomía para quien entrena"
+        },
+        {
+          "href": "/es/musculos-dominadas/",
+          "title": "¿Qué músculos trabajan las dominadas?"
+        },
+        {
+          "href": "/es/dominadas-vs-chin-up/",
+          "title": "Dominadas vs chin-ups: diferencias y cuál elegir"
+        },
+        {
+          "href": "/es/errores-dominadas/",
+          "title": "Errores en las dominadas y cómo corregirlos"
+        },
+        {
+          "href": "/es/estancamiento-dominadas/",
+          "title": "Estancamiento en dominadas: por qué y cómo superarlo"
+        },
+        {
+          "href": "/es/rutina-dominadas/",
+          "title": "Rutina de dominadas para ganar repeticiones"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Tiwana MS, Charlick M, Varacallo MA. Anatomy, Shoulder and Upper Limb, Biceps Muscle. StatPearls [Internet], NCBI Bookshelf, 2024.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519538/"
+        },
+        {
+          "label": "Plantz MA, Bordoni B. Anatomy, Shoulder and Upper Limb, Brachialis Muscle. StatPearls [Internet], NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK551630/"
+        },
+        {
+          "label": "Lung BE, Ekblad J, Bisogno M. Anatomy, Shoulder and Upper Limb, Forearm Brachioradialis Muscle. StatPearls [Internet], NCBI Bookshelf, 2024.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526110/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, Hahn JJ, Harezlak DT, Hollman JH. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or Perfect-Pullup rotational exercise. J Strength Cond Res, 2010;24(12):3404-3414.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Dickie JA, Faulkner JA, Barnes MJ, Lark SD. Electromyographic analysis of muscle activation during pull-up variations. J Electromyogr Kinesiol, 2017;32:30-36.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28011412/"
+        },
+        {
+          "label": "Li D, Hammad A, Kaiser K. Medial Epicondylitis (Golfer's Elbow). StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519000/"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Biceps aux tractions : quel fléchisseur tire vraiment ?",
+      "description": "Biceps, brachial antérieur et brachioradial aux tractions : anatomie, quel fléchisseur mène selon la prise, phases du tirage, données EMG et douleurs du coude.",
+      "headline": "Biceps, brachial antérieur et brachioradial : les fléchisseurs du coude aux tractions",
+      "subtitle": "Quel muscle du bras mène selon la prise, ce qui se passe à chaque phase de la répétition et pourquoi l'intérieur du coude fait parfois mal",
+      "read_time": "8 min de lecture",
+      "lede": "Aux tractions, trois muscles plient ton coude : le biceps brachial, le brachial antérieur et le brachioradial. Celui qui mène dépend de l'orientation de tes paumes : la prise supination du chin-up favorise le biceps, la prise pronation de la traction déplace le travail vers le brachial et le brachioradial, et la prise neutre se situe entre les deux. Voici comment chacun est construit, ce qu'il fait à chaque phase de la répétition et pourquoi un gros volume de chin-ups laisse parfois l'intérieur du coude sensible.",
+      "body_html": "<h2>L'anatomie en un coup d'œil : les trois fléchisseurs du coude</h2><p>Trois muscles plient ton coude quand tu tires. Ils sont disposés en couches sur la face avant du bras et le haut de l'avant-bras, et chacun se comporte différemment selon la rotation de ta main.<sup>[1]</sup><sup>[2]</sup><sup>[3]</sup></p><div class=\"table-scroll\"><table><thead><tr><th>Muscle</th><th>Origine</th><th>Terminaison</th><th>Nerf</th><th>Action</th></tr></thead><tbody><tr><td><strong>Biceps brachial</strong> (chef long et chef court)</td><td>Chef long : tubercule supraglénoïdal de la scapula. Chef court : processus coracoïde</td><td>Tubérosité radiale, plus l'aponévrose bicipitale vers le fascia de l'avant-bras</td><td>Nerf musculocutané (C5–C6)</td><td>Fléchit le coude, supine l'avant-bras (son action la plus puissante une fois le coude plié), flexion faible de l'épaule<sup>[1]</sup></td></tr><tr><td><strong>Brachial antérieur</strong></td><td>Moitié distale de la face antérieure de l'humérus</td><td>Tubérosité ulnaire et processus coronoïde de l'ulna</td><td>Nerf musculocutané ; la partie latérale reçoit en général aussi un rameau du nerf radial</td><td>Flexion pure du coude quelle que soit la position de l'avant-bras ; le plus fort des trois fléchisseurs<sup>[2]</sup></td></tr><tr><td><strong>Brachioradial</strong></td><td>Crête supracondylaire latérale de l'humérus</td><td>Radius distal, près du processus styloïde</td><td>Nerf radial (C5–C6)</td><td>Fléchit le coude, au plus fort en pronation intermédiaire (prise neutre) ; ramène l'avant-bras en position neutre depuis l'un ou l'autre extrême<sup>[3]</sup></td></tr></tbody></table></div><p>Tu peux repérer les trois sur ton propre bras. Plie le coude à 90 degrés, tourne la paume vers le haut et contracte : le ventre qui se soulève au milieu du bras, c'est le biceps. Tourne maintenant la paume vers le bas et reste contracté. Le biceps se ramollit et, de part et d'autre de son tendon inférieur, juste au-dessus du pli du coude, tu sens en appuyant un muscle plus ferme et plus profond. C'est le brachial antérieur.</p><p>Pour le brachioradial, pose l'avant-bras sur une table, pouce vers le haut, comme si tu tenais un marteau. Pousse le dos du poignet contre ton autre main : le long cordon du côté du pouce durcit du coude jusqu'au milieu de l'avant-bras.</p><h2>Quel fléchisseur mène selon la prise ?</h2><p>Le biceps est le seul des trois qui supine aussi : il tourne la paume vers le haut en tirant le radius autour de l'ulna. Quand l'avant-bras est déjà en supination, le tendon du biceps est déroulé du radius et tire en ligne droite. C'est pour cela que le <a href=\"/fr/tractions-vs-chin-up/\">chin-up (supination, paumes vers toi)</a> place le biceps dans sa position la plus forte.<sup>[1]</sup></p><p>Tourne les paumes vers le bas pour une traction et le tendon du biceps s'enroule autour du radius. Le muscle est alors en désavantage mécanique pour plier le coude, et davantage de travail passe aux muscles indifférents à la rotation de l'avant-bras : le brachial antérieur, qui fléchit de la même façon dans toutes les positions, et le brachioradial, qui est au meilleur de lui-même près de la pronation intermédiaire.<sup>[2]</sup><sup>[3]</sup> Le biceps travaille encore dur à la traction, mais plus comme fléchisseur principal.</p><p>La prise neutre (paumes face à face) est le juste milieu. Le brachioradial est proche de sa meilleure ligne de traction, le biceps est partiellement déroulé, et la plupart des gens la trouvent la plus douce pour le coude des trois.</p><h2>Que se passe-t-il phase par phase ?</h2><ul><li><strong>Dead hang.</strong> Coudes tendus, les fléchisseurs sont presque silencieux. Le chef long du biceps compte quand même : son tendon passe au-dessus de la tête humérale à l'intérieur de l'articulation de l'épaule et aide à la garder centrée sous charge.<sup>[1]</sup> C'est l'une des raisons pour lesquelles une <a href=\"/fr/bienfaits-dead-hang/\">suspension longue</a> ressemble à du travail d'épaule, pas de bras.</li><li><strong>Départ.</strong> Les premiers centimètres viennent des omoplates et des grands dorsaux. Dans les enregistrements EMG, le trapèze inférieur et le grand pectoral atteignent leur pic tôt, avant les fléchisseurs du coude.<sup>[4]</sup></li><li><strong>Milieu de tirage.</strong> Entre environ 90 degrés de flexion du coude et le moment où le menton arrive à hauteur de barre, la demande sur les fléchisseurs du coude est maximale. Biceps et brachial sont proches de leur meilleure longueur de travail et les dorsaux se raccourcissent vite.</li><li><strong>En haut.</strong> À la barre, le coude est complètement plié. Le biceps y est court et faible, le brachial antérieur produit encore de la force et les extenseurs de l'épaule terminent le travail.</li><li><strong>Descente.</strong> En descendant, les mêmes muscles s'allongent sous charge. L'activation moyenne est plus basse en phase excentrique qu'en phase concentrique,<sup>[5]</sup> mais les tendons du coude encaissent encore des forces importantes, et c'est cette phase qui tend à les irriter quand le volume grimpe.</li></ul><h2>Que dit la recherche ?</h2><p>Les études en EMG de surface s'accordent sur l'essentiel. Youdas et ses collègues ont enregistré 25 adultes entraînés aux tractions et aux chin-ups et ont trouvé le grand dorsal autour de 117 à 130 pour cent de sa contraction isométrique volontaire maximale, le biceps brachial à 78 à 96 pour cent. Le biceps et le grand pectoral étaient significativement plus actifs au chin-up qu'à la traction, tandis que le trapèze inférieur l'était davantage à la traction.<sup>[4]</sup></p><p>Dickie et ses collègues ont comparé les prises supination, pronation, neutre et corde chez 19 hommes entraînés en force. Sur une répétition complète, l'activation pic et moyenne des muscles du bras et de l'épaule était similaire d'une position de main à l'autre. Le seul effet net de la prise était une activité plus élevée du trapèze moyen en pronation qu'en prise neutre. Dans toutes les variantes, la phase concentrique produisait plus d'activation du brachioradial, du biceps et du pectoral que la phase excentrique.<sup>[5]</sup></p><p>Lis ces résultats avec deux réserves. D'abord, les différences entre prises sont modestes : les dorsaux dominent dans toutes les versions et le biceps travaille dur dans chacune. Ensuite, aucune de ces études n'a mesuré le brachial antérieur directement. Il est sous le biceps, donc les électrodes de surface captent surtout le signal du biceps, et les enregistrements par fil fin sont rares dans la recherche sur les tractions.</p><p>La largeur de prise est à peine étudiée pour les fléchisseurs du coude. Mécaniquement, une prise plus serrée laisse le coude plier davantage et demande plus aux fléchisseurs ; une prise plus large raccourcit la course du coude et déplace l'accent vers l'épaule. Prends cela pour un modèle, pas pour un résultat mesuré.</p><h2>« Que des bras, pas de dos » ou « les bras lâchent en premier » : que faire ?</h2><p><strong>Tu ne le sens que dans les bras.</strong> La raison habituelle, c'est que les omoplates ne bougent jamais. Tu pends passivement, tu plies d'abord les coudes et tu t'enroules vers le haut. La correction tient à la séquence, pas à plus de force de bras : abaisse et rapproche les omoplates avant que les coudes ne plient, et dirige les coudes vers les côtes plutôt que vers le sol. Les tractions scapulaires et les répétitions assistées avec un départ lent de deux secondes depuis le bas l'enseignent bien. Le guide des <a href=\"/fr/erreurs-tractions/\">erreurs de technique courantes</a> détaille ce schéma.</p><p><strong>Le dos va bien mais les bras lâchent d'abord.</strong> Alors les fléchisseurs sont vraiment le maillon faible. Entraîne-les directement :</p><ul><li>Négatives de chin-up : monte d'un saut ou avec un step, descends en 4 à 6 secondes, 3 à 5 répétitions, deux fois par semaine.</li><li>Curl marteau et curl inversé : les prises neutre et pronation ciblent le brachial antérieur et le brachioradial, qui font l'essentiel de la flexion dans une traction en pronation. 2 à 3 séries de 8 à 12.</li><li>Curl avec excentrique lente en supination pour le biceps, et <a href=\"/fr/tractions-avec-elastique/\">chin-ups avec élastique</a> pour travailler l'amplitude complète sous une charge plus légère.</li></ul><p>Si tes répétitions stagnent et que les bras lâchent avant tout le reste, le <a href=\"/fr/plateau-tractions/\">guide du plateau</a> explique comment distinguer une limite de force d'une limite de fatigue. Si c'est le dos qui limite, bascule le volume sur les rowings et les tirages pendant un bloc et garde le travail de bras au niveau d'entretien. La carte musculaire complète est dans <a href=\"/fr/muscles-tractions/\">quels muscles travaillent aux tractions</a>.</p><h2>Problèmes de coude chez ceux qui font des tractions : à quoi faire attention</h2><p>Trois plaintes tendineuses reviennent sans cesse chez ceux qui font des tractions à gros volume. Rien de tout cela n'est un diagnostic ; c'est une carte de ce que regardent les cliniciens.</p><p><strong>Intérieur du coude : épicondylalgie médiale (« coude du golfeur »).</strong> C'est une tendinopathie de l'origine commune des fléchisseurs-pronateurs sur l'épicondyle médial, la bosse osseuse à l'intérieur du coude. Les signes classiques sont une sensibilité localisée sur cette bosse et une douleur à la flexion du poignet ou à la pronation de l'avant-bras contre résistance. Elle est liée à la préhension répétée et forcée.<sup>[6]</sup> Un gros volume de chin-ups, où tu serres fort avec le poignet fléchi et l'avant-bras chargé en supination, est un déclencheur typique.</p><p><strong>Face avant du coude : tendinopathie du biceps distal.</strong> La douleur siège au fond du pli du coude, là où le tendon du biceps rejoint la tubérosité radiale, souvent plus forte quand tu descends lentement d'un chin-up ou que tu résistes à la supination.</p><p><strong>Face avant du coude, plus profond : « coude du grimpeur » (tendinopathie du brachial).</strong> Fréquente chez les grimpeurs qui restent longtemps suspendus bras pliés, et chez ceux qui font beaucoup de maintiens en haut et de blocages. La douleur se situe à l'avant du coude, juste au-dessus de l'articulation, et augmente avec la flexion en charge en pronation ou en prise neutre.</p><p>La gestion de la charge est la partie du traitement commune à toutes les versions. Réduis le volume qui déclenche la douleur plutôt que d'arrêter complètement, change de prise pour décharger le tendon sensible pendant quelques semaines, ralentis l'excentrique et ajoute du travail isométrique léger puis des charges lentes pour ce tendon à mesure qu'il se calme.</p><p>Consulte si la douleur dure plus de quelques semaines malgré la charge réduite, s'il y a un gonflement ou une perte de mobilité du coude, si tu as des fourmillements ou un engourdissement dans l'annulaire et l'auriculaire (le nerf ulnaire passe juste derrière l'épicondyle médial) ou, en urgence, si tu as senti un claquement soudain au coude suivi d'un hématome et d'une faiblesse pour tourner la paume vers le haut. Ce dernier tableau peut signaler une rupture du tendon distal du biceps, dont la réparation a une fenêtre de temps limitée.</p><h2>Comment programmer pour tes fléchisseurs du coude</h2><p>Deux à trois séances de tirage par semaine suffisent à la plupart des gens. Fais tourner les prises sur la semaine pour qu'aucun tendon n'encaisse tout le volume : un jour en pronation, un jour en prise neutre ou en supination, et une troisième séance plus légère ou assistée. Augmente le total hebdomadaire de répétitions d'au plus 10 à 20 pour cent à la fois, et garde ce niveau une semaine avant d'ajouter à nouveau. Si tes coudes se plaignent, retire d'abord le volume en supination, garde la prise neutre et ralentis tes négatives. Le <a href=\"/fr/programme-tractions/\">programme hebdomadaire de tractions</a> montre à quoi cela ressemble sur le papier. PullUp Master applique les mêmes règles automatiquement : il ajuste le volume selon ton ressenti à la dernière séance, de sorte qu'un coude sensible ou une série ratée fait baisser la charge du lendemain au lieu de la pousser vers le haut.</p>",
+      "faq": [
+        {
+          "q": "Les tractions développent-elles les biceps ?",
+          "a": "Oui. L'EMG de surface montre le biceps travaillant autour de 78 à 96 pour cent de son maximum aux tractions et aux chin-ups, davantage au chin-up. Elles ne l'isolent pas comme un curl, mais elles le chargent fortement."
+        },
+        {
+          "q": "Chin-ups ou curls pour les biceps ?",
+          "a": "Les chin-ups chargent le biceps avec plus de poids et entraînent le dos en même temps ; les curls l'isolent et se progressent plus facilement par petits paliers. Pour le volume des bras, fais les deux ; pour la performance aux tractions, priorise les chin-ups et ajoute les curls en accessoire."
+        },
+        {
+          "q": "Pourquoi l'intérieur de mon coude fait-il mal après les tractions ?",
+          "a": "Le plus souvent, c'est une irritation du tendon commun des fléchisseurs-pronateurs sur l'épicondyle médial, le coude du golfeur, liée à une préhension forte et répétée. Réduis le volume qui la déclenche, change de prise quelques semaines et consulte si cela persiste ou s'accompagne d'engourdissements."
+        },
+        {
+          "q": "Qu'est-ce que le brachial antérieur ?",
+          "a": "Un muscle épais situé sous le biceps, qui va de la face avant de l'humérus à l'ulna. Il fléchit le coude dans toutes les positions de l'avant-bras et c'est le fléchisseur du coude le plus fort, d'où sa grande part du travail dans une traction en pronation."
+        },
+        {
+          "q": "Dois-je entraîner les biceps à part ?",
+          "a": "Seulement si tes bras lâchent avant ton dos ou si tu veux plus de volume de bras. Deux ou trois séries de curl marteau et des négatives lentes de chin-up deux fois par semaine suffisent en général ; reste modeste pour ne pas entamer la récupération de tes séances de tirage."
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/fr/prise-avant-bras-tractions/",
+          "title": "Force de préhension aux tractions : anatomie de l'avant-bras, pourquoi elle lâche en premier et comment l'entraîner"
+        },
+        {
+          "href": "/fr/grand-dorsal-tractions/",
+          "title": "Grand dorsal et tractions : une leçon d'anatomie pour ceux qui s'entraînent"
+        },
+        {
+          "href": "/fr/muscles-tractions/",
+          "title": "Quels muscles travaillent aux tractions ?"
+        },
+        {
+          "href": "/fr/tractions-vs-chin-up/",
+          "title": "Tractions ou chin-up : lequel choisir ?"
+        },
+        {
+          "href": "/fr/erreurs-tractions/",
+          "title": "Les erreurs aux tractions qui bloquent ta progression"
+        },
+        {
+          "href": "/fr/plateau-tractions/",
+          "title": "Plateau aux tractions : pourquoi tu stagnes et comment avancer"
+        },
+        {
+          "href": "/fr/programme-tractions/",
+          "title": "Programme de tractions : un plan de la semaine pour progresser"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Tiwana MS, Charlick M, Varacallo MA. Anatomy, Shoulder and Upper Limb, Biceps Muscle. StatPearls [Internet], NCBI Bookshelf, 2024.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519538/"
+        },
+        {
+          "label": "Plantz MA, Bordoni B. Anatomy, Shoulder and Upper Limb, Brachialis Muscle. StatPearls [Internet], NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK551630/"
+        },
+        {
+          "label": "Lung BE, Ekblad J, Bisogno M. Anatomy, Shoulder and Upper Limb, Forearm Brachioradialis Muscle. StatPearls [Internet], NCBI Bookshelf, 2024.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK526110/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, Hahn JJ, Harezlak DT, Hollman JH. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or Perfect-Pullup rotational exercise. J Strength Cond Res, 2010;24(12):3404-3414.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Dickie JA, Faulkner JA, Barnes MJ, Lark SD. Electromyographic analysis of muscle activation during pull-up variations. J Electromyogr Kinesiol, 2017;32:30-36.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28011412/"
+        },
+        {
+          "label": "Li D, Hammad A, Kaiser K. Medial Epicondylitis (Golfer's Elbow). StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519000/"
+        }
+      ]
+    }
+  }
+}

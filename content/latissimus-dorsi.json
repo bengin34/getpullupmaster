@@ -1,0 +1,447 @@
+{
+  "slugs": {
+    "en": "latissimus-dorsi-pull-ups",
+    "de": "latissimus-klimmzug",
+    "tr": "kanat-kasi-latissimus-barfiks",
+    "es": "dorsal-ancho-dominadas",
+    "fr": "grand-dorsal-tractions"
+  },
+  "priority": "0.8",
+  "langs": {
+    "en": {
+      "title": "Latissimus Dorsi and Pull-Ups: Anatomy, Role, Activation",
+      "description": "What the latissimus dorsi does in every phase of a pull-up, what EMG research says about lats and grip, why beginners don't feel their lats, and how to train them.",
+      "headline": "Latissimus dorsi and pull-ups: an anatomy lesson for people who train",
+      "subtitle": "Origin, insertion, nerve, what the lat does rep by rep, and what the research measured",
+      "read_time": "8 min read",
+      "lede": "The latissimus dorsi is the large, flat back muscle that pulls your upper arm down and back, which is exactly the movement a pull-up demands. It works hardest in the middle of the pull, and grip changes shift its activation less than most people think. Here is the anatomy, what the research measured, and how to train it when you cannot do a rep yet.",
+      "body_html": "<h2>Where is the latissimus dorsi and what does it attach to?</h2><p>Start with the map. The latissimus dorsi, \"the lats\" for short, is the widest muscle of the back. It covers most of the lower half of your back on each side and tapers into a flat tendon that runs into the armpit.<sup>[1]</sup></p><div class=\"table-scroll\"><table><thead><tr><th>Feature</th><th>Latissimus dorsi</th></tr></thead><tbody><tr><td>Origin</td><td>Spinous processes of the lower six thoracic vertebrae, the thoracolumbar fascia (reaching the lumbar and sacral spinous processes), the posterior iliac crest, the lower three to four ribs and the inferior angle of the scapula</td></tr><tr><td>Insertion</td><td>Floor of the intertubercular (bicipital) groove of the humerus, as a flat tendon that wraps around the front of teres major</td></tr><tr><td>Innervation</td><td>Thoracodorsal nerve, a branch of the posterior cord of the brachial plexus (C6–C8, mostly C7)</td></tr><tr><td>Blood supply</td><td>Thoracodorsal artery (a continuation of the subscapular artery), plus perforating branches of the lower posterior intercostal and upper lumbar arteries</td></tr><tr><td>Primary actions</td><td>Shoulder adduction, extension and internal rotation; pulls the trunk up toward fixed arms, as in climbing; also helps depress the shoulder girdle and assists forced expiration such as coughing</td></tr></tbody></table></div><p>Notice the shape of that list: the muscle starts low and wide and ends high and narrow on the front of the upper arm. When it shortens it drags the arm down and back toward the pelvis; with your hands fixed on a bar, the same contraction drags your trunk up toward your hands.<sup>[1]</sup></p><p>To feel it on your own body, stand tall and press the heel of one hand into your side, just behind the armpit. Now push the opposite elbow down and back as if squashing something under your arm. The slab that hardens under your fingers is the lat. The outer edge you can pinch below the armpit is the same muscle, the part that gives a trained back its V shape.</p><h2>What does the lat do in each phase of a pull-up?</h2><p>The lat's job changes along the way.</p><ul><li><strong>Dead hang.</strong> Arms straight overhead, shoulders by your ears. The lat is at its longest, stretched and fairly quiet, mainly stabilising the shoulder.</li><li><strong>Initiation.</strong> Before the elbows bend, the shoulder blades drop and the shoulders pull away from the ears. This scapular depression is the lat's first visible contribution, with help from the lower trapezius. EMG timing data suggest the lower trapezius and pectoralis major start the pull and the lat and biceps finish it.<sup>[2]</sup></li><li><strong>Mid-pull.</strong> From roughly 45 degrees of elbow bend to chin height, the upper arm swings down and back: adduction plus extension, the lat's main actions, and where it works hardest.</li><li><strong>Top.</strong> With the chin over the bar the lat is close to fully shortened and its leverage is poor, so the last few centimetres feel slow and the biceps and teres major take more load.</li><li><strong>Lowering.</strong> The lat lengthens under tension. This eccentric phase is where you control speed and protect the shoulder, and the easiest phase to train before you can pull up.</li></ul><p>The middle feels strongest because of the length-tension relationship: a muscle produces its most force at a mid-range length and less when very stretched (dead hang) or very short (top). StatPearls notes that lat extension and adduction are strongest when the motion starts from partial flexion or abduction, the position you pass through mid-pull.<sup>[1]</sup></p><h2>What does the research say about lat activation?</h2><p>Surface EMG studies give an honest summary: the lat is the most active muscle in every pull-up variant, and grip changes move the needle less than gym folklore claims.</p><ul><li><strong>Pull-up vs chin-up.</strong> Youdas and colleagues measured 25 trained adults. Average lat activation was 117–130% of a maximal isometric reference in both exercises, the highest of all muscles recorded, ahead of biceps brachii (78–96%). The chin-up produced significantly more biceps and pectoralis major activity, the pull-up more lower trapezius; the lat did not differ meaningfully.<sup>[2]</sup></li><li><strong>Grip orientation.</strong> Dickie and colleagues compared pronated, supinated, neutral and rope grips in 19 strength-trained men. Over a full repetition, activation of the shoulder, arm and forearm muscles was similar across hand positions; the clearest difference was more middle trapezius activity with the pronated grip than the neutral grip. Concentric phases activated brachioradialis, biceps and pectoralis major more than eccentric phases.<sup>[3]</sup></li><li><strong>Grip width in the lat pulldown.</strong> Andersen and colleagues tested narrow, medium and wide pronated grips (1, 1.5 and 2 times shoulder width) at a six-repetition maximum in 15 men. Lat activation was similar across widths; narrow and medium grips allowed slightly heavier loads than wide (about 80 kg vs 77 kg), and in the lowering phase the wide grip edged out the narrow one for lat and infraspinatus. The authors concluded a medium grip may have minor advantages but 1–2 times shoulder width works.<sup>[4]</sup></li><li><strong>Pronated vs supinated in the pulldown.</strong> Lusk and colleagues had 12 men pull at 70% of 1RM. A pronated grip produced more lat activity than a supinated grip; grip width made no difference.<sup>[5]</sup></li></ul><p>Put together: an overhand grip at roughly shoulder width or a little wider is a sensible default for the lat, and a chin-up still trains it hard while adding more biceps and chest. These are small samples of trained men measured with surface electrodes, so treat the differences as modest tendencies rather than rules. For the practical trade-offs, see <a href=\"/chin-up-vs-pull-up/\">chin-up vs pull-up</a>.</p><h2>Why don't you feel your lats, and how do you fix it?</h2><p>\"I only feel it in my arms\" is the most common complaint from new trainees, and it has a mechanical reason. If you start the pull by bending the elbows, the biceps take the load first and the shoulder blades stay shrugged. The lat never reaches its strong mid-range position with the shoulder blade set, so it contributes less and you feel it less.</p><p>Four cues fix most of it:</p><ol><li><strong>Depress first.</strong> From the hang, pull the shoulders down away from the ears before the elbows bend, and keep them there.</li><li><strong>Elbows to the back pockets.</strong> Drive the elbows down and back toward your hips instead of pulling the bar to your chin. That turns the movement into shoulder extension and adduction, the lat's job.</li><li><strong>Chest tall.</strong> Lift the sternum slightly toward the bar; a collapsed chest puts the lat in a poor line of pull.</li><li><strong>Slow eccentric.</strong> Lower for three to five seconds. The long, loaded stretch is the easiest moment to notice the lat.</li></ol><p>Short drills that teach the feeling: scapular pull-ups (three sets of 5–8), straight-arm pulldowns with a band before pulling work (two sets of 12–15), and pulldowns with a two-second pause at the chest while squeezing the elbows to the ribs. Arm-dominant pulling is also one of the classic <a href=\"/pull-up-mistakes/\">pull-up mistakes</a>, so check your form video against that list.</p><h2>Which exercises build the lat before your first pull-up?</h2><p>Pick two or three of these and progress them weekly:</p><ul><li><strong>Dead hang:</strong> grip and the stretched position; work toward 30–45 seconds (see <a href=\"/dead-hang-benefits/\">dead hang benefits</a>).</li><li><strong>Scapular pull-ups:</strong> the initiation phase in isolation; add them to every session.</li><li><strong>Negatives:</strong> jump to the top, lower in 3–5 seconds; three to five singles with full rest.</li><li><strong>Band-assisted pull-ups:</strong> full range with the lightest band that allows 5–8 strict reps (see <a href=\"/band-assisted-pull-ups/\">band-assisted pull-ups</a>).</li><li><strong>Australian rows:</strong> horizontal pulling for the lat and mid-back, scaled by body angle.</li><li><strong>Lat pulldown:</strong> the closest machine substitute, pronated grip at about shoulder width.<sup>[4]</sup><sup>[5]</sup></li><li><strong>Straight-arm pulldown:</strong> isolates shoulder extension and reinforces the elbows-down cue.</li></ul><p>The full progression from hang to first strict rep is in <a href=\"/first-pull-up/\">how to do your first pull-up</a>.</p><h2>Lat problems and injury notes: what should you watch for?</h2><p><strong>Lat strain or tear.</strong> Injuries to the latissimus dorsi and teres major are rare and appear disproportionately in the throwing shoulder of baseball pitchers; the literature consists mainly of case reports and small series. Tendon injuries are sometimes managed surgically, muscle-belly injuries usually with rest, anti-inflammatories and physiotherapy.<sup>[6]</sup> In recreational pull-up training a true tear is unusual. Sudden sharp pain in the back of the armpit during a maximal rep, with bruising or a visible change in the muscle's shape, is a reason to stop and get examined.</p><p><strong>Shoulder impingement when shrugging.</strong> If you pull with the shoulders hitched toward the ears, the upper arm sits high in the socket and the space under the acromion narrows, often felt as a pinch at the front or top of the shoulder near the top of the rep. The fix is the same as the lat cue: depress the shoulder blades first and keep them down.</p><p><strong>Posture and the thoracic spine.</strong> The lat attaches to the spine and pelvis through the thoracolumbar fascia. A short or stiff lat can limit overhead reach and alter trunk posture, and StatPearls flags it as a muscle to assess in people with low back pain or restricted shoulder flexion and lateral rotation.<sup>[1]</sup> Balance pulling with overhead mobility and thoracic extension work.</p><p><strong>When to see a clinician.</strong> Numbness or tingling in the arm, weakness that does not match effort, pain that lasts more than two weeks despite easing off, pain at night, or any injury with a pop, bruising or deformity. A physiotherapist or sports physician can examine the shoulder; a web page cannot.</p><h2>How often should you train your lats?</h2><p>For most people, two to three pulling sessions a week, 48 hours apart, with 8–15 hard sets of vertical and horizontal pulling in total, is a reasonable range. Recovery, sleep and how the shoulders feel decide where in that range you sit. PullUp Master adjusts that number instead of fixing it: each session's load and exercises are set from how the previous one went, so a hard week lowers volume and an easy week adds it. The structure is described in the <a href=\"/pull-up-workout-plan/\">pull-up workout plan</a>; if your reps have stalled for a month, the <a href=\"/pull-up-plateau/\">plateau guide</a> covers what to change.</p>",
+      "faq": [
+        {
+          "q": "Do pull-ups build wide lats?",
+          "a": "Yes. In EMG studies the lat is the most active muscle in a pull-up, and back width comes from growing the lat's outer fibres below the armpit. Enough volume and progressive load build the V shape, though your frame sets the ceiling."
+        },
+        {
+          "q": "Lats vs biceps: which does more work in a pull-up?",
+          "a": "The lat. Average lat activation measured 117–130% of a maximal reference against 78–96% for the biceps. A chin-up shifts a little more work to the biceps, but the lat still leads."
+        },
+        {
+          "q": "Why do I feel pull-ups in my arms and not my back?",
+          "a": "Usually because you start the pull by bending the elbows with the shoulders shrugged. Depress the shoulder blades first, drive the elbows down and back, and slow the lowering; the lat shows up once it works in its strong mid-range."
+        },
+        {
+          "q": "Is the lat pulldown as good as the pull-up for the lats?",
+          "a": "It trains the same movement and is useful when you cannot do a rep yet. The pull-up adds trunk control and a heavier load; the pulldown lets you adjust weight finely. Use the pulldown as a bridge, not a replacement."
+        },
+        {
+          "q": "Do strong lats help posture?",
+          "a": "Indirectly. The lat pulls the shoulders down and back and stabilises the trunk, but a short, stiff lat can limit overhead reach and tip the trunk forward. Pair pulling with overhead mobility and upper-back extension work."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Jeno SH, Varacallo MA. Anatomy, Back, Latissimus Dorsi. StatPearls, NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK448120/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, et al. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or perfect-pullup rotational exercise. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Dickie JA, Faulkner JA, Barnes MJ, Lark SD. Electromyographic analysis of muscle activation during pull-up variations. J Electromyogr Kinesiol, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28011412/"
+        },
+        {
+          "label": "Andersen V, Fimland MS, Wiik E, Skoglund A, Saeterbakken AH. Effects of grip width on muscle strength and activation in the lat pull-down. J Strength Cond Res, 2014.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24662157/"
+        },
+        {
+          "label": "Lusk SJ, Hale BD, Russell DM. Grip width and forearm orientation effects on muscle activity during the lat pull-down. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20543740/"
+        },
+        {
+          "label": "Donohue BF, Lubitz MG, Kremchek TE. Sports Injuries to the Latissimus Dorsi and Teres Major. Am J Sports Med, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28125914/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/biceps-brachialis-pull-ups/",
+          "title": "Biceps, brachialis and brachioradialis: the elbow flexors in the pull-up"
+        },
+        {
+          "href": "/scapular-muscles-pull-ups/",
+          "title": "Scapular muscles and pull-ups: an anatomy lesson for trainees"
+        },
+        {
+          "href": "/pull-up-muscles-worked/",
+          "title": "Pull-up muscles worked: what you're really training"
+        },
+        {
+          "href": "/first-pull-up/",
+          "title": "How to do your first pull-up"
+        },
+        {
+          "href": "/chin-up-vs-pull-up/",
+          "title": "Chin-up vs pull-up: what's the difference and which should you do?"
+        },
+        {
+          "href": "/pull-up-workout-plan/",
+          "title": "Pull-up workout plan: a weekly routine to add reps"
+        },
+        {
+          "href": "/pull-up-plateau/",
+          "title": "Pull-up plateau: why your reps stopped going up and how to break through"
+        }
+      ]
+    },
+    "de": {
+      "title": "Latissimus Klimmzug: Anatomie, Funktion, Aktivierung",
+      "description": "Was der Latissimus in jeder Phase des Klimmzugs tut, was EMG-Studien zu Griffbreite und Griffart sagen, warum Anfänger ihn nicht spüren und wie du ihn trainierst.",
+      "headline": "Latissimus und Klimmzug: eine Anatomiestunde für Trainierende",
+      "subtitle": "Ursprung, Ansatz, Nerv, die Aufgabe des Latissimus in jeder Phase und was die Forschung gemessen hat",
+      "read_time": "8 Min. Lesezeit",
+      "lede": "Der breite Rückenmuskel (Latissimus dorsi) zieht deinen Oberarm nach unten und hinten – genau die Bewegung, die ein Klimmzug verlangt. Am stärksten arbeitet er in der Mitte des Zugs, und die Griffvariante verändert seine Aktivierung weniger, als die meisten glauben. Hier findest du die Anatomie, die Studienlage und die Übungen, mit denen du ihn trainierst, bevor du den ersten Klimmzug schaffst.",
+      "body_html": "<h2>Wo liegt der Latissimus und woran setzt er an?</h2><p>Fang mit der Landkarte an. Der breite Rückenmuskel (Latissimus dorsi), kurz „Lat“, ist der flächenmäßig größte Muskel des Rückens. Er bedeckt auf jeder Seite den Großteil der unteren Rückenhälfte und läuft in eine flache Sehne aus, die in die Achselhöhle zieht.<sup>[1]</sup></p><div class=\"table-scroll\"><table><thead><tr><th>Merkmal</th><th>Latissimus dorsi</th></tr></thead><tbody><tr><td>Ursprung</td><td>Dornfortsätze der unteren sechs Brustwirbel, Fascia thoracolumbalis (bis zu den Lenden- und Kreuzbeindornfortsätzen), hinterer Beckenkamm, untere drei bis vier Rippen und unterer Schulterblattwinkel</td></tr><tr><td>Ansatz</td><td>Boden der Crista tuberculi minoris (Sulcus intertubercularis) am Oberarmknochen, als flache Sehne, die sich vorn um den Teres major windet</td></tr><tr><td>Innervation</td><td>Nervus thoracodorsalis aus dem Fasciculus posterior des Plexus brachialis (C6–C8, überwiegend C7)</td></tr><tr><td>Blutversorgung</td><td>Arteria thoracodorsalis (Fortsetzung der Arteria subscapularis), dazu Perforansäste der unteren hinteren Interkostal- und oberen Lumbalarterien</td></tr><tr><td>Hauptfunktionen</td><td>Adduktion, Extension und Innenrotation der Schulter; zieht den Rumpf zu fixierten Armen hoch, wie beim Klettern; senkt außerdem den Schultergürtel und unterstützt die forcierte Ausatmung, etwa beim Husten</td></tr></tbody></table></div><p>Achte auf die Form dieser Liste: Der Muskel beginnt tief und breit und endet hoch und schmal an der Vorderseite des Oberarms. Verkürzt er sich, zieht er den Arm nach unten und hinten Richtung Becken; mit den Händen fest an einer Stange zieht dieselbe Kontraktion deinen Rumpf nach oben zu den Händen.<sup>[1]</sup></p><p>Um ihn am eigenen Körper zu spüren, stell dich aufrecht hin und drück den Handballen seitlich in den Rumpf, knapp hinter die Achsel. Jetzt schiebst du den gegenüberliegenden Ellbogen nach unten und hinten, als wolltest du etwas unter dem Arm zerdrücken. Die Platte, die sich unter deinen Fingern anspannt, ist der Latissimus. Der äußere Rand, den du unterhalb der Achsel greifen kannst, gehört zum selben Muskel – deshalb verleiht ein gut trainierter Lat dem Rücken die V-Form.</p><h2>Was macht der Latissimus in jeder Phase des Klimmzugs?</h2><p>Die Aufgabe des Latissimus ändert sich unterwegs.</p><ul><li><strong>Dead Hang.</strong> Arme gestreckt über dem Kopf, Schultern an den Ohren. Der Lat ist am längsten, gedehnt und eher ruhig, und stabilisiert vor allem die Schulter.</li><li><strong>Einleitung.</strong> Bevor sich die Ellbogen beugen, sinken die Schulterblätter und die Schultern ziehen von den Ohren weg. Diese Depression der Schulterblätter ist der erste sichtbare Beitrag des Lats, unterstützt vom unteren Trapezius. EMG-Zeitdaten deuten darauf hin, dass unterer Trapezius und Pectoralis major den Zug einleiten und Latissimus und Bizeps ihn abschließen.<sup>[2]</sup></li><li><strong>Mittlerer Zug.</strong> Von etwa 45 Grad Ellbogenbeugung bis zur Kinnhöhe schwingt der Oberarm nach unten und hinten: Adduktion plus Extension, die Hauptfunktionen des Lats – hier arbeitet er am härtesten.</li><li><strong>Oben.</strong> Mit dem Kinn über der Stange ist der Lat fast vollständig verkürzt und sein Hebel schlecht; die letzten Zentimeter fühlen sich zäh an, und Bizeps und Teres major übernehmen mehr Last.</li><li><strong>Ablassen.</strong> Der Lat verlängert sich unter Spannung. In dieser exzentrischen Phase kontrollierst du das Tempo und schützt die Schulter – und sie ist am einfachsten zu trainieren, solange du noch keinen Klimmzug schaffst.</li></ul><p>Dass sich die Mitte am stärksten anfühlt, liegt an der Längen-Spannungs-Beziehung: Ein Muskel erzeugt bei mittlerer Länge die meiste Kraft und weniger, wenn er stark gedehnt (Dead Hang) oder stark verkürzt ist (oben). StatPearls beschreibt, dass Extension und Adduktion des Latissimus am stärksten sind, wenn die Bewegung aus teilweiser Flexion oder Abduktion startet – die Position, die du im mittleren Zug durchläufst.<sup>[1]</sup></p><h2>Was sagt die Forschung zur Aktivierung des Latissimus?</h2><p>Oberflächen-EMG-Studien liefern eine ehrliche Zusammenfassung: Der Lat ist in jeder Klimmzugvariante der aktivste Muskel, und Griffänderungen bewegen die Werte weniger, als die Gym-Folklore behauptet.</p><ul><li><strong>Klimmzug vs. Chin-up.</strong> Youdas und Kollegen maßen 25 trainierte Erwachsene. Die mittlere Lat-Aktivierung lag bei beiden Übungen bei 117–130 % einer maximalen isometrischen Referenz – der höchste Wert aller erfassten Muskeln, vor dem Bizeps brachii (78–96 %). Der Chin-up erzeugte deutlich mehr Bizeps- und Pectoralis-major-Aktivität, der Klimmzug mehr unteren Trapezius; der Lat unterschied sich nicht bedeutsam.<sup>[2]</sup></li><li><strong>Griffart.</strong> Dickie und Kollegen verglichen Ober-, Unter-, Neutral- und Seilgriff bei 19 krafttrainierten Männern. Über die gesamte Wiederholung war die Aktivierung der Schulter-, Arm- und Unterarmmuskeln bei allen Handstellungen ähnlich; der klarste Unterschied war mehr Aktivität des mittleren Trapezius im Obergriff als im Neutralgriff. Die konzentrischen Phasen aktivierten Brachioradialis, Bizeps und Pectoralis major stärker als die exzentrischen.<sup>[3]</sup></li><li><strong>Griffbreite am Latzug.</strong> Andersen und Kollegen testeten engen, mittleren und weiten Obergriff (1-, 1,5- und 2-fache Schulterbreite) mit dem 6-Wiederholungs-Maximum an 15 Männern. Die Lat-Aktivierung war bei allen Breiten ähnlich; mit engem und mittlerem Griff ging etwas mehr Gewicht als mit weitem (rund 80 kg gegenüber 77 kg), und in der Ablassphase lag der weite Griff bei Lat und Infraspinatus leicht vor dem engen. Fazit der Autoren: Ein mittlerer Griff könnte kleine Vorteile haben, aber 1- bis 2-fache Schulterbreite funktioniert.<sup>[4]</sup></li><li><strong>Ober- vs. Untergriff am Latzug.</strong> Lusk und Kollegen ließen 12 Männer bei 70 % des 1RM ziehen. Der Obergriff erzeugte mehr Lat-Aktivität als der Untergriff; die Griffbreite machte keinen Unterschied.<sup>[5]</sup></li></ul><p>Zusammengefasst: Ein Obergriff etwa schulterbreit oder etwas weiter ist ein sinnvoller Standard für den Latissimus, und ein Chin-up trainiert ihn trotzdem hart, bringt nur mehr Bizeps und Brust dazu. Das sind kleine Stichproben trainierter Männer, gemessen mit Oberflächenelektroden – behandle die Unterschiede als moderate Tendenzen, nicht als Regeln. Die praktischen Abwägungen findest du unter <a href=\"/de/klimmzug-vs-chin-up/\">Klimmzug vs. Chin-up</a>.</p><h2>Warum spürst du deinen Latissimus nicht – und wie änderst du das?</h2><p>„Ich spüre es nur in den Armen“ ist die häufigste Klage von Anfängern, und sie hat einen mechanischen Grund. Wenn du den Zug mit dem Beugen der Ellbogen beginnst, übernimmt zuerst der Bizeps die Last, und die Schulterblätter bleiben hochgezogen. Der Lat erreicht seine starke mittlere Position mit fixiertem Schulterblatt nie, trägt also weniger bei – und du spürst ihn weniger.</p><p>Vier Hinweise beheben das meiste:</p><ol><li><strong>Erst senken.</strong> Zieh aus dem Hang die Schultern von den Ohren weg nach unten, bevor sich die Ellbogen beugen, und halte sie dort.</li><li><strong>Ellbogen in die Gesäßtaschen.</strong> Treib die Ellbogen nach unten und hinten Richtung Hüfte, statt die Stange zum Kinn zu ziehen. So wird aus der Bewegung Schulterextension und -adduktion – die Aufgabe des Lats.</li><li><strong>Brust hoch.</strong> Heb das Brustbein leicht zur Stange; eine eingesunkene Brust bringt den Lat in eine ungünstige Zugrichtung.</li><li><strong>Langsam ablassen.</strong> Lass dich drei bis fünf Sekunden lang ab. Die lange, belastete Dehnung ist der Moment, in dem du den Lat am leichtesten wahrnimmst.</li></ol><p>Kurze Übungen, die das Gefühl beibringen: Scapula-Klimmzüge (drei Sätze mit 5–8), Überzüge mit gestreckten Armen am Band vor dem Zugtraining (zwei Sätze mit 12–15) und Latzug mit zwei Sekunden Pause an der Brust, dabei die Ellbogen zu den Rippen pressen. Armdominantes Ziehen gehört auch zu den klassischen <a href=\"/de/klimmzug-fehler/\">Klimmzug-Fehlern</a> – vergleich dein Formvideo mit dieser Liste.</p><h2>Welche Übungen bauen den Latissimus vor dem ersten Klimmzug auf?</h2><p>Wähl zwei oder drei dieser Übungen und steigere sie wöchentlich:</p><ul><li><strong>Dead Hang:</strong> Griffkraft und die gedehnte Position; arbeite dich auf 30–45 Sekunden hoch (siehe <a href=\"/de/dead-hang-vorteile/\">Dead-Hang-Vorteile</a>).</li><li><strong>Scapula-Klimmzüge:</strong> die Einleitungsphase isoliert; pack sie in jede Einheit.</li><li><strong>Negative:</strong> nach oben springen, in 3–5 Sekunden ablassen; drei bis fünf Einzelwiederholungen mit voller Pause.</li><li><strong>Klimmzüge mit Widerstandsband:</strong> volle Bewegung mit dem leichtesten Band, das 5–8 saubere Wiederholungen erlaubt (siehe <a href=\"/de/klimmzug-mit-widerstandsband/\">Klimmzug mit Widerstandsband</a>).</li><li><strong>Australian Rows:</strong> horizontales Ziehen für Lat und mittleren Rücken, über den Körperwinkel skalierbar.</li><li><strong>Latzug:</strong> der nächstliegende Maschinenersatz, Obergriff etwa schulterbreit.<sup>[4]</sup><sup>[5]</sup></li><li><strong>Überzüge mit gestreckten Armen:</strong> isolieren die Schulterextension und festigen den Hinweis „Ellbogen nach unten“.</li></ul><p>Die komplette Progression vom Hang bis zur ersten strikten Wiederholung steht in <a href=\"/de/erster-klimmzug/\">So schaffst du deinen ersten Klimmzug</a>.</p><h2>Beschwerden und Verletzungen: Worauf solltest du achten?</h2><p><strong>Zerrung oder Riss.</strong> Verletzungen von Latissimus dorsi und Teres major sind selten und treten überproportional in der Wurfschulter von Baseball-Pitchern auf; die Literatur besteht vor allem aus Fallberichten und kleinen Serien. Sehnenverletzungen werden teils operiert, Verletzungen des Muskelbauchs meist mit Ruhe, Entzündungshemmern und Physiotherapie behandelt.<sup>[6]</sup> Im Freizeittraining mit Klimmzügen ist ein echter Riss ungewöhnlich. Ein plötzlicher, stechender Schmerz hinten in der Achsel bei einer maximalen Wiederholung, mit Bluterguss oder sichtbarer Formveränderung des Muskels, ist ein Grund aufzuhören und sich untersuchen zu lassen.</p><p><strong>Schulter-Impingement beim Hochziehen der Schultern.</strong> Wenn du mit zu den Ohren gezogenen Schultern ziehst, sitzt der Oberarm hoch in der Pfanne, und der Raum unter dem Schulterdach wird enger – oft spürbar als Zwicken vorn oder oben an der Schulter nahe dem höchsten Punkt. Die Lösung ist dieselbe wie der Lat-Hinweis: erst die Schulterblätter senken und unten halten.</p><p><strong>Haltung und Brustwirbelsäule.</strong> Der Lat ist über die Fascia thoracolumbalis mit Wirbelsäule und Becken verbunden. Ein verkürzter oder steifer Lat kann die Überkopfbeweglichkeit einschränken und die Rumpfhaltung verändern; StatPearls nennt ihn als Muskel, den man bei Menschen mit Kreuzschmerzen oder eingeschränkter Schulterflexion und -außenrotation prüfen sollte.<sup>[1]</sup> Gleiche Zugtraining mit Überkopfmobilität und Streckarbeit für die Brustwirbelsäule aus.</p><p><strong>Wann zum Arzt oder zur Physiotherapie.</strong> Bei Taubheit oder Kribbeln im Arm, Schwäche, die nicht zur Anstrengung passt, Schmerzen, die trotz Schonung länger als zwei Wochen anhalten, Schmerzen in der Nacht oder jeder Verletzung mit Knall, Bluterguss oder Verformung. Physiotherapeuten oder Sportmediziner können die Schulter untersuchen; eine Webseite kann das nicht.</p><h2>Wie oft solltest du den Latissimus trainieren?</h2><p>Für die meisten sind zwei bis drei Zugeinheiten pro Woche mit 48 Stunden Abstand und insgesamt 8–15 harten Sätzen vertikalen und horizontalen Ziehens ein vernünftiger Rahmen. Erholung, Schlaf und das Gefühl in den Schultern entscheiden, wo du dich darin bewegst. PullUp Master passt diese Zahl an, statt sie festzulegen: Last und Übungen jeder Einheit richten sich danach, wie die vorherige gelaufen ist – eine harte Woche senkt das Volumen, eine leichte erhöht es. Die Struktur beschreibt der <a href=\"/de/klimmzug-trainingsplan/\">Klimmzug-Trainingsplan</a>; stagnieren deine Wiederholungen seit einem Monat, zeigt der <a href=\"/de/klimmzug-plateau/\">Plateau-Ratgeber</a>, was du ändern kannst.</p>",
+      "faq": [
+        {
+          "q": "Bauen Klimmzüge einen breiten Latissimus auf?",
+          "a": "Ja. In EMG-Studien ist der Lat beim Klimmzug der aktivste Muskel, und die Rückenbreite entsteht durch das Wachstum der äußeren Lat-Fasern unterhalb der Achsel. Genug Volumen und steigende Last bauen die V-Form auf, wobei dein Körperbau die Grenze setzt."
+        },
+        {
+          "q": "Latissimus oder Bizeps: Wer arbeitet beim Klimmzug mehr?",
+          "a": "Der Latissimus. Die mittlere Lat-Aktivierung lag bei 117–130 % einer maximalen Referenz gegenüber 78–96 % beim Bizeps. Ein Chin-up verlagert etwas mehr Arbeit auf den Bizeps, aber der Lat bleibt vorn."
+        },
+        {
+          "q": "Warum spüre ich Klimmzüge in den Armen und nicht im Rücken?",
+          "a": "Meist, weil du den Zug mit gebeugten Ellbogen und hochgezogenen Schultern beginnst. Senk zuerst die Schulterblätter, treib die Ellbogen nach unten und hinten und lass dich langsam ab; der Lat meldet sich, sobald er in seiner starken mittleren Position arbeitet."
+        },
+        {
+          "q": "Ist der Latzug genauso gut für den Latissimus wie der Klimmzug?",
+          "a": "Er trainiert dieselbe Bewegung und ist nützlich, solange du keine Wiederholung schaffst. Der Klimmzug bringt Rumpfkontrolle und mehr Last dazu; am Latzug kannst du das Gewicht fein dosieren. Nutze ihn als Brücke, nicht als Ersatz."
+        },
+        {
+          "q": "Hilft ein starker Latissimus der Haltung?",
+          "a": "Indirekt. Der Lat zieht die Schultern nach unten und hinten und stabilisiert den Rumpf, aber ein verkürzter, steifer Lat kann die Überkopfbeweglichkeit einschränken und den Rumpf nach vorn kippen. Kombiniere Zugtraining mit Überkopfmobilität und Streckung des oberen Rückens."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Jeno SH, Varacallo MA. Anatomy, Back, Latissimus Dorsi. StatPearls, NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK448120/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, et al. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or perfect-pullup rotational exercise. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Dickie JA, Faulkner JA, Barnes MJ, Lark SD. Electromyographic analysis of muscle activation during pull-up variations. J Electromyogr Kinesiol, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28011412/"
+        },
+        {
+          "label": "Andersen V, Fimland MS, Wiik E, Skoglund A, Saeterbakken AH. Effects of grip width on muscle strength and activation in the lat pull-down. J Strength Cond Res, 2014.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24662157/"
+        },
+        {
+          "label": "Lusk SJ, Hale BD, Russell DM. Grip width and forearm orientation effects on muscle activity during the lat pull-down. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20543740/"
+        },
+        {
+          "label": "Donohue BF, Lubitz MG, Kremchek TE. Sports Injuries to the Latissimus Dorsi and Teres Major. Am J Sports Med, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28125914/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/de/bizeps-brachialis-klimmzug/",
+          "title": "Bizeps, Brachialis und Brachioradialis: die Armbeuger im Klimmzug"
+        },
+        {
+          "href": "/de/schulterblatt-muskeln-klimmzug/",
+          "title": "Schulterblatt und Klimmzug: Die Schulterblattmuskeln erklärt"
+        },
+        {
+          "href": "/de/klimmzug-muskeln/",
+          "title": "Klimmzug Muskeln: Welche Muskeln werden trainiert?"
+        },
+        {
+          "href": "/de/erster-klimmzug/",
+          "title": "So schaffst du deinen ersten Klimmzug"
+        },
+        {
+          "href": "/de/klimmzug-vs-chin-up/",
+          "title": "Klimmzug vs. Chin-up: Was ist der Unterschied?"
+        },
+        {
+          "href": "/de/klimmzug-trainingsplan/",
+          "title": "Klimmzug Trainingsplan: So steigerst du deine Wiederholungen"
+        },
+        {
+          "href": "/de/klimmzug-plateau/",
+          "title": "Klimmzug-Plateau: So kommst du wieder voran"
+        }
+      ]
+    },
+    "tr": {
+      "title": "Kanat Kası (Latissimus Dorsi) ve Barfiks: Anatomi ve Görevi",
+      "description": "Kanat kası (latissimus dorsi) barfiksin her aşamasında ne yapar, EMG araştırmaları tutuş hakkında ne diyor, neden hissetmezsin ve nasıl çalıştırırsın.",
+      "headline": "Kanat kası (latissimus dorsi) ve barfiks: antrenman yapanlar için anatomi dersi",
+      "subtitle": "Origo, insersiyo, sinir, kanat kasının her aşamadaki görevi ve araştırmaların ölçtükleri",
+      "read_time": "8 dk okuma",
+      "lede": "Kanat kası (latissimus dorsi), üst kolunu aşağı ve geriye çeken geniş, yassı sırt kasıdır; barfiksin istediği hareket tam olarak budur. En çok çekişin ortasında çalışır ve tutuş değişiklikleri aktivasyonunu çoğu kişinin sandığından daha az etkiler. Burada anatomisini, araştırmaların ölçtüklerini ve henüz tek tekrar çekemiyorken onu nasıl çalıştıracağını bulacaksın.",
+      "body_html": "<h2>Kanat kası nerede ve nereye tutunur?</h2><p>Haritayla başla. Kanat kası (latissimus dorsi), kısaca „lat“, sırtın en geniş kasıdır. Her iki tarafta sırtın alt yarısının büyük bölümünü örter ve koltuk altına uzanan yassı bir tendonla incelir.<sup>[1]</sup></p><div class=\"table-scroll\"><table><thead><tr><th>Özellik</th><th>Kanat kası (latissimus dorsi)</th></tr></thead><tbody><tr><td>Origo (başlangıç)</td><td>Alt altı torakal omurun spinöz çıkıntıları, torakolomber fasya (bel ve sakrum spinöz çıkıntılarına kadar uzanır), arka iliak kret, alt üç-dört kaburga ve kürek kemiğinin alt köşesi</td></tr><tr><td>İnsersiyo (yapışma)</td><td>Üst kol kemiğindeki intertüberküler (bisipital) oluğun tabanı; teres major'un önünden dolanan yassı bir tendon olarak</td></tr><tr><td>Sinir</td><td>Torakodorsal sinir, brakiyal pleksusun posterior kordonundan (C6–C8, çoğunlukla C7)</td></tr><tr><td>Kanlanma</td><td>Torakodorsal arter (subskapular arterin devamı), ayrıca alt arka interkostal ve üst lomber arterlerin delici dalları</td></tr><tr><td>Ana görevleri</td><td>Omuzda adduksiyon, ekstansiyon ve iç rotasyon; kollar sabitken gövdeyi yukarı çeker (tırmanmada olduğu gibi); ayrıca omuz kuşağını aşağı bastırır ve öksürük gibi zorlu nefes vermeye yardım eder</td></tr></tbody></table></div><p>Bu listenin şekline dikkat et. Kas aşağıda ve geniş başlar, leğen kemiğinden sırtın ortasına kadar; yukarıda ve dar biter, üst kol kemiğinin ön yüzünde. Kısaldığında kolu aşağı ve geriye, leğen kemiğine doğru çeker. Şimdi tersini düşün: ellerin barda sabitken aynı kasılma leğen kemiğini ve gövdeni ellerine doğru yukarı çeker.<sup>[1]</sup></p><p>Kendi bedeninde hissetmek için dik dur ve bir elinin ayasını koltuk altının hemen arkasına, böğrüne bastır. Şimdi karşı dirseği aşağı ve geriye it, sanki kolunun altında bir şeyi eziyormuş gibi. Parmaklarının altında sertleşen plaka kanat kasıdır. Koltuk altının altında tutabildiğin dış kenar da aynı kasa aittir; iyi gelişmiş bir lat'ın sırta V şeklini vermesinin nedeni budur.</p><h2>Barfiksin her aşamasında kanat kası ne yapar?</h2><p>Barfiks tek bir harekettir ama lat'ın görevi yol boyunca değişir. Tekrarı adım adım izle.</p><ul><li><strong>Dead hang.</strong> Kollar başın üzerinde düz, omuzlar kulaklarda. Lat burada en uzun halindedir. Gerilmiş ve görece sessizdir; esas olarak omzu sabitler, eklem sarkmasın diye.</li><li><strong>Başlangıç.</strong> Dirsekler bükülmeden önce kürek kemikleri aşağı iner ve omuzlar kulaklardan uzaklaşır. Bu skapular depresyon, lat'ın gözle görülür ilk katkısıdır; alt trapez yardım eder. EMG zamanlama verileri çekişi alt trapez ile pektoralis major'un başlattığını, lat ile biseps'in bitirdiğini düşündürür.<sup>[2]</sup></li><li><strong>Orta çekiş.</strong> Yaklaşık 45 derece dirsek bükülmesinden çene hizasına kadar üst kol aşağı ve geriye savrulur. Bu, adduksiyon artı ekstansiyondur, lat'ın ana görevleri; kasın en çok çalıştığı yer burasıdır.</li><li><strong>Tepe.</strong> Çene barın üzerindeyken lat neredeyse tamamen kısalmıştır. Kaldıraç avantajı burada zayıftır; son birkaç santimin yavaş hissettirmesinin ve biseps ile teres major'un yükü daha çok üstlenmesinin nedeni budur.</li><li><strong>İniş.</strong> Aşağı inerken lat gerilim altında uzar. Bu eksantrik aşamada hızı kontrol eder ve omzu korursun; henüz barfiks çekemiyorsan en kolay çalıştırabileceğin aşama da budur.</li></ul><p>Ortanın en güçlü hissettirmesinin nedeni uzunluk-gerilim ilişkisidir. Bir kas en fazla kuvveti orta uzunlukta üretir; çok gerildiğinde (dead hang) ve çok kısaldığında (tepe) daha az üretir. StatPearls, lat'ın ekstansiyon ve adduksiyonunun hareket kısmi fleksiyon ya da abduksiyondan başladığında en güçlü olduğunu belirtir; bu, orta çekişte geçtiğin pozisyondur.<sup>[1]</sup> Bunu bilmek, zayıf başlangıç ya da bitiş için lat'ını suçlamanı engeller; o pozisyonlar herkes için zayıftır.</p><h2>Araştırmalar kanat kası aktivasyonu hakkında ne diyor?</h2><p>Yüzeyel EMG çalışmaları, farklı barfiks varyasyonlarında lat'ın ne kadar çalıştığını ölçtü. Dürüst özet şu: lat her varyasyonda en aktif kastır ve tutuş değişiklikleri sonucu salon efsanelerinin iddia ettiğinden daha az oynatır.</p><ul><li><strong>Barfiks vs chin-up.</strong> Youdas ve ekibi, 25 antrenmanlı yetişkini barfiks ve chin-up çekerken ölçtü. Ortalama lat aktivasyonu her ikisinde de maksimal izometrik referansın %117–130'u idi; kaydedilen tüm kaslar içinde en yüksek değer, biseps brakii'nin (%78–96) önünde. Chin-up anlamlı ölçüde daha fazla biseps ve pektoralis major aktivitesi, barfiks daha fazla alt trapez üretti; lat ikisi arasında anlamlı fark göstermedi.<sup>[2]</sup></li><li><strong>Tutuş yönü.</strong> Dickie ve ekibi, 19 kuvvet antrenmanlı erkekte pronasyon, supinasyon, nötr ve halat tutuşlarını karşılaştırdı. Tam bir tekrar boyunca omuz, kol ve ön kol kaslarının aktivasyonu el pozisyonları arasında benzerdi; en net fark, pronasyon tutuşunda nötr tutuşa göre daha yüksek orta trapez aktivitesiydi. Konsantrik aşamalar brakioradyalis, biseps ve pektoralis major'u eksantrik aşamalardan daha fazla aktive etti.<sup>[3]</sup></li><li><strong>Lat pulldown'da tutuş genişliği.</strong> Andersen ve ekibi, 15 erkekte dar, orta ve geniş pronasyon tutuşlarını (omuz genişliğinin 1, 1,5 ve 2 katı) 6 tekrar maksimumla test etti. Tüm hareket boyunca lat aktivasyonu genişlikler arasında benzerdi; dar ve orta tutuş genişe göre biraz daha ağır yük kaldırmaya izin verdi (yaklaşık 80 kg'a karşı 77 kg). İniş aşamasında geniş tutuş, lat ve infraspinatus aktivitesinde dar tutuşun az önündeydi. Yazarlar orta tutuşun küçük avantajları olabileceğini ama omuz genişliğinin 1–2 katı arasındaki her tutuşun işe yaradığını sonucuna vardı.<sup>[4]</sup></li><li><strong>Pulldown'da pronasyon vs supinasyon.</strong> Lusk ve ekibi, 12 erkeğe 1RM'nin %70'iyle geniş ve dar, pronasyon ve supinasyon tutuşlarıyla çektirdi. Pronasyon tutuşu supinasyondan daha fazla lat aktivitesi üretti; tutuş genişliği fark yaratmadı.<sup>[5]</sup></li></ul><p>Toparlarsak: omuz genişliğinde ya da biraz daha geniş bir üstten tutuş, lat için makul bir varsayılan. Chin-up da lat'ı sert çalıştırır; sadece daha fazla biseps ve göğüs ekler. Bunlar yüzey elektrotlarıyla ölçülmüş, antrenmanlı erkeklerden oluşan küçük örneklemler; farkları kural değil, mütevazı eğilimler olarak gör. Bir tutuş daha fazla temiz tekrar çekmeni sağlıyorsa, o hacim birkaç yüzde EMG'den daha önemlidir. Pratik karşılaştırma için <a href=\"/tr/barfiks-vs-chin-up/\">barfiks mi chin-up mı</a> yazısına bak.</p><h2>Kanat kasını neden hissetmiyorsun ve nasıl düzeltirsin?</h2><p>„Sadece kollarımda hissediyorum“ yeni başlayanların en sık şikâyetidir ve mekanik bir nedeni vardır. Çekişe dirsekleri bükerek başlarsan yükü önce biseps alır ve kürek kemikleri yukarıda kalır. Lat, kürek kemiği sabitlenmiş halde güçlü orta pozisyonuna hiç gelemez; dolayısıyla daha az katkı verir ve sen onu daha az hissedersin. İkinci neden daha basit: lat büyük, derin bir kastır ve koldan daha az duyusal geri bildirim verir; birçok kişi onu ancak yorulduğunda fark eder.</p><p>Dört ipucu sorunun çoğunu çözer:</p><ol><li><strong>Önce bastır.</strong> Asılı pozisyondan, dirsekler bükülmeden önce omuzları kulaklardan uzağa, aşağı çek. Bu sabit pozisyonu tekrar boyunca koru.</li><li><strong>Dirsekler arka ceplere.</strong> Barı çeneye çekmek yerine dirsekleri aşağı ve geriye, kalçalarına doğru sürdüğünü düşün. Bu, hareketi omuz ekstansiyonu ve adduksiyonuna çevirir; yani lat'ın işine.</li><li><strong>Göğüs dik.</strong> Göğüs kemiğini bara doğru hafifçe kaldır. Çökmüş bir göğüs üst sırtı yuvarlar ve lat'ı kötü bir çekiş hattına sokar.</li><li><strong>Yavaş eksantrik.</strong> Üç-beş saniyede in. Uzun, yüklü gerilme lat'ı fark etmenin en kolay anıdır ve kullanabileceğin kuvvet inşa eder.</li></ol><p>Hissi öğreten çalışmalar:</p><ul><li>Skapular barfiks: asıl, dirsekleri bükmeden kürek kemiklerini aşağı ve birbirine doğru çek, bekle, bırak. 3 set 5–8 tekrar.</li><li>Bantla düz kol pulldown: kollar kilitli, bandı baş üstünden uyluklara kadar it. Çekiş çalışmasından önce 2 set 12–15 tekrar.</li><li>Göğüste iki saniye bekleyerek pulldown; dirsekleri kaburgalara sık.</li><li>Tek kol lat bastırma: bir duvarın yanında dur, düz kolu duvara doğru aşağı bastır ve nefes alarak on saniye tut.</li></ul><p>Kol ağırlıklı çekiş, klasik <a href=\"/tr/barfiks-hatalari/\">barfiks hatalarından</a> biridir; form videonu o listeyle karşılaştır.</p><h2>Henüz barfiks çekemiyorken kanat kasını hangi egzersizler geliştirir?</h2><p>Lat'ı yüklemek için barfiks çekebiliyor olman gerekmez. Şunlardan iki-üçünü seç ve her hafta ilerlet:</p><ul><li><strong>Dead hang.</strong> Kavramayı güçlendirir ve lat'ın gerilmiş pozisyona uyum sağlamasına izin verir. 30–45 saniyeye doğru çalış. Ayrıntılar <a href=\"/tr/dead-hang-faydalari/\">dead hang faydaları</a> yazısında.</li><li><strong>Skapular barfiks.</strong> Başlangıç aşamasının tek başına çalışılması. Her seansa ekle.</li><li><strong>Negatifler.</strong> Zıplayarak ya da basamakla tepeye çık, 3–5 saniyede in. Tam dinlenmeyle 3–5 tekli tekrar.</li><li><strong>Bantlı barfiks.</strong> Azaltılmış yükle tam hareket; 5–8 temiz tekrara izin veren en hafif bandı kullan. Bkz. <a href=\"/tr/bantli-barfiks/\">bantlı barfiks</a>.</li><li><strong>Australian row.</strong> Yatay çekiş, lat'ı orta sırtla birlikte çalıştırır ve vücut açısını değiştirerek kolayca ölçeklenir.</li><li><strong>Lat pulldown.</strong> En yakın makine alternatifi; omuz genişliğinde üstten tutuşla.<sup>[4]</sup><sup>[5]</sup></li><li><strong>Düz kol pulldown.</strong> Omuz ekstansiyonunu izole eder ve „dirsekler aşağı“ ipucunu pekiştirir.</li></ul><p>Asılmadan ilk temiz tekrara kadar tüm ilerleme <a href=\"/tr/ilk-barfiks/\">ilk barfiks nasıl çekilir</a> rehberinde anlatılıyor.</p><h2>Sorunlar ve sakatlık notları: nelere dikkat etmelisin?</h2><p>Kanat kası dayanıklı bir kastır ve sorunlar nadirdir, ama birkaç örüntüyü bilmekte fayda var.</p><p><strong>Lat zorlanması ya da yırtığı.</strong> Latissimus dorsi ve teres major yaralanmaları nadirdir ve orantısız biçimde beyzbol atıcılarının atış omzunda görülür; yayımlanmış literatür çoğunlukla olgu sunumları ve küçük serilerden oluşur. Tendon yaralanmaları bazen cerrahi, kas gövdesi yaralanmaları genellikle dinlenme, antienflamatuvar ilaçlar ve fizyoterapiyle yönetilir.<sup>[6]</sup> Rekreasyonel barfiks antrenmanında gerçek bir yırtık olağan dışıdır. Maksimal bir tekrarda koltuk altının arkasında ani, keskin bir ağrı; morarma ya da kasın şeklinde gözle görülür değişiklik, durup muayene olman için nedendir.</p><p><strong>Omuzları kaldırınca omuz sıkışması.</strong> Omuzlar kulaklara doğru kalkmış halde çekersen üst kol eklem yuvasında yukarıda oturur ve akromiyon altındaki boşluk daralır. Birçok kişi bunu tekrarın tepesine yakın, omzun önünde ya da üstünde bir sıkışma olarak hisseder. Çözüm, lat ipucuyla aynıdır: önce kürek kemiklerini bastır ve aşağıda tut. Süregiden sıkışma ağrısı, gece ağrısı ya da kola yayılan ağrı kontrol ettirilmelidir.</p><p><strong>Duruş ve torakal omurga.</strong> Lat, torakolomber fasya aracılığıyla omurgaya ve leğen kemiğine tutunur. Kısa ya da sert bir lat baş üstü uzanmayı kısıtlayabilir ve gövde duruşunu değiştirebilir; StatPearls onu bel ağrısı ya da omuz fleksiyonu ve dış rotasyonu kısıtlı kişilerde değerlendirilmesi gereken bir kas olarak işaret eder.<sup>[1]</sup> Güçlü lat'lar tek başına kötü duruşun nedeni değildir; güçlü ama kısa bir lat ile yuvarlak bir üst sırt olağan ikilidir. Çekiş çalışmasını baş üstü hareketlilik ve torakal ekstansiyon çalışmasıyla dengele.</p><p><strong>Ne zaman bir uzmana görünmelisin.</strong> Kolda uyuşma ya da karıncalanma, efora uymayan güçsüzlük, yükü azaltmana rağmen iki haftadan uzun süren ağrı ya da çıt sesi, morarma veya şekil bozukluğuyla gelen herhangi bir yaralanma. Fizyoterapist ya da spor hekimi omzu düzgün muayene edebilir; bir web sayfası edemez.</p><h2>Kanat kasını ne sıklıkla çalıştırmalısın?</h2><p>Çoğu kişi için 48 saat arayla haftada iki-üç çekiş seansı, toplamda 8–15 zorlu dikey ve yatay çekiş seti makul bir aralıktır. Yeni başlayanlar alt uçta ilerler; toparlanma, uyku ve omuzların nasıl hissettiği bu aralıkta nerede duracağını belirler. PullUp Master bu sayıyı önceden sabitlemek yerine ayarlar: her seansın yükü ve egzersiz seçimi, öncekinin nasıl geçtiğine göre belirlenir; zor bir hafta hacmi düşürür, kolay bir hafta artırır. Bunun arkasındaki yapı <a href=\"/tr/barfiks-antrenman-programi/\">barfiks antrenman programında</a> anlatılıyor. Tekrarların bir aydır yerinde sayıyorsa <a href=\"/tr/barfiks-plato/\">plato rehberi</a> neyi değiştireceğini gösterir.</p>",
+      "faq": [
+        {
+          "q": "Barfiks geniş kanat kası yapar mı?",
+          "a": "Evet. EMG çalışmalarında lat barfikste en aktif kastır ve sırt genişliği, lat'ın koltuk altı altındaki dış liflerinin büyümesinden gelir. Yeterli hacim ve artan yük V şeklini oluşturur; tavanı ise iskelet yapın belirler."
+        },
+        {
+          "q": "Kanat kası mı biseps mi: barfikste hangisi daha çok çalışır?",
+          "a": "Kanat kası. Ortalama lat aktivasyonu maksimal referansın %117–130'u olarak ölçüldü; biseps için bu %78–96 idi. Chin-up işin biraz daha fazlasını bisepse kaydırır ama lat yine öndedir."
+        },
+        {
+          "q": "Barfiksi neden sırtımda değil kollarımda hissediyorum?",
+          "a": "Genellikle çekişe omuzlar kalkık halde dirsekleri bükerek başladığın için. Önce kürek kemiklerini bastır, dirsekleri aşağı ve geriye sür, inişi yavaşlat; lat güçlü orta pozisyonunda çalışmaya başlayınca kendini belli eder."
+        },
+        {
+          "q": "Lat pulldown kanat kası için barfiks kadar iyi mi?",
+          "a": "Aynı hareketi çalıştırır ve henüz tekrar çekemiyorken işe yarar. Barfiks gövde kontrolü ve daha ağır yük ekler; pulldown ağırlığı ince ayarlamana izin verir. Pulldown'u köprü olarak kullan, yerine geçecek bir şey olarak değil."
+        },
+        {
+          "q": "Güçlü kanat kası duruşa yardım eder mi?",
+          "a": "Dolaylı olarak. Lat omuzları aşağı ve geriye çeker, gövdeyi sabitler; ama kısa, sert bir lat baş üstü uzanmayı kısıtlayabilir ve gövdeyi öne eğebilir. Çekiş çalışmasını baş üstü hareketlilik ve üst sırt ekstansiyonuyla eşleştir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Jeno SH, Varacallo MA. Anatomy, Back, Latissimus Dorsi. StatPearls, NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK448120/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, et al. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or perfect-pullup rotational exercise. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Dickie JA, Faulkner JA, Barnes MJ, Lark SD. Electromyographic analysis of muscle activation during pull-up variations. J Electromyogr Kinesiol, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28011412/"
+        },
+        {
+          "label": "Andersen V, Fimland MS, Wiik E, Skoglund A, Saeterbakken AH. Effects of grip width on muscle strength and activation in the lat pull-down. J Strength Cond Res, 2014.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24662157/"
+        },
+        {
+          "label": "Lusk SJ, Hale BD, Russell DM. Grip width and forearm orientation effects on muscle activity during the lat pull-down. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20543740/"
+        },
+        {
+          "label": "Donohue BF, Lubitz MG, Kremchek TE. Sports Injuries to the Latissimus Dorsi and Teres Major. Am J Sports Med, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28125914/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/tr/biceps-brachialis-barfiks/",
+          "title": "Pazı, brachialis ve brachioradialis: barfikste dirseği büken kaslar"
+        },
+        {
+          "href": "/tr/kurek-kemigi-kaslari-barfiks/",
+          "title": "Kürek kemiği kasları ve barfiks: sporcular için anatomi dersi"
+        },
+        {
+          "href": "/tr/barfiks-hangi-kaslari-calistirir/",
+          "title": "Barfiks hangi kasları çalıştırır?"
+        },
+        {
+          "href": "/tr/ilk-barfiks/",
+          "title": "İlk barfiks nasıl çekilir"
+        },
+        {
+          "href": "/tr/barfiks-vs-chin-up/",
+          "title": "Barfiks mi chin-up mı? Farkları ve hangisiyle başlamalı"
+        },
+        {
+          "href": "/tr/barfiks-antrenman-programi/",
+          "title": "Barfiks antrenman programı: tekrar sayını artıran haftalık plan"
+        },
+        {
+          "href": "/tr/barfiks-plato/",
+          "title": "Barfiks plato: aynı tekrarda takılırsan ne yapmalı"
+        }
+      ]
+    },
+    "es": {
+      "title": "Dorsal Ancho y Dominadas: Anatomía, Función, Activación",
+      "description": "Qué hace el dorsal ancho en cada fase de la dominada, qué dice la investigación EMG sobre agarre y activación, por qué no lo sientes al principio y cómo entrenarlo.",
+      "headline": "Dorsal ancho y dominadas: una lección de anatomía para quien entrena",
+      "subtitle": "Origen, inserción, nervio, qué hace el dorsal en cada fase y qué midió la investigación",
+      "read_time": "8 min de lectura",
+      "lede": "El dorsal ancho (latissimus dorsi) es el músculo grande y plano de la espalda que lleva el brazo hacia abajo y atrás, justo el movimiento que exige una dominada. Trabaja al máximo en la mitad del recorrido, y los cambios de agarre alteran su activación menos de lo que se cree. Aquí tienes la anatomía, lo que midió la investigación y cómo entrenarlo cuando todavía no haces ni una repetición.",
+      "body_html": "<h2>¿Dónde está el dorsal ancho y dónde se inserta?</h2><p>Empieza por el mapa. El dorsal ancho (latissimus dorsi), «el dorsal» para abreviar, es el músculo más extenso de la espalda. Cubre la mayor parte de la mitad inferior de la espalda a cada lado y se estrecha en un tendón plano que entra en la axila.<sup>[1]</sup></p><div class=\"table-scroll\"><table><thead><tr><th>Dato</th><th>Dorsal ancho (latissimus dorsi)</th></tr></thead><tbody><tr><td>Origen</td><td>Apófisis espinosas de las seis últimas vértebras torácicas, fascia toracolumbar (hasta las apófisis espinosas lumbares y sacras), cresta ilíaca posterior, tres o cuatro últimas costillas y ángulo inferior de la escápula</td></tr><tr><td>Inserción</td><td>Fondo del surco intertubercular (corredera bicipital) del húmero, como un tendón plano que rodea por delante al redondo mayor</td></tr><tr><td>Inervación</td><td>Nervio toracodorsal, rama del fascículo posterior del plexo braquial (C6–C8, sobre todo C7)</td></tr><tr><td>Irrigación</td><td>Arteria toracodorsal (continuación de la arteria subescapular), más ramas perforantes de las últimas arterias intercostales posteriores y de las primeras lumbares</td></tr><tr><td>Acciones principales</td><td>Aducción, extensión y rotación interna del hombro; eleva el tronco hacia los brazos fijos, como al trepar; además deprime la cintura escapular y ayuda en la espiración forzada, como al toser</td></tr></tbody></table></div><p>Fíjate en la forma de esa lista: el músculo empieza abajo y ancho y termina arriba y estrecho, en la cara anterior del húmero. Al acortarse tira del brazo hacia abajo y atrás, hacia la pelvis; con las manos fijas en una barra, la misma contracción tira del tronco hacia tus manos.<sup>[1]</sup></p><p>Para sentirlo en tu propio cuerpo, ponte erguido y presiona con la base de una mano el costado, justo detrás de la axila. Ahora empuja el codo contrario hacia abajo y atrás, como si aplastaras algo bajo el brazo. La placa que se endurece bajo tus dedos es el dorsal. El borde externo que puedes pellizcar debajo de la axila es el mismo músculo, el que da a una espalda entrenada su forma de V.</p><h2>¿Qué hace el dorsal en cada fase de la dominada?</h2><p>El trabajo del dorsal cambia por el camino.</p><ul><li><strong>Dead hang.</strong> Brazos rectos sobre la cabeza, hombros junto a las orejas. El dorsal está en su máxima longitud, estirado y bastante tranquilo; sobre todo estabiliza el hombro.</li><li><strong>Inicio.</strong> Antes de que los codos se doblen, las escápulas bajan y los hombros se alejan de las orejas. Esa depresión escapular es la primera aportación visible del dorsal, con ayuda del trapecio inferior. Los datos de tiempo de la EMG sugieren que el trapecio inferior y el pectoral mayor inician el tirón y que el dorsal y el bíceps lo completan.<sup>[2]</sup></li><li><strong>Mitad del recorrido.</strong> Desde unos 45 grados de flexión de codo hasta la altura del mentón, el brazo baja y va hacia atrás: aducción más extensión, las acciones principales del dorsal, y donde más trabaja.</li><li><strong>Arriba.</strong> Con el mentón sobre la barra, el dorsal está casi del todo acortado y su palanca es peor; los últimos centímetros se sienten lentos y el bíceps y el redondo mayor asumen más carga.</li><li><strong>Bajada.</strong> El dorsal se alarga bajo tensión. Esta fase excéntrica es donde controlas la velocidad y proteges el hombro, y la más fácil de entrenar cuando aún no puedes subir.</li></ul><p>La mitad se siente más fuerte por la relación longitud-tensión: un músculo produce su máxima fuerza a una longitud intermedia y menos cuando está muy estirado (dead hang) o muy acortado (arriba). StatPearls señala que la extensión y la aducción del dorsal son más fuertes cuando el movimiento parte de una flexión o abducción parcial, la posición por la que pasas a mitad del tirón.<sup>[1]</sup></p><h2>¿Qué dice la investigación sobre la activación del dorsal?</h2><p>Los estudios de EMG de superficie dan un resumen honesto: el dorsal es el músculo más activo en todas las variantes de dominada, y los cambios de agarre mueven la aguja menos de lo que afirma el folclore del gimnasio.</p><ul><li><strong>Dominada vs chin-up.</strong> Youdas y colaboradores midieron a 25 adultos entrenados. La activación media del dorsal fue del 117–130 % de una referencia isométrica máxima en ambos ejercicios, la más alta de todos los músculos registrados, por delante del bíceps braquial (78–96 %). El chin-up produjo bastante más actividad de bíceps y pectoral mayor, y la dominada más trapecio inferior; el dorsal no difirió de forma relevante.<sup>[2]</sup></li><li><strong>Orientación del agarre.</strong> Dickie y colaboradores compararon agarre prono, supino, neutro y de cuerda en 19 hombres entrenados en fuerza. En la repetición completa, la activación de los músculos del hombro, brazo y antebrazo fue similar entre posiciones de mano; la diferencia más clara fue más actividad del trapecio medio con el agarre prono que con el neutro. Las fases concéntricas activaron más el braquiorradial, el bíceps y el pectoral mayor que las excéntricas.<sup>[3]</sup></li><li><strong>Anchura de agarre en el jalón.</strong> Andersen y colaboradores probaron agarres pronos estrecho, medio y ancho (1, 1,5 y 2 veces la anchura de hombros) a 6 repeticiones máximas en 15 hombres. La activación del dorsal fue similar entre anchuras; con agarre estrecho y medio se movió algo más de carga que con el ancho (unos 80 kg frente a 77 kg), y en la fase de bajada el ancho superó por poco al estrecho en dorsal e infraespinoso. Los autores concluyeron que el agarre medio puede tener pequeñas ventajas, pero que entre 1 y 2 veces la anchura de hombros funciona.<sup>[4]</sup></li><li><strong>Prono vs supino en el jalón.</strong> Lusk y colaboradores hicieron tirar a 12 hombres al 70 % del 1RM. El agarre prono produjo más actividad del dorsal que el supino; la anchura no supuso diferencia.<sup>[5]</sup></li></ul><p>En conjunto: un agarre prono a la anchura de hombros o un poco más es una buena opción por defecto para el dorsal, y el chin-up sigue trabajándolo con intensidad, solo que añade más bíceps y pecho. Son muestras pequeñas de hombres entrenados, medidas con electrodos de superficie, así que toma las diferencias como tendencias modestas, no como reglas. Para la comparación práctica, lee <a href=\"/es/dominadas-vs-chin-up/\">dominadas vs chin-ups</a>.</p><h2>¿Por qué no sientes el dorsal y cómo lo arreglas?</h2><p>«Solo lo noto en los brazos» es la queja más común de quien empieza, y tiene una razón mecánica. Si inicias el tirón doblando los codos, el bíceps asume la carga primero y las escápulas se quedan encogidas. El dorsal nunca llega a su posición intermedia fuerte con la escápula fijada, así que aporta menos y lo sientes menos.</p><p>Cuatro claves resuelven casi todo:</p><ol><li><strong>Deprime primero.</strong> Desde el colgado, baja los hombros alejándolos de las orejas antes de doblar los codos, y mantenlos ahí.</li><li><strong>Codos a los bolsillos traseros.</strong> Lleva los codos hacia abajo y atrás, hacia las caderas, en lugar de tirar de la barra hacia el mentón. Eso convierte el movimiento en extensión y aducción de hombro, el trabajo del dorsal.</li><li><strong>Pecho alto.</strong> Eleva un poco el esternón hacia la barra; un pecho hundido coloca al dorsal en una mala línea de tracción.</li><li><strong>Excéntrica lenta.</strong> Baja en tres a cinco segundos. El estiramiento largo bajo carga es el momento más fácil para notar el dorsal.</li></ol><p>Ejercicios breves que enseñan la sensación: dominadas escapulares (tres series de 5–8), jalón con brazos rectos con banda antes del trabajo de tirón (dos series de 12–15) y jalón con dos segundos de pausa en el pecho apretando los codos hacia las costillas. Tirar con los brazos también es uno de los clásicos <a href=\"/es/errores-dominadas/\">errores en las dominadas</a>; compara tu vídeo de técnica con esa lista.</p><h2>¿Qué ejercicios fortalecen el dorsal antes de tu primera dominada?</h2><p>Elige dos o tres de estos y progresa cada semana:</p><ul><li><strong>Dead hang:</strong> agarre y posición estirada; trabaja hacia los 30–45 segundos (ver <a href=\"/es/beneficios-dead-hang/\">beneficios del dead hang</a>).</li><li><strong>Dominadas escapulares:</strong> la fase de inicio aislada; inclúyelas en cada sesión.</li><li><strong>Negativas:</strong> sube de un salto y baja en 3–5 segundos; tres a cinco repeticiones sueltas con descanso completo.</li><li><strong>Dominadas con banda:</strong> recorrido completo con la banda más fina que permita 5–8 repeticiones estrictas (ver <a href=\"/es/dominadas-con-banda/\">dominadas con banda</a>).</li><li><strong>Remo australiano:</strong> tirón horizontal para el dorsal y la espalda media, escalable con el ángulo del cuerpo.</li><li><strong>Jalón al pecho:</strong> el sustituto de máquina más cercano, agarre prono a la anchura de hombros.<sup>[4]</sup><sup>[5]</sup></li><li><strong>Jalón con brazos rectos:</strong> aísla la extensión de hombro y refuerza la clave de «codos abajo».</li></ul><p>La progresión completa desde el colgado hasta la primera repetición estricta está en <a href=\"/es/primera-dominada/\">cómo hacer tu primera dominada</a>.</p><h2>Problemas y notas sobre lesiones: ¿a qué debes prestar atención?</h2><p><strong>Distensión o rotura del dorsal.</strong> Las lesiones del dorsal ancho y del redondo mayor son raras y aparecen de forma desproporcionada en el hombro de lanzamiento de los lanzadores de béisbol; la literatura consiste sobre todo en casos clínicos y series pequeñas. Las lesiones del tendón a veces se operan; las del vientre muscular suelen tratarse con reposo, antiinflamatorios y fisioterapia.<sup>[6]</sup> En el entrenamiento recreativo de dominadas, una rotura verdadera es inusual. Un dolor agudo y repentino en la parte posterior de la axila durante una repetición máxima, con hematoma o un cambio visible en la forma del músculo, es motivo para parar y hacerte revisar.</p><p><strong>Pinzamiento de hombro al encogerte.</strong> Si tiras con los hombros subidos hacia las orejas, el húmero se sitúa alto en la cavidad y el espacio bajo el acromion se estrecha; suele notarse como un pellizco en la parte anterior o superior del hombro cerca del punto más alto. La solución es la misma clave del dorsal: deprime las escápulas primero y mantenlas abajo.</p><p><strong>Postura y columna torácica.</strong> El dorsal se une a la columna y la pelvis a través de la fascia toracolumbar. Un dorsal corto o rígido puede limitar el alcance por encima de la cabeza y alterar la postura del tronco, y StatPearls lo señala como un músculo a evaluar en personas con dolor lumbar o con flexión y rotación externa de hombro limitadas.<sup>[1]</sup> Equilibra el tirón con movilidad por encima de la cabeza y trabajo de extensión torácica.</p><p><strong>Cuándo acudir a un profesional.</strong> Entumecimiento u hormigueo en el brazo, debilidad que no se corresponde con el esfuerzo, dolor que dura más de dos semanas a pesar de bajar la carga, dolor nocturno, o cualquier lesión con chasquido, hematoma o deformidad. Un fisioterapeuta o médico deportivo puede explorar el hombro; una página web no.</p><h2>¿Con qué frecuencia entrenar el dorsal?</h2><p>Para la mayoría, dos o tres sesiones de tirón por semana, separadas 48 horas, con 8–15 series duras de tirón vertical y horizontal en total, es un rango razonable. La recuperación, el sueño y cómo se sienten los hombros deciden en qué punto te sitúas. PullUp Master ajusta esa cifra en lugar de fijarla: la carga y los ejercicios de cada sesión se establecen según cómo fue la anterior, de modo que una semana dura reduce el volumen y una fácil lo aumenta. La estructura se describe en la <a href=\"/es/rutina-dominadas/\">rutina de dominadas</a>; si tus repeticiones llevan un mes estancadas, la <a href=\"/es/estancamiento-dominadas/\">guía sobre el estancamiento</a> explica qué cambiar.</p>",
+      "faq": [
+        {
+          "q": "¿Las dominadas desarrollan un dorsal ancho?",
+          "a": "Sí. En los estudios de EMG el dorsal es el músculo más activo en la dominada, y la anchura de la espalda viene del crecimiento de las fibras externas del dorsal bajo la axila. Con volumen suficiente y carga progresiva aparece la forma de V, aunque tu estructura marca el techo."
+        },
+        {
+          "q": "Dorsal o bíceps: ¿cuál trabaja más en una dominada?",
+          "a": "El dorsal. La activación media del dorsal fue del 117–130 % de una referencia máxima frente al 78–96 % del bíceps. El chin-up traslada algo más de trabajo al bíceps, pero el dorsal sigue al frente."
+        },
+        {
+          "q": "¿Por qué siento las dominadas en los brazos y no en la espalda?",
+          "a": "Normalmente porque inicias el tirón doblando los codos con los hombros encogidos. Deprime primero las escápulas, lleva los codos abajo y atrás y baja despacio; el dorsal aparece en cuanto trabaja en su rango intermedio fuerte."
+        },
+        {
+          "q": "¿El jalón al pecho es tan bueno como la dominada para el dorsal?",
+          "a": "Entrena el mismo movimiento y es útil cuando aún no haces una repetición. La dominada añade control del tronco y más carga; el jalón te deja ajustar el peso con precisión. Úsalo como puente, no como sustituto."
+        },
+        {
+          "q": "¿Un dorsal fuerte mejora la postura?",
+          "a": "De forma indirecta. El dorsal lleva los hombros abajo y atrás y estabiliza el tronco, pero un dorsal corto y rígido puede limitar el alcance por encima de la cabeza e inclinar el tronco hacia delante. Combina el tirón con movilidad de hombro y extensión de la espalda alta."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Jeno SH, Varacallo MA. Anatomy, Back, Latissimus Dorsi. StatPearls, NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK448120/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, et al. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or perfect-pullup rotational exercise. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Dickie JA, Faulkner JA, Barnes MJ, Lark SD. Electromyographic analysis of muscle activation during pull-up variations. J Electromyogr Kinesiol, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28011412/"
+        },
+        {
+          "label": "Andersen V, Fimland MS, Wiik E, Skoglund A, Saeterbakken AH. Effects of grip width on muscle strength and activation in the lat pull-down. J Strength Cond Res, 2014.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24662157/"
+        },
+        {
+          "label": "Lusk SJ, Hale BD, Russell DM. Grip width and forearm orientation effects on muscle activity during the lat pull-down. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20543740/"
+        },
+        {
+          "label": "Donohue BF, Lubitz MG, Kremchek TE. Sports Injuries to the Latissimus Dorsi and Teres Major. Am J Sports Med, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28125914/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/es/biceps-braquial-dominadas/",
+          "title": "Bíceps, braquial anterior y braquiorradial: los flexores del codo en las dominadas"
+        },
+        {
+          "href": "/es/musculos-escapulares-dominadas/",
+          "title": "Músculos escapulares y dominadas: una lección de anatomía para quien entrena"
+        },
+        {
+          "href": "/es/musculos-dominadas/",
+          "title": "¿Qué músculos trabajan las dominadas?"
+        },
+        {
+          "href": "/es/primera-dominada/",
+          "title": "Cómo hacer tu primera dominada"
+        },
+        {
+          "href": "/es/dominadas-vs-chin-up/",
+          "title": "Dominadas vs chin-ups: diferencias y cuál elegir"
+        },
+        {
+          "href": "/es/rutina-dominadas/",
+          "title": "Rutina de dominadas para ganar repeticiones"
+        },
+        {
+          "href": "/es/estancamiento-dominadas/",
+          "title": "Estancamiento en dominadas: por qué y cómo superarlo"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Grand Dorsal et Tractions : Anatomie, Rôle, Activation",
+      "description": "Ce que fait le grand dorsal à chaque phase d'une traction, ce que dit la recherche EMG sur la prise, pourquoi tu ne le sens pas au début et comment l'entraîner.",
+      "headline": "Grand dorsal et tractions : une leçon d'anatomie pour ceux qui s'entraînent",
+      "subtitle": "Origine, insertion, nerf, le rôle du grand dorsal phase par phase et ce que la recherche a mesuré",
+      "read_time": "8 min de lecture",
+      "lede": "Le grand dorsal (latissimus dorsi) est le large muscle plat du dos qui tire ton bras vers le bas et l'arrière, exactement le mouvement qu'exige une traction. Il travaille le plus au milieu du tirage, et les changements de prise modifient son activation moins qu'on ne le croit. Voici son anatomie, ce que la recherche a mesuré et comment l'entraîner quand tu ne fais pas encore une seule répétition.",
+      "body_html": "<h2>Où se trouve le grand dorsal et où s'attache-t-il ?</h2><p>Commence par la carte. Le grand dorsal (latissimus dorsi), « le dorsal » pour faire court, est le muscle le plus étendu du dos. Il couvre la majeure partie de la moitié inférieure du dos de chaque côté et se rétrécit en un tendon plat qui file vers l'aisselle.<sup>[1]</sup></p><div class=\"table-scroll\"><table><thead><tr><th>Élément</th><th>Grand dorsal (latissimus dorsi)</th></tr></thead><tbody><tr><td>Origine</td><td>Processus épineux des six dernières vertèbres thoraciques, fascia thoraco-lombaire (jusqu'aux processus épineux lombaires et sacrés), crête iliaque postérieure, trois ou quatre dernières côtes et angle inférieur de la scapula</td></tr><tr><td>Insertion</td><td>Fond du sillon intertuberculaire (gouttière bicipitale) de l'humérus, par un tendon plat qui contourne le grand rond par l'avant</td></tr><tr><td>Innervation</td><td>Nerf thoraco-dorsal, branche du faisceau postérieur du plexus brachial (C6–C8, surtout C7)</td></tr><tr><td>Vascularisation</td><td>Artère thoraco-dorsale (prolongement de l'artère subscapulaire), plus des branches perforantes des dernières artères intercostales postérieures et des premières artères lombaires</td></tr><tr><td>Actions principales</td><td>Adduction, extension et rotation interne de l'épaule ; hisse le tronc vers des bras fixés, comme en escalade ; abaisse aussi la ceinture scapulaire et participe à l'expiration forcée, comme la toux</td></tr></tbody></table></div><p>Regarde la forme de cette liste : le muscle part bas et large et finit haut et étroit, sur la face antérieure de l'humérus. Quand il se raccourcit, il ramène le bras vers le bas et l'arrière, vers le bassin ; mains fixées sur une barre, la même contraction hisse ton tronc vers tes mains.<sup>[1]</sup></p><p>Pour le sentir sur ton propre corps, tiens-toi droit et appuie le talon d'une main sur ton flanc, juste derrière l'aisselle. Pousse maintenant le coude opposé vers le bas et l'arrière, comme pour écraser quelque chose sous le bras. La plaque qui durcit sous tes doigts, c'est le grand dorsal. Le bord externe que tu peux pincer sous l'aisselle appartient au même muscle, celui qui donne à un dos entraîné sa forme en V.</p><h2>Que fait le grand dorsal à chaque phase de la traction ?</h2><p>Le rôle du dorsal change en route.</p><ul><li><strong>Dead hang.</strong> Bras tendus au-dessus de la tête, épaules contre les oreilles. Le dorsal est à sa longueur maximale, étiré et plutôt silencieux ; il stabilise surtout l'épaule.</li><li><strong>Initiation.</strong> Avant que les coudes ne plient, les omoplates descendent et les épaules s'éloignent des oreilles. Cet abaissement scapulaire est la première contribution visible du dorsal, aidé par le trapèze inférieur. Les données temporelles d'EMG suggèrent que le trapèze inférieur et le grand pectoral lancent le tirage et que le dorsal et le biceps le terminent.<sup>[2]</sup></li><li><strong>Milieu du tirage.</strong> D'environ 45 degrés de flexion du coude jusqu'à la hauteur du menton, le bras descend et part vers l'arrière : adduction plus extension, les actions principales du dorsal, et là où il travaille le plus.</li><li><strong>Haut.</strong> Menton au-dessus de la barre, le dorsal est presque entièrement raccourci et son bras de levier est moins bon ; les derniers centimètres paraissent lents et le biceps et le grand rond prennent plus de charge.</li><li><strong>Descente.</strong> Le dorsal s'allonge sous tension. Cette phase excentrique est celle où tu contrôles la vitesse et protèges l'épaule, et la plus facile à entraîner avant de pouvoir monter.</li></ul><p>Si le milieu paraît le plus fort, c'est à cause de la relation longueur-tension : un muscle produit sa force maximale à une longueur intermédiaire et moins quand il est très étiré (dead hang) ou très raccourci (en haut). StatPearls note que l'extension et l'adduction du dorsal sont les plus fortes quand le mouvement part d'une flexion ou d'une abduction partielle, la position que tu traverses à mi-tirage.<sup>[1]</sup></p><h2>Que dit la recherche sur l'activation du grand dorsal ?</h2><p>Les études d'EMG de surface donnent un résumé honnête : le dorsal est le muscle le plus actif dans toutes les variantes de traction, et les changements de prise font moins bouger les chiffres que ne le prétend le folklore des salles.</p><ul><li><strong>Traction vs chin-up.</strong> Youdas et ses collègues ont mesuré 25 adultes entraînés. L'activation moyenne du dorsal atteignait 117–130 % d'une référence isométrique maximale dans les deux exercices, la plus élevée de tous les muscles enregistrés, devant le biceps brachial (78–96 %). Le chin-up produisait nettement plus d'activité du biceps et du grand pectoral, la traction plus de trapèze inférieur ; le dorsal ne différait pas de façon notable.<sup>[2]</sup></li><li><strong>Orientation de la prise.</strong> Dickie et ses collègues ont comparé les prises pronation, supination, neutre et corde chez 19 hommes entraînés en force. Sur une répétition complète, l'activation des muscles de l'épaule, du bras et de l'avant-bras était similaire selon la position des mains ; la différence la plus nette était plus d'activité du trapèze moyen en pronation qu'en prise neutre. Les phases concentriques activaient davantage le brachio-radial, le biceps et le grand pectoral que les phases excentriques.<sup>[3]</sup></li><li><strong>Largeur de prise au tirage vertical.</strong> Andersen et ses collègues ont testé des prises pronation serrée, moyenne et large (1, 1,5 et 2 fois la largeur des épaules) à 6 répétitions maximales chez 15 hommes. L'activation du dorsal était similaire entre les largeurs ; les prises serrée et moyenne permettaient une charge un peu plus lourde que la large (environ 80 kg contre 77 kg), et dans la phase de descente la prise large devançait de peu la serrée pour le dorsal et l'infra-épineux. Les auteurs ont conclu qu'une prise moyenne peut avoir de légers avantages, mais qu'entre 1 et 2 fois la largeur des épaules, tout fonctionne.<sup>[4]</sup></li><li><strong>Pronation vs supination au tirage vertical.</strong> Lusk et ses collègues ont fait tirer 12 hommes à 70 % du 1RM. La pronation produisait plus d'activité du dorsal que la supination ; la largeur de prise ne changeait rien.<sup>[5]</sup></li></ul><p>En résumé : une prise en pronation à peu près à la largeur des épaules, ou un peu plus large, est un choix par défaut raisonnable pour le dorsal, et le chin-up le fait quand même bien travailler en ajoutant plus de biceps et de pectoraux. Ce sont de petits échantillons d'hommes entraînés, mesurés avec des électrodes de surface : prends ces différences pour des tendances modestes, pas pour des règles. Pour les arbitrages pratiques, lis <a href=\"/fr/tractions-vs-chin-up/\">tractions ou chin-up</a>.</p><h2>Pourquoi tu ne sens pas ton grand dorsal, et comment y remédier ?</h2><p>« Je ne le sens que dans les bras » est la plainte la plus fréquente des débutants, et elle a une raison mécanique. Si tu lances le tirage en pliant les coudes, le biceps prend la charge en premier et les omoplates restent haussées. Le dorsal n'atteint jamais sa position intermédiaire forte avec l'omoplate calée ; il contribue donc moins et tu le sens moins.</p><p>Quatre consignes règlent l'essentiel :</p><ol><li><strong>Abaisse d'abord.</strong> Depuis la suspension, tire les épaules vers le bas, loin des oreilles, avant de plier les coudes, et garde-les là.</li><li><strong>Les coudes vers les poches arrière.</strong> Envoie les coudes vers le bas et l'arrière, vers les hanches, plutôt que de tirer la barre vers le menton. Le mouvement devient une extension et une adduction d'épaule : le travail du dorsal.</li><li><strong>Poitrine haute.</strong> Soulève légèrement le sternum vers la barre ; une poitrine affaissée place le dorsal dans un mauvais axe de traction.</li><li><strong>Excentrique lente.</strong> Descends en trois à cinq secondes. L'étirement long sous charge est le moment le plus facile pour repérer le dorsal.</li></ol><p>Des exercices courts qui apprennent la sensation : tractions scapulaires (trois séries de 5–8), pull-over debout à l'élastique avant le travail de tirage (deux séries de 12–15) et tirage vertical avec deux secondes de pause à la poitrine en serrant les coudes vers les côtes. Tirer avec les bras fait aussi partie des grandes <a href=\"/fr/erreurs-tractions/\">erreurs aux tractions</a> ; compare ta vidéo de technique à cette liste.</p><h2>Quels exercices construisent le grand dorsal avant ta première traction ?</h2><p>Choisis deux ou trois de ces exercices et fais-les progresser chaque semaine :</p><ul><li><strong>Dead hang :</strong> la prise et la position étirée ; vise 30–45 secondes (voir <a href=\"/fr/bienfaits-dead-hang/\">bienfaits du dead hang</a>).</li><li><strong>Tractions scapulaires :</strong> la phase d'initiation isolée ; ajoute-les à chaque séance.</li><li><strong>Négatives :</strong> saute en position haute, descends en 3–5 secondes ; trois à cinq répétitions isolées avec repos complet.</li><li><strong>Tractions avec élastique :</strong> amplitude complète avec l'élastique le plus fin qui autorise 5–8 répétitions strictes (voir <a href=\"/fr/tractions-avec-elastique/\">tractions avec élastique</a>).</li><li><strong>Rowing australien :</strong> tirage horizontal pour le dorsal et le milieu du dos, dosé par l'angle du corps.</li><li><strong>Tirage vertical :</strong> le substitut sur machine le plus proche, en pronation à la largeur des épaules.<sup>[4]</sup><sup>[5]</sup></li><li><strong>Pull-over debout à la poulie :</strong> isole l'extension d'épaule et renforce la consigne « coudes vers le bas ».</li></ul><p>La progression complète, de la suspension à la première répétition stricte, est dans <a href=\"/fr/premiere-traction/\">comment faire ta première traction</a>.</p><h2>Problèmes et notes sur les blessures : à quoi faire attention ?</h2><p><strong>Élongation ou déchirure du dorsal.</strong> Les blessures du grand dorsal et du grand rond sont rares et touchent de façon disproportionnée l'épaule de lancer des lanceurs de baseball ; la littérature se compose surtout de cas cliniques et de petites séries. Les lésions du tendon sont parfois opérées, celles du corps musculaire traitées le plus souvent par repos, anti-inflammatoires et kinésithérapie.<sup>[6]</sup> En entraînement de loisir aux tractions, une vraie déchirure est inhabituelle. Une douleur vive et soudaine à l'arrière de l'aisselle pendant une répétition maximale, avec un hématome ou un changement visible de la forme du muscle, est une raison d'arrêter et de te faire examiner.</p><p><strong>Conflit sous-acromial quand tu hausses les épaules.</strong> Si tu tires avec les épaules remontées vers les oreilles, l'humérus se place haut dans la cavité et l'espace sous l'acromion se réduit, souvent ressenti comme un pincement à l'avant ou au-dessus de l'épaule près du point haut. La solution est la même que la consigne pour le dorsal : abaisse d'abord les omoplates et garde-les basses.</p><p><strong>Posture et colonne thoracique.</strong> Le dorsal s'attache à la colonne et au bassin via le fascia thoraco-lombaire. Un dorsal court ou raide peut limiter l'élévation des bras et modifier la posture du tronc ; StatPearls le signale comme un muscle à évaluer chez les personnes souffrant de lombalgie ou d'une flexion et rotation externe d'épaule limitées.<sup>[1]</sup> Équilibre le tirage avec de la mobilité au-dessus de la tête et du travail d'extension thoracique.</p><p><strong>Quand consulter.</strong> Engourdissement ou fourmillements dans le bras, faiblesse sans rapport avec l'effort, douleur qui dure plus de deux semaines malgré une baisse de charge, douleur nocturne, ou toute blessure avec un claquement, un hématome ou une déformation. Un kinésithérapeute ou un médecin du sport peut examiner l'épaule ; une page web, non.</p><h2>À quelle fréquence entraîner le grand dorsal ?</h2><p>Pour la plupart des gens, deux ou trois séances de tirage par semaine, espacées de 48 heures, avec 8–15 séries dures de tirage vertical et horizontal au total, forment une fourchette raisonnable. La récupération, le sommeil et l'état des épaules décident où tu te situes. PullUp Master ajuste ce chiffre au lieu de le fixer : la charge et les exercices de chaque séance sont définis d'après le déroulement de la précédente, si bien qu'une semaine difficile réduit le volume et qu'une semaine facile l'augmente. La structure est décrite dans le <a href=\"/fr/programme-tractions/\">programme de tractions</a> ; si tes répétitions stagnent depuis un mois, le <a href=\"/fr/plateau-tractions/\">guide sur le plateau</a> explique quoi changer.</p>",
+      "faq": [
+        {
+          "q": "Les tractions développent-elles un grand dorsal large ?",
+          "a": "Oui. Dans les études d'EMG, le dorsal est le muscle le plus actif pendant une traction, et la largeur du dos vient de la croissance des fibres externes du dorsal sous l'aisselle. Assez de volume et une charge progressive construisent la forme en V, ta morphologie fixant le plafond."
+        },
+        {
+          "q": "Grand dorsal ou biceps : lequel travaille le plus dans une traction ?",
+          "a": "Le grand dorsal. Son activation moyenne atteignait 117–130 % d'une référence maximale contre 78–96 % pour le biceps. Le chin-up déplace un peu plus de travail vers le biceps, mais le dorsal reste devant."
+        },
+        {
+          "q": "Pourquoi je sens les tractions dans les bras et pas dans le dos ?",
+          "a": "Le plus souvent parce que tu lances le tirage en pliant les coudes avec les épaules haussées. Abaisse d'abord les omoplates, envoie les coudes vers le bas et l'arrière, ralentis la descente ; le dorsal se manifeste dès qu'il travaille dans sa zone intermédiaire forte."
+        },
+        {
+          "q": "Le tirage vertical vaut-il la traction pour le grand dorsal ?",
+          "a": "Il entraîne le même mouvement et il est utile tant que tu ne fais pas une répétition. La traction ajoute le contrôle du tronc et une charge plus lourde ; le tirage permet d'ajuster finement le poids. Utilise-le comme passerelle, pas comme remplaçant."
+        },
+        {
+          "q": "Un grand dorsal fort aide-t-il la posture ?",
+          "a": "Indirectement. Le dorsal tire les épaules vers le bas et l'arrière et stabilise le tronc, mais un dorsal court et raide peut limiter l'élévation des bras et incliner le tronc vers l'avant. Associe le tirage à de la mobilité d'épaule et à de l'extension du haut du dos."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Jeno SH, Varacallo MA. Anatomy, Back, Latissimus Dorsi. StatPearls, NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK448120/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, et al. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or perfect-pullup rotational exercise. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Dickie JA, Faulkner JA, Barnes MJ, Lark SD. Electromyographic analysis of muscle activation during pull-up variations. J Electromyogr Kinesiol, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28011412/"
+        },
+        {
+          "label": "Andersen V, Fimland MS, Wiik E, Skoglund A, Saeterbakken AH. Effects of grip width on muscle strength and activation in the lat pull-down. J Strength Cond Res, 2014.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24662157/"
+        },
+        {
+          "label": "Lusk SJ, Hale BD, Russell DM. Grip width and forearm orientation effects on muscle activity during the lat pull-down. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20543740/"
+        },
+        {
+          "label": "Donohue BF, Lubitz MG, Kremchek TE. Sports Injuries to the Latissimus Dorsi and Teres Major. Am J Sports Med, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28125914/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/fr/biceps-brachial-tractions/",
+          "title": "Biceps, brachial antérieur et brachioradial : les fléchisseurs du coude aux tractions"
+        },
+        {
+          "href": "/fr/muscles-scapulaires-tractions/",
+          "title": "Muscles scapulaires et tractions : une leçon d'anatomie pour qui s'entraîne"
+        },
+        {
+          "href": "/fr/muscles-tractions/",
+          "title": "Quels muscles travaillent aux tractions ?"
+        },
+        {
+          "href": "/fr/premiere-traction/",
+          "title": "Comment faire ta première traction"
+        },
+        {
+          "href": "/fr/tractions-vs-chin-up/",
+          "title": "Tractions ou chin-up : lequel choisir ?"
+        },
+        {
+          "href": "/fr/programme-tractions/",
+          "title": "Programme de tractions : un plan de la semaine pour progresser"
+        },
+        {
+          "href": "/fr/plateau-tractions/",
+          "title": "Plateau aux tractions : pourquoi tu stagnes et comment avancer"
+        }
+      ]
+    }
+  }
+}
