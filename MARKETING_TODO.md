@@ -4,8 +4,8 @@
 > Start: 2026-10-26. All tasks are manual agent-assisted reviews; this PR does **not** schedule automatic jobs or publish changes.
 
 ## Setup (once, before first audit)
-- [ ] Review upstream skills and license; install relevant skills in the repository using `npx skills add coreyhaines31/marketingskills` and select only applicable skills. Confirm actual installed skill identifiers using the upstream catalog; names below describe capabilities, not guaranteed package IDs.
-- [ ] Verify agent (Codex/Claude/Copilot) detects the installed SKILL.md files. Commit any vendored skill files only after reviewing upstream content.
+- [x] Review upstream skills and license; install relevant skills in the repository using `npx skills add coreyhaines31/marketingskills` and select only applicable skills. Confirm actual installed skill identifiers using the upstream catalog; names below describe capabilities, not guaranteed package IDs. *(2026-10-25: MIT license reviewed; `seo-audit` 2.2.2, `cro` 2.0.3 (upstream merged page-cro into cro) and `copywriting` 2.3.1 vendored by hand from upstream commit e85f3cb into `.agents/skills/`.)*
+- [x] Verify agent (Codex/Claude/Copilot) detects the installed SKILL.md files. Commit any vendored skill files only after reviewing upstream content. *(2026-10-25: `.claude/skills/*` symlinked to `.agents/skills/*` for Claude Code; `.agents/product-marketing.md` created with `[NEED: ...]` markers for owner input.)*
 - [ ] Establish 28-day baseline: organic clicks, app-store outbound clicks. Record sources, dates and measurement definitions; never invent figures.
 - [ ] Confirm analytics access, consent/privacy requirements and current business claims.
 
@@ -30,4 +30,5 @@
 ## Run log
 | Date | Skill / workflow | Baseline and evidence | Decision | Owner | Next review |
 |---|---|---|---|---|---|
+| 2026-10-25 | Setup | Vendored seo-audit / cro / copywriting; wrote `.agents/product-marketing.md` from repo evidence; no analytics present on site | Setup done; audit still pending owner inputs (baseline, Search Console) | Owner | 2026-10-26 |
 | 2026-10-26 (planned) | Initial audit | Pending | Pending | TBD | 2026-11-02 |

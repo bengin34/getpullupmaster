@@ -29,3 +29,9 @@ Do not hand-write article HTML; regenerate from JSON so the chrome (header, foot
 
 - Bing Webmaster Tools: site verified via `BingSiteAuth.xml`, sitemap submitted, IndexNow key file `0b41628e52eab36ebf653a9385beffc6.txt` at the root (public by design).
 - Google: `sitemap.xml` is referenced from `robots.txt`.
+
+## Marketing reviews
+
+- Orchestration skill: `.agents/skills/marketing-workflow/SKILL.md` (symlinked into `.claude/skills/`). Cadence and run log live in `MARKETING_TODO.md`.
+- Vendored upstream skills (coreyhaines31/marketingskills, MIT): `seo-audit`, `cro`, `copywriting` under `.agents/skills/`. They read `.agents/product-marketing.md` first; keep it current and never state its `[NEED: ...]` items as fact.
+- Reviews propose only. No publishing, price changes, ad spend or tracking without explicit approval.
