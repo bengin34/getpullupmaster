@@ -365,7 +365,7 @@ def validate(doc):
         words = len(re.sub(r"<[^>]+>", " ", d["body_html"]).split())
         if words < 900:
             warns.append(f"{l}.body_html has {words} words (aim 1100-1600)")
-        bad_tags = set(re.findall(r"<(?!/?(?:h2|h3|p|ul|ol|li|table|thead|tbody|tr|th|td|strong|em|a|br|div|sup)\b)([a-zA-Z0-9]+)", d["body_html"]))
+        bad_tags = set(re.findall(r"<(?!/?(?:h2|h3|p|ul|ol|li|table|thead|tbody|tr|th|td|strong|em|a|br|div|sup|figure|figcaption|img)\b)([a-zA-Z0-9]+)", d["body_html"]))
         if bad_tags:
             warns.append(f"{l}.body_html uses unexpected tags: {sorted(bad_tags)}")
         if "<h1" in d["body_html"]:

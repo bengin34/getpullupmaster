@@ -1540,6 +1540,26 @@ a {
 .table-scroll {
   overflow-x: auto;
 }
+.page .article-figure {
+  margin: 28px 0;
+  text-align: center;
+}
+.page .article-figure img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 16px;
+  border: 1px solid var(--line);
+  background: #0e0f12;
+}
+.page .article-figure figcaption {
+  margin-top: 10px;
+  font-size: 13px;
+  color: #8a8f98;
+}
+.page .article-figure figcaption a {
+  color: #8a8f98;
+  text-decoration: underline;
+}
 .notice,
 .disclaimer {
   margin: 24px 0;

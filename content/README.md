@@ -26,7 +26,8 @@ One JSON file per topic, all five languages inside. Build with `python3 scripts/
 
 Rules enforced or warned by `--check`:
 
-- Allowed tags in `body_html`: h2, h3, p, ul, ol, li, table/thead/tbody/tr/th/td (wrap tables in `<div class="table-scroll">`), strong, em, a, br, sup. No h1, no inline styles, no images.
+- Allowed tags in `body_html`: h2, h3, p, ul, ol, li, table/thead/tbody/tr/th/td (wrap tables in `<div class="table-scroll">`), strong, em, a, br, sup, figure/figcaption/img. No h1, no inline styles.
+- An anatomy image, when used, goes right after the lede as `<figure class="article-figure"><img src="/assets/img/anatomy/<file>.jpg" alt="..." loading="lazy" width="W" height="H" /><figcaption>Source: ... (license)</figcaption></figure>`. Only use images that are public domain or CC-licensed, and name the source and license in the caption.
 - 1100-1600 body words per language, 4-6 FAQ items, at least 3 sources, 4-6 keep-reading links.
 - Every internal link must point to an existing page in the same language.
 - Cite sources inline with `<sup>[n]</sup>` matching the order of the `sources` list.
