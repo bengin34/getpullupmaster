@@ -35,7 +35,7 @@
   --line-2: rgba(255, 255, 255, 0.12);
   --chalk: #f4f5f7;
   --muted: #9aa0a8;
-  --steel: #5c626b;
+  --steel: #8b919a;
   --flame: #e2622e;
   --flame-2: #f07a45;
   --flame-soft: rgba(226, 98, 46, 0.14);
@@ -407,6 +407,28 @@ a {
   font-weight: 700;
   line-height: 1.1;
   letter-spacing: -0.02em;
+}
+
+.store-btn-sm {
+  height: 40px;
+  padding: 0 16px 0 12px;
+  gap: 8px;
+  border-radius: 12px;
+  box-shadow: none;
+  white-space: nowrap;
+}
+.store-btn-sm svg {
+  width: 18px;
+  height: 18px;
+}
+.store-btn-sm strong {
+  font-size: 14px;
+  letter-spacing: 0;
+}
+.page a.store-btn,
+.page a.store-btn:hover,
+.page .store-btn strong {
+  color: #000;
 }
 
 .cta-row {
@@ -1660,7 +1682,8 @@ a {
   .nav-toggle {
     display: grid;
   }
-  .nav-cta .btn {
+  .nav-cta .btn,
+  .nav-cta .store-btn {
     display: none;
   }
 
@@ -1892,6 +1915,11 @@ a {
     backdrop-filter: blur(14px);
     -webkit-backdrop-filter: blur(14px);
     border-top: 1px solid var(--line-2);
+  }
+  .sticky-cta .store-btn {
+    flex: 1;
+    width: auto;
+    justify-content: center;
   }
   .sticky-cta .btn {
     flex: 1;
