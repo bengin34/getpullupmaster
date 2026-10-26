@@ -1,0 +1,527 @@
+{
+  "slugs": {
+    "en": "elbow-tendon-pain-pull-ups",
+    "de": "ellenbogen-sehnenschmerzen-klimmzug",
+    "tr": "barfiks-dirsek-agrisi-tendon",
+    "es": "dolor-codo-tendones-dominadas",
+    "fr": "douleur-coude-tendons-tractions"
+  },
+  "priority": "0.8",
+  "langs": {
+    "en": {
+      "title": "Elbow Tendon Pain from Pull-Ups: Golfer's and Tennis Elbow",
+      "description": "Why pull-ups cause elbow tendon pain (golfer's elbow, tennis elbow, biceps tendinopathy), why tendons adapt slower than muscle, and how to keep training safely.",
+      "headline": "Elbow tendon pain and pull-ups: golfer's elbow, tennis elbow, biceps tendinopathy and how to train through it",
+      "subtitle": "An anatomy lesson for people who train",
+      "read_time": "10 min read",
+      "lede": "Elbow pain from pull-ups is usually a tendon problem, not a muscle problem: the common flexor tendon on the inside of the elbow (golfer's elbow), the common extensor tendon on the outside (tennis elbow) or the biceps tendons at the elbow and shoulder. Tendons adapt far more slowly than muscle, so they get overloaded when you add reps and sets faster than they can keep up. Most people can keep training with less volume, a friendlier grip and slow, heavy loading; this page shows how, and lists the signs that mean you need a clinician.",
+      "body_html": "<h2>Why do tendons lag behind muscles?</h2>\n<p>A tendon is a rope of type I collagen that carries muscle force to bone. Muscle is rebuilt continuously and strengthens within weeks of a new stimulus. Tendon is different: a study that dated human Achilles tendon with the carbon-14 left by nuclear bomb tests found that the tendon core is laid down during growth and essentially not renewed afterwards, while muscle showed continuous turnover.<sup>[1]</sup> Tendons still adapt, but slowly.</p>\n<p>That gap is the classic beginner story: muscles and nervous system improve fast, you add reps every week, and the tendons quietly fall behind. Cook and Purdam describe tendon pathology as a continuum: a tendon loaded beyond its capacity first becomes reactive (swollen and painful but structurally intact), then enters disrepair, and only after long overload becomes degenerative. The early stages are reversible if you adjust the load.<sup>[2]</sup></p>\n\n<h2>Which tendons do pull-ups load, and where does each one hurt?</h2>\n<p>Five structures take most of the strain. The muscles themselves are covered in our <a href=\"/biceps-brachialis-pull-ups/\">biceps and brachialis article</a> and <a href=\"/grip-forearm-anatomy-pull-ups/\">forearm and grip article</a>; here the focus is the tendons.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Tendon</th><th>Attaches</th><th>Loaded by</th><th>Typical pull-up pain pattern</th></tr></thead>\n<tbody>\n<tr><td>Common flexor tendon (medial epicondylitis, golfer's elbow)</td><td>Medial epicondyle; a shared tendon about 3 cm long from pronator teres, flexor carpi radialis, palmaris longus, flexor digitorum superficialis (median nerve) and the humeral head of flexor carpi ulnaris (ulnar nerve); sits just in front of the ulnar collateral ligament<sup>[3]</sup></td><td>Forceful gripping, resisted wrist flexion and pronation<sup>[3]</sup></td><td>Ache on the inside of the elbow, worst on chin-ups and a hard squeeze; tender just below the bony bump</td></tr>\n<tr><td>Common extensor tendon (lateral epicondylitis, tennis elbow)</td><td>Lateral epicondyle; the extensor carpi radialis brevis (ECRB) origin is the usual culprit (radial nerve)<sup>[4]</sup></td><td>Loaded gripping with the wrist in extension, radial deviation or supination<sup>[4]</sup></td><td>Ache on the outside of the elbow in the dead hang and on wide pronated pull-ups</td></tr>\n<tr><td>Distal biceps tendon</td><td>Bicipital tuberosity of the radius, with the bicipital aponeurosis into the forearm fascia<sup>[5]</sup></td><td>Elbow flexion and, above all, supination under load<sup>[5]</sup></td><td>Deep pain in the front of the elbow crease, worst at the top of a chin-up and on slow lowering</td></tr>\n<tr><td>Long head of biceps tendon</td><td>Supraglenoid tubercle and superior labrum; runs through the bicipital groove; helps stabilise the glenohumeral joint<sup>[5]</sup></td><td>Traction in the hang, the stretch at the bottom</td><td>Ache at the front of the shoulder, worse in a passive dead hang; a painful click may involve its labral anchor (SLAP)</td></tr>\n<tr><td>Brachialis tendon</td><td>Coronoid process and tuberosity of the ulna</td><td>Elbow flexion in every grip</td><td>Rare; deep ache in front of the elbow after many negatives</td></tr>\n</tbody></table></div>\n<p>Two rows matter most. The common flexor tendon is the shared origin of the muscles that grip and pronate, so a hard squeeze loads it on every rep. And the biceps is the forearm's most powerful supinator once the elbow is bent, which is the chin-up position.<sup>[5]</sup></p>\n\n<h2>Where in the pull-up is each tendon loaded most?</h2>\n<h3>Dead hang</h3>\n<p>The elbow is straight, so the flexor tendons are at full length under bodyweight and the long head of the biceps is under traction through its labral anchor.<sup>[5]</sup> In a pronated grip the wrist extensors, including ECRB, hold the wrist against the bar.<sup>[4]</sup> A passive hang on sore elbows is a loaded stretch, not a rest.</p>\n<h3>Initiation</h3>\n<p>EMG shows the rep starting with the lower trapezius and pectoralis major before the biceps and lats take over.<sup>[6]</sup> The grip, and so the common flexor tendon, is already flat out.</p>\n<h3>Mid-pull</h3>\n<p>The biceps averaged 78 to 96 percent of its maximal contraction across pull-up variations.<sup>[6]</sup> The distal biceps tendon and the brachialis peak here.</p>\n<h3>Top</h3>\n<p>The elbow is most bent; in a chin-up the biceps works as supinator and flexor at once.<sup>[5]</sup> Bending the wrists to get the chin over the bar loads the common flexor tendon.</p>\n<h3>Lowering</h3>\n<p>Tendon strain peaks in the eccentric phase, which is why most rehab exercises live here. A three-second descent is tendon training; dropping into a locked elbow is a tendon insult.</p>\n\n<h2>How does grip change where the elbow hurts?</h2>\n<ul>\n<li><strong>Supinated (chin-up).</strong> The biceps and pectoralis major were significantly more active in the chin-up than in the pull-up.<sup>[6]</sup> The forearm is held supinated against the bar, so the biceps tendon and the flexor-pronator origin carry more load. Golfer's elbow in trainees is mostly a chin-up and curl problem.</li>\n<li><strong>Pronated (pull-up).</strong> The wrist extensors hold the wrist, which shifts load laterally; a wide grip adds radial deviation, a known trigger for tennis elbow.<sup>[4]</sup> See <a href=\"/chin-up-vs-pull-up/\">chin-up vs pull-up</a>.</li>\n<li><strong>Neutral (palms facing).</strong> The forearm sits between pronation and supination and the wrist stays straight, so neither epicondyle takes a rotation moment. Most people with elbow pain tolerate it best, and activation across grips is similar enough that you lose little.<sup>[6]</sup></li>\n</ul>\n\n<h2>What does the research say about training with tendon pain?</h2>\n<p>Most tendon trials used the Achilles and patellar tendons, so take these as principles rather than exact prescriptions.</p>\n<ul>\n<li><strong>You do not need to stop.</strong> In a randomised trial of 38 patients with Achilles tendinopathy, those who kept running and jumping under a pain-monitoring model improved as much over 12 months as those who rested for six weeks.<sup>[7]</sup></li>\n<li><strong>Isometrics reduce pain immediately.</strong> In six volleyball players with patellar tendinopathy, one bout of isometric holds cut pain on a loaded test from 7.0 to 0.17 out of 10, the relief lasted at least 45 minutes and maximal strength rose about 19 percent; isotonic reps helped far less.<sup>[8]</sup></li>\n<li><strong>Heavy slow resistance works as well as eccentrics.</strong> In 58 patients with Achilles tendinopathy, 12 weeks of slow concentric-eccentric training matched the classic eccentric programme at 12 and 52 weeks, with better compliance (92 vs 78 percent).<sup>[9]</sup></li>\n<li><strong>Isolated wrist eccentrics help the elbow.</strong> In 21 patients with chronic tennis elbow, adding an eccentric wrist extensor exercise with a rubber bar (the Tyler twist) to standard physiotherapy gave far larger gains over about seven weeks: disability fell 76 vs 13 percent, pain 81 vs 22 percent.<sup>[10]</sup> The mirror-image wrist flexor version is used for golfer's elbow.</li>\n</ul>\n\n<h2>Which pain rule tells you whether to continue?</h2>\n<p>The Achilles trial let training continue as long as pain stayed within an agreed ceiling, settled by the next morning and did not climb week to week.<sup>[7]</sup> For elbow tendons we use a more conservative traffic light:</p>\n<ul>\n<li><strong>Green: pain up to 3 out of 10</strong> during the set, back to baseline within 24 hours. Continue.</li>\n<li><strong>Amber: 4 to 5 out of 10</strong>, or more morning stiffness than the day before. Cut volume by a third, slow the lowering, go neutral, keep the isometrics.</li>\n<li><strong>Red: more than 5 out of 10</strong>, pain that climbs during the session or from week to week, or night pain. Stop pull-ups for now and get assessed.</li>\n</ul>\n\n<h2>How do you keep training and get out of it?</h2>\n<p>An eight-week outline for a reactive or early-stage elbow tendon that fits inside a normal <a href=\"/pull-up-workout-plan/\">pull-up workout plan</a>:</p>\n<ol>\n<li><strong>Weeks 1 to 2: calm it down.</strong> Halve pull-up volume, switch to neutral grip, stop above the sore range if the hang hurts. Twice a day: wrist flexor and extensor isometrics against a table edge, 5 holds of 45 seconds with pain at or below 3, plus a 45-second curl hold at 90 degrees.<sup>[8]</sup> Negatives with a 3 to 5 second descent, 3 sets of 3 to 5.</li>\n<li><strong>Weeks 3 to 6: rebuild capacity.</strong> Three times a week, heavy slow resistance for the forearm: wrist curls and reverse wrist curls, 3 seconds up and 3 down, 3 to 4 sets of 6 to 8 with a load that is hard by the last rep, plus slow hammer curls.<sup>[9]</sup> Rubber-bar twists, 3 sets of 15 twice daily, extensor version for lateral pain, flexor version for medial.<sup>[10]</sup> Add pull-up reps back by about 10 percent a week while the light stays green.</li>\n<li><strong>Weeks 7 to 8: reintroduce the triggers.</strong> One chin-up set per session, then two, lowered slowly. Keep two forearm sessions a week for good; tendons prefer a steady load to an occasional big one.<sup>[2]</sup></li>\n</ol>\n<p>If you cannot do a pull-up yet, the same rules apply to <a href=\"/band-assisted-pull-ups/\">band-assisted pull-ups</a> and rows.</p>\n\n<h2>Which signs need a clinician?</h2>\n<ul>\n<li><strong>A sudden pop at the front of the elbow, bruising and weak supination.</strong> This can be a distal biceps tendon rupture, which usually needs surgical repair and does best with a prompt diagnosis.<sup>[5]</sup></li>\n<li><strong>Numbness or tingling in the ring and little finger.</strong> The ulnar nerve runs just behind the medial epicondyle, next to the common flexor origin; nerve symptoms are not tendinopathy.<sup>[3]</sup></li>\n<li><strong>Locking, catching or giving way</strong>, or a deep painful shoulder click in the hang, which may involve the biceps anchor on the labrum.<sup>[5]</sup></li>\n<li><strong>Night pain, rest pain, swelling, redness or fever.</strong> Tendinopathy hurts with load; pain that wakes you needs another explanation.</li>\n</ul>\n\n<h2>Which mistakes keep elbow tendons sore?</h2>\n<ul>\n<li><strong>Adding reps every session.</strong> Muscle lets you; tendon does not.<sup>[1]</sup> Progress by about 10 percent a week.</li>\n<li><strong>Resting completely.</strong> Rest did not beat monitored loading in trials.<sup>[7]</sup></li>\n<li><strong>Stretching or massaging the painful spot hard.</strong> Compression tends to make a reactive tendon worse.<sup>[2]</sup></li>\n<li><strong>Only chin-ups, or only pull-ups.</strong> Rotate grips across the week; a <a href=\"/pull-up-plateau/\">plateau</a> is often the first sign the elbows are cooked.</li>\n<li><strong>Death grip and bent wrists.</strong> Hold the bar firmly, not maximally, wrists straight through the top.</li>\n</ul>",
+      "faq": [
+        {
+          "q": "Why does the inside of my elbow hurt after pull-ups?",
+          "a": "That is usually the common flexor tendon at the medial epicondyle, the origin of the muscles that grip and pronate, which clinicians call golfer's elbow. Chin-ups, a very tight grip and bent wrists load it most. Reduce volume, switch to a neutral grip and load the wrist flexors slowly and heavily rather than resting completely."
+        },
+        {
+          "q": "Can I keep doing pull-ups with golfer's elbow or tennis elbow?",
+          "a": "Usually yes, if pain stays at or below 3 out of 10 during the set and settles within 24 hours. Cut volume, use a neutral grip, lower slowly and add daily isometrics and rubber-bar eccentrics. Stop and get assessed if pain climbs through a session or from week to week."
+        },
+        {
+          "q": "How long does elbow tendinopathy take to heal?",
+          "a": "A reactive tendon often settles in a few weeks once load is adjusted; a tendon that has been sore for months usually needs 8 to 12 weeks of progressive loading, and tendon structure keeps changing for longer. Tendons turn over far more slowly than muscle, so patience is part of the treatment."
+        },
+        {
+          "q": "Which grip is best for elbow pain?",
+          "a": "A neutral grip, palms facing each other, is tolerated best by most people with either medial or lateral elbow pain, because the wrist stays straight and the forearm is not twisted. Chin-ups load the inside of the elbow and the biceps tendon most; wide pronated pull-ups load the outside."
+        },
+        {
+          "q": "When is elbow pain from pull-ups an emergency?",
+          "a": "A sudden pop at the front of the elbow with bruising and weak palm-up rotation can be a distal biceps tendon rupture, which usually needs surgery soon. Numbness in the ring and little finger, locking, night pain or swelling with redness and fever also need a clinician rather than a training fix."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Heinemeier KM, Schjerling P, Heinemeier J, Magnusson SP, Kjaer M. Lack of tissue renewal in human adult Achilles tendon is revealed by nuclear bomb 14C. FASEB J, 2013.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23401563/"
+        },
+        {
+          "label": "Cook JL, Purdam CR. Is tendon pathology a continuum? A pathology model to explain the clinical presentation of load-induced tendinopathy. Br J Sports Med, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18812414/"
+        },
+        {
+          "label": "Li D, Hammad A, Kaiser K. Medial Epicondylitis (Golfer's Elbow). StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519000/"
+        },
+        {
+          "label": "Buchanan BK, Varacallo MA. Lateral Epicondylitis (Tennis Elbow). StatPearls [Internet], NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK431092/"
+        },
+        {
+          "label": "Hsu D, Anand P, Mabrouk A, Chang KV. Biceps Tendon Rupture. StatPearls [Internet], NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK513235/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, et al. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or Perfect-Pullup rotational exercise. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Silbernagel KG, Thomeé R, Eriksson BI, Karlsson J. Continued sports activity, using a pain-monitoring model, during rehabilitation in patients with Achilles tendinopathy: a randomized controlled study. Am J Sports Med, 2007.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17307888/"
+        },
+        {
+          "label": "Rio E, Kidgell D, Purdam C, et al. Isometric exercise induces analgesia and reduces inhibition in patellar tendinopathy. Br J Sports Med, 2015.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25979840/"
+        },
+        {
+          "label": "Beyer R, Kongsgaard M, Hougs Kjær B, Øhlenschlæger T, Kjær M, Magnusson SP. Heavy slow resistance versus eccentric training as treatment for Achilles tendinopathy: a randomized controlled trial. Am J Sports Med, 2015.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26018970/"
+        },
+        {
+          "label": "Tyler TF, Thomas GC, Nicholas SJ, McHugh MP. Addition of isolated wrist extensor eccentric exercise to standard treatment for chronic lateral epicondylosis: a prospective randomized trial. J Shoulder Elbow Surg, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20579907/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/core-muscles-pull-ups/",
+          "title": "The core in pull-ups: anti-extension, the hollow body and the link between your hands and your hips"
+        },
+        {
+          "href": "/pectoralis-teres-major-pull-ups/",
+          "title": "Pectoralis major, teres major and the lat's little helper: the chest and armpit muscles that pull you up"
+        },
+        {
+          "href": "/biceps-brachialis-pull-ups/",
+          "title": "Biceps, brachialis and brachioradialis in pull-ups"
+        },
+        {
+          "href": "/grip-forearm-anatomy-pull-ups/",
+          "title": "Grip strength for pull-ups: forearm anatomy, why it fails first and how to train it"
+        },
+        {
+          "href": "/rotator-cuff-pull-ups/",
+          "title": "Rotator cuff and pull-ups: how the shoulder works and how to keep it healthy"
+        },
+        {
+          "href": "/pull-up-plateau/",
+          "title": "Pull-up plateau: why your reps stopped going up and how to break through"
+        },
+        {
+          "href": "/pull-up-workout-plan/",
+          "title": "Pull-up workout plan: a weekly routine to add reps"
+        }
+      ]
+    },
+    "de": {
+      "title": "Ellenbogen Sehnenschmerzen beim Klimmzug: Was hilft",
+      "description": "Warum Klimmzüge Sehnenschmerzen am Ellenbogen auslösen (Golfer-, Tennisellenbogen, Bizepssehne), warum Sehnen langsam anpassen und wie du weitertrainierst.",
+      "headline": "Sehnenschmerzen im Ellenbogen beim Klimmzug: Golferellenbogen, Tennisellenbogen, Bizepssehne und wie du trotzdem trainierst",
+      "subtitle": "Eine Anatomiestunde für Leute, die trainieren",
+      "read_time": "10 Min. Lesezeit",
+      "lede": "Ellenbogenschmerzen nach Klimmzügen sind meist ein Sehnenproblem, kein Muskelproblem: die gemeinsame Beugesehne an der Innenseite (Golferellenbogen), die gemeinsame Strecksehne an der Außenseite (Tennisellenbogen) oder die Bizepssehnen am Ellenbogen und an der Schulter. Sehnen passen sich viel langsamer an als Muskeln und werden überlastet, wenn du Wiederholungen und Sätze schneller steigerst, als sie mitkommen. Die meisten können mit weniger Volumen, neutralem Griff und langsamer, schwerer Belastung weitertrainieren; hier steht wie, und welche Zeichen in die Praxis gehören.",
+      "body_html": "<h2>Warum hinken Sehnen den Muskeln hinterher?</h2>\n<p>Eine Sehne ist ein Seil aus Typ-I-Kollagen, das die Muskelkraft auf den Knochen überträgt. Muskelgewebe wird ständig erneuert und wird innerhalb weniger Wochen stärker. Sehnen sind anders: Eine Studie, die menschliche Achillessehnen mit dem Kohlenstoff-14 aus den Atombombentests datierte, fand, dass der Sehnenkern während des Wachstums angelegt und danach praktisch nicht mehr erneuert wird, während Muskelproben einen laufenden Umsatz zeigten.<sup>[1]</sup> Sehnen passen sich trotzdem an, aber langsam.</p>\n<p>Diese Lücke ist die klassische Anfängergeschichte: Muskeln und Nervensystem werden schnell besser, du legst jede Woche Wiederholungen drauf, und die Sehnen bleiben still zurück. Cook und Purdam beschreiben die Sehnenpathologie als Kontinuum: Eine überlastete Sehne wird zuerst reaktiv (geschwollen und schmerzhaft, aber strukturell intakt), dann gestört, und erst nach langer Überlastung degenerativ. Die frühen Stufen sind umkehrbar, wenn du die Belastung anpasst.<sup>[2]</sup></p>\n\n<h2>Welche Sehnen belastet der Klimmzug, und wo tut jede weh?</h2>\n<p>Fünf Strukturen tragen den Großteil der Last. Die Muskeln selbst stehen im Artikel zu <a href=\"/de/bizeps-brachialis-klimmzug/\">Bizeps und Brachialis</a> und im Artikel zu <a href=\"/de/griffkraft-unterarm-klimmzug/\">Griffkraft und Unterarm</a>; hier geht es um die Sehnen.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Sehne</th><th>Ansatz</th><th>Belastet durch</th><th>Typisches Schmerzmuster beim Klimmzug</th></tr></thead>\n<tbody>\n<tr><td>Gemeinsame Beugesehne (Epicondylitis medialis, Golferellenbogen)</td><td>Epicondylus medialis; eine etwa 3 cm lange gemeinsame Sehne aus Pronator teres, Flexor carpi radialis, Palmaris longus, Flexor digitorum superficialis (N. medianus) und dem humeralen Kopf des Flexor carpi ulnaris (N. ulnaris); liegt direkt vor dem ulnaren Kollateralband<sup>[3]</sup></td><td>Kräftiges Greifen, Handgelenkbeugung und Pronation gegen Widerstand<sup>[3]</sup></td><td>Ziehen an der Ellenbogeninnenseite, am stärksten bei Chin-ups und hartem Zupacken; druckempfindlich knapp unter dem Knochenvorsprung</td></tr>\n<tr><td>Gemeinsame Strecksehne (Epicondylitis lateralis, Tennisellenbogen)</td><td>Epicondylus lateralis; meist ist der Ursprung des Extensor carpi radialis brevis (ECRB) betroffen (N. radialis)<sup>[4]</sup></td><td>Greifen unter Last mit gestrecktem, radial abgeknicktem oder supiniertem Handgelenk<sup>[4]</sup></td><td>Schmerz an der Außenseite im Dead Hang und bei breiten pronierten Klimmzügen</td></tr>\n<tr><td>Distale Bizepssehne</td><td>Tuberositas radii, mit der Bizepsaponeurose in die Unterarmfaszie<sup>[5]</sup></td><td>Ellenbogenbeugung und vor allem Supination unter Last<sup>[5]</sup></td><td>Tiefer Schmerz in der Ellenbeuge, am stärksten oben im Chin-up und beim langsamen Ablassen</td></tr>\n<tr><td>Lange Bizepssehne</td><td>Tuberculum supraglenoidale und oberes Labrum; läuft durch den Sulcus bicipitalis; stabilisiert das Schultergelenk mit<sup>[5]</sup></td><td>Zug im Hang, Dehnung in der unteren Position</td><td>Ziehen vorn an der Schulter, schlimmer im passiven Dead Hang; ein schmerzhaftes Klicken kann den Labrumanker betreffen (SLAP)</td></tr>\n<tr><td>Brachialissehne</td><td>Processus coronoideus und Tuberositas ulnae</td><td>Ellenbogenbeugung in jedem Griff</td><td>Selten; tiefer Schmerz vorn am Ellenbogen nach vielen Negativen</td></tr>\n</tbody></table></div>\n<p>Zwei Zeilen sind entscheidend. Die gemeinsame Beugesehne ist der gemeinsame Ursprung der Muskeln, die greifen und pronieren, also belastet ein harter Griff sie bei jeder Wiederholung. Und der Bizeps ist bei gebeugtem Ellenbogen der stärkste Supinator des Unterarms, genau die Chin-up-Position.<sup>[5]</sup></p>\n\n<h2>In welcher Phase des Klimmzugs wird welche Sehne am meisten belastet?</h2>\n<h3>Dead Hang</h3>\n<p>Der Ellenbogen ist gestreckt, die Beugesehnen stehen unter Körpergewicht auf voller Länge, und die lange Bizepssehne hängt über ihren Labrumanker am Zug.<sup>[5]</sup> Im pronierten Griff halten die Handgelenkstrecker, darunter der ECRB, das Handgelenk an der Stange.<sup>[4]</sup> Ein passiver Hang mit gereizten Ellenbogen ist keine Pause, sondern eine Dehnung unter Last.</p>\n<h3>Start</h3>\n<p>EMG-Messungen zeigen, dass die Wiederholung mit dem unteren Trapezius und dem Pectoralis major beginnt, bevor Bizeps und Latissimus übernehmen.<sup>[6]</sup> Der Griff, und damit die Beugesehne, arbeitet da schon am Limit.</p>\n<h3>Mittlerer Zug</h3>\n<p>Der Bizeps lag über die Klimmzugvarianten hinweg bei durchschnittlich 78 bis 96 Prozent seiner Maximalkontraktion.<sup>[6]</sup> Hier erreichen distale Bizepssehne und Brachialis ihre Spitzenlast.</p>\n<h3>Oben</h3>\n<p>Der Ellenbogen ist maximal gebeugt; im Chin-up arbeitet der Bizeps gleichzeitig als Supinator und Beuger.<sup>[5]</sup> Wer die Handgelenke abknickt, um das Kinn über die Stange zu bringen, belastet zusätzlich die Beugesehne.</p>\n<h3>Ablassen</h3>\n<p>Die Sehnenspannung ist in der exzentrischen Phase am höchsten, deshalb leben die meisten Reha-Übungen hier. Ein Abstieg über drei Sekunden ist Sehnentraining; in den gestreckten Ellenbogen fallen ist eine Sehnenbeleidigung.</p>\n\n<h2>Wie verändert der Griff, wo der Ellenbogen schmerzt?</h2>\n<ul>\n<li><strong>Supiniert (Chin-up).</strong> Bizeps und Pectoralis major waren im Chin-up signifikant aktiver als im Klimmzug.<sup>[6]</sup> Der Unterarm wird supiniert an der Stange gehalten, also tragen Bizepssehne und Beuger-Pronator-Ursprung mehr Last. Der Golferellenbogen ist bei Trainierenden meist ein Chin-up- und Curl-Problem.</li>\n<li><strong>Proniert (Klimmzug).</strong> Die Handgelenkstrecker halten das Handgelenk, was die Last nach außen verlagert; ein breiter Griff bringt Radialabduktion dazu, ein bekannter Auslöser des Tennisellenbogens.<sup>[4]</sup> Mehr dazu unter <a href=\"/de/klimmzug-vs-chin-up/\">Klimmzug vs. Chin-up</a>.</li>\n<li><strong>Neutral (Handflächen zueinander).</strong> Der Unterarm steht zwischen Pronation und Supination, das Handgelenk bleibt gerade, kein Epicondylus bekommt ein Drehmoment ab. Die meisten mit Ellenbogenschmerz vertragen ihn am besten, und die Aktivierung ist über die Griffe hinweg ähnlich genug, dass du kaum etwas verlierst.<sup>[6]</sup></li>\n</ul>\n\n<h2>Was sagt die Forschung zum Training mit Sehnenschmerz?</h2>\n<p>Die meisten Sehnenstudien wurden an Achilles- und Patellasehne gemacht, also nimm das Folgende als Prinzipien, nicht als exakte Rezepte.</p>\n<ul>\n<li><strong>Du musst nicht aufhören.</strong> In einer randomisierten Studie mit 38 Patienten mit Achillessehnen-Tendinopathie verbesserten sich diejenigen, die unter einem Schmerzmonitoring-Modell weiter liefen und sprangen, über zwölf Monate genauso stark wie die, die sechs Wochen pausierten.<sup>[7]</sup></li>\n<li><strong>Isometrie senkt den Schmerz sofort.</strong> Bei sechs Volleyballspielern mit Patellasehnen-Tendinopathie senkte eine einzige Einheit isometrischer Halteübungen den Schmerz im Belastungstest von 7,0 auf 0,17 von 10, die Wirkung hielt mindestens 45 Minuten, und die Maximalkraft stieg um rund 19 Prozent; isotonische Wiederholungen halfen deutlich weniger.<sup>[8]</sup></li>\n<li><strong>Schweres langsames Krafttraining wirkt so gut wie Exzentrik.</strong> Bei 58 Patienten mit Achillessehnen-Tendinopathie war zwölf Wochen langsames konzentrisch-exzentrisches Training dem klassischen Exzentrikprogramm nach 12 und 52 Wochen ebenbürtig, bei besserer Therapietreue (92 vs. 78 Prozent).<sup>[9]</sup></li>\n<li><strong>Isolierte Handgelenk-Exzentrik hilft dem Ellenbogen.</strong> Bei 21 Patienten mit chronischem Tennisellenbogen brachte eine exzentrische Handgelenkstrecker-Übung mit einem Gummistab (Tyler Twist) zusätzlich zur Standardphysiotherapie in rund sieben Wochen weit größere Gewinne: Die Einschränkung sank um 76 statt 13 Prozent, der Schmerz um 81 statt 22 Prozent.<sup>[10]</sup> Die spiegelbildliche Version mit den Handgelenkbeugern wird beim Golferellenbogen eingesetzt.</li>\n</ul>\n\n<h2>Welche Schmerzregel sagt dir, ob du weitermachen darfst?</h2>\n<p>Die Achillessehnen-Studie ließ das Training weiterlaufen, solange der Schmerz unter einer vereinbarten Grenze blieb, bis zum nächsten Morgen abklang und von Woche zu Woche nicht zunahm.<sup>[7]</sup> Für Ellenbogensehnen nutzen wir eine konservativere Ampel:</p>\n<ul>\n<li><strong>Grün: Schmerz bis 3 von 10</strong> im Satz, innerhalb von 24 Stunden wieder auf dem Ausgangsniveau. Weitermachen.</li>\n<li><strong>Gelb: 4 bis 5 von 10</strong> oder mehr Morgensteifigkeit als am Vortag. Volumen um ein Drittel kürzen, langsamer ablassen, neutraler Griff, Isometrie beibehalten.</li>\n<li><strong>Rot: mehr als 5 von 10</strong>, Schmerz, der in der Einheit oder von Woche zu Woche steigt, oder Nachtschmerz. Klimmzüge vorerst stoppen und abklären lassen.</li>\n</ul>\n\n<h2>Wie trainierst du weiter und kommst da wieder raus?</h2>\n<p>Ein Acht-Wochen-Fahrplan für eine reaktive oder frühe Ellenbogensehne, der in einen normalen <a href=\"/de/klimmzug-trainingsplan/\">Klimmzug-Trainingsplan</a> passt:</p>\n<ol>\n<li><strong>Woche 1 bis 2: beruhigen.</strong> Klimmzugvolumen halbieren, auf neutralen Griff wechseln, oberhalb des schmerzhaften Bereichs stoppen, wenn der Hang wehtut. Zweimal täglich: isometrische Handgelenkbeuger und -strecker gegen eine Tischkante, 5 Haltephasen à 45 Sekunden mit Schmerz höchstens 3, plus 45 Sekunden Curl-Halten bei 90 Grad.<sup>[8]</sup> Negative mit 3 bis 5 Sekunden Abstieg, 3 Sätze à 3 bis 5.</li>\n<li><strong>Woche 3 bis 6: Kapazität aufbauen.</strong> Dreimal pro Woche schweres langsames Krafttraining für den Unterarm: Handgelenk-Curls und Reverse-Curls, 3 Sekunden hoch, 3 Sekunden runter, 3 bis 4 Sätze à 6 bis 8 mit einem Gewicht, das bei der letzten Wiederholung schwer ist, plus langsame Hammer-Curls.<sup>[9]</sup> Gummistab-Twists, 3 × 15 zweimal täglich, Streckerversion bei Außenschmerz, Beugerversion bei Innenschmerz.<sup>[10]</sup> Klimmzug-Wiederholungen um etwa 10 Prozent pro Woche zurückholen, solange die Ampel grün bleibt.</li>\n<li><strong>Woche 7 bis 8: Auslöser wieder einführen.</strong> Ein Chin-up-Satz pro Einheit, dann zwei, langsam abgelassen. Zwei Unterarm-Einheiten pro Woche dauerhaft behalten; Sehnen mögen gleichmäßige Last lieber als gelegentliche Spitzen.<sup>[2]</sup></li>\n</ol>\n<p>Wer noch keinen Klimmzug schafft: Dieselben Regeln gelten für <a href=\"/de/klimmzug-mit-widerstandsband/\">Klimmzüge mit Widerstandsband</a> und Rudern.</p>\n\n<h2>Welche Zeichen gehören in die Praxis?</h2>\n<ul>\n<li><strong>Ein plötzlicher Knall vorn am Ellenbogen, Bluterguss und schwache Supination.</strong> Das kann ein Riss der distalen Bizepssehne sein, der meist operativ versorgt werden muss und bei schneller Diagnose am besten ausgeht.<sup>[5]</sup></li>\n<li><strong>Taubheit oder Kribbeln im Ring- und Kleinfinger.</strong> Der N. ulnaris verläuft direkt hinter dem Epicondylus medialis, neben dem Beugerursprung; Nervensymptome sind keine Tendinopathie.<sup>[3]</sup></li>\n<li><strong>Blockieren, Hängenbleiben oder Wegknicken</strong>, oder ein tiefes, schmerzhaftes Klicken in der Schulter im Hang, das den Bizepsanker am Labrum betreffen kann.<sup>[5]</sup></li>\n<li><strong>Nachtschmerz, Ruheschmerz, Schwellung, Rötung oder Fieber.</strong> Tendinopathie schmerzt unter Last; Schmerz, der dich weckt, braucht eine andere Erklärung.</li>\n</ul>\n\n<h2>Welche Fehler halten Ellenbogensehnen gereizt?</h2>\n<ul>\n<li><strong>Jede Einheit Wiederholungen drauflegen.</strong> Der Muskel lässt es zu, die Sehne nicht.<sup>[1]</sup> Steigere um etwa 10 Prozent pro Woche.</li>\n<li><strong>Von der Stange fallen lassen</strong> in den gestreckten Ellenbogen. Auch die letzte Wiederholung ablassen.</li>\n<li><strong>Komplett pausieren.</strong> Ruhe war in Studien nicht besser als überwachte Belastung.<sup>[7]</sup></li>\n<li><strong>Die schmerzhafte Stelle hart dehnen oder massieren.</strong> Kompression macht eine reaktive Sehne meist schlimmer.<sup>[2]</sup></li>\n<li><strong>Nur Chin-ups oder nur Klimmzüge.</strong> Griffe über die Woche rotieren; ein <a href=\"/de/klimmzug-plateau/\">Plateau</a> ist oft das erste Zeichen, dass die Ellenbogen durch sind.</li>\n<li><strong>Totgriff und abgeknickte Handgelenke.</strong> Fest greifen, nicht maximal, Handgelenke oben gerade halten.</li>\n</ul>",
+      "faq": [
+        {
+          "q": "Warum tut die Ellenbogeninnenseite nach Klimmzügen weh?",
+          "a": "Das ist meist die gemeinsame Beugesehne am Epicondylus medialis, der Ursprung der Muskeln, die greifen und pronieren; Ärzte nennen es Golferellenbogen. Chin-ups, ein sehr harter Griff und abgeknickte Handgelenke belasten sie am meisten. Volumen reduzieren, auf neutralen Griff wechseln und die Handgelenkbeuger langsam und schwer belasten statt komplett zu pausieren."
+        },
+        {
+          "q": "Kann ich mit Golfer- oder Tennisellenbogen weiter Klimmzüge machen?",
+          "a": "Meist ja, wenn der Schmerz im Satz höchstens 3 von 10 erreicht und innerhalb von 24 Stunden abklingt. Volumen kürzen, neutraler Griff, langsam ablassen, täglich Isometrie und Gummistab-Exzentrik. Stoppen und abklären lassen, wenn der Schmerz in der Einheit oder von Woche zu Woche steigt."
+        },
+        {
+          "q": "Wie lange dauert eine Sehnenreizung am Ellenbogen?",
+          "a": "Eine reaktive Sehne beruhigt sich oft in wenigen Wochen, sobald die Last angepasst ist; eine Sehne, die seit Monaten schmerzt, braucht meist 8 bis 12 Wochen progressive Belastung, und die Struktur verändert sich noch länger. Sehnen erneuern sich viel langsamer als Muskeln, Geduld gehört zur Behandlung."
+        },
+        {
+          "q": "Welcher Griff ist bei Ellenbogenschmerzen am besten?",
+          "a": "Der neutrale Griff mit den Handflächen zueinander wird von den meisten mit innen- oder außenseitigem Ellenbogenschmerz am besten vertragen, weil das Handgelenk gerade bleibt und der Unterarm nicht verdreht ist. Chin-ups belasten Innenseite und Bizepssehne am meisten, breite pronierte Klimmzüge die Außenseite."
+        },
+        {
+          "q": "Wann sind Ellenbogenschmerzen nach Klimmzügen ein Notfall?",
+          "a": "Ein plötzlicher Knall vorn am Ellenbogen mit Bluterguss und schwacher Drehung der Handfläche nach oben kann ein Riss der distalen Bizepssehne sein, der meist bald operiert werden muss. Taubheit im Ring- und Kleinfinger, Blockieren, Nachtschmerz oder Schwellung mit Rötung und Fieber gehören ebenfalls in die Praxis, nicht ins Training."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Heinemeier KM, Schjerling P, Heinemeier J, Magnusson SP, Kjaer M. Lack of tissue renewal in human adult Achilles tendon is revealed by nuclear bomb 14C. FASEB J, 2013.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23401563/"
+        },
+        {
+          "label": "Cook JL, Purdam CR. Is tendon pathology a continuum? A pathology model to explain the clinical presentation of load-induced tendinopathy. Br J Sports Med, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18812414/"
+        },
+        {
+          "label": "Li D, Hammad A, Kaiser K. Medial Epicondylitis (Golfer's Elbow). StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519000/"
+        },
+        {
+          "label": "Buchanan BK, Varacallo MA. Lateral Epicondylitis (Tennis Elbow). StatPearls [Internet], NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK431092/"
+        },
+        {
+          "label": "Hsu D, Anand P, Mabrouk A, Chang KV. Biceps Tendon Rupture. StatPearls [Internet], NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK513235/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, et al. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or Perfect-Pullup rotational exercise. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Silbernagel KG, Thomeé R, Eriksson BI, Karlsson J. Continued sports activity, using a pain-monitoring model, during rehabilitation in patients with Achilles tendinopathy: a randomized controlled study. Am J Sports Med, 2007.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17307888/"
+        },
+        {
+          "label": "Rio E, Kidgell D, Purdam C, et al. Isometric exercise induces analgesia and reduces inhibition in patellar tendinopathy. Br J Sports Med, 2015.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25979840/"
+        },
+        {
+          "label": "Beyer R, Kongsgaard M, Hougs Kjær B, Øhlenschlæger T, Kjær M, Magnusson SP. Heavy slow resistance versus eccentric training as treatment for Achilles tendinopathy: a randomized controlled trial. Am J Sports Med, 2015.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26018970/"
+        },
+        {
+          "label": "Tyler TF, Thomas GC, Nicholas SJ, McHugh MP. Addition of isolated wrist extensor eccentric exercise to standard treatment for chronic lateral epicondylosis: a prospective randomized trial. J Shoulder Elbow Surg, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20579907/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/de/rumpfmuskulatur-klimmzug/",
+          "title": "Rumpf beim Klimmzug: Anti-Extension, Hollow Body und die Verbindung zwischen Händen und Hüfte"
+        },
+        {
+          "href": "/de/brustmuskel-teres-major-klimmzug/",
+          "title": "Brustmuskel, Teres major und der „kleine Helfer des Lats“: die Brust- und Achselmuskeln, die dich hochziehen"
+        },
+        {
+          "href": "/de/bizeps-brachialis-klimmzug/",
+          "title": "Bizeps, Brachialis und Brachioradialis beim Klimmzug"
+        },
+        {
+          "href": "/de/griffkraft-unterarm-klimmzug/",
+          "title": "Griffkraft beim Klimmzug: Unterarm-Anatomie"
+        },
+        {
+          "href": "/de/rotatorenmanschette-klimmzug/",
+          "title": "Rotatorenmanschette und Klimmzug: Schulteranatomie und Sicherheit"
+        },
+        {
+          "href": "/de/klimmzug-plateau/",
+          "title": "Klimmzug-Plateau: So kommst du wieder voran"
+        },
+        {
+          "href": "/de/klimmzug-trainingsplan/",
+          "title": "Klimmzug Trainingsplan: So steigerst du deine Wiederholungen"
+        }
+      ]
+    },
+    "tr": {
+      "title": "Barfiks Dirsek Ağrısı: Tendon Sorunları ve Çözümü",
+      "description": "Barfiks neden dirsek tendon ağrısı yapar (golfçü dirseği, tenisçi dirseği, biceps tendonu), tendonlar neden yavaş uyum sağlar ve nasıl antrenmana devam edersin.",
+      "headline": "Barfikste dirsek ağrısı ve tendonlar: golfçü dirseği, tenisçi dirseği, biceps tendiniti ve buna rağmen nasıl çalışırsın",
+      "subtitle": "Antrenman yapanlar için anatomi dersi",
+      "read_time": "10 dk okuma",
+      "lede": "Barfiks sonrası dirsek ağrısı genellikle kas değil tendon sorunudur: dirseğin iç tarafındaki ortak fleksör tendon (golfçü dirseği), dış tarafındaki ortak ekstansör tendon (tenisçi dirseği) ya da dirsek ve omuzdaki biceps tendonları. Tendonlar kaslardan çok daha yavaş uyum sağlar; tekrar ve set sayısını onların yetişebileceğinden hızlı artırırsan aşırı yüklenirler. Çoğu kişi daha az hacim, nötr tutuş ve yavaş, ağır yüklemeyle antrenmana devam edebilir; bu sayfa nasıl yapılacağını ve hangi belirtilerin hekime gitmeyi gerektirdiğini anlatıyor.",
+      "body_html": "<h2>Tendonlar neden kasların gerisinde kalır?</h2>\n<p>Tendon, kas kuvvetini kemiğe aktaran tip I kolajenden örülmüş bir halattır. Kas dokusu sürekli yenilenir ve yeni bir uyarandan birkaç hafta sonra güçlenir. Tendon farklıdır: İnsan aşil tendonunu nükleer bomba denemelerinden kalan karbon-14 ile tarihlendiren bir çalışma, tendon çekirdeğinin büyüme döneminde oluştuğunu ve sonrasında neredeyse hiç yenilenmediğini, kas örneklerinin ise sürekli döngü gösterdiğini buldu.<sup>[1]</sup> Tendonlar yine de uyum sağlar, ama yavaş.</p>\n<p>Bu fark klasik yeni başlayan hikâyesini açıklar: Kaslar ve sinir sistemi hızla gelişir, her hafta tekrar eklersin ve tendonlar sessizce geride kalır. Cook ve Purdam tendon patolojisini bir süreklilik olarak tanımlar: Kapasitesinin üstünde yüklenen tendon önce reaktif olur (şiş ve ağrılı ama yapısı sağlam), sonra onarım bozukluğuna girer ve ancak uzun süreli aşırı yüklenmeden sonra dejeneratif hale gelir. Erken evreler, yükü ayarlarsan geri döndürülebilir.<sup>[2]</sup></p>\n\n<h2>Barfiks hangi tendonları yükler ve her biri nerede ağrır?</h2>\n<p>Yükün büyük kısmını beş yapı taşır. Kasların kendisi <a href=\"/tr/biceps-brachialis-barfiks/\">biceps ve brachialis</a> ile <a href=\"/tr/kavrama-kuvveti-on-kol-barfiks/\">kavrama ve ön kol</a> yazılarında anlatıldı; burada odak tendonlar.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Tendon</th><th>Yapıştığı yer</th><th>Yükleyen hareket</th><th>Barfikste tipik ağrı örüntüsü</th></tr></thead>\n<tbody>\n<tr><td>Ortak fleksör tendon (medial epikondilit, golfçü dirseği)</td><td>Medial epikondil; pronator teres, fleksör karpi radialis, palmaris longus, fleksör digitorum superfisialis (median sinir) ve fleksör karpi ulnarisin humeral başından (ulnar sinir) oluşan yaklaşık 3 cm'lik ortak tendon; ulnar kollateral bağın hemen önünde durur<sup>[3]</sup></td><td>Kuvvetli kavrama, dirence karşı el bileği fleksiyonu ve pronasyon<sup>[3]</sup></td><td>Dirseğin iç tarafında sızı; chin-up'ta ve barı sert sıkarken en kötü; kemik çıkıntısının hemen altında hassasiyet</td></tr>\n<tr><td>Ortak ekstansör tendon (lateral epikondilit, tenisçi dirseği)</td><td>Lateral epikondil; genellikle ekstansör karpi radialis brevis (ECRB) başlangıcı sorumludur (radial sinir)<sup>[4]</sup></td><td>El bileği ekstansiyonda, radial deviasyonda ya da supinasyonda yük altında kavrama<sup>[4]</sup></td><td>Dead hang'de ve geniş pronasyonlu barfikste dirseğin dış tarafında sızı</td></tr>\n<tr><td>Distal biceps tendonu</td><td>Radiusun bicipital tüberkülü; bicipital aponevroz ile ön kol fasyasına<sup>[5]</sup></td><td>Dirsek fleksiyonu ve özellikle yük altında supinasyon<sup>[5]</sup></td><td>Dirsek kıvrımının önünde derin ağrı; chin-up'ın tepesinde ve yavaş inişte en kötü</td></tr>\n<tr><td>Biceps uzun baş tendonu</td><td>Supraglenoid tüberkül ve üst labrum; bicipital oluktan geçer; omuz eklemini stabilize etmeye yardım eder<sup>[5]</sup></td><td>Asılıdaki çekme, alt pozisyondaki gerilme</td><td>Omzun önünde sızı, pasif dead hang'de daha kötü; ağrılı bir tık sesi labrum bağlantısını işaret edebilir (SLAP)</td></tr>\n<tr><td>Brachialis tendonu</td><td>Ulnanın koronoid çıkıntısı ve tüberkülü</td><td>Her tutuşta dirsek fleksiyonu</td><td>Nadir; yoğun negatiflerden sonra dirseğin önünde derin sızı</td></tr>\n</tbody></table></div>\n<p>İki satır özellikle önemli. Ortak fleksör tendon, kavrayan ve pronasyon yapan kasların ortak başlangıcıdır; yani barı sert sıkmak onu her tekrarda yükler. Biceps ise dirsek büküldüğünde ön kolun en güçlü supinatörüdür, yani tam chin-up pozisyonu.<sup>[5]</sup></p>\n\n<h2>Barfiksin hangi evresinde hangi tendon en çok yüklenir?</h2>\n<h3>Dead hang</h3>\n<p>Dirsek düz, fleksör tendonlar vücut ağırlığı altında tam uzunlukta ve biceps uzun başı labrum bağlantısı üzerinden çekilmede.<sup>[5]</sup> Pronasyonlu tutuşta ECRB dahil el bileği ekstansörleri bileği barda tutar.<sup>[4]</sup> Ağrılı dirsekle pasif asılmak dinlenme değil, yük altında gerilmedir.</p>\n<h3>Başlangıç</h3>\n<p>EMG ölçümleri tekrarın alt trapez ve pektoralis majör ile başladığını, sonra biceps ve latların devraldığını gösterir.<sup>[6]</sup> Kavrama, dolayısıyla ortak fleksör tendon, daha o anda sınırda çalışır.</p>\n<h3>Orta çekiş</h3>\n<p>Biceps, barfiks varyasyonları boyunca maksimal kasılmasının ortalama yüzde 78 ile 96'sında çalıştı.<sup>[6]</sup> Distal biceps tendonu ve brachialis zirve yükünü burada alır.</p>\n<h3>Tepe</h3>\n<p>Dirsek en çok bükülü; chin-up'ta biceps aynı anda supinatör ve fleksör olarak çalışır.<sup>[5]</sup> Çeneyi barın üstüne çıkarmak için bilekleri bükmek ortak fleksör tendona ek yük bindirir.</p>\n<h3>İniş</h3>\n<p>Tendon gerilimi eksantrik evrede zirve yapar; rehabilitasyon egzersizlerinin çoğu bu yüzden burada yaşar. Üç saniyelik iniş tendon antrenmanıdır; kilitli dirseğe düşmek tendona hakarettir.</p>\n\n<h2>Tutuş, dirseğin nerede ağrıdığını nasıl değiştirir?</h2>\n<ul>\n<li><strong>Supinasyonlu (chin-up).</strong> Biceps ve pektoralis majör chin-up'ta barfikse göre anlamlı derecede daha aktifti.<sup>[6]</sup> Ön kol barda supinasyonda tutulur; biceps tendonu ve fleksör-pronatör başlangıcı daha fazla yük taşır. Antrenman yapanlarda golfçü dirseği çoğunlukla chin-up ve curl sorunudur.</li>\n<li><strong>Pronasyonlu (barfiks).</strong> El bileği ekstansörleri bileği tutar, yük dış tarafa kayar; geniş tutuş radial deviasyon ekler, bu tenisçi dirseğinin bilinen bir tetikleyicisidir.<sup>[4]</sup> Tam karşılaştırma için <a href=\"/tr/barfiks-vs-chin-up/\">barfiks vs chin-up</a>.</li>\n<li><strong>Nötr (avuçlar birbirine bakar).</strong> Ön kol pronasyonla supinasyon arasında durur, bilek düz kalır, hiçbir epikondil dönme momenti almaz. Dirsek ağrısı olanların çoğu en iyi bunu tolere eder ve tutuşlar arası aktivasyon yeterince benzerdir, fazla kaybetmezsin.<sup>[6]</sup></li>\n</ul>\n\n<h2>Araştırmalar tendon ağrısıyla antrenman hakkında ne diyor?</h2>\n<p>Tendon çalışmalarının çoğu aşil ve patella tendonunda yapıldı; aşağıdakileri kesin reçete değil ilke olarak al.</p>\n<ul>\n<li><strong>Durmak zorunda değilsin.</strong> Aşil tendinopatili 38 hastayla yapılan randomize çalışmada, ağrı izleme modeliyle koşup zıplamaya devam edenler 12 ayda altı hafta dinlenenler kadar iyileşti.<sup>[7]</sup></li>\n<li><strong>İzometrik hemen ağrıyı düşürür.</strong> Patella tendinopatili altı voleybolcuda tek bir izometrik seans, yüklü testteki ağrıyı 10 üzerinden 7,0'dan 0,17'ye indirdi, etki en az 45 dakika sürdü ve maksimal kuvvet yaklaşık yüzde 19 arttı; izotonik tekrarlar çok daha az yardımcı oldu.<sup>[8]</sup></li>\n<li><strong>Ağır yavaş direnç, eksantrik kadar iyi.</strong> Aşil tendinopatili 58 hastada 12 haftalık yavaş konsantrik-eksantrik antrenman, klasik eksantrik programla 12. ve 52. haftada eşit sonuç verdi ve uyum daha yüksekti (yüzde 92'ye 78).<sup>[9]</sup></li>\n<li><strong>İzole bilek eksantriği dirseğe iyi gelir.</strong> Kronik tenisçi dirseği olan 21 hastada, standart fizyoterapiye kauçuk çubukla eksantrik bilek ekstansörü egzersizi (Tyler twist) eklemek yaklaşık yedi haftada çok daha büyük kazanım sağladı: engellilik yüzde 76'ya karşı 13, ağrı yüzde 81'e karşı 22 azaldı.<sup>[10]</sup> Bilek fleksörleriyle yapılan ayna versiyonu golfçü dirseğinde kullanılır.</li>\n</ul>\n\n<h2>Hangi ağrı kuralı devam edip etmeyeceğini söyler?</h2>\n<p>Aşil çalışması, ağrı kararlaştırılan tavanın altında kaldığı, ertesi sabaha kadar yatıştığı ve haftadan haftaya artmadığı sürece antrenmana izin verdi.<sup>[7]</sup> Dirsek tendonları için daha temkinli bir trafik ışığı kullanıyoruz:</p>\n<ul>\n<li><strong>Yeşil: set sırasında 10 üzerinden en fazla 3</strong>, 24 saat içinde başlangıç düzeyine dönüyor. Devam et.</li>\n<li><strong>Sarı: 4 ile 5 arası</strong> ya da ertesi sabah önceki günden daha fazla tutukluk. Hacmi üçte bir azalt, inişi yavaşlat, nötr tutuşa geç, izometriği sürdür.</li>\n<li><strong>Kırmızı: 5'ten fazla</strong>, seans içinde ya da haftadan haftaya artan ağrı veya gece ağrısı. Barfiksi şimdilik bırak ve muayene ol.</li>\n</ul>\n\n<h2>Antrenmana nasıl devam eder ve bundan nasıl çıkarsın?</h2>\n<p>Reaktif ya da erken evre dirsek tendonu için normal bir <a href=\"/tr/barfiks-antrenman-programi/\">barfiks antrenman programına</a> sığan sekiz haftalık taslak:</p>\n<ol>\n<li><strong>1. ve 2. hafta: yatıştır.</strong> Barfiks hacmini yarıya indir, nötr tutuşa geç, asılı pozisyon ağrıyorsa ağrılı aralığın üstünde dur. Günde iki kez: masa kenarına karşı bilek fleksörü ve ekstansörü izometrikleri, ağrı en fazla 3 olacak şekilde 5 × 45 saniye, artı 90 derecede 45 saniye curl tutuşu.<sup>[8]</sup> 3 ile 5 saniyelik inişle negatifler, 3 set × 3 ile 5.</li>\n<li><strong>3. ile 6. hafta: kapasite inşa et.</strong> Haftada üç kez ön kol için ağır yavaş direnç: bilek curl ve ters bilek curl, 3 saniye yukarı 3 saniye aşağı, son tekrarda zorlayan ağırlıkla 3 ile 4 set × 6 ile 8, artı yavaş hammer curl.<sup>[9]</sup> Kauçuk çubuk twist, günde iki kez 3 × 15; dış ağrıda ekstansör, iç ağrıda fleksör versiyonu.<sup>[10]</sup> Işık yeşil kaldıkça barfiks tekrarlarını haftada yaklaşık yüzde 10 geri ekle.</li>\n<li><strong>7. ve 8. hafta: tetikleyicileri geri getir.</strong> Seans başına bir chin-up seti, sonra iki, yavaş inişle. Haftada iki ön kol seansını kalıcı olarak koru; tendonlar ara sıra büyük yük yerine düzenli yükü sever.<sup>[2]</sup></li>\n</ol>\n<p>Henüz barfiks çekemiyorsan aynı kurallar <a href=\"/tr/bantli-barfiks/\">bantlı barfiks</a> ve kürek hareketleri için de geçerli.</p>\n\n<h2>Hangi belirtiler hekime gitmeyi gerektirir?</h2>\n<ul>\n<li><strong>Dirseğin önünde ani bir \"pat\" sesi, morluk ve zayıf supinasyon.</strong> Bu distal biceps tendonu kopması olabilir; genellikle cerrahi onarım gerektirir ve erken tanıyla en iyi sonucu verir.<sup>[5]</sup></li>\n<li><strong>Yüzük ve serçe parmakta uyuşma ya da karıncalanma.</strong> Ulnar sinir medial epikondilin hemen arkasından, fleksör başlangıcının yanından geçer; sinir belirtileri tendinopati değildir.<sup>[3]</sup></li>\n<li><strong>Kilitlenme, takılma ya da boşalma</strong>, veya asılıdayken omuzda derin ve ağrılı bir tık; biceps'in labrumdaki bağlantısını ilgilendirebilir.<sup>[5]</sup></li>\n<li><strong>Gece ağrısı, istirahat ağrısı, şişlik, kızarıklık ya da ateş.</strong> Tendinopati yükle ağrır; seni uyandıran ağrının başka bir açıklaması olmalı.</li>\n</ul>\n\n<h2>Hangi hatalar dirsek tendonlarını ağrılı tutar?</h2>\n<ul>\n<li><strong>Her seans tekrar eklemek.</strong> Kas izin verir, tendon vermez.<sup>[1]</sup> Haftada yaklaşık yüzde 10 ilerle.</li>\n<li><strong>Bardan kilitli dirseğe düşmek.</strong> Son tekrarı da kontrollü indir.</li>\n<li><strong>Tamamen dinlenmek.</strong> Çalışmalarda dinlenme, izlenen yüklemeden iyi çıkmadı.<sup>[7]</sup></li>\n<li><strong>Ağrıyan noktayı sert germek ya da ovmak.</strong> Baskı reaktif tendonu genellikle kötüleştirir.<sup>[2]</sup></li>\n<li><strong>Sadece chin-up ya da sadece barfiks.</strong> Tutuşları hafta içinde dönüşümlü kullan; <a href=\"/tr/barfiks-plato/\">plato</a> çoğu zaman dirseklerin yorulduğunun ilk işaretidir.</li>\n<li><strong>Ölüm kavraması ve bükük bilekler.</strong> Barı sıkı tut, maksimum değil; tepede bilekler düz kalsın.</li>\n</ul>",
+      "faq": [
+        {
+          "q": "Barfiksten sonra dirseğimin iç tarafı neden ağrıyor?",
+          "a": "Bu genellikle medial epikondildeki ortak fleksör tendondur; kavrayan ve pronasyon yapan kasların başlangıcıdır ve klinikte golfçü dirseği denir. Chin-up, çok sert kavrama ve bükük bilekler onu en çok yükler. Hacmi azalt, nötr tutuşa geç ve tamamen dinlenmek yerine bilek fleksörlerini yavaş ve ağır yükle."
+        },
+        {
+          "q": "Golfçü ya da tenisçi dirseğiyle barfiks çekmeye devam edebilir miyim?",
+          "a": "Genellikle evet; ağrı set sırasında 10 üzerinden 3'ü geçmiyor ve 24 saat içinde yatışıyorsa. Hacmi azalt, nötr tutuş kullan, yavaş in, günlük izometrik ve kauçuk çubuk eksantriği ekle. Ağrı seans içinde ya da haftadan haftaya artıyorsa dur ve muayene ol."
+        },
+        {
+          "q": "Dirsek tendinopatisi ne kadar sürede iyileşir?",
+          "a": "Reaktif bir tendon, yük ayarlanınca genellikle birkaç haftada yatışır; aylardır ağrıyan bir tendon çoğunlukla 8 ile 12 hafta ilerleyici yükleme ister ve tendon yapısı daha uzun süre değişmeye devam eder. Tendonlar kastan çok daha yavaş yenilenir; sabır tedavinin parçasıdır."
+        },
+        {
+          "q": "Dirsek ağrısında en iyi tutuş hangisi?",
+          "a": "Avuçların birbirine baktığı nötr tutuş, iç ya da dış dirsek ağrısı olanların çoğu tarafından en iyi tolere edilir; bilek düz kalır ve ön kol bükülmez. Chin-up dirseğin iç tarafını ve biceps tendonunu, geniş pronasyonlu barfiks ise dış tarafı en çok yükler."
+        },
+        {
+          "q": "Barfiks kaynaklı dirsek ağrısı ne zaman acildir?",
+          "a": "Dirseğin önünde ani bir pat sesiyle birlikte morluk ve avucu yukarı çevirmede zayıflık, distal biceps tendonu kopması olabilir ve genellikle kısa sürede ameliyat gerektirir. Yüzük ve serçe parmakta uyuşma, kilitlenme, gece ağrısı ya da kızarıklık ve ateşle birlikte şişlik de antrenman düzeltmesi değil hekim gerektirir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Heinemeier KM, Schjerling P, Heinemeier J, Magnusson SP, Kjaer M. Lack of tissue renewal in human adult Achilles tendon is revealed by nuclear bomb 14C. FASEB J, 2013.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23401563/"
+        },
+        {
+          "label": "Cook JL, Purdam CR. Is tendon pathology a continuum? A pathology model to explain the clinical presentation of load-induced tendinopathy. Br J Sports Med, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18812414/"
+        },
+        {
+          "label": "Li D, Hammad A, Kaiser K. Medial Epicondylitis (Golfer's Elbow). StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519000/"
+        },
+        {
+          "label": "Buchanan BK, Varacallo MA. Lateral Epicondylitis (Tennis Elbow). StatPearls [Internet], NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK431092/"
+        },
+        {
+          "label": "Hsu D, Anand P, Mabrouk A, Chang KV. Biceps Tendon Rupture. StatPearls [Internet], NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK513235/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, et al. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or Perfect-Pullup rotational exercise. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Silbernagel KG, Thomeé R, Eriksson BI, Karlsson J. Continued sports activity, using a pain-monitoring model, during rehabilitation in patients with Achilles tendinopathy: a randomized controlled study. Am J Sports Med, 2007.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17307888/"
+        },
+        {
+          "label": "Rio E, Kidgell D, Purdam C, et al. Isometric exercise induces analgesia and reduces inhibition in patellar tendinopathy. Br J Sports Med, 2015.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25979840/"
+        },
+        {
+          "label": "Beyer R, Kongsgaard M, Hougs Kjær B, Øhlenschlæger T, Kjær M, Magnusson SP. Heavy slow resistance versus eccentric training as treatment for Achilles tendinopathy: a randomized controlled trial. Am J Sports Med, 2015.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26018970/"
+        },
+        {
+          "label": "Tyler TF, Thomas GC, Nicholas SJ, McHugh MP. Addition of isolated wrist extensor eccentric exercise to standard treatment for chronic lateral epicondylosis: a prospective randomized trial. J Shoulder Elbow Surg, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20579907/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/tr/karin-kaslari-core-barfiks/",
+          "title": "Barfikste core: anti-extension, hollow body ve ellerle kalça arasındaki bağlantı"
+        },
+        {
+          "href": "/tr/gogus-kasi-teres-major-barfiks/",
+          "title": "Göğüs kası, teres major ve \"kanat kasının küçük yardımcısı\": seni yukarı çeken göğüs ve koltuk altı kasları"
+        },
+        {
+          "href": "/tr/biceps-brachialis-barfiks/",
+          "title": "Barfikste biceps, brachialis ve brachioradialis"
+        },
+        {
+          "href": "/tr/kavrama-kuvveti-on-kol-barfiks/",
+          "title": "Barfikste kavrama kuvveti: ön kol anatomisi"
+        },
+        {
+          "href": "/tr/rotator-manset-barfiks/",
+          "title": "Rotator manşet ve barfiks: omuz anatomisi ve güvenliği"
+        },
+        {
+          "href": "/tr/barfiks-plato/",
+          "title": "Barfiks plato: aynı tekrarda takılırsan ne yapmalı"
+        },
+        {
+          "href": "/tr/barfiks-antrenman-programi/",
+          "title": "Barfiks antrenman programı: tekrar sayını artıran haftalık plan"
+        }
+      ]
+    },
+    "es": {
+      "title": "Dolor de codo y tendones en dominadas: causas y solución",
+      "description": "Por qué las dominadas causan dolor de codo (codo de golfista, de tenista, tendón del bíceps), por qué el tendón se adapta despacio y cómo seguir entrenando.",
+      "headline": "Dolor de codo y tendones en las dominadas: codo de golfista, codo de tenista, tendinopatía del bíceps y cómo seguir entrenando",
+      "subtitle": "Una lección de anatomía para quien entrena",
+      "read_time": "10 min de lectura",
+      "lede": "El dolor de codo por dominadas suele ser un problema de tendón, no de músculo: el tendón flexor común en la cara interna (codo de golfista), el tendón extensor común en la externa (codo de tenista) o los tendones del bíceps en el codo y el hombro. Los tendones se adaptan mucho más despacio que el músculo y se sobrecargan cuando sumas repeticiones y series más rápido de lo que pueden seguir. Casi todo el mundo puede seguir entrenando con menos volumen, agarre neutro y carga lenta y pesada; aquí tienes cómo, y las señales que exigen un profesional.",
+      "body_html": "<h2>¿Por qué los tendones van por detrás de los músculos?</h2>\n<p>Un tendón es una cuerda de colágeno tipo I que transmite la fuerza del músculo al hueso. El músculo se renueva sin parar y se fortalece en pocas semanas. El tendón es distinto: un estudio que fechó tendones de Aquiles humanos con el carbono-14 que dejaron las pruebas nucleares halló que el núcleo del tendón se forma durante el crecimiento y después casi no se renueva, mientras que el músculo mostraba recambio continuo.<sup>[1]</sup> El tendón se adapta, pero despacio.</p>\n<p>Esa brecha es la historia clásica del principiante: músculos y sistema nervioso mejoran rápido, añades repeticiones cada semana y los tendones se quedan atrás. Cook y Purdam describen la patología tendinosa como un continuo: un tendón cargado por encima de su capacidad primero se vuelve reactivo (hinchado y doloroso, pero íntegro), luego entra en reparación fallida y solo tras una sobrecarga prolongada degenera. Las fases iniciales son reversibles si ajustas la carga.<sup>[2]</sup></p>\n\n<h2>¿Qué tendones cargan las dominadas y dónde duele cada uno?</h2>\n<p>Cinco estructuras soportan casi toda la tensión. Los músculos se explican en <a href=\"/es/biceps-braquial-dominadas/\">bíceps y braquial</a> y <a href=\"/es/agarre-antebrazo-dominadas/\">agarre y antebrazo</a>; aquí el foco son los tendones.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Tendón</th><th>Inserción</th><th>Lo carga</th><th>Patrón de dolor típico en dominadas</th></tr></thead>\n<tbody>\n<tr><td>Tendón flexor común (epicondilitis medial, codo de golfista)</td><td>Epicóndilo medial; tendón compartido de unos 3 cm formado por pronador redondo, flexor radial del carpo, palmar largo, flexor superficial de los dedos (nervio mediano) y la cabeza humeral del flexor cubital del carpo (nervio cubital), delante del ligamento colateral cubital<sup>[3]</sup></td><td>Agarre fuerte, flexión de muñeca y pronación resistidas<sup>[3]</sup></td><td>Molestia en la cara interna del codo, peor en chin-ups y al apretar fuerte; sensible justo bajo el relieve óseo</td></tr>\n<tr><td>Tendón extensor común (epicondilitis lateral, codo de tenista)</td><td>Epicóndilo lateral; el origen del extensor radial corto del carpo (ECRB) es el culpable habitual (nervio radial)<sup>[4]</sup></td><td>Agarre con carga con la muñeca en extensión, desviación radial o supinación<sup>[4]</sup></td><td>Molestia en la cara externa en el dead hang y en dominadas pronas anchas</td></tr>\n<tr><td>Tendón distal del bíceps</td><td>Tuberosidad bicipital del radio, con la aponeurosis bicipital hacia la fascia del antebrazo<sup>[5]</sup></td><td>Flexión de codo y, sobre todo, supinación con carga<sup>[5]</sup></td><td>Dolor profundo en el pliegue del codo, peor arriba del chin-up y al bajar lento</td></tr>\n<tr><td>Tendón de la cabeza larga del bíceps</td><td>Tubérculo supraglenoideo y labrum superior; recorre la corredera bicipital; ayuda a estabilizar el hombro<sup>[5]</sup></td><td>Tracción en la suspensión, estiramiento abajo</td><td>Molestia en la parte frontal del hombro, peor en dead hang pasivo; un chasquido doloroso puede implicar el anclaje labral (SLAP)</td></tr>\n<tr><td>Tendón del braquial</td><td>Apófisis coronoides y tuberosidad del cúbito</td><td>Flexión de codo con cualquier agarre</td><td>Raro; dolor profundo delante del codo tras muchas negativas</td></tr>\n</tbody></table></div>\n<p>El tendón flexor común es el origen compartido de los músculos que agarran y pronan: apretar fuerte lo carga en cada repetición. Y el bíceps es el supinador más potente del antebrazo con el codo doblado, la posición del chin-up.<sup>[5]</sup></p>\n\n<h2>¿En qué fase de la dominada se carga más cada tendón?</h2>\n<h3>Dead hang</h3>\n<p>Con el codo recto, los tendones flexores están a longitud completa bajo tu peso y la cabeza larga del bíceps tracciona de su anclaje labral.<sup>[5]</sup> En agarre prono, los extensores, ECRB incluido, sujetan la muñeca contra la barra.<sup>[4]</sup> Colgarse pasivamente con el codo dolorido es estiramiento con carga, no descanso.</p>\n<h3>Inicio</h3>\n<p>La EMG muestra que la repetición empieza con el trapecio inferior y el pectoral mayor antes de que bíceps y dorsales tomen el relevo.<sup>[6]</sup> El agarre, y el tendón flexor común, ya van al límite.</p>\n<h3>Mitad del tirón</h3>\n<p>El bíceps promedió entre el 78 y el 96 por ciento de su contracción máxima en las variantes de dominada.<sup>[6]</sup> El tendón distal del bíceps y el braquial tocan techo aquí.</p>\n<h3>Arriba</h3>\n<p>El codo está en máxima flexión; en el chin-up el bíceps actúa como supinador y flexor a la vez.<sup>[5]</sup> Doblar las muñecas para pasar la barbilla carga de más el tendón flexor común.</p>\n<h3>Bajada</h3>\n<p>La tensión del tendón es máxima en la fase excéntrica, por eso la rehabilitación vive aquí. Bajar en tres segundos es entrenar el tendón; dejarse caer al codo bloqueado es castigarlo.</p>\n\n<h2>¿Cómo cambia el agarre el lugar del dolor?</h2>\n<ul>\n<li><strong>Supino (chin-up).</strong> El bíceps y el pectoral mayor estuvieron significativamente más activos en el chin-up que en la dominada.<sup>[6]</sup> El antebrazo se mantiene en supinación contra la barra, así que el tendón del bíceps y el origen flexor-pronador cargan más. En quien entrena, el codo de golfista suele venir de chin-ups y curls.</li>\n<li><strong>Prono (dominada).</strong> Los extensores sujetan la muñeca y desplazan la carga al lado externo; el agarre ancho añade desviación radial, un desencadenante conocido del codo de tenista.<sup>[4]</sup> Más en <a href=\"/es/dominadas-vs-chin-up/\">dominadas vs chin-up</a>.</li>\n<li><strong>Neutro (palmas enfrentadas).</strong> El antebrazo queda entre pronación y supinación y la muñeca recta, así que ningún epicóndilo recibe momento de rotación. Es el que mejor toleran la mayoría, y la activación entre agarres es tan parecida que pierdes poco.<sup>[6]</sup></li>\n</ul>\n\n<h2>¿Qué dice la investigación sobre entrenar con dolor de tendón?</h2>\n<p>La mayoría de los ensayos se hicieron en el Aquiles y el rotuliano; tómalo como principios, no como recetas.</p>\n<ul>\n<li><strong>No hace falta parar.</strong> En un ensayo aleatorizado con 38 pacientes con tendinopatía aquílea, seguir corriendo y saltando bajo un modelo de monitorización del dolor dio a los 12 meses la misma mejora que descansar seis semanas.<sup>[7]</sup></li>\n<li><strong>Los isométricos bajan el dolor al instante.</strong> En seis jugadores de voleibol con tendinopatía rotuliana, una sola sesión de isométricos redujo el dolor en un test con carga de 7,0 a 0,17 sobre 10, el alivio duró al menos 45 minutos y la fuerza máxima subió cerca de un 19 por ciento.<sup>[8]</sup></li>\n<li><strong>La resistencia pesada y lenta funciona igual que los excéntricos.</strong> En 58 pacientes con tendinopatía aquílea, 12 semanas de trabajo lento concéntrico-excéntrico igualaron al programa excéntrico clásico a las 12 y 52 semanas, con mejor adherencia.<sup>[9]</sup></li>\n<li><strong>Los excéntricos aislados de muñeca ayudan al codo.</strong> En 21 pacientes con codo de tenista crónico, añadir a la fisioterapia estándar un excéntrico de extensores de muñeca con barra de goma (Tyler twist) produjo mejoras mucho mayores en unas siete semanas: la discapacidad cayó un 76 frente a un 13 por ciento y el dolor un 81 frente a un 22.<sup>[10]</sup> La versión espejo con los flexores se usa para el codo de golfista.</li>\n</ul>\n\n<h2>¿Qué regla de dolor te dice si continuar?</h2>\n<p>El ensayo del Aquiles permitía seguir mientras el dolor no pasara de un techo acordado, remitiera a la mañana siguiente y no creciera semana a semana.<sup>[7]</sup> Para el codo usamos un semáforo más conservador:</p>\n<ul>\n<li><strong>Verde: dolor hasta 3 sobre 10</strong> en la serie y vuelta al nivel basal en 24 horas. Continúa.</li>\n<li><strong>Ámbar: 4 o 5 sobre 10</strong>, o más rigidez matutina que el día anterior. Recorta un tercio del volumen, baja más lento, pasa a neutro, mantén los isométricos.</li>\n<li><strong>Rojo: más de 5 sobre 10</strong>, dolor que crece durante la sesión o semana a semana, o dolor nocturno. Para las dominadas y pide valoración.</li>\n</ul>\n\n<h2>¿Cómo sigues entrenando y sales de esto?</h2>\n<p>Un guion de ocho semanas para un tendón reactivo que cabe en una <a href=\"/es/rutina-dominadas/\">rutina de dominadas</a> normal:</p>\n<ol>\n<li><strong>Semanas 1 y 2: calmar.</strong> Volumen de dominadas a la mitad, agarre neutro, para por encima del rango doloroso si colgarte duele. Dos veces al día: isométricos de flexores y extensores de muñeca contra el borde de una mesa, 5 × 45 segundos con dolor de 3 o menos, más 45 segundos de curl isométrico a 90 grados.<sup>[8]</sup> Negativas de 3 a 5 segundos, 3 series de 3 a 5.</li>\n<li><strong>Semanas 3 a 6: reconstruir capacidad.</strong> Tres veces por semana, resistencia pesada y lenta de antebrazo: curl de muñeca y curl inverso, 3 segundos arriba y 3 abajo, 3 o 4 series de 6 a 8 con carga dura en la última repetición, más curl martillo lento.<sup>[9]</sup> Giros con barra de goma, 3 × 15 dos veces al día; versión extensora para el dolor externo, flexora para el interno.<sup>[10]</sup> Recupera repeticiones un 10 por ciento semanal mientras el semáforo siga en verde.</li>\n<li><strong>Semanas 7 y 8: reintroducir los desencadenantes.</strong> Una serie de chin-ups por sesión, luego dos, bajando lento. Conserva dos sesiones de antebrazo semanales; el tendón prefiere una carga regular a un pico ocasional.<sup>[2]</sup></li>\n</ol>\n<p>Si aún no haces una dominada, lo mismo vale para las <a href=\"/es/dominadas-con-banda/\">dominadas con banda</a> y los remos.</p>\n\n<h2>¿Qué señales necesitan un profesional?</h2>\n<ul>\n<li><strong>Un chasquido súbito delante del codo, hematoma y supinación débil.</strong> Puede ser una rotura del tendón distal del bíceps, que suele requerir cirugía y va mejor con diagnóstico rápido.<sup>[5]</sup></li>\n<li><strong>Hormigueo o entumecimiento en anular y meñique.</strong> El nervio cubital pasa justo detrás del epicóndilo medial; los síntomas nerviosos no son tendinopatía.<sup>[3]</sup></li>\n<li><strong>Bloqueo, enganche o fallo</strong>, o un chasquido profundo y doloroso en el hombro al colgarte, que puede implicar el anclaje del bíceps en el labrum.<sup>[5]</sup></li>\n<li><strong>Dolor nocturno, en reposo, hinchazón, enrojecimiento o fiebre.</strong> La tendinopatía duele con carga, no de noche.</li>\n</ul>\n\n<h2>¿Qué errores mantienen el codo dolorido?</h2>\n<ul>\n<li><strong>Sumar repeticiones cada sesión.</strong> El músculo lo permite; el tendón no.<sup>[1]</sup> Progresa un 10 por ciento semanal.</li>\n<li><strong>Descansar del todo.</strong> En los ensayos, el reposo no superó a la carga monitorizada.<sup>[7]</sup></li>\n<li><strong>Estirar o masajear fuerte el punto doloroso.</strong> La compresión empeora un tendón reactivo.<sup>[2]</sup></li>\n<li><strong>Solo chin-ups o solo dominadas.</strong> Rota los agarres; un <a href=\"/es/estancamiento-dominadas/\">estancamiento</a> suele ser la primera señal de codos agotados.</li>\n</ul>",
+      "faq": [
+        {
+          "q": "¿Por qué me duele la cara interna del codo después de las dominadas?",
+          "a": "Suele ser el tendón flexor común en el epicóndilo medial, origen de los músculos que agarran y pronan, lo que en clínica se llama codo de golfista. Los chin-ups, un agarre muy fuerte y las muñecas dobladas son lo que más lo carga. Reduce el volumen, pasa a agarre neutro y carga los flexores de muñeca lento y pesado en lugar de descansar del todo."
+        },
+        {
+          "q": "¿Puedo seguir haciendo dominadas con codo de golfista o de tenista?",
+          "a": "Normalmente sí, si el dolor se queda en 3 sobre 10 o menos durante la serie y remite en 24 horas. Recorta volumen, usa agarre neutro, baja lento y añade isométricos diarios y excéntricos con barra de goma. Para y pide valoración si el dolor crece durante la sesión o de semana en semana."
+        },
+        {
+          "q": "¿Cuánto tarda en curarse una tendinopatía de codo?",
+          "a": "Un tendón reactivo suele calmarse en pocas semanas una vez ajustada la carga; uno que lleva meses doliendo necesita normalmente 8 a 12 semanas de carga progresiva, y la estructura sigue cambiando más tiempo. El tendón se renueva mucho más despacio que el músculo, así que la paciencia forma parte del tratamiento."
+        },
+        {
+          "q": "¿Qué agarre es mejor si me duele el codo?",
+          "a": "El agarre neutro, palmas enfrentadas, es el que mejor tolera la mayoría de personas con dolor medial o lateral de codo, porque la muñeca queda recta y el antebrazo no se retuerce. Los chin-ups cargan más la cara interna y el tendón del bíceps; las dominadas pronas anchas, la externa."
+        },
+        {
+          "q": "¿Cuándo es una urgencia el dolor de codo por dominadas?",
+          "a": "Un chasquido súbito delante del codo con hematoma y debilidad al girar la palma hacia arriba puede ser una rotura del tendón distal del bíceps, que suele operarse pronto. El entumecimiento en anular y meñique, el bloqueo, el dolor nocturno o la hinchazón con enrojecimiento y fiebre también necesitan un profesional, no un ajuste del entrenamiento."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Heinemeier KM, Schjerling P, Heinemeier J, Magnusson SP, Kjaer M. Lack of tissue renewal in human adult Achilles tendon is revealed by nuclear bomb 14C. FASEB J, 2013.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23401563/"
+        },
+        {
+          "label": "Cook JL, Purdam CR. Is tendon pathology a continuum? A pathology model to explain the clinical presentation of load-induced tendinopathy. Br J Sports Med, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18812414/"
+        },
+        {
+          "label": "Li D, Hammad A, Kaiser K. Medial Epicondylitis (Golfer's Elbow). StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519000/"
+        },
+        {
+          "label": "Buchanan BK, Varacallo MA. Lateral Epicondylitis (Tennis Elbow). StatPearls [Internet], NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK431092/"
+        },
+        {
+          "label": "Hsu D, Anand P, Mabrouk A, Chang KV. Biceps Tendon Rupture. StatPearls [Internet], NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK513235/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, et al. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or Perfect-Pullup rotational exercise. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Silbernagel KG, Thomeé R, Eriksson BI, Karlsson J. Continued sports activity, using a pain-monitoring model, during rehabilitation in patients with Achilles tendinopathy: a randomized controlled study. Am J Sports Med, 2007.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17307888/"
+        },
+        {
+          "label": "Rio E, Kidgell D, Purdam C, et al. Isometric exercise induces analgesia and reduces inhibition in patellar tendinopathy. Br J Sports Med, 2015.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25979840/"
+        },
+        {
+          "label": "Beyer R, Kongsgaard M, Hougs Kjær B, Øhlenschlæger T, Kjær M, Magnusson SP. Heavy slow resistance versus eccentric training as treatment for Achilles tendinopathy: a randomized controlled trial. Am J Sports Med, 2015.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26018970/"
+        },
+        {
+          "label": "Tyler TF, Thomas GC, Nicholas SJ, McHugh MP. Addition of isolated wrist extensor eccentric exercise to standard treatment for chronic lateral epicondylosis: a prospective randomized trial. J Shoulder Elbow Surg, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20579907/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/es/core-abdominales-dominadas/",
+          "title": "El core en las dominadas: anti-extensión, el hollow body y el enlace entre tus manos y tus caderas"
+        },
+        {
+          "href": "/es/pectoral-redondo-mayor-dominadas/",
+          "title": "Pectoral mayor, redondo mayor y \"el pequeño ayudante del dorsal\": los músculos del pecho y la axila que te suben"
+        },
+        {
+          "href": "/es/biceps-braquial-dominadas/",
+          "title": "Bíceps, braquial y braquiorradial en las dominadas"
+        },
+        {
+          "href": "/es/agarre-antebrazo-dominadas/",
+          "title": "Fuerza de agarre en dominadas: anatomía del antebrazo"
+        },
+        {
+          "href": "/es/manguito-rotador-dominadas/",
+          "title": "Manguito rotador y dominadas: anatomía del hombro y seguridad"
+        },
+        {
+          "href": "/es/estancamiento-dominadas/",
+          "title": "Estancamiento en dominadas: por qué y cómo superarlo"
+        },
+        {
+          "href": "/es/rutina-dominadas/",
+          "title": "Rutina de dominadas para ganar repeticiones"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Douleur au coude aux tractions : tendons et solutions",
+      "description": "Pourquoi les tractions font mal aux tendons du coude (golf elbow, tennis elbow, biceps), pourquoi le tendon s'adapte lentement et comment continuer.",
+      "headline": "Douleur au coude et tendons aux tractions : golf elbow, tennis elbow, tendinopathie du biceps et comment continuer à s'entraîner",
+      "subtitle": "Une leçon d'anatomie pour qui s'entraîne",
+      "read_time": "10 min de lecture",
+      "lede": "La douleur au coude après les tractions vient en général d'un tendon, pas d'un muscle : le tendon fléchisseur commun à l'intérieur du coude (golf elbow), le tendon extenseur commun à l'extérieur (tennis elbow) ou les tendons du biceps au coude et à l'épaule. Les tendons s'adaptent bien plus lentement que le muscle et se retrouvent surchargés quand tu ajoutes des répétitions et des séries plus vite qu'ils ne peuvent suivre. La plupart des gens peuvent continuer avec moins de volume, une prise neutre et une charge lente et lourde ; voici comment, et les signes qui imposent de consulter.",
+      "body_html": "<h2>Pourquoi les tendons sont-ils en retard sur les muscles ?</h2>\n<p>Un tendon est une corde de collagène de type I qui transmet la force du muscle à l'os. Le muscle se renouvelle en continu et se renforce en quelques semaines. Le tendon, non : une étude qui a daté des tendons d'Achille humains grâce au carbone-14 des essais nucléaires a montré que le cœur du tendon se forme pendant la croissance et n'est pratiquement plus renouvelé ensuite, alors que le muscle se renouvelait en continu.<sup>[1]</sup> Le tendon s'adapte quand même, mais lentement.</p>\n<p>Cet écart, c'est l'histoire du débutant : muscles et système nerveux progressent vite, tu ajoutes des répétitions chaque semaine, et les tendons décrochent. Cook et Purdam décrivent la pathologie tendineuse comme un continuum : un tendon chargé au-delà de sa capacité devient d'abord réactif (gonflé et douloureux, mais intact), passe ensuite par une réparation défaillante et ne dégénère qu'après une surcharge prolongée. Les premiers stades sont réversibles si la charge est ajustée.<sup>[2]</sup></p>\n\n<h2>Quels tendons les tractions chargent-elles, et où chacun fait-il mal ?</h2>\n<p>Cinq structures encaissent l'essentiel. Les muscles sont décrits dans <a href=\"/fr/biceps-brachial-tractions/\">biceps et brachial</a> et <a href=\"/fr/prise-avant-bras-tractions/\">prise et avant-bras</a> ; ici, place aux tendons.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Tendon</th><th>Insertion</th><th>Chargé par</th><th>Douleur typique aux tractions</th></tr></thead>\n<tbody>\n<tr><td>Tendon fléchisseur commun (épicondylite médiale, golf elbow)</td><td>Épicondyle médial ; tendon commun d'environ 3 cm formé par le rond pronateur, le fléchisseur radial du carpe, le long palmaire, le fléchisseur superficiel des doigts (nerf médian) et le chef huméral du fléchisseur ulnaire du carpe (nerf ulnaire), devant le ligament collatéral ulnaire<sup>[3]</sup></td><td>Prise forte, flexion du poignet et pronation contre résistance<sup>[3]</sup></td><td>Douleur à l'intérieur du coude, pire en chin-up et quand tu serres fort ; sensible juste sous la bosse osseuse</td></tr>\n<tr><td>Tendon extenseur commun (épicondylite latérale, tennis elbow)</td><td>Épicondyle latéral ; l'origine du court extenseur radial du carpe (ECRB) est le coupable habituel (nerf radial)<sup>[4]</sup></td><td>Prise en charge avec le poignet en extension, en déviation radiale ou en supination<sup>[4]</sup></td><td>Douleur à l'extérieur du coude en dead hang et en tractions pronation larges</td></tr>\n<tr><td>Tendon distal du biceps</td><td>Tubérosité bicipitale du radius, avec l'aponévrose bicipitale vers le fascia de l'avant-bras<sup>[5]</sup></td><td>Flexion du coude et surtout supination en charge<sup>[5]</sup></td><td>Douleur profonde dans le pli du coude, pire en haut du chin-up et à la descente lente</td></tr>\n<tr><td>Tendon du long chef du biceps</td><td>Tubercule supraglénoïdal et labrum supérieur ; passe dans la gouttière bicipitale ; stabilise l'épaule<sup>[5]</sup></td><td>Traction en suspension, étirement en bas</td><td>Douleur à l'avant de l'épaule, pire en dead hang passif ; un clic douloureux peut venir de l'ancrage labral (SLAP)</td></tr>\n<tr><td>Tendon du brachial</td><td>Processus coronoïde et tubérosité de l'ulna</td><td>Flexion du coude quelle que soit la prise</td><td>Rare ; douleur profonde devant le coude après beaucoup de négatives</td></tr>\n</tbody></table></div>\n<p>Le tendon fléchisseur commun est l'origine partagée des muscles qui serrent et pronent : serrer fort le charge à chaque répétition. Et le biceps est le plus puissant supinateur de l'avant-bras coude fléchi, la position du chin-up.<sup>[5]</sup></p>\n\n<h2>À quelle phase de la traction chaque tendon est-il le plus chargé ?</h2>\n<h3>Dead hang</h3>\n<p>Coude tendu, les tendons fléchisseurs sont en pleine longueur sous ton poids et le long chef du biceps tire sur son ancrage labral.<sup>[5]</sup> En pronation, les extenseurs, ECRB compris, tiennent le poignet contre la barre.<sup>[4]</sup> Une suspension passive sur un coude irrité est un étirement en charge, pas du repos.</p>\n<h3>Démarrage</h3>\n<p>L'EMG montre que la répétition commence par le trapèze inférieur et le grand pectoral avant que biceps et dorsaux prennent le relais.<sup>[6]</sup> La prise, donc le tendon fléchisseur commun, est déjà à fond.</p>\n<h3>Milieu du tirage</h3>\n<p>Le biceps a travaillé en moyenne entre 78 et 96 pour cent de sa contraction maximale selon les variantes.<sup>[6]</sup> Tendon distal du biceps et brachial sont ici au pic.</p>\n<h3>Haut</h3>\n<p>Coude en flexion maximale ; en chin-up, le biceps est à la fois supinateur et fléchisseur.<sup>[5]</sup> Casser les poignets pour passer le menton surcharge le tendon fléchisseur commun.</p>\n<h3>Descente</h3>\n<p>La tension tendineuse culmine en phase excentrique, d'où la place de la rééducation ici. Descendre en trois secondes entraîne le tendon ; tomber sur un coude verrouillé le maltraite.</p>\n\n<h2>Comment la prise change-t-elle l'endroit qui fait mal ?</h2>\n<ul>\n<li><strong>Supination (chin-up).</strong> Le biceps et le grand pectoral étaient significativement plus actifs en chin-up qu'en traction pronation.<sup>[6]</sup> L'avant-bras est maintenu en supination : le tendon du biceps et l'origine fléchisseur-pronateur encaissent davantage. Chez les pratiquants, le golf elbow vient surtout des chin-ups et des curls.</li>\n<li><strong>Pronation (traction classique).</strong> Les extenseurs tiennent le poignet et déplacent la charge vers l'extérieur ; une prise large ajoute une déviation radiale, déclencheur connu du tennis elbow.<sup>[4]</sup> Voir <a href=\"/fr/tractions-vs-chin-up/\">tractions vs chin-up</a>.</li>\n<li><strong>Neutre (paumes face à face).</strong> L'avant-bras est entre pronation et supination, le poignet reste droit, aucun épicondyle ne subit de rotation. C'est la prise que la plupart des coudes douloureux tolèrent le mieux, et l'activation change assez peu d'une prise à l'autre.<sup>[6]</sup></li>\n</ul>\n\n<h2>Que dit la recherche sur l'entraînement avec une douleur tendineuse ?</h2>\n<p>La plupart des essais portent sur l'Achille et le rotulien ; prends ce qui suit comme des principes, pas des ordonnances.</p>\n<ul>\n<li><strong>Pas besoin d'arrêter.</strong> Dans un essai randomisé sur 38 patients avec une tendinopathie d'Achille, courir et sauter sous surveillance de la douleur a donné à 12 mois le même progrès que six semaines d'arrêt.<sup>[7]</sup></li>\n<li><strong>L'isométrie calme la douleur immédiatement.</strong> Chez six volleyeurs avec une tendinopathie rotulienne, une seule séance d'isométrie a fait passer la douleur sur un test en charge de 7,0 à 0,17 sur 10, pour au moins 45 minutes, et la force maximale a gagné environ 19 pour cent.<sup>[8]</sup></li>\n<li><strong>La résistance lourde et lente vaut l'excentrique.</strong> Chez 58 patients avec une tendinopathie d'Achille, 12 semaines de travail lent concentrique-excentrique ont égalé le programme excentrique classique à 12 et 52 semaines, avec une meilleure observance.<sup>[9]</sup></li>\n<li><strong>L'excentrique isolé du poignet aide le coude.</strong> Chez 21 patients avec un tennis elbow chronique, ajouter à la kinésithérapie un excentrique des extenseurs du poignet avec une barre en caoutchouc (Tyler twist) a donné des gains bien supérieurs en sept semaines : incapacité réduite de 76 contre 13 pour cent, douleur de 81 contre 22.<sup>[10]</sup> La version miroir avec les fléchisseurs sert pour le golf elbow.</li>\n</ul>\n\n<h2>Quelle règle de douleur te dit si tu peux continuer ?</h2>\n<p>L'essai sur l'Achille autorisait l'entraînement tant que la douleur restait sous un plafond convenu, se calmait le lendemain et n'augmentait pas de semaine en semaine.<sup>[7]</sup> Pour le coude, nous utilisons un feu tricolore plus prudent :</p>\n<ul>\n<li><strong>Vert : douleur jusqu'à 3 sur 10</strong> pendant la série, retour au niveau de base en 24 heures. Continue.</li>\n<li><strong>Orange : 4 à 5 sur 10</strong>, ou plus de raideur le matin que la veille. Réduis le volume d'un tiers, ralentis la descente, passe en neutre, garde l'isométrie.</li>\n<li><strong>Rouge : plus de 5 sur 10</strong>, douleur qui monte pendant la séance ou de semaine en semaine, ou douleur nocturne. Arrête les tractions et fais-toi examiner.</li>\n</ul>\n\n<h2>Comment continuer à t'entraîner et t'en sortir ?</h2>\n<p>Un canevas de huit semaines pour un tendon réactif, qui tient dans un <a href=\"/fr/programme-tractions/\">programme de tractions</a> normal :</p>\n<ol>\n<li><strong>Semaines 1 et 2 : calmer.</strong> Volume de tractions divisé par deux, prise neutre, arrêt au-dessus de la zone douloureuse si la suspension fait mal. Deux fois par jour : isométrie des fléchisseurs et extenseurs du poignet contre le bord d'une table, 5 × 45 secondes avec une douleur de 3 au plus, plus 45 secondes de curl isométrique à 90 degrés.<sup>[8]</sup> Négatives de 3 à 5 secondes, 3 séries de 3 à 5.</li>\n<li><strong>Semaines 3 à 6 : reconstruire la capacité.</strong> Trois fois par semaine, résistance lourde et lente pour l'avant-bras : curls de poignet et curls inversés, 3 secondes en montée et 3 en descente, 3 à 4 séries de 6 à 8 avec une charge dure à la dernière répétition, plus des curls marteau lents.<sup>[9]</sup> Torsions de barre en caoutchouc, 3 × 15 deux fois par jour ; version extenseurs pour la douleur externe, fléchisseurs pour l'interne.<sup>[10]</sup> Reprends les répétitions à environ 10 pour cent par semaine tant que le feu reste vert.</li>\n<li><strong>Semaines 7 et 8 : réintroduire les déclencheurs.</strong> Une série de chin-ups par séance, puis deux, descente lente. Garde deux séances d'avant-bras par semaine : le tendon préfère la régularité aux pics.<sup>[2]</sup></li>\n</ol>\n<p>Pas encore de traction ? Les mêmes règles valent pour les <a href=\"/fr/tractions-avec-elastique/\">tractions avec élastique</a> et les rowings.</p>\n\n<h2>Quels signes imposent de consulter ?</h2>\n<ul>\n<li><strong>Un claquement soudain devant le coude, un hématome et une supination faible.</strong> Possible rupture du tendon distal du biceps, qui demande le plus souvent une chirurgie et se soigne d'autant mieux que le diagnostic est rapide.<sup>[5]</sup></li>\n<li><strong>Engourdissement ou fourmillements dans l'annulaire et l'auriculaire.</strong> Le nerf ulnaire passe juste derrière l'épicondyle médial ; des symptômes nerveux ne sont pas une tendinopathie.<sup>[3]</sup></li>\n<li><strong>Blocage, accrochage ou dérobement</strong>, ou un clic profond et douloureux dans l'épaule en suspension, qui peut impliquer l'ancrage du biceps sur le labrum.<sup>[5]</sup></li>\n<li><strong>Douleur nocturne, au repos, gonflement, rougeur ou fièvre.</strong> La tendinopathie fait mal à la charge, pas la nuit.</li>\n</ul>\n\n<h2>Quelles erreurs entretiennent la douleur du coude ?</h2>\n<ul>\n<li><strong>Ajouter des répétitions à chaque séance.</strong> Le muscle le permet ; le tendon, non.<sup>[1]</sup> Progresse de 10 pour cent par semaine.</li>\n<li><strong>Tout arrêter.</strong> Le repos n'a pas fait mieux que la charge surveillée.<sup>[7]</sup></li>\n<li><strong>Étirer ou masser fort le point douloureux.</strong> La compression aggrave un tendon réactif.<sup>[2]</sup></li>\n<li><strong>Que des chin-ups, ou que des tractions pronation.</strong> Alterne les prises ; un <a href=\"/fr/plateau-tractions/\">plateau</a> trahit souvent des coudes cuits.</li>\n</ul>",
+      "faq": [
+        {
+          "q": "Pourquoi l'intérieur de mon coude fait-il mal après les tractions ?",
+          "a": "C'est en général le tendon fléchisseur commun sur l'épicondyle médial, l'origine des muscles qui serrent et pronent, ce que les cliniciens appellent golf elbow. Les chin-ups, une prise très serrée et les poignets cassés le chargent le plus. Réduis le volume, passe en prise neutre et charge les fléchisseurs du poignet lentement et lourdement plutôt que d'arrêter."
+        },
+        {
+          "q": "Puis-je continuer les tractions avec un golf elbow ou un tennis elbow ?",
+          "a": "En général oui, si la douleur reste à 3 sur 10 au plus pendant la série et se calme en 24 heures. Réduis le volume, prends une prise neutre, descends lentement et ajoute de l'isométrie quotidienne et des excentriques à la barre en caoutchouc. Arrête et consulte si la douleur monte pendant la séance ou de semaine en semaine."
+        },
+        {
+          "q": "Combien de temps met une tendinopathie du coude à guérir ?",
+          "a": "Un tendon réactif se calme souvent en quelques semaines une fois la charge ajustée ; un tendon douloureux depuis des mois demande généralement 8 à 12 semaines de charge progressive, et sa structure continue d'évoluer plus longtemps. Le tendon se renouvelle bien plus lentement que le muscle : la patience fait partie du traitement."
+        },
+        {
+          "q": "Quelle prise est la meilleure quand le coude fait mal ?",
+          "a": "La prise neutre, paumes face à face, est la mieux tolérée par la plupart des gens avec une douleur interne ou externe du coude, parce que le poignet reste droit et que l'avant-bras n'est pas vrillé. Les chin-ups chargent surtout l'intérieur du coude et le tendon du biceps ; les tractions pronation larges, l'extérieur."
+        },
+        {
+          "q": "Quand la douleur au coude après les tractions est-elle une urgence ?",
+          "a": "Un claquement soudain devant le coude avec un hématome et une faiblesse pour tourner la paume vers le haut peut être une rupture du tendon distal du biceps, qui s'opère en général rapidement. Des fourmillements dans l'annulaire et l'auriculaire, un blocage, une douleur nocturne ou un gonflement avec rougeur et fièvre demandent aussi un clinicien, pas un réglage d'entraînement."
+        }
+      ],
+      "sources": [
+        {
+          "label": "Heinemeier KM, Schjerling P, Heinemeier J, Magnusson SP, Kjaer M. Lack of tissue renewal in human adult Achilles tendon is revealed by nuclear bomb 14C. FASEB J, 2013.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/23401563/"
+        },
+        {
+          "label": "Cook JL, Purdam CR. Is tendon pathology a continuum? A pathology model to explain the clinical presentation of load-induced tendinopathy. Br J Sports Med, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/18812414/"
+        },
+        {
+          "label": "Li D, Hammad A, Kaiser K. Medial Epicondylitis (Golfer's Elbow). StatPearls [Internet], NCBI Bookshelf, 2026.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK519000/"
+        },
+        {
+          "label": "Buchanan BK, Varacallo MA. Lateral Epicondylitis (Tennis Elbow). StatPearls [Internet], NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK431092/"
+        },
+        {
+          "label": "Hsu D, Anand P, Mabrouk A, Chang KV. Biceps Tendon Rupture. StatPearls [Internet], NCBI Bookshelf, 2023.",
+          "url": "https://www.ncbi.nlm.nih.gov/books/NBK513235/"
+        },
+        {
+          "label": "Youdas JW, Amundson CL, Cicero KS, et al. Surface electromyographic activation patterns and elbow joint motion during a pull-up, chin-up, or Perfect-Pullup rotational exercise. J Strength Cond Res, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/21068680/"
+        },
+        {
+          "label": "Silbernagel KG, Thomeé R, Eriksson BI, Karlsson J. Continued sports activity, using a pain-monitoring model, during rehabilitation in patients with Achilles tendinopathy: a randomized controlled study. Am J Sports Med, 2007.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/17307888/"
+        },
+        {
+          "label": "Rio E, Kidgell D, Purdam C, et al. Isometric exercise induces analgesia and reduces inhibition in patellar tendinopathy. Br J Sports Med, 2015.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/25979840/"
+        },
+        {
+          "label": "Beyer R, Kongsgaard M, Hougs Kjær B, Øhlenschlæger T, Kjær M, Magnusson SP. Heavy slow resistance versus eccentric training as treatment for Achilles tendinopathy: a randomized controlled trial. Am J Sports Med, 2015.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26018970/"
+        },
+        {
+          "label": "Tyler TF, Thomas GC, Nicholas SJ, McHugh MP. Addition of isolated wrist extensor eccentric exercise to standard treatment for chronic lateral epicondylosis: a prospective randomized trial. J Shoulder Elbow Surg, 2010.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/20579907/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/fr/gainage-abdominaux-tractions/",
+          "title": "Le gainage aux tractions : anti-extension, le hollow body et le lien entre tes mains et tes hanches"
+        },
+        {
+          "href": "/fr/grand-pectoral-grand-rond-tractions/",
+          "title": "Grand pectoral, grand rond et « le petit assistant du dorsal » : les muscles de la poitrine et de l'aisselle qui te hissent"
+        },
+        {
+          "href": "/fr/biceps-brachial-tractions/",
+          "title": "Biceps, brachial et brachioradial aux tractions"
+        },
+        {
+          "href": "/fr/prise-avant-bras-tractions/",
+          "title": "Force de préhension aux tractions : anatomie de l'avant-bras"
+        },
+        {
+          "href": "/fr/coiffe-des-rotateurs-tractions/",
+          "title": "Coiffe des rotateurs et tractions : anatomie de l'épaule et sécurité"
+        },
+        {
+          "href": "/fr/plateau-tractions/",
+          "title": "Plateau aux tractions : pourquoi tu stagnes et comment avancer"
+        },
+        {
+          "href": "/fr/programme-tractions/",
+          "title": "Programme de tractions : un plan de la semaine pour progresser"
+        }
+      ]
+    }
+  }
+}
