@@ -14,7 +14,8 @@ Static marketing + SEO site for the PullUp Master app. Served by GitHub Pages fr
 2. `python3 scripts/build_article.py content/<topic>.json --check` until it reports no ERROR.
 3. `python3 scripts/build_article.py content/<topic>.json` writes the 5 `index.html` files and appends the URLs to `sitemap.xml`.
 4. Add links to the new article in the "Keep reading" lists of 2-3 related existing articles per language (edit the `<ul>` after the keep-reading `<h2>`).
-5. Commit and push to `main`. The `IndexNow ping` GitHub Action then submits the changed pages to Bing/Yandex automatically. To ping by hand: `scripts/indexnow.sh --changed` or `scripts/indexnow.sh --all`.
+5. `python3 scripts/sitemap_lastmod.py` refreshes `<lastmod>` in `sitemap.xml` from git history (run it before committing).
+6. Commit and push to `main`. The `IndexNow ping` GitHub Action then submits the changed pages to Bing/Yandex automatically. To ping by hand: `scripts/indexnow.sh --changed` or `scripts/indexnow.sh --all`.
 
 Do not hand-write article HTML; regenerate from JSON so the chrome (header, footer, CTA, schema) stays identical across pages.
 

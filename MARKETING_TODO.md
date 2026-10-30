@@ -32,6 +32,7 @@
 |---|---|---|---|---|---|
 | 2026-10-25 | Setup | Vendored seo-audit / cro / copywriting; wrote `.agents/product-marketing.md` from repo evidence; no analytics present on site | Setup done; audit still pending owner inputs (baseline, Search Console) | Owner | 2026-10-26 |
 | 2026-10-25 | Initial audit (seo-audit + cro, code-only; no analytics exist) | 89 pages, all in sitemap, hreflang reciprocal + x-default, Article+FAQPage schema, 301/404/canonical OK, TTFB ~0.3s, LCP ~0.6s, CLS 0 (desktop). Store: App Store 1 rating, Google Play 100+ installs. See findings section below. | Proposals only; owner to confirm trial length and approve store-link attribution | Owner | 2026-11-02 |
+| 2026-10-30 | seo-audit follow-up (code-only) | 114 pages scanned: all have canonical + one H1; titles ≤60 except 3 home pages; 5 home descriptions 215-259 chars; sitemap had 0 `lastmod`. EN articles each get 10-30 inbound links. | Done (uncommitted): finding 5 (home title/description trimmed to ≤60 / ≤147 chars in 5 langs), finding 8 (`scripts/sitemap_lastmod.py`, 114 URLs). Finding 4 was already done in 1048fbb. | Owner | 2026-11-02 |
 
 ## Initial audit findings (2026-10-25, proposals only)
 | # | Finding | Evidence | Impact | Confidence | Effort |
@@ -45,7 +46,7 @@
 | 7 | Store subtitle "Calisthenics progress tracker" does not match site positioning "adaptive pull-up coach / first pull-up" | App Store listing vs `index.html` H1 | Medium (ASO + message match) | Medium | Low (store copy change) |
 | 8 | Sitemap has no `lastmod`; legal pages lack hreflang (EN only, acceptable) | `sitemap.xml` | Low | High | Low |
 
-**Backlog (priority order):** 1 → 2 → 4 → 5 → 3 → 6 → 7 → 8.
+**Backlog (priority order):** 1 → 2 → ~~4~~ → ~~5~~ → 3 → 6 → 7 → ~~8~~. (4, 5, 8 done 2026-10-30; remaining need owner input or a hub template.)
 
 **Experiments (max 3, all need approval before deploy):**
 1. **Attribution first:** add App Store campaign params and Play `referrer` per placement (hero / sticky / pricing / article CTA). Metric: installs by placement in App Store Connect + Play Console after 28 days. Guardrail: no on-site tracking, links must still resolve.
