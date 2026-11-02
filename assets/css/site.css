@@ -457,7 +457,7 @@ a {
 
 .hero {
   position: relative;
-  padding: clamp(130px, 16vw, 180px) 0 clamp(64px, 8vw, 110px);
+  padding: calc(clamp(130px, 16vw, 180px) + env(safe-area-inset-top)) 0 clamp(64px, 8vw, 110px);
   overflow: hidden;
 }
 .hero::before {
