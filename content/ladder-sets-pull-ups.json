@@ -1,0 +1,367 @@
+{
+  "slugs": {
+    "en": "ladder-sets-pull-ups",
+    "de": "klimmzug-leitersaetze",
+    "tr": "merdiven-set-barfiks",
+    "es": "series-escalera-dominadas",
+    "fr": "series-echelle-tractions"
+  },
+  "priority": "0.8",
+  "langs": {
+    "en": {
+      "title": "Ladder Sets for Pull-Ups: 1-2-3-4 Rep Ladders Explained",
+      "description": "Ladder sets for pull-ups: what a 1-2-3-4 rep ladder is, why it beats flat sets for clean reps, how to rest, progress and run it step by step.",
+      "headline": "Ladder sets for pull-ups: how a 1-2-3-4 rep ladder works",
+      "subtitle": "Climb one rep per set, bank clean reps first, finish on your hardest rung",
+      "read_time": "7 min read",
+      "lede": "A ladder set is a short run of sets where the reps climb by one each time: 1, 2, 3, 4. You rest between rungs, so ten pull-ups are spread over four easy-to-hard sets and the hardest rep count comes last, when you are warm and the pattern is groove. This guide explains why that works, how Pull Up Master builds and progresses your ladder, and how to run one well.",
+      "body_html": "<h2>What is a ladder set?</h2>\n<p>A ladder is a series of short sets in which the rep count goes up by one each time. A four-rung ladder is one rep, rest, two reps, rest, three reps, rest, four reps. Every rung is a normal set with its own rest, so the whole ladder adds up to 10 pull-ups across four sets.</p>\n<p>It differs from a straight-set plan such as 4×4 or 5×5, where every set asks for the same number. In a straight-set plan the first set is the freshest and the last is the hardest, even though the target is identical. A ladder writes that gradient into the plan: the light work comes first on purpose, and the hard work sits at the top of the ladder.</p>\n\n<h2>Why climb instead of repeating the same number?</h2>\n<p>There are three practical reasons and one honest caveat.</p>\n<ul>\n<li><strong>Clean reps while you are fresh.</strong> One or two reps is far below what you can do, so each one is slow and strict. You rehearse the pattern (dead hang start, chin clearly over the bar, controlled lowering) before fatigue shows up.</li>\n<li><strong>Less fatigue per set.</strong> You reach your hardest rung only after several smaller ones, so the work is spread across the session instead of being loaded onto one maximal set.</li>\n<li><strong>A built-in target.</strong> The top rung is one set to beat. You see progress every session without testing a max.</li>\n</ul>\n<p>Volume matters for progress. A meta-analysis of weekly set volume found a dose-response relationship between the number of hard sets and muscle growth.<sup>[3]</sup> The American College of Sports Medicine position stand describes gradual progression of load and volume as the core principle of resistance training.<sup>[1]</sup> A ladder is one way to spend that volume. We found no trial that compared ladders with straight sets for pull-up reps, so treat the format as a sensible coaching convention rather than a proven winner.</p>\n\n<h2>How does Pull Up Master build your ladder?</h2>\n<p>The ladder lives in the <strong>Volume</strong> block, the plan the app builds when your current max is between four and ten strict pull-ups. In the app it is called \"Ladder set (1-2-3-4)\" and the plan line reads <em>4 sets × 1-2-3-4</em>.</p>\n<p>The top rung is your target for the day, and every rung below it steps down by one. Each level the engine moves you up adds one rep to every rung, and the ladder always keeps four rungs:</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Level</th><th>Rungs</th><th>Total reps</th><th>When you are here</th></tr></thead>\n<tbody>\n<tr><td>Base</td><td>1-2-3-4</td><td>10</td><td>Where every new block starts</td></tr>\n<tr><td>One level up</td><td>2-3-4-5</td><td>14</td><td>After a strong top rung</td></tr>\n<tr><td>Two levels up</td><td>3-4-5-6</td><td>18</td><td>You keep beating the top rung</td></tr>\n<tr><td>One level down</td><td>1-1-2-3</td><td>7</td><td>After two short sessions, or just for today if you mark low energy</td></tr>\n</tbody></table></div>\n<p>The rep counter is prefilled with the number for the current rung. Tap complete after each rung and change the number if you did more or fewer. The same ladder runs on the Apple Watch, rung by rung.</p>\n\n<h2>How does the app decide when to move you up?</h2>\n<p>After the last rung it compares what you logged with the top rung. If you beat it by two or more reps, the ladder goes up a level next time. If you finish below it on two sessions in a row, it goes down one. Anything in between stays put.</p>\n<p>That makes the last rung the one that steers your plan. The early rungs are volume and practice. If the top rung feels easy, keep going and log the real number, because that number is what moves you up.</p>\n\n<h2>How to run a ladder set, step by step</h2>\n<ol>\n<li><strong>Warm up first.</strong> Do the shoulder and scapular prep from <a href=\"/shoulder-warm-up-pull-ups/\">our warm-up guide</a>. Rung one is easy, but cold shoulders are the usual reason a ladder goes wrong.</li>\n<li><strong>Rung one: one strict rep.</strong> Start from a dead hang, pull until your chin is clearly over the bar, and lower for two to three seconds.</li>\n<li><strong>Rest, then climb.</strong> Take the full timer. Resting short on the easy rungs is tempting and defeats the point.</li>\n<li><strong>Keep every rung the same quality.</strong> Rung four should look like rung one. If the last reps slow down a lot, that is the hard part, not a reason to kip.</li>\n<li><strong>Log what happened.</strong> Honest numbers keep the level right. A rung you could not finish is information, not a failure.</li>\n</ol>\n\n<h2>How long should you rest between rungs?</h2>\n<p>Longer than most people expect on the hard rungs. The ACSM position stand recommends longer rests, around two to three minutes, for heavy multi-joint lifts.<sup>[1]</sup> In a trial of resistance-trained men, a group resting three minutes between sets gained more strength and some muscle thickness than a group resting one minute.<sup>[2]</sup> That trial used weights, not pull-ups, so read it as direction rather than a prescription.</p>\n<p>The app uses one rest time for the whole session, 90 seconds by default. You can change it in Settings. If you keep missing the top rung, try two minutes before you change anything else.</p>\n\n<h2>Ladder or straight sets: which one?</h2>\n<div class=\"table-scroll\"><table>\n<thead><tr><th></th><th>Ladder (1-2-3-4)</th><th>Straight sets (4×4)</th></tr></thead>\n<tbody>\n<tr><td>Total reps</td><td>10</td><td>16</td></tr>\n<tr><td>Hardest set</td><td>The last rung, by design</td><td>Usually the last, but every set is near the target</td></tr>\n<tr><td>Best for</td><td>Practising clean reps, building to one top set, days you feel flat</td><td>Adding volume once you can hit the target on every set</td></tr>\n<tr><td>Watch for</td><td>Top rung feels easy, so log it and level up</td><td>Late sets falling apart</td></tr>\n</tbody></table></div>\n<p>The two are not rivals. The Volume block mixes them: the ladder is one exercise in the session, and straight sets such as the 5×5 pull-up work sit next to it. If pain swaps the ladder for straight sets, the plan still works, just with a flat rhythm.</p>\n\n<h2>Who benefits most from a ladder?</h2>\n<p>Ladders suit people whose max sits between four and ten strict reps, which is why the app puts them in the Volume block. At that level a flat 4×4 can be close to maximal on every set, and form slips by the third set. A ladder collects the same top number with lighter sets leading up to it. It also works on days you feel flat: the early rungs act as extra warm-up, and by rung two or three you can tell whether the top rung is realistic. If you are stronger than that, higher-rep blocks use your time better. If you are weaker, negatives and bands come first.</p>\n\n<h2>Common ladder mistakes</h2>\n<ul>\n<li><strong>Racing the early rungs.</strong> The point of rungs one and two is slow, strict reps. Rushing them throws away the practice.</li>\n<li><strong>Adding reps to the small rungs.</strong> Doing three on rung one turns the ladder into straight sets and spends your energy too early.</li>\n<li><strong>Kipping the top rung.</strong> A swinging fourth rep logs a number that is not your strength, and the app will level you up for it.</li>\n<li><strong>Skipping the rest.</strong> Cutting rests shrinks the volume you can do and blurs the signal the app reads.</li>\n</ul>\n\n<h2>When should you move on from ladders?</h2>\n<p>You do not have to decide. The engine retests you at the end of each block, and when your max passes ten pull-ups it moves you to the Endurance block, which is built for higher reps. If your reps stall before then, <a href=\"/pull-up-plateau/\">our plateau guide</a> covers the usual causes. If you are still working toward a first strict rep, start with the <a href=\"/first-pull-up/\">first pull-up guide</a> and come back to ladders once you can do four.</p>",
+      "faq": [
+        {
+          "q": "What is a ladder set in pull-ups?",
+          "a": "A run of short sets where the reps climb by one each time, such as 1, 2, 3, 4, with a rest between rungs. It trains clean reps first and your hardest count last."
+        },
+        {
+          "q": "Is a ladder better than 4×4 straight sets?",
+          "a": "Not proven. We found no trial comparing the two for pull-up reps. A ladder gives you less total volume (10 reps against 16) but lighter early sets, which suits practising form and days you feel flat."
+        },
+        {
+          "q": "How long should I rest between ladder rungs?",
+          "a": "Use the full timer, which is 90 seconds by default in Pull Up Master. Heavier efforts benefit from longer rests, so move to two minutes if you keep missing the top rung."
+        },
+        {
+          "q": "What happens if I cannot finish the top rung?",
+          "a": "Log the real number. One short session changes nothing. Two in a row drops the ladder by one level, for example from 1-2-3-4 to 1-1-2-3."
+        },
+        {
+          "q": "Can I choose not to do ladders in the app?",
+          "a": "Ladders are part of the Volume block, so there is no on/off switch. If you report pain the app can swap the exercise for straight sets until you are pain-free."
+        }
+      ],
+      "sources": [
+        {
+          "label": "American College of Sports Medicine. Position stand: Progression models in resistance training for healthy adults. Med Sci Sports Exerc, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/"
+        },
+        {
+          "label": "Schoenfeld BJ, Pope ZK, Benik FM, et al. Longer interset rest periods enhance muscle strength and hypertrophy in resistance-trained men. J Strength Cond Res, 2016.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26605807/"
+        },
+        {
+          "label": "Schoenfeld BJ, Ogborn D, Krieger JW. Dose-response relationship between weekly resistance training volume and increases in muscle mass: a systematic review and meta-analysis. J Sports Sci, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27433992/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/first-pull-up/",
+          "title": "How to do your first pull-up"
+        },
+        {
+          "href": "/pull-up-workout-plan/",
+          "title": "Pull-up workout plan: a weekly routine to add reps"
+        },
+        {
+          "href": "/pull-up-plateau/",
+          "title": "Pull-up plateau: why your reps stopped going up and how to break through"
+        },
+        {
+          "href": "/pull-up-mistakes/",
+          "title": "Pull-up mistakes: 7 form errors that hold you back (and the fixes)"
+        },
+        {
+          "href": "/negative-pull-ups/",
+          "title": "Negative pull-ups: how eccentric training builds your first pull-up"
+        },
+        {
+          "href": "/shoulder-warm-up-pull-ups/",
+          "title": "Pull-up warm-up: shoulder and upper-back mobility for the overhead hang"
+        }
+      ]
+    },
+    "de": {
+      "title": "Leitersätze beim Klimmzug: 1-2-3-4 einfach erklärt",
+      "description": "Leitersätze beim Klimmzug: Was eine 1-2-3-4-Leiter ist, warum sie saubere Wiederholungen bringt, wie du pausierst, steigerst und sie Schritt für Schritt machst.",
+      "headline": "Leitersätze beim Klimmzug: So funktioniert die 1-2-3-4-Leiter",
+      "subtitle": "Pro Satz eine Wiederholung mehr, erst saubere Wiederholungen sammeln, am Ende die schwerste Sprosse",
+      "read_time": "7 Min. Lesezeit",
+      "lede": "Ein Leitersatz ist eine kurze Satzfolge, bei der die Wiederholungen jedes Mal um eins steigen: 1, 2, 3, 4. Zwischen den Sprossen pausierst du, sodass sich zehn Klimmzüge auf vier Sätze von leicht nach schwer verteilen und die höchste Zahl zuletzt kommt, wenn du warm bist und die Bewegung sitzt. Hier erfährst du, warum das funktioniert, wie Pull Up Master deine Leiter aufbaut und steigert und wie du sie sauber ausführst.",
+      "body_html": "<h2>Was ist ein Leitersatz?</h2>\n<p>Eine Leiter ist eine Reihe kurzer Sätze, bei der die Wiederholungszahl jedes Mal um eins steigt. Eine Leiter mit vier Sprossen heißt: eine Wiederholung, Pause, zwei Wiederholungen, Pause, drei, Pause, vier. Jede Sprosse ist ein normaler Satz mit eigener Pause, die ganze Leiter ergibt also 10 Klimmzüge in vier Sätzen.</p>\n<p>Anders als bei normalen Sätzen wie 4×4 oder 5×5, bei denen jeder Satz dieselbe Zahl verlangt, ist die Steigerung hier Teil des Plans. Bei normalen Sätzen ist der erste Satz der frischeste und der letzte der härteste, obwohl das Ziel gleich ist. Die Leiter legt dieses Gefälle fest: Die leichte Arbeit kommt bewusst zuerst, die harte steht oben.</p>\n\n<h2>Warum steigern, statt immer dieselbe Zahl zu wiederholen?</h2>\n<p>Es gibt drei praktische Gründe und eine ehrliche Einschränkung.</p>\n<ul>\n<li><strong>Saubere Wiederholungen im frischen Zustand.</strong> Eine oder zwei Wiederholungen liegen weit unter deinem Maximum, also läuft jede langsam und streng ab. Du übst das Bewegungsmuster (Start im Dead Hang, Kinn deutlich über der Stange, kontrolliertes Ablassen), bevor Ermüdung auftritt.</li>\n<li><strong>Weniger Ermüdung pro Satz.</strong> Die schwerste Sprosse erreichst du erst nach mehreren kleineren, die Arbeit verteilt sich also über das Training statt auf einen einzigen maximalen Satz.</li>\n<li><strong>Ein eingebautes Ziel.</strong> Die oberste Sprosse ist ein Satz, den du schlagen kannst. So siehst du jede Einheit Fortschritt, ohne ein Maximum zu testen.</li>\n</ul>\n<p>Das Volumen zählt für den Fortschritt. Eine Metaanalyse zum wöchentlichen Satzvolumen fand eine Dosis-Wirkungs-Beziehung zwischen der Zahl harter Sätze und dem Muskelwachstum.<sup>[3]</sup> Das Positionspapier des American College of Sports Medicine nennt die schrittweise Steigerung von Last und Volumen als Kernprinzip des Krafttrainings.<sup>[1]</sup> Eine Leiter ist eine Möglichkeit, dieses Volumen zu verteilen. Wir haben keine Studie gefunden, die Leitern und normale Sätze bei Klimmzug-Wiederholungen vergleicht. Sieh das Format also als sinnvolle Trainingskonvention, nicht als bewiesenen Sieger.</p>\n\n<h2>Wie baut Pull Up Master deine Leiter auf?</h2>\n<p>Die Leiter steckt im Block <strong>Volumen</strong>, dem Plan, den die App erstellt, wenn dein aktuelles Maximum zwischen vier und zehn strengen Klimmzügen liegt. In der App heißt die Übung „Leiter-Satz (1-2-3-4)“ und die Planzeile lautet <em>4 Sätze × 1-2-3-4</em>.</p>\n<p>Die oberste Sprosse ist dein Tagesziel, jede Sprosse darunter ist um eins niedriger. Mit jeder Stufe, die dich die Engine hochstuft, kommt eine Wiederholung auf jede Sprosse, und die Leiter behält immer vier Sprossen:</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Stufe</th><th>Sprossen</th><th>Wiederholungen gesamt</th><th>Wann du dort bist</th></tr></thead>\n<tbody>\n<tr><td>Basis</td><td>1-2-3-4</td><td>10</td><td>Hier startet jeder neue Block</td></tr>\n<tr><td>Eine Stufe höher</td><td>2-3-4-5</td><td>14</td><td>Nach einer starken obersten Sprosse</td></tr>\n<tr><td>Zwei Stufen höher</td><td>3-4-5-6</td><td>18</td><td>Du schlägst die oberste Sprosse immer wieder</td></tr>\n<tr><td>Eine Stufe tiefer</td><td>1-1-2-3</td><td>7</td><td>Nach zwei zu schwachen Einheiten oder nur heute, wenn du wenig Energie angibst</td></tr>\n</tbody></table></div>\n<p>Der Wiederholungszähler ist mit der Zahl der aktuellen Sprosse vorbelegt. Tippe nach jeder Sprosse auf Fertig und ändere die Zahl, wenn du mehr oder weniger geschafft hast. Dieselbe Leiter läuft auf der Apple Watch, Sprosse für Sprosse.</p>\n\n<h2>Wann stuft die App dich hoch?</h2>\n<p>Nach der letzten Sprosse vergleicht die App deine Eingabe mit der obersten Sprosse. Schlägst du sie um zwei oder mehr Wiederholungen, steigt die Leiter beim nächsten Mal eine Stufe. Bleibst du in zwei Einheiten hintereinander darunter, geht sie eine Stufe zurück. Alles dazwischen bleibt gleich.</p>\n<p>Damit steuert die letzte Sprosse deinen Plan. Die frühen Sprossen sind Volumen und Übung. Fühlt sich die oberste Sprosse leicht an, mach weiter und trage die echte Zahl ein, denn diese Zahl bringt dich nach oben.</p>\n\n<h2>So führst du einen Leitersatz Schritt für Schritt aus</h2>\n<ol>\n<li><strong>Zuerst aufwärmen.</strong> Mach die Schulter- und Schulterblatt-Vorbereitung aus <a href=\"/de/klimmzug-aufwaermen/\">unserem Aufwärm-Ratgeber</a>. Die erste Sprosse ist leicht, aber kalte Schultern sind der häufigste Grund, warum eine Leiter schiefgeht.</li>\n<li><strong>Sprosse eins: eine strenge Wiederholung.</strong> Starte im Dead Hang, zieh, bis das Kinn deutlich über der Stange ist, und lass zwei bis drei Sekunden ab.</li>\n<li><strong>Pause, dann steigern.</strong> Nimm den ganzen Timer. Auf den leichten Sprossen kurz zu pausieren ist verlockend und nimmt der Leiter den Sinn.</li>\n<li><strong>Jede Sprosse in gleicher Qualität.</strong> Sprosse vier soll aussehen wie Sprosse eins. Werden die letzten Wiederholungen deutlich langsamer, ist das der harte Teil und kein Grund zu kippen.</li>\n<li><strong>Trag ein, was passiert ist.</strong> Ehrliche Zahlen halten die Stufe richtig. Eine Sprosse, die du nicht geschafft hast, ist eine Information, kein Scheitern.</li>\n</ol>\n\n<h2>Wie lange pausieren zwischen den Sprossen?</h2>\n<p>Auf den schweren Sprossen länger, als die meisten denken. Das ACSM-Positionspapier empfiehlt für schwere Mehrgelenkübungen längere Pausen von etwa zwei bis drei Minuten.<sup>[1]</sup> In einer Studie mit krafttrainierten Männern gewann die Gruppe mit drei Minuten Satzpause mehr Kraft und etwas mehr Muskeldicke als die Gruppe mit einer Minute.<sup>[2]</sup> Die Studie arbeitete mit Gewichten, nicht mit Klimmzügen, also lies sie als Richtung und nicht als Vorschrift.</p>\n<p>Die App nutzt für die ganze Einheit eine Pausenzeit, standardmäßig 90 Sekunden. Du änderst sie in den Einstellungen. Verfehlst du die oberste Sprosse immer wieder, probiere zwei Minuten, bevor du etwas anderes änderst.</p>\n\n<h2>Leiter oder normale Sätze: was passt?</h2>\n<div class=\"table-scroll\"><table>\n<thead><tr><th></th><th>Leiter (1-2-3-4)</th><th>Normale Sätze (4×4)</th></tr></thead>\n<tbody>\n<tr><td>Wiederholungen gesamt</td><td>10</td><td>16</td></tr>\n<tr><td>Härtester Satz</td><td>Die letzte Sprosse, gewollt</td><td>Meist der letzte, aber jeder Satz liegt nahe am Ziel</td></tr>\n<tr><td>Am besten für</td><td>Saubere Wiederholungen üben, auf einen Top-Satz hinarbeiten, Tage mit wenig Antrieb</td><td>Volumen aufbauen, sobald du das Ziel in jedem Satz schaffst</td></tr>\n<tr><td>Darauf achten</td><td>Oberste Sprosse fühlt sich leicht an: eintragen und aufsteigen</td><td>Späte Sätze, die auseinanderfallen</td></tr>\n</tbody></table></div>\n<p>Beides ist keine Konkurrenz. Der Volumen-Block mischt sie: Die Leiter ist eine Übung der Einheit, daneben stehen normale Sätze wie die 5×5-Klimmzugarbeit. Tauscht die App die Leiter bei Schmerzen gegen normale Sätze, funktioniert der Plan weiter, nur mit gleichförmigem Rhythmus.</p>\n\n<h2>Wer profitiert am meisten von einer Leiter?</h2>\n<p>Leitern passen zu Menschen, deren Maximum zwischen vier und zehn strengen Wiederholungen liegt, deshalb steckt die App sie in den Volumen-Block. Auf diesem Niveau kann ein gleichförmiges 4×4 in jedem Satz nahe am Maximum liegen, und ab dem dritten Satz leidet die Technik. Eine Leiter sammelt dieselbe Höchstzahl mit leichteren Sätzen davor. Sie hilft auch an Tagen mit wenig Antrieb: Die frühen Sprossen wirken wie zusätzliches Aufwärmen, und ab Sprosse zwei oder drei merkst du, ob die oberste realistisch ist. Bist du stärker, nutzen Blöcke mit mehr Wiederholungen deine Zeit besser. Bist du schwächer, kommen Negative und Bänder zuerst.</p>\n\n<h2>Häufige Fehler bei Leitersätzen</h2>\n<ul>\n<li><strong>Die frühen Sprossen durchhetzen.</strong> Der Sinn der Sprossen eins und zwei sind langsame, strenge Wiederholungen. Wer sie hetzt, verschenkt die Übung.</li>\n<li><strong>Auf kleinen Sprossen mehr machen.</strong> Drei Wiederholungen auf Sprosse eins machen aus der Leiter normale Sätze und verbrauchen Energie zu früh.</li>\n<li><strong>Die oberste Sprosse mit Schwung ziehen.</strong> Eine geschwungene vierte Wiederholung trägt eine Zahl ein, die nicht deine Kraft ist, und die App stuft dich dafür hoch.</li>\n<li><strong>Die Pause auslassen.</strong> Kürzere Pausen verkleinern das mögliche Volumen und verwischen das Signal, das die App liest.</li>\n</ul>\n\n<h2>Wann solltest du über Leitern hinausgehen?</h2>\n<p>Das musst du nicht entscheiden. Die Engine testet dich am Ende jedes Blocks neu, und wenn dein Maximum zehn Klimmzüge übersteigt, wechselt sie in den Ausdauer-Block für höhere Wiederholungen. Stocken deine Wiederholungen davor, behandelt <a href=\"/de/klimmzug-plateau/\">unser Plateau-Ratgeber</a> die üblichen Ursachen. Arbeitest du noch auf den ersten strengen Klimmzug hin, beginne mit dem <a href=\"/de/erster-klimmzug/\">Ratgeber zum ersten Klimmzug</a> und komm zu den Leitern zurück, sobald du vier schaffst.</p>",
+      "faq": [
+        {
+          "q": "Was ist ein Leitersatz beim Klimmzug?",
+          "a": "Eine Folge kurzer Sätze, bei der die Wiederholungen jedes Mal um eins steigen, etwa 1, 2, 3, 4, mit Pause zwischen den Sprossen. Er trainiert zuerst saubere Wiederholungen und zuletzt deine höchste Zahl."
+        },
+        {
+          "q": "Ist eine Leiter besser als normale 4×4-Sätze?",
+          "a": "Das ist nicht bewiesen. Wir haben keine Studie gefunden, die beides bei Klimmzug-Wiederholungen vergleicht. Eine Leiter hat weniger Gesamtvolumen (10 statt 16 Wiederholungen), dafür leichtere frühe Sätze, was zum Üben der Technik und für Tage mit wenig Antrieb passt."
+        },
+        {
+          "q": "Wie lange soll ich zwischen den Sprossen pausieren?",
+          "a": "Nutze den ganzen Timer, in Pull Up Master standardmäßig 90 Sekunden. Härtere Anstrengungen profitieren von längeren Pausen, gehe also auf zwei Minuten, wenn du die oberste Sprosse immer wieder verfehlst."
+        },
+        {
+          "q": "Was passiert, wenn ich die oberste Sprosse nicht schaffe?",
+          "a": "Trag die echte Zahl ein. Eine schwache Einheit ändert nichts. Zwei hintereinander senken die Leiter um eine Stufe, zum Beispiel von 1-2-3-4 auf 1-1-2-3."
+        },
+        {
+          "q": "Kann ich Leitern in der App abwählen?",
+          "a": "Leitern gehören zum Volumen-Block, einen Ein-Aus-Schalter gibt es nicht. Meldest du Schmerzen, kann die App die Übung gegen normale Sätze tauschen, bis du schmerzfrei bist."
+        }
+      ],
+      "sources": [
+        {
+          "label": "American College of Sports Medicine. Position stand: Progression models in resistance training for healthy adults. Med Sci Sports Exerc, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/"
+        },
+        {
+          "label": "Schoenfeld BJ, Pope ZK, Benik FM, et al. Longer interset rest periods enhance muscle strength and hypertrophy in resistance-trained men. J Strength Cond Res, 2016.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26605807/"
+        },
+        {
+          "label": "Schoenfeld BJ, Ogborn D, Krieger JW. Dose-response relationship between weekly resistance training volume and increases in muscle mass: a systematic review and meta-analysis. J Sports Sci, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27433992/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/de/erster-klimmzug/",
+          "title": "So schaffst du deinen ersten Klimmzug"
+        },
+        {
+          "href": "/de/klimmzug-trainingsplan/",
+          "title": "Klimmzug Trainingsplan: So steigerst du deine Wiederholungen"
+        },
+        {
+          "href": "/de/klimmzug-plateau/",
+          "title": "Klimmzug-Plateau: So kommst du wieder voran"
+        },
+        {
+          "href": "/de/klimmzug-fehler/",
+          "title": "Klimmzug Fehler: Die 7 häufigsten und wie du sie behebst"
+        },
+        {
+          "href": "/de/negative-klimmzuege/",
+          "title": "Negative Klimmzüge: So baut exzentrisches Training deinen ersten Klimmzug auf"
+        },
+        {
+          "href": "/de/klimmzug-aufwaermen/",
+          "title": "Klimmzug aufwärmen: Schulter- und Rückenmobilität für den Hang über Kopf"
+        }
+      ]
+    },
+    "tr": {
+      "title": "Barfiksde Merdiven Set: 1-2-3-4 Tekrar Merdiveni",
+      "description": "Barfiksde merdiven set nedir: 1-2-3-4 tekrar merdiveni neden temiz tekrar kazandırır, nasıl dinlenir, nasıl ilerlenir ve adım adım nasıl yapılır.",
+      "headline": "Barfiksde merdiven set: 1-2-3-4 tekrar merdiveni nasıl çalışır",
+      "subtitle": "Her sette bir tekrar artır, önce temiz tekrar biriktir, en zor basamakla bitir",
+      "read_time": "7 dk okuma",
+      "lede": "Merdiven set, tekrarların her seferinde bir artması demektir: 1, 2, 3, 4. Basamaklar arasında dinlenirsin, böylece on barfiks kolaydan zora dizilmiş dört sete yayılır ve en yüksek tekrar en sona kalır; o zaman ısınmışsındır ve hareket oturmuştur. Bu rehber merdivenin neden işe yaradığını, Pull Up Master'ın merdiveni nasıl kurup ilerlettiğini ve onu nasıl düzgün yapacağını anlatır.",
+      "body_html": "<h2>Merdiven set nedir?</h2>\n<p>Merdiven, tekrar sayısının her sette bir arttığı kısa setler dizisidir. Dört basamaklı bir merdiven şöyledir: bir tekrar, dinlenme, iki tekrar, dinlenme, üç tekrar, dinlenme, dört tekrar. Her basamak kendi dinlenmesi olan normal bir settir, yani merdivenin tamamı dört sette toplam 10 barfiks eder.</p>\n<p>4×4 veya 5×5 gibi düz setlerde her set aynı sayıyı ister. Düz sette ilk set en taze, son set en zor olur; hedef aynı olsa bile. Merdiven bu eğimi planın içine yazar: hafif iş bilerek başa gelir, zor iş merdivenin tepesinde durur.</p>\n\n<p>Somut bir örnek: maksimumun dört barfiks olsun. Düz 4×4'te dört seti de maksimuma yakın yaparsın ve üçüncü sette çenen barın üstüne zor çıkar. Merdivende ise ilk iki basamak neredeyse bedavadır; üçüncü basamakta hareket ısınmış ve oturmuş olur, dördüncüde tek bir zor set vardır. Toplam iş daha az görünür, ama tekrarların çoğu temiz olur ve bir sonraki antrenmanda tekrar etmeye hazır kalırsın. Bu fark, haftada iki üç kez barfiks çeken biri için zamanla birikir.</p>\n\n<h2>Neden hep aynı sayıyı tekrarlamak yerine tırmanıyoruz?</h2>\n<p>Üç pratik neden ve bir dürüst uyarı var.</p>\n<ul>\n<li><strong>Tazeyken temiz tekrar.</strong> Bir iki tekrar, yapabileceğinin çok altındadır; bu yüzden her biri yavaş ve sıkı geçer. Yorgunluk gelmeden hareketi çalışırsın: dead hang'den başlama, çenenin barın belirgin biçimde üstüne çıkması, kontrollü inme.</li>\n<li><strong>Sette daha az yorgunluk.</strong> En zor basamağa birkaç küçük basamaktan sonra gelirsin; iş tek bir maksimum sete yüklenmek yerine antrenmana yayılır.</li>\n<li><strong>Hazır bir hedef.</strong> Tepedeki basamak geçilecek bir settir. Maksimum denemeden her antrenmanda ilerlemeyi görürsün.</li>\n</ul>\n<p>İlerleme için hacim önemlidir. Haftalık set hacmine bakan bir meta-analiz, zor set sayısı ile kas büyümesi arasında doz-yanıt ilişkisi buldu.<sup>[3]</sup> American College of Sports Medicine'in görüş bildirgesi de yük ve hacmin kademeli artırılmasını direnç antrenmanının temel ilkesi olarak tanımlar.<sup>[1]</sup> Merdiven bu hacmi harcamanın bir yoludur. Barfiks tekrarları için merdiveni düz setlerle karşılaştıran bir çalışma bulamadık; bu yüzden formatı kanıtlanmış bir üstünlük değil, mantıklı bir antrenman geleneği olarak gör.</p>\n\n<h2>Pull Up Master merdivenini nasıl kuruyor?</h2>\n<p>Merdiven <strong>Hacim</strong> bloğunda yer alır; mevcut maksimumun dört ile on sıkı barfiks arasındayken uygulamanın kurduğu plan budur. Uygulamada hareketin adı \"Merdiven set (1-2-3-4)\", plan satırı ise <em>4 set × 1-2-3-4</em> şeklindedir.</p>\n<p>Tepedeki basamak günün hedefidir; altındaki her basamak birer eksiktir. Motor seni her seviye yukarı aldığında her basamağa bir tekrar eklenir ve merdiven her zaman dört basamak kalır:</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Seviye</th><th>Basamaklar</th><th>Toplam tekrar</th><th>Ne zaman burada olursun</th></tr></thead>\n<tbody>\n<tr><td>Temel</td><td>1-2-3-4</td><td>10</td><td>Her yeni blok buradan başlar</td></tr>\n<tr><td>Bir seviye yukarı</td><td>2-3-4-5</td><td>14</td><td>Güçlü bir tepe basamağından sonra</td></tr>\n<tr><td>İki seviye yukarı</td><td>3-4-5-6</td><td>18</td><td>Tepe basamağını sürekli geçiyorsun</td></tr>\n<tr><td>Bir seviye aşağı</td><td>1-1-2-3</td><td>7</td><td>İki kısa antrenmandan sonra, ya da düşük enerji işaretlersen sadece bugün için</td></tr>\n</tbody></table></div>\n<p>Tekrar sayacı, o basamağın sayısıyla dolu gelir. Her basamaktan sonra tamamla'ya dokun; daha fazla ya da az yaptıysan sayıyı değiştir. Aynı merdiven Apple Watch'ta da basamak basamak çalışır.</p>\n\n<h2>Uygulama seni ne zaman yukarı alır?</h2>\n<p>Son basamaktan sonra, girdiğin sayıyı tepe basamağıyla karşılaştırır. Onu iki ya da daha fazla tekrarla geçersen merdiven bir sonraki sefer bir seviye çıkar. Art arda iki antrenmanda altında kalırsan bir seviye iner. Arası olduğu gibi kalır.</p>\n<p>Planı yönlendiren basamak, son basamaktır. İlk basamaklar hacim ve pratiktir. Tepe basamağı kolay geliyorsa devam et ve gerçek sayıyı gir; seni yukarı taşıyan o sayıdır.</p>\n\n<h2>Merdiven set adım adım nasıl yapılır?</h2>\n<ol>\n<li><strong>Önce ısın.</strong> <a href=\"/tr/barfiks-isinma-hareketleri/\">Isınma rehberimizdeki</a> omuz ve kürek kemiği hazırlığını yap. İlk basamak kolaydır ama soğuk omuz, merdivenin bozulmasının en yaygın nedenidir.</li>\n<li><strong>Birinci basamak: bir sıkı tekrar.</strong> Dead hang'den başla, çene barın belirgin biçimde üstüne çıkana kadar çek ve iki üç saniyede in.</li>\n<li><strong>Dinlen, sonra tırman.</strong> Sayacın tamamını kullan. Kolay basamaklarda kısa dinlenmek cazip gelir ama merdivenin amacını bozar.</li>\n<li><strong>Her basamağı aynı kalitede tut.</strong> Dördüncü basamak birincisi gibi görünmeli. Son tekrarlar belirgin biçimde yavaşlıyorsa zor kısım budur, sallanmak için sebep değildir.</li>\n<li><strong>Olanı kaydet.</strong> Dürüst sayılar seviyeyi doğru tutar. Bitiremediğin basamak bir bilgidir, başarısızlık değil.</li>\n</ol>\n\n<h2>Basamaklar arasında ne kadar dinlenmeli?</h2>\n<p>Zor basamaklarda çoğu kişinin sandığından uzun. ACSM görüş bildirgesi, ağır çok eklemli hareketler için iki üç dakika civarında daha uzun dinlenmeyi önerir.<sup>[1]</sup> Direnç antrenmanı yapmış erkeklerle yapılan bir denemede, setler arası üç dakika dinlenen grup, bir dakika dinlenen gruptan daha fazla kuvvet ve biraz daha fazla kas kalınlığı kazandı.<sup>[2]</sup> Çalışma barfiks değil ağırlıkla yapıldı; bu yüzden onu reçete değil yön olarak oku.</p>\n<p>Uygulama tüm antrenman için tek bir dinlenme süresi kullanır; varsayılan 90 saniyedir. Ayarlar'dan değiştirebilirsin. Tepe basamağı art arda kaçırıyorsan, başka bir şeyi değiştirmeden önce iki dakikayı dene.</p>\n\n<h2>Merdiven mi düz set mi?</h2>\n<div class=\"table-scroll\"><table>\n<thead><tr><th></th><th>Merdiven (1-2-3-4)</th><th>Düz setler (4×4)</th></tr></thead>\n<tbody>\n<tr><td>Toplam tekrar</td><td>10</td><td>16</td></tr>\n<tr><td>En zor set</td><td>Son basamak, bilerek</td><td>Çoğunlukla sonuncu, ama her set hedefe yakın</td></tr>\n<tr><td>En uygun olduğu durum</td><td>Temiz tekrar çalışmak, tek bir tepe sete tırmanmak, keyifsiz günler</td><td>Hedefi her sette yapabildiğinde hacim eklemek</td></tr>\n<tr><td>Dikkat et</td><td>Tepe basamağı kolay geliyor: kaydet ve seviye çık</td><td>Geç setlerin dağılması</td></tr>\n</tbody></table></div>\n<p>İkisi rakip değildir. Hacim bloğu ikisini karıştırır: merdiven antrenmandaki hareketlerden biridir, yanında 5×5 barfiks gibi düz setler durur. Ağrı yüzünden uygulama merdiveni düz setlerle değiştirirse plan yine işler, sadece ritim düz olur.</p>\n\n<h2>Merdivenden en çok kim faydalanır?</h2>\n<p>Merdiven, maksimumu dört ile on sıkı tekrar arasında olanlara uyar; bu yüzden uygulama onu Hacim bloğuna koyar. Bu seviyede düz bir 4×4, her sette maksimuma yakın olabilir ve üçüncü sette form bozulur. Merdiven aynı tepe sayıyı, öncesinde daha hafif setlerle toplar. Keyifsiz günlerde de işe yarar: ilk basamaklar ek ısınma gibidir ve ikinci üçüncü basamakta tepe basamağının gerçekçi olup olmadığını anlarsın. Bundan güçlüysen yüksek tekrarlı bloklar zamanını daha iyi kullanır. Daha zayıfsan önce negatifler ve bantlar gelir.</p>\n\n<h2>Merdiven setlerde sık yapılan hatalar</h2>\n<ul>\n<li><strong>İlk basamakları acele etmek.</strong> Bir ve iki basamağın amacı yavaş ve sıkı tekrardır. Acele edersen pratiği çöpe atarsın.</li>\n<li><strong>Küçük basamaklara tekrar eklemek.</strong> Birinci basamakta üç yapmak merdiveni düz sete çevirir ve enerjiyi erkenden harcar.</li>\n<li><strong>Tepe basamağında sallanmak.</strong> Sallanan dördüncü tekrar, kuvvetin olmayan bir sayıyı kaydeder ve uygulama seni bunun için yukarı alır.</li>\n<li><strong>Dinlenmeyi atlamak.</strong> Kısa dinlenme yapabileceğin hacmi küçültür ve uygulamanın okuduğu sinyali bulandırır.</li>\n</ul>\n\n<h2>Merdivenden ne zaman çıkmalı?</h2>\n<p>Buna senin karar vermen gerekmez. Motor her bloğun sonunda seni yeniden test eder; maksimumun on barfiksi geçince daha yüksek tekrar için kurulmuş Dayanıklılık bloğuna alır. Ondan önce tekrarların takılırsa, <a href=\"/tr/barfiks-plato/\">plato rehberimiz</a> sık nedenleri anlatır. Hâlâ ilk sıkı tekrarın peşindeysen <a href=\"/tr/ilk-barfiks/\">ilk barfiks rehberiyle</a> başla ve dört yapabildiğinde merdivene dön.</p>",
+      "faq": [
+        {
+          "q": "Barfiksde merdiven set nedir?",
+          "a": "Tekrarların her seferinde bir arttığı kısa setler dizisidir; örneğin 1, 2, 3, 4, basamaklar arasında dinlenmeyle. Önce temiz tekrarı, en sonda en yüksek sayını çalıştırır."
+        },
+        {
+          "q": "Merdiven, 4×4 düz setlerden daha mı iyi?",
+          "a": "Kanıtlanmış değil. Barfiks tekrarları için ikisini karşılaştıran bir çalışma bulamadık. Merdivenin toplam hacmi daha azdır (16 yerine 10 tekrar) ama ilk setler daha hafiftir; bu da formu çalışmaya ve keyifsiz günlere uyar."
+        },
+        {
+          "q": "Basamaklar arasında ne kadar dinlenmeliyim?",
+          "a": "Sayacın tamamını kullan; Pull Up Master'da varsayılan 90 saniyedir. Daha ağır eforlar daha uzun dinlenmeden yararlanır; tepe basamağı sürekli kaçırıyorsan iki dakikaya çık."
+        },
+        {
+          "q": "Tepe basamağı bitiremezsem ne olur?",
+          "a": "Gerçek sayıyı gir. Tek kısa antrenman bir şey değiştirmez. Art arda iki tane merdiveni bir seviye düşürür; örneğin 1-2-3-4'ten 1-1-2-3'e."
+        },
+        {
+          "q": "Uygulamada merdiveni kapatabilir miyim?",
+          "a": "Merdiven Hacim bloğunun parçasıdır, aç-kapa düğmesi yoktur. Ağrı bildirirsen uygulama, ağrısız olana kadar hareketi düz setlerle değiştirebilir."
+        }
+      ],
+      "sources": [
+        {
+          "label": "American College of Sports Medicine. Position stand: Progression models in resistance training for healthy adults. Med Sci Sports Exerc, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/"
+        },
+        {
+          "label": "Schoenfeld BJ, Pope ZK, Benik FM, et al. Longer interset rest periods enhance muscle strength and hypertrophy in resistance-trained men. J Strength Cond Res, 2016.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26605807/"
+        },
+        {
+          "label": "Schoenfeld BJ, Ogborn D, Krieger JW. Dose-response relationship between weekly resistance training volume and increases in muscle mass: a systematic review and meta-analysis. J Sports Sci, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27433992/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/tr/ilk-barfiks/",
+          "title": "İlk barfiks nasıl çekilir"
+        },
+        {
+          "href": "/tr/barfiks-antrenman-programi/",
+          "title": "Barfiks antrenman programı: tekrar sayını artıran haftalık plan"
+        },
+        {
+          "href": "/tr/barfiks-plato/",
+          "title": "Barfiks plato: aynı tekrarda takılırsan ne yapmalı"
+        },
+        {
+          "href": "/tr/barfiks-hatalari/",
+          "title": "Barfiks hataları: en yaygın 7 form hatası ve nasıl düzeltilir"
+        },
+        {
+          "href": "/tr/negatif-barfiks/",
+          "title": "Negatif barfiks: eksantrik antrenman ilk barfiksini nasıl kurar"
+        },
+        {
+          "href": "/tr/barfiks-isinma-hareketleri/",
+          "title": "Barfiks ısınması: baş üstü asılış için omuz ve sırt mobilitesi"
+        }
+      ]
+    },
+    "es": {
+      "title": "Series en escalera en dominadas: 1-2-3-4 explicado",
+      "description": "Series en escalera en dominadas: qué es una escalera 1-2-3-4, por qué da repeticiones limpias, cuánto descansar y cómo hacerla paso a paso.",
+      "headline": "Series en escalera en dominadas: cómo funciona la escalera 1-2-3-4",
+      "subtitle": "Una repetición más por serie, repeticiones limpias primero y el peldaño más duro al final",
+      "read_time": "7 min de lectura",
+      "lede": "Una serie en escalera es una tanda de series cortas donde las repeticiones suben de una en una: 1, 2, 3, 4. Descansas entre peldaños, así que diez dominadas se reparten en cuatro series de fácil a difícil y el número más alto llega el último, cuando ya estás caliente y el movimiento sale bien. Esta guía explica por qué funciona, cómo Pull Up Master construye y progresa tu escalera y cómo hacerla bien.",
+      "body_html": "<h2>¿Qué es una serie en escalera?</h2>\n<p>Una escalera es una sucesión de series cortas en la que el número de repeticiones sube una cada vez. Una escalera de cuatro peldaños es: una repetición, descanso, dos repeticiones, descanso, tres, descanso, cuatro. Cada peldaño es una serie normal con su propio descanso, así que la escalera entera suma 10 dominadas en cuatro series.</p>\n<p>Se distingue de un plan de series directas como 4×4 o 5×5, donde cada serie pide el mismo número. En series directas la primera serie es la más fresca y la última la más dura, aunque el objetivo sea idéntico. La escalera escribe ese gradiente en el plan: el trabajo ligero va primero a propósito y el duro queda arriba del todo.</p>\n\n<h2>¿Por qué subir en vez de repetir siempre el mismo número?</h2>\n<p>Hay tres razones prácticas y una advertencia honesta.</p>\n<ul>\n<li><strong>Repeticiones limpias con frescura.</strong> Una o dos repeticiones quedan muy por debajo de lo que puedes hacer, así que cada una sale lenta y estricta. Ensayas el patrón (inicio desde el dead hang, barbilla claramente sobre la barra, bajada controlada) antes de que llegue la fatiga.</li>\n<li><strong>Menos fatiga por serie.</strong> Llegas al peldaño más duro solo después de varios más pequeños, así que el trabajo se reparte por la sesión en lugar de cargarse en una única serie máxima.</li>\n<li><strong>Un objetivo incorporado.</strong> El peldaño de arriba es una serie que superar. Ves progreso en cada sesión sin tener que probar un máximo.</li>\n</ul>\n<p>El volumen importa para progresar. Un metaanálisis sobre el volumen semanal de series encontró una relación dosis-respuesta entre el número de series duras y el crecimiento muscular.<sup>[3]</sup> El posicionamiento del American College of Sports Medicine describe la progresión gradual de carga y volumen como el principio central del entrenamiento de fuerza.<sup>[1]</sup> Una escalera es una forma de repartir ese volumen. No encontramos ningún ensayo que compare escaleras con series directas en repeticiones de dominadas, así que toma el formato como una convención de entrenamiento sensata, no como un ganador demostrado.</p>\n\n<h2>¿Cómo construye Pull Up Master tu escalera?</h2>\n<p>La escalera vive en el bloque de <strong>Volumen</strong>, el plan que la app crea cuando tu máximo actual está entre cuatro y diez dominadas estrictas. En la app el ejercicio se llama \"Escalera (1-2-3-4)\" y la línea del plan dice <em>4 series × 1-2-3-4</em>.</p>\n<p>El peldaño de arriba es tu objetivo del día y cada peldaño inferior baja una repetición. Cada nivel que el motor te sube añade una repetición a todos los peldaños, y la escalera siempre mantiene cuatro peldaños:</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Nivel</th><th>Peldaños</th><th>Repeticiones totales</th><th>Cuándo estás aquí</th></tr></thead>\n<tbody>\n<tr><td>Base</td><td>1-2-3-4</td><td>10</td><td>Donde empieza cada bloque nuevo</td></tr>\n<tr><td>Un nivel más</td><td>2-3-4-5</td><td>14</td><td>Tras un peldaño superior fuerte</td></tr>\n<tr><td>Dos niveles más</td><td>3-4-5-6</td><td>18</td><td>Superas el peldaño de arriba una y otra vez</td></tr>\n<tr><td>Un nivel menos</td><td>1-1-2-3</td><td>7</td><td>Tras dos sesiones cortas, o solo hoy si marcas poca energía</td></tr>\n</tbody></table></div>\n<p>El contador de repeticiones viene rellenado con el número del peldaño actual. Toca completar tras cada peldaño y cambia el número si hiciste más o menos. La misma escalera funciona en el Apple Watch, peldaño a peldaño.</p>\n\n<h2>¿Cuándo te sube de nivel la app?</h2>\n<p>Tras el último peldaño compara lo que registraste con el peldaño de arriba. Si lo superas en dos o más repeticiones, la escalera sube un nivel la próxima vez. Si te quedas por debajo en dos sesiones seguidas, baja uno. Lo que quede en medio se mantiene.</p>\n<p>Por eso el último peldaño es el que dirige tu plan. Los primeros son volumen y práctica. Si el de arriba te resulta fácil, sigue y registra el número real, porque ese número es el que te sube.</p>\n\n<h2>Cómo hacer una serie en escalera, paso a paso</h2>\n<ol>\n<li><strong>Calienta primero.</strong> Haz la preparación de hombros y escápulas de <a href=\"/es/calentamiento-dominadas/\">nuestra guía de calentamiento</a>. El primer peldaño es fácil, pero los hombros fríos son la causa habitual de que una escalera salga mal.</li>\n<li><strong>Peldaño uno: una repetición estricta.</strong> Empieza desde el dead hang, tira hasta que la barbilla quede claramente sobre la barra y baja en dos o tres segundos.</li>\n<li><strong>Descansa y sube.</strong> Usa el temporizador completo. Descansar poco en los peldaños fáciles tienta y le quita el sentido a la escalera.</li>\n<li><strong>Mantén la misma calidad en cada peldaño.</strong> El cuarto debe parecerse al primero. Si las últimas repeticiones se enlentecen mucho, esa es la parte dura, no un motivo para balancearte.</li>\n<li><strong>Registra lo que pasó.</strong> Los números honestos mantienen bien el nivel. Un peldaño que no pudiste terminar es información, no un fracaso.</li>\n</ol>\n\n<h2>¿Cuánto descansar entre peldaños?</h2>\n<p>Más de lo que la mayoría espera en los peldaños duros. El posicionamiento del ACSM recomienda descansos más largos, de unos dos a tres minutos, para ejercicios pesados multiarticulares.<sup>[1]</sup> En un ensayo con hombres entrenados en fuerza, el grupo que descansó tres minutos entre series ganó más fuerza y algo más de grosor muscular que el que descansó un minuto.<sup>[2]</sup> Ese ensayo usó pesas, no dominadas, así que léelo como una dirección y no como una prescripción.</p>\n<p>La app usa un único tiempo de descanso para toda la sesión, 90 segundos por defecto. Puedes cambiarlo en Ajustes. Si fallas el peldaño de arriba una y otra vez, prueba con dos minutos antes de cambiar nada más.</p>\n\n<h2>¿Escalera o series directas?</h2>\n<div class=\"table-scroll\"><table>\n<thead><tr><th></th><th>Escalera (1-2-3-4)</th><th>Series directas (4×4)</th></tr></thead>\n<tbody>\n<tr><td>Repeticiones totales</td><td>10</td><td>16</td></tr>\n<tr><td>Serie más dura</td><td>El último peldaño, a propósito</td><td>Normalmente la última, pero todas están cerca del objetivo</td></tr>\n<tr><td>Mejor para</td><td>Practicar repeticiones limpias, llegar a una serie top, días sin ganas</td><td>Añadir volumen cuando ya haces el objetivo en cada serie</td></tr>\n<tr><td>Vigila</td><td>El peldaño de arriba te resulta fácil: regístralo y sube</td><td>Las series finales que se desmoronan</td></tr>\n</tbody></table></div>\n<p>No son rivales. El bloque de Volumen los mezcla: la escalera es un ejercicio de la sesión y a su lado van series directas como el trabajo de dominadas 5×5. Si por dolor la app cambia la escalera por series directas, el plan sigue funcionando, solo que con un ritmo plano.</p>\n\n<h2>¿Quién se beneficia más de una escalera?</h2>\n<p>Las escaleras encajan con quien tiene un máximo entre cuatro y diez repeticiones estrictas, por eso la app las pone en el bloque de Volumen. En ese nivel un 4×4 plano puede quedar cerca del máximo en cada serie, y la técnica se resiente hacia la tercera. Una escalera junta el mismo número superior con series más ligeras antes. También sirve los días sin ganas: los primeros peldaños actúan como calentamiento extra y hacia el segundo o tercero notas si el de arriba es realista. Si eres más fuerte, los bloques de más repeticiones aprovechan mejor tu tiempo. Si eres más débil, primero van las negativas y las bandas.</p>\n\n<h2>Errores frecuentes en las series en escalera</h2>\n<ul>\n<li><strong>Correr los primeros peldaños.</strong> El sentido de los peldaños uno y dos es hacer repeticiones lentas y estrictas. Si las aceleras, tiras la práctica.</li>\n<li><strong>Añadir repeticiones a los peldaños pequeños.</strong> Hacer tres en el peldaño uno convierte la escalera en series directas y gasta energía demasiado pronto.</li>\n<li><strong>Balancearte en el peldaño de arriba.</strong> Una cuarta repetición con balanceo registra un número que no es tu fuerza, y la app te sube de nivel por ella.</li>\n<li><strong>Saltarte el descanso.</strong> Recortar descansos reduce el volumen que puedes hacer y desdibuja la señal que lee la app.</li>\n</ul>\n\n<h2>¿Cuándo dejar atrás las escaleras?</h2>\n<p>No tienes que decidirlo. El motor te vuelve a evaluar al final de cada bloque y, cuando tu máximo pasa de diez dominadas, te lleva al bloque de Resistencia, pensado para más repeticiones. Si tus repeticiones se estancan antes, <a href=\"/es/estancamiento-dominadas/\">nuestra guía del estancamiento</a> repasa las causas habituales. Si aún trabajas hacia la primera repetición estricta, empieza por la <a href=\"/es/primera-dominada/\">guía de la primera dominada</a> y vuelve a las escaleras cuando hagas cuatro.</p>",
+      "faq": [
+        {
+          "q": "¿Qué es una serie en escalera en dominadas?",
+          "a": "Una tanda de series cortas en la que las repeticiones suben de una en una, por ejemplo 1, 2, 3, 4, con descanso entre peldaños. Entrena primero repeticiones limpias y al final tu número más alto."
+        },
+        {
+          "q": "¿Es mejor una escalera que series directas de 4×4?",
+          "a": "No está demostrado. No encontramos ningún ensayo que compare ambas en repeticiones de dominadas. La escalera tiene menos volumen total (10 repeticiones frente a 16), pero series iniciales más ligeras, algo que va bien para practicar la técnica y para días sin ganas."
+        },
+        {
+          "q": "¿Cuánto debo descansar entre peldaños?",
+          "a": "Usa el temporizador completo, que en Pull Up Master es de 90 segundos por defecto. Los esfuerzos más duros se benefician de descansos más largos, así que sube a dos minutos si fallas el peldaño de arriba una y otra vez."
+        },
+        {
+          "q": "¿Qué pasa si no termino el peldaño de arriba?",
+          "a": "Registra el número real. Una sesión corta no cambia nada. Dos seguidas bajan la escalera un nivel, por ejemplo de 1-2-3-4 a 1-1-2-3."
+        },
+        {
+          "q": "¿Puedo desactivar las escaleras en la app?",
+          "a": "Las escaleras forman parte del bloque de Volumen, así que no hay interruptor. Si indicas dolor, la app puede cambiar el ejercicio por series directas hasta que no tengas dolor."
+        }
+      ],
+      "sources": [
+        {
+          "label": "American College of Sports Medicine. Position stand: Progression models in resistance training for healthy adults. Med Sci Sports Exerc, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/"
+        },
+        {
+          "label": "Schoenfeld BJ, Pope ZK, Benik FM, et al. Longer interset rest periods enhance muscle strength and hypertrophy in resistance-trained men. J Strength Cond Res, 2016.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26605807/"
+        },
+        {
+          "label": "Schoenfeld BJ, Ogborn D, Krieger JW. Dose-response relationship between weekly resistance training volume and increases in muscle mass: a systematic review and meta-analysis. J Sports Sci, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27433992/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/es/primera-dominada/",
+          "title": "Cómo hacer tu primera dominada"
+        },
+        {
+          "href": "/es/rutina-dominadas/",
+          "title": "Rutina de dominadas para ganar repeticiones"
+        },
+        {
+          "href": "/es/estancamiento-dominadas/",
+          "title": "Estancamiento en dominadas: por qué y cómo superarlo"
+        },
+        {
+          "href": "/es/errores-dominadas/",
+          "title": "Errores en las dominadas y cómo corregirlos"
+        },
+        {
+          "href": "/es/dominadas-negativas/",
+          "title": "Dominadas negativas: cómo el trabajo excéntrico construye tu primera dominada"
+        },
+        {
+          "href": "/es/calentamiento-dominadas/",
+          "title": "Calentamiento para dominadas: movilidad de hombros y espalda alta para colgarte"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Séries en échelle aux tractions : le 1-2-3-4 expliqué",
+      "description": "Séries en échelle aux tractions : ce qu'est une échelle 1-2-3-4, pourquoi elle donne des reps propres, combien de repos et comment la faire pas à pas.",
+      "headline": "Séries en échelle aux tractions : comment fonctionne l'échelle 1-2-3-4",
+      "subtitle": "Une rep de plus par série, des reps propres d'abord, le barreau le plus dur à la fin",
+      "read_time": "7 min de lecture",
+      "lede": "Une série en échelle est une suite de séries courtes où les reps montent d'une à chaque fois : 1, 2, 3, 4. Tu te reposes entre les barreaux, donc dix tractions se répartissent sur quatre séries du facile au difficile, et le nombre le plus haut arrive en dernier, quand tu es chaud et que le geste est en place. Ce guide explique pourquoi ça marche, comment Pull Up Master construit et fait progresser ton échelle et comment bien l'exécuter.",
+      "body_html": "<h2>Qu'est-ce qu'une série en échelle ?</h2>\n<p>Une échelle est une suite de séries courtes où le nombre de reps augmente d'une à chaque fois. Une échelle à quatre barreaux donne : une rep, repos, deux reps, repos, trois, repos, quatre. Chaque barreau est une série normale avec son propre repos, donc l'échelle entière fait 10 tractions en quatre séries.</p>\n<p>Elle diffère d'un plan en séries classiques comme 4×4 ou 5×5, où chaque série demande le même nombre. En séries classiques, la première série est la plus fraîche et la dernière la plus dure, même si l'objectif est identique. L'échelle inscrit ce dégradé dans le plan : le travail léger vient en premier exprès, et le dur se trouve tout en haut.</p>\n\n<h2>Pourquoi monter plutôt que répéter toujours le même nombre ?</h2>\n<p>Il y a trois raisons pratiques et une réserve honnête.</p>\n<ul>\n<li><strong>Des reps propres quand tu es frais.</strong> Une ou deux reps sont bien en dessous de ce que tu peux faire, donc chacune est lente et stricte. Tu répètes le geste (départ en dead hang, menton nettement au-dessus de la barre, descente contrôlée) avant que la fatigue n'arrive.</li>\n<li><strong>Moins de fatigue par série.</strong> Tu n'atteins le barreau le plus dur qu'après plusieurs plus petits, donc le travail se répartit sur la séance au lieu de se concentrer sur une seule série maximale.</li>\n<li><strong>Un objectif intégré.</strong> Le barreau du haut est une série à battre. Tu vois ta progression à chaque séance sans tester un max.</li>\n</ul>\n<p>Le volume compte pour progresser. Une méta-analyse sur le volume hebdomadaire de séries a trouvé une relation dose-réponse entre le nombre de séries dures et la croissance musculaire.<sup>[3]</sup> La prise de position de l'American College of Sports Medicine décrit la progression graduelle de la charge et du volume comme le principe de base du renforcement musculaire.<sup>[1]</sup> Une échelle est une façon de dépenser ce volume. Nous n'avons trouvé aucun essai comparant les échelles aux séries classiques pour les reps de tractions : considère donc le format comme une convention d'entraînement sensée, pas comme un gagnant prouvé.</p>\n\n<h2>Comment Pull Up Master construit ton échelle ?</h2>\n<p>L'échelle se trouve dans le bloc <strong>Volume</strong>, le plan que l'appli crée quand ton max actuel se situe entre quatre et dix tractions strictes. Dans l'appli, l'exercice s'appelle « Série en échelle (1-2-3-4) » et la ligne du plan indique <em>4 séries × 1-2-3-4</em>.</p>\n<p>Le barreau du haut est ton objectif du jour et chaque barreau en dessous recule d'une rep. À chaque niveau que le moteur te fait monter, une rep s'ajoute à tous les barreaux, et l'échelle garde toujours quatre barreaux :</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Niveau</th><th>Barreaux</th><th>Reps au total</th><th>Quand tu y es</th></tr></thead>\n<tbody>\n<tr><td>Base</td><td>1-2-3-4</td><td>10</td><td>Là où commence chaque nouveau bloc</td></tr>\n<tr><td>Un niveau de plus</td><td>2-3-4-5</td><td>14</td><td>Après un barreau du haut solide</td></tr>\n<tr><td>Deux niveaux de plus</td><td>3-4-5-6</td><td>18</td><td>Tu dépasses le barreau du haut régulièrement</td></tr>\n<tr><td>Un niveau de moins</td><td>1-1-2-3</td><td>7</td><td>Après deux séances trop courtes, ou seulement aujourd'hui si tu indiques peu d'énergie</td></tr>\n</tbody></table></div>\n<p>Le compteur de reps est prérempli avec le nombre du barreau en cours. Touche terminer après chaque barreau et change le nombre si tu en as fait plus ou moins. La même échelle tourne sur l'Apple Watch, barreau par barreau.</p>\n\n<h2>Quand l'appli te fait-elle monter de niveau ?</h2>\n<p>Après le dernier barreau, elle compare ce que tu as saisi au barreau du haut. Si tu le dépasses de deux reps ou plus, l'échelle monte d'un niveau la fois suivante. Si tu restes en dessous deux séances de suite, elle redescend d'un. Entre les deux, rien ne bouge.</p>\n<p>C'est donc le dernier barreau qui pilote ton plan. Les premiers sont du volume et de la pratique. Si celui du haut te paraît facile, continue et saisis le vrai nombre, car c'est lui qui te fait monter.</p>\n\n<h2>Comment faire une série en échelle, pas à pas</h2>\n<ol>\n<li><strong>Échauffe-toi d'abord.</strong> Fais la préparation épaules et omoplates de <a href=\"/fr/echauffement-tractions/\">notre guide d'échauffement</a>. Le premier barreau est facile, mais des épaules froides sont la raison habituelle d'une échelle ratée.</li>\n<li><strong>Barreau un : une rep stricte.</strong> Pars du dead hang, tire jusqu'à ce que le menton passe nettement au-dessus de la barre et descends en deux à trois secondes.</li>\n<li><strong>Repose-toi, puis monte.</strong> Prends le minuteur en entier. Se reposer peu sur les barreaux faciles est tentant et vide l'échelle de son sens.</li>\n<li><strong>Garde la même qualité à chaque barreau.</strong> Le quatrième doit ressembler au premier. Si les dernières reps ralentissent beaucoup, c'est la partie dure, pas une raison de te balancer.</li>\n<li><strong>Note ce qui s'est passé.</strong> Des chiffres honnêtes gardent le niveau juste. Un barreau que tu n'as pas fini est une information, pas un échec.</li>\n</ol>\n\n<h2>Combien de repos entre les barreaux ?</h2>\n<p>Plus que ce que la plupart imaginent sur les barreaux durs. La prise de position de l'ACSM recommande des repos plus longs, d'environ deux à trois minutes, pour les exercices lourds polyarticulaires.<sup>[1]</sup> Dans un essai avec des hommes entraînés en force, le groupe qui se reposait trois minutes entre les séries a gagné plus de force et un peu plus d'épaisseur musculaire que celui qui se reposait une minute.<sup>[2]</sup> Cet essai utilisait des charges, pas des tractions : lis-le comme une direction, pas comme une prescription.</p>\n<p>L'appli utilise un seul temps de repos pour toute la séance, 90 secondes par défaut. Tu peux le changer dans les Réglages. Si tu rates sans cesse le barreau du haut, essaie deux minutes avant de modifier autre chose.</p>\n\n<h2>Échelle ou séries classiques : laquelle choisir ?</h2>\n<div class=\"table-scroll\"><table>\n<thead><tr><th></th><th>Échelle (1-2-3-4)</th><th>Séries classiques (4×4)</th></tr></thead>\n<tbody>\n<tr><td>Reps au total</td><td>10</td><td>16</td></tr>\n<tr><td>Série la plus dure</td><td>Le dernier barreau, par conception</td><td>En général la dernière, mais chaque série est proche de l'objectif</td></tr>\n<tr><td>Idéal pour</td><td>Pratiquer des reps propres, monter vers une série top, les jours sans énergie</td><td>Ajouter du volume quand tu fais l'objectif à chaque série</td></tr>\n<tr><td>À surveiller</td><td>Le barreau du haut est facile : note-le et monte</td><td>Les dernières séries qui s'effondrent</td></tr>\n</tbody></table></div>\n<p>Les deux ne sont pas rivales. Le bloc Volume les mélange : l'échelle est un exercice de la séance et des séries classiques comme le travail de tractions 5×5 se placent à côté. Si l'appli remplace l'échelle par des séries classiques à cause d'une douleur, le plan continue de fonctionner, avec simplement un rythme plat.</p>\n\n<h2>Qui profite le plus d'une échelle ?</h2>\n<p>Les échelles conviennent à ceux dont le max se situe entre quatre et dix reps strictes, c'est pourquoi l'appli les place dans le bloc Volume. À ce niveau, un 4×4 plat peut frôler le maximum à chaque série, et la technique se dégrade vers la troisième. Une échelle atteint le même nombre du haut avec des séries plus légères avant. Elle sert aussi les jours sans énergie : les premiers barreaux font office d'échauffement en plus, et dès le deuxième ou le troisième, tu sens si celui du haut est réaliste. Si tu es plus fort, les blocs à plus de reps utilisent mieux ton temps. Si tu es plus faible, les négatives et les élastiques passent d'abord.</p>\n\n<h2>Erreurs fréquentes avec les séries en échelle</h2>\n<ul>\n<li><strong>Bâcler les premiers barreaux.</strong> Le but des barreaux un et deux, ce sont des reps lentes et strictes. Les accélérer fait perdre la pratique.</li>\n<li><strong>Ajouter des reps aux petits barreaux.</strong> En faire trois au barreau un transforme l'échelle en séries classiques et dépense l'énergie trop tôt.</li>\n<li><strong>Se balancer sur le barreau du haut.</strong> Une quatrième rep balancée enregistre un chiffre qui n'est pas ta force, et l'appli te fait monter pour ça.</li>\n<li><strong>Sauter le repos.</strong> Raccourcir les repos réduit le volume possible et brouille le signal que lit l'appli.</li>\n</ul>\n\n<h2>Quand dépasser les échelles ?</h2>\n<p>Tu n'as pas à le décider. Le moteur te retest à la fin de chaque bloc et, quand ton max dépasse dix tractions, il te passe au bloc Endurance, conçu pour plus de reps. Si tes reps stagnent avant, <a href=\"/fr/plateau-tractions/\">notre guide du plateau</a> passe en revue les causes habituelles. Si tu travailles encore vers ta première rep stricte, commence par le <a href=\"/fr/premiere-traction/\">guide de la première traction</a> et reviens aux échelles quand tu en fais quatre.</p>",
+      "faq": [
+        {
+          "q": "Qu'est-ce qu'une série en échelle aux tractions ?",
+          "a": "Une suite de séries courtes où les reps montent d'une à chaque fois, par exemple 1, 2, 3, 4, avec un repos entre les barreaux. Elle travaille d'abord des reps propres et ton nombre le plus haut en dernier."
+        },
+        {
+          "q": "Une échelle est-elle meilleure que des séries classiques 4×4 ?",
+          "a": "Ce n'est pas prouvé. Nous n'avons trouvé aucun essai comparant les deux sur les reps de tractions. L'échelle a moins de volume total (10 reps contre 16) mais des premières séries plus légères, ce qui convient pour pratiquer la technique et les jours sans énergie."
+        },
+        {
+          "q": "Combien de repos entre les barreaux ?",
+          "a": "Prends le minuteur en entier, soit 90 secondes par défaut dans Pull Up Master. Les efforts plus durs profitent de repos plus longs : passe à deux minutes si tu rates sans cesse le barreau du haut."
+        },
+        {
+          "q": "Que se passe-t-il si je ne finis pas le barreau du haut ?",
+          "a": "Saisis le vrai nombre. Une séance trop courte ne change rien. Deux de suite font baisser l'échelle d'un niveau, par exemple de 1-2-3-4 à 1-1-2-3."
+        },
+        {
+          "q": "Puis-je désactiver les échelles dans l'appli ?",
+          "a": "Les échelles font partie du bloc Volume, il n'y a donc pas d'interrupteur. Si tu signales une douleur, l'appli peut remplacer l'exercice par des séries classiques jusqu'à ce que la douleur passe."
+        }
+      ],
+      "sources": [
+        {
+          "label": "American College of Sports Medicine. Position stand: Progression models in resistance training for healthy adults. Med Sci Sports Exerc, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/"
+        },
+        {
+          "label": "Schoenfeld BJ, Pope ZK, Benik FM, et al. Longer interset rest periods enhance muscle strength and hypertrophy in resistance-trained men. J Strength Cond Res, 2016.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26605807/"
+        },
+        {
+          "label": "Schoenfeld BJ, Ogborn D, Krieger JW. Dose-response relationship between weekly resistance training volume and increases in muscle mass: a systematic review and meta-analysis. J Sports Sci, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27433992/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/fr/premiere-traction/",
+          "title": "Comment faire ta première traction"
+        },
+        {
+          "href": "/fr/programme-tractions/",
+          "title": "Programme de tractions : un plan de la semaine pour progresser"
+        },
+        {
+          "href": "/fr/plateau-tractions/",
+          "title": "Plateau aux tractions : pourquoi tu stagnes et comment avancer"
+        },
+        {
+          "href": "/fr/erreurs-tractions/",
+          "title": "Les erreurs aux tractions qui bloquent ta progression"
+        },
+        {
+          "href": "/fr/tractions-negatives/",
+          "title": "Tractions négatives : comment le travail excentrique construit ta première traction"
+        },
+        {
+          "href": "/fr/echauffement-tractions/",
+          "title": "Échauffement avant les tractions : mobilité des épaules et du haut du dos"
+        }
+      ]
+    }
+  }
+}
