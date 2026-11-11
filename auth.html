@@ -107,7 +107,9 @@
         var tokenHash = params.get('token_hash');
         var type = params.get('type') || 'signup';
 
-        if (!tokenHash) {
+        var allowed = ['signup', 'magiclink', 'recovery', 'email_change'];
+
+        if (!tokenHash || allowed.indexOf(type) === -1) {
           document.getElementById('handoff').hidden = true;
           document.getElementById('invalid').hidden = false;
           return;
