@@ -1,0 +1,387 @@
+{
+  "slugs": {
+    "en": "assisted-pull-up-machine",
+    "de": "klimmzugmaschine-assistiert",
+    "tr": "asiste-barfiks-makinesi",
+    "es": "maquina-dominadas-asistida",
+    "fr": "machine-tractions-assistees"
+  },
+  "priority": "0.8",
+  "langs": {
+    "en": {
+      "title": "Assisted Pull-Up Machine: How to Use It, Then Drop It",
+      "description": "Assisted pull-up machine guide: how to pick the counterweight, machine vs band, how to wean off the stack, common mistakes, and what research doesn't show.",
+      "headline": "Assisted pull-up machine: how to use it and how to wean off",
+      "subtitle": "Counterweight, machine vs band, and a plan to need less help every week",
+      "read_time": "7 min read",
+      "lede": "The assisted pull-up machine subtracts weight from your body with a counterweight stack, so you can practise the full pull-up movement before you can do it unassisted. Pick an assistance that lets you finish 8 to 12 clean reps, then reduce it in small steps once the top of that range feels easy. It is a useful tool, but no trial has shown that it gets you to a first pull-up faster than bands or negatives.",
+      "body_html": "<h2>What does the assisted pull-up machine actually do?</h2>\n<p>You kneel on a pad or stand on a platform, grab the handles and pull your chest toward them. The platform is connected to a weight stack. The more weight you select, the more the platform pushes you up, and the less of your body weight your arms have to lift. Select 30 kg on the stack and, as a rough rule of thumb, you lift your body weight minus about 30 kg. Machines differ in pad geometry and friction, so treat the number on the stack as an approximation and not as a precise load.</p>\n<p>That is the whole appeal. You pull yourself, not a handle toward you, through the same range as a pull-up, and you can change the help in small, repeatable steps. Compare this with a lat pulldown, where you move a bar while your body stays seated; our <a href=\"/lat-pulldown-vs-pull-up/\">lat pulldown vs pull-up guide</a> explains why those are different tasks. One study of chin-ups against lat pulldowns found different biceps and erector spinae activity and different shoulder and neck movement between the two.<sup>[3]</sup> That study did not test an assisted machine, so the sensible reading is only this: a movement where you carry your own body is not the same as one where you pull a bar down.</p>\n\n<h2>How do you choose the counterweight?</h2>\n<p>Start with more help than your ego wants. A practical target is an assistance level at which you can complete three sets of 8 to 12 reps with the same form on every rep. The American College of Sports Medicine recommends loads that correspond to an 8 to 12 repetition maximum for novices, and training two to three days a week.<sup>[1]</sup> Use that as your frame, not as a promise that it works for pull-ups specifically.</p>\n<p>A simple way to find the number:</p>\n<ol>\n<li><strong>Guess high.</strong> Choose an assistance of roughly half your body weight.</li>\n<li><strong>Do one set to near failure.</strong> If you get more than 12 clean reps, remove help. If you get fewer than 8, add help.</li>\n<li><strong>Adjust by one or two plates.</strong> Write the number down so next week starts where you finished.</li>\n<li><strong>Check the range.</strong> Your arms should start straight and your chin should end over the handles. Reps that stop halfway do not count, whatever the stack says.</li>\n</ol>\n<p>The same ACSM position stand suggests increasing load by 2 to 10 percent once you can do one to two reps over your target.<sup>[1]</sup> The stack makes this harder than it sounds. If you weigh 80 kg and use 40 kg of help, you are lifting about 40 kg. Removing one 5 kg plate raises that load by about 12 percent, which is already above the range. That is why extra reps, a slower lowering phase or half-plates (if your machine has them) are better first moves than a big drop in assistance.</p>\n\n<h2>Machine or band: which one is better?</h2>\n<p>They help in different ways, and the difference is mechanical. A machine gives the same assistance through the whole range. A band stretches, so it pushes hardest at the bottom, where it is most stretched, and gives less help near the top. Our <a href=\"/band-assisted-pull-ups/\">band-assisted pull-ups guide</a> covers how to set up a band.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th></th><th>Machine</th><th>Band</th></tr></thead>\n<tbody>\n<tr><td>Help through the rep</td><td>Roughly constant</td><td>Most at the bottom, less at the top</td></tr>\n<tr><td>Changing the load</td><td>Small, exact steps (pin the stack)</td><td>Steps by band thickness; ratings vary by brand</td></tr>\n<tr><td>Where you can use it</td><td>Gym only</td><td>Anywhere with a bar</td></tr>\n<tr><td>Control and stability</td><td>High, you are braced on a pad</td><td>Lower, the band can bounce or slip</td></tr>\n<tr><td>Risk of depending on it</td><td>Easy to stay on the same weight for months</td><td>Easy to grab a thicker band to avoid the hard part</td></tr>\n</tbody></table></div>\n<p>If you train in a gym, the machine is the more precise tool because you know your starting weight and you can record it. If you train at home, the band is the practical one. Which of the two builds a first pull-up faster is not known, as the evidence section below explains.</p>\n\n<h2>What does the research say about muscle use?</h2>\n<p>A study of 19 strength-trained men compared pull-up grips and found that the shoulder, arm and forearm muscles were similar across grips over a full rep. It also found that the biceps, brachioradialis and pectoralis major were more active in the pulling phase than in the lowering phase.<sup>[2]</sup> That study used unassisted pull-ups, so it says nothing directly about the machine. What it does suggest is that pulling and lowering are different jobs for your muscles, and a plan should include both.</p>\n<p>Lowering is also where you are strongest. A review of eccentric muscle work reports that greater force is produced during eccentric contractions than during other contraction types at the same speed.<sup>[4]</sup> On the machine you can use this: pull up with a higher assistance and then lower slowly. Treat that as a coaching idea, as no trial has tested it on this machine.</p>\n\n<h2>How do you wean off the machine?</h2>\n<p>The goal is to need less stack every week, not to hit a number on a calendar. A cautious pattern looks like this.</p>\n<ol>\n<li><strong>Add reps at a fixed assistance</strong> until you hit 12 clean reps in all three sets.</li>\n<li><strong>Cut assistance by one step</strong> and drop back to about 8 reps. Build up again.</li>\n<li><strong>Add a slow lowering phase.</strong> Pull up, then take three to five seconds to come down. This is the machine version of a <a href=\"/negative-pull-ups/\">negative pull-up</a>.</li>\n<li><strong>Test one unassisted attempt every two weeks.</strong> Do it first in the session, when you are fresh, not after your sets.</li>\n<li><strong>Mix in other tools</strong> once assistance is down to about a quarter of your body weight: bands, negatives and hangs.</li>\n</ol>\n<p>Here is an example for an 80 kg person. These numbers are an illustration, not a tested protocol.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Block</th><th>Assistance</th><th>Effective load</th><th>Target</th></tr></thead>\n<tbody>\n<tr><td>Weeks 1-2</td><td>40 kg</td><td>about 40 kg</td><td>3 x 8-12</td></tr>\n<tr><td>Weeks 3-4</td><td>35 kg</td><td>about 45 kg</td><td>3 x 8-12</td></tr>\n<tr><td>Weeks 5-6</td><td>30 kg</td><td>about 50 kg</td><td>3 x 8-12</td></tr>\n<tr><td>Weeks 7-8</td><td>25 kg</td><td>about 55 kg</td><td>3 x 6-10 plus slow lowering</td></tr>\n</tbody></table></div>\n<p>If you stall for two weeks, do not skip ahead. Return to the last assistance that felt clean and add reps. Two or three sessions a week is the frequency the ACSM stand gives for novices.<sup>[1]</sup> Our <a href=\"/first-pull-up/\">first pull-up guide</a> shows how the machine fits among hangs, rows and negatives.</p>\n\n<h2>What mistakes hold people back?</h2>\n<ul>\n<li><strong>Too much help for too long.</strong> If every set is 15 easy reps at the same weight, the stack is doing the work.</li>\n<li><strong>Pushing off the pad.</strong> Driving with your legs removes load from your arms and inflates the number.</li>\n<li><strong>Half reps.</strong> Stopping with bent elbows at the bottom or with the chin under the handles trains a smaller range.</li>\n<li><strong>Dropping on the way down.</strong> Falling back to the start skips the lowering strength the machine can give you.</li>\n<li><strong>Shrugging and swinging.</strong> Start each rep by pulling your shoulder blades down, then bend your elbows. See our <a href=\"/pull-up-mistakes/\">pull-up mistakes guide</a> for form fixes.</li>\n<li><strong>Comparing stack numbers between gyms.</strong> Machines from different brands do not use the same scale or geometry, so track reps and form, not just kilograms.</li>\n</ul>\n\n<h2>What does research not show?</h2>\n<p>We found no trial that compares machine-assisted pull-ups, band-assisted pull-ups and negatives for getting a first pull-up. That means nobody can tell you from data which tool is fastest, how large each step down should be, or how many weeks the transition takes. The studies cited here are about muscle activity in unassisted pull-ups, general strength training guidelines and eccentric work, and none of them tested the assisted machine on beginners. The step sizes and the 8-week example above are coaching conventions, so adjust them to how you feel and recover.</p>",
+      "faq": [
+        {
+          "q": "How much assistance should I use on the assisted pull-up machine?",
+          "a": "Pick the weight at which you can do 8 to 12 clean, full-range reps for three sets. A starting guess of about half your body weight is common. Adjust after your first set and record the number."
+        },
+        {
+          "q": "Is the assisted pull-up machine better than bands?",
+          "a": "Neither has been shown to be better for a first pull-up. The machine gives steady, exact assistance, and a band gives more help at the bottom and is portable. Choose the one you can use consistently."
+        },
+        {
+          "q": "How fast should I reduce the weight stack?",
+          "a": "Slowly. Add reps at the same weight first, then lower the assistance by one step once you reach 12 reps in every set. Expect to drop back to about 8 reps after each step."
+        },
+        {
+          "q": "Does the assisted pull-up machine build the same muscles as a real pull-up?",
+          "a": "It trains a similar movement, since you move your own body through the range. The research on muscle activity used unassisted pull-ups, so we cannot say how close the machine is."
+        },
+        {
+          "q": "When should I stop using the machine?",
+          "a": "When assistance is a small fraction of your body weight, try unassisted attempts at the start of your session. Once you can do a clean rep, keep using negatives or bands for extra reps."
+        }
+      ],
+      "sources": [
+        {
+          "label": "American College of Sports Medicine. Position stand: Progression models in resistance training for healthy adults. Med Sci Sports Exerc, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/"
+        },
+        {
+          "label": "Dickie JA, Faulkner JA, Barnes MJ, Lark SD. Electromyographic analysis of muscle activation during pull-up variations. J Electromyogr Kinesiol, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28011412/"
+        },
+        {
+          "label": "Doma K, Deakin GB, Ness KF. Kinematic and electromyographic comparisons between chin-ups and lat-pull down exercises. Sports Biomech, 2013.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24245055/"
+        },
+        {
+          "label": "Hody S, Croisier JL, Bury T, Rogister B, Leprince P. Eccentric Muscle Contractions: Risks and Benefits. Front Physiol, 2019.",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6510035/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/first-pull-up/",
+          "title": "How to do your first pull-up"
+        },
+        {
+          "href": "/band-assisted-pull-ups/",
+          "title": "Band-assisted pull-ups: how to use them and when to drop them"
+        },
+        {
+          "href": "/negative-pull-ups/",
+          "title": "Negative pull-ups: how eccentric training builds your first pull-up"
+        },
+        {
+          "href": "/lat-pulldown-vs-pull-up/",
+          "title": "Lat pulldown vs pull-up: what carries over"
+        },
+        {
+          "href": "/pull-up-mistakes/",
+          "title": "Pull-up mistakes: 7 form errors that hold you back (and the fixes)"
+        },
+        {
+          "href": "/pull-up-workout-plan/",
+          "title": "Pull-up workout plan: a weekly routine to add reps"
+        }
+      ]
+    },
+    "de": {
+      "title": "Klimmzugmaschine assistiert: Gewicht wählen & abbauen",
+      "description": "Assistierte Klimmzugmaschine: Gegengewicht richtig wählen, Maschine oder Band, so reduzierst du die Hilfe Schritt für Schritt, typische Fehler und Studienlage.",
+      "headline": "Assistierte Klimmzugmaschine: Gegengewicht wählen und Hilfe abbauen",
+      "subtitle": "Gegengewicht, Maschine oder Band und ein Plan, der jede Woche weniger Hilfe braucht",
+      "read_time": "7 Min. Lesezeit",
+      "lede": "Die assistierte Klimmzugmaschine zieht mit einem Gewichtsblock einen Teil deines Körpergewichts ab, sodass du die volle Klimmzugbewegung übst, bevor du sie allein schaffst. Wähle eine Hilfe, bei der du 8 bis 12 saubere Wiederholungen schaffst, und senke sie in kleinen Schritten, sobald das obere Ende leichtfällt. Die Maschine ist nützlich, aber keine Studie hat gezeigt, dass sie dich schneller zum ersten Klimmzug bringt als Bänder oder Negativs.",
+      "body_html": "<h2>Was macht die assistierte Klimmzugmaschine eigentlich?</h2>\n<p>Du kniest auf einem Polster oder stehst auf einer Plattform, greifst die Griffe und ziehst deine Brust zu ihnen. Die Plattform hängt an einem Gewichtsblock. Je mehr Gewicht du einstellst, desto stärker drückt sie dich nach oben und desto weniger Körpergewicht müssen deine Arme heben. Bei 30 kg am Block hebst du als Faustregel dein Körpergewicht minus etwa 30 kg. Polsterform und Reibung unterscheiden sich je nach Gerät, also nimm die Zahl am Block als Näherung und nicht als exakte Last.</p>\n<p>Genau das ist der Reiz. Du ziehst dich selbst durch denselben Weg wie beim Klimmzug und kannst die Hilfe in kleinen, wiederholbaren Schritten ändern. Beim Latzug dagegen bewegst du eine Stange, während dein Körper sitzen bleibt. Warum das zwei verschiedene Aufgaben sind, erklärt unser Vergleich <a href=\"/de/latzug-vs-klimmzug/\">Latzug vs. Klimmzug</a>. Eine Studie zu Chin-ups und Latzug fand unterschiedliche Aktivität von Bizeps und Rückenstrecker sowie andere Schulter- und Nackenbewegungen.<sup>[3]</sup> Eine assistierte Maschine wurde dort nicht getestet. Sinnvoll lesen heißt also nur: Eine Bewegung, bei der du den eigenen Körper trägst, ist nicht dasselbe wie eine, bei der du eine Stange herunterziehst.</p>\n\n<h2>Wie wählst du das Gegengewicht?</h2>\n<p>Starte mit mehr Hilfe, als dein Ego möchte. Ein praktisches Ziel ist eine Hilfe, bei der du drei Sätze mit 8 bis 12 Wiederholungen in gleicher Form schaffst. Das American College of Sports Medicine empfiehlt für Einsteiger Lasten im Bereich von 8 bis 12 Wiederholungsmaximum und zwei bis drei Trainingstage pro Woche.<sup>[1]</sup> Nimm das als Rahmen, nicht als Versprechen, dass es für Klimmzüge speziell belegt ist.</p>\n<p>So findest du die Zahl:</p>\n<ol>\n<li><strong>Hoch schätzen.</strong> Wähle eine Hilfe von etwa der Hälfte deines Körpergewichts.</li>\n<li><strong>Einen Satz bis nahe ans Limit.</strong> Schaffst du mehr als 12 saubere Wiederholungen, nimm Hilfe weg. Bei weniger als 8 gib Hilfe dazu.</li>\n<li><strong>Um ein oder zwei Platten anpassen.</strong> Schreib die Zahl auf, damit die nächste Woche dort beginnt, wo du aufgehört hast.</li>\n<li><strong>Bewegungsweg prüfen.</strong> Deine Arme starten gestreckt, dein Kinn endet über den Griffen. Halbe Wiederholungen zählen nicht, egal was am Block steht.</li>\n</ol>\n<p>Dieselbe ACSM-Stellungnahme rät, die Last um 2 bis 10 Prozent zu erhöhen, wenn du ein bis zwei Wiederholungen über deinem Ziel schaffst.<sup>[1]</sup> Am Block ist das schwerer, als es klingt. Wiegst du 80 kg und nutzt 40 kg Hilfe, hebst du etwa 40 kg. Nimmst du eine 5-kg-Platte weg, steigt diese Last um rund 12 Prozent und liegt damit schon über dem Bereich. Deshalb sind zusätzliche Wiederholungen, eine langsamere Absenkphase oder Zwischengewichte (falls dein Gerät welche hat) bessere erste Schritte als ein großer Sprung bei der Hilfe.</p>\n\n<h2>Maschine oder Band: was ist besser?</h2>\n<p>Sie helfen auf verschiedene Weise, und der Unterschied ist mechanisch. Eine Maschine gibt über den ganzen Weg dieselbe Hilfe. Ein Band dehnt sich, schiebt unten am stärksten, wo es am meisten gedehnt ist, und hilft oben weniger. Wie du ein Band einrichtest, zeigt unser Ratgeber <a href=\"/de/klimmzug-mit-widerstandsband/\">Klimmzug mit Widerstandsband</a>.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th></th><th>Maschine</th><th>Band</th></tr></thead>\n<tbody>\n<tr><td>Hilfe über die Wiederholung</td><td>Ungefähr konstant</td><td>Unten am meisten, oben weniger</td></tr>\n<tr><td>Last ändern</td><td>Kleine, genaue Schritte (Stift umstecken)</td><td>Schritte über die Bandstärke; Angaben variieren je nach Marke</td></tr>\n<tr><td>Wo nutzbar</td><td>Nur im Studio</td><td>Überall, wo eine Stange hängt</td></tr>\n<tr><td>Kontrolle und Stabilität</td><td>Hoch, du stützt dich auf einem Polster</td><td>Geringer, das Band kann wippen oder abrutschen</td></tr>\n<tr><td>Gefahr der Gewöhnung</td><td>Man bleibt leicht monatelang beim selben Gewicht</td><td>Man greift leicht zu einem dickeren Band, um das Schwere zu umgehen</td></tr>\n</tbody></table></div>\n<p>Wenn du im Studio trainierst, ist die Maschine das genauere Werkzeug, weil du dein Startgewicht kennst und notieren kannst. Trainierst du zu Hause, ist das Band die praktische Wahl. Welches von beiden den ersten Klimmzug schneller aufbaut, weiß man nicht, wie der Abschnitt zur Studienlage unten erklärt.</p>\n\n<h2>Was sagt die Forschung zur Muskelarbeit?</h2>\n<p>Eine Studie mit 19 krafttrainierten Männern verglich Klimmzug-Griffarten. Über eine volle Wiederholung war die Aktivität der Schulter-, Arm- und Unterarmmuskeln bei allen Griffen ähnlich. Bizeps, Brachioradialis und großer Brustmuskel waren in der Zugphase aktiver als in der Absenkphase.<sup>[2]</sup> Die Studie nutzte Klimmzüge ohne Hilfe und sagt deshalb nichts direkt über die Maschine. Sie legt aber nahe, dass Ziehen und Absenken für deine Muskeln verschiedene Aufgaben sind und ein Plan beides enthalten sollte.</p>\n<p>Beim Absenken bist du außerdem am stärksten. Ein Übersichtsartikel zur exzentrischen Muskelarbeit berichtet, dass bei gleicher Geschwindigkeit in exzentrischen Kontraktionen mehr Kraft entsteht als bei anderen Kontraktionsarten.<sup>[4]</sup> An der Maschine kannst du das nutzen: Zieh dich mit höherer Hilfe hoch und senk dich dann langsam ab. Sieh das als Trainingsidee, denn für diese Maschine hat es keine Studie getestet.</p>\n\n<h2>Wie baust du die Hilfe ab?</h2>\n<p>Das Ziel ist, jede Woche weniger Gewicht am Block zu brauchen, nicht eine Zahl im Kalender zu treffen. Ein vorsichtiges Muster sieht so aus.</p>\n<ol>\n<li><strong>Wiederholungen bei gleicher Hilfe steigern,</strong> bis du in allen drei Sätzen 12 saubere schaffst.</li>\n<li><strong>Hilfe um eine Stufe senken</strong> und auf etwa 8 Wiederholungen zurückfallen. Dann wieder aufbauen.</li>\n<li><strong>Eine langsame Absenkphase einbauen.</strong> Hochziehen, dann drei bis fünf Sekunden herunter. Das ist die Maschinenversion des <a href=\"/de/negative-klimmzuege/\">negativen Klimmzugs</a>.</li>\n<li><strong>Alle zwei Wochen einen Versuch ohne Hilfe.</strong> Mach ihn am Anfang der Einheit, wenn du frisch bist, nicht nach den Sätzen.</li>\n<li><strong>Andere Werkzeuge mischen,</strong> sobald die Hilfe bei etwa einem Viertel deines Körpergewichts liegt: Bänder, Negativs und Hänge.</li>\n</ol>\n<p>Ein Beispiel für eine Person mit 80 kg. Die Zahlen sind eine Veranschaulichung, kein getestetes Protokoll.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Block</th><th>Hilfe</th><th>Effektive Last</th><th>Ziel</th></tr></thead>\n<tbody>\n<tr><td>Woche 1-2</td><td>40 kg</td><td>etwa 40 kg</td><td>3 x 8-12</td></tr>\n<tr><td>Woche 3-4</td><td>35 kg</td><td>etwa 45 kg</td><td>3 x 8-12</td></tr>\n<tr><td>Woche 5-6</td><td>30 kg</td><td>etwa 50 kg</td><td>3 x 8-12</td></tr>\n<tr><td>Woche 7-8</td><td>25 kg</td><td>etwa 55 kg</td><td>3 x 6-10 plus langsames Absenken</td></tr>\n</tbody></table></div>\n<p>Stockt es zwei Wochen, spring nicht vor. Geh zur letzten Hilfe zurück, die sich sauber anfühlte, und füge Wiederholungen hinzu. Zwei bis drei Einheiten pro Woche entsprechen der Häufigkeit, die der ACSM für Einsteiger nennt.<sup>[1]</sup> Unser <a href=\"/de/erster-klimmzug/\">Ratgeber zum ersten Klimmzug</a> zeigt, wie die Maschine zwischen Hängen, Rudern und Negativs passt.</p>\n\n<h2>Welche Fehler bremsen dich?</h2>\n<ul>\n<li><strong>Zu viel Hilfe zu lange.</strong> Wenn jeder Satz aus 15 leichten Wiederholungen mit demselben Gewicht besteht, arbeitet der Block, nicht du.</li>\n<li><strong>Vom Polster abdrücken.</strong> Wer mit den Beinen drückt, nimmt Last von den Armen und beschönigt die Zahl.</li>\n<li><strong>Halbe Wiederholungen.</strong> Mit gebeugten Ellbogen unten aufhören oder mit dem Kinn unter den Griffen trainiert nur einen kleineren Bewegungsweg.</li>\n<li><strong>Nach unten fallen lassen.</strong> Wer zurück in den Start fällt, verschenkt die Kraft im Absenken, die die Maschine liefern kann.</li>\n<li><strong>Hochziehen der Schultern und Schwung.</strong> Beginne jede Wiederholung, indem du die Schulterblätter nach unten ziehst, und beuge dann die Ellbogen. Formtipps findest du im Ratgeber <a href=\"/de/klimmzug-fehler/\">Klimmzug-Fehler</a>.</li>\n<li><strong>Blockzahlen zwischen Studios vergleichen.</strong> Geräte verschiedener Hersteller haben weder dieselbe Skala noch dieselbe Geometrie. Protokolliere also Wiederholungen und Form, nicht nur Kilogramm.</li>\n</ul>\n\n<h2>Was zeigt die Forschung nicht?</h2>\n<p>Wir haben keine Studie gefunden, die maschinenassistierte Klimmzüge, bandassistierte Klimmzüge und Negativs für den ersten Klimmzug vergleicht. Das heißt: Niemand kann dir anhand von Daten sagen, welches Werkzeug am schnellsten ist, wie groß jeder Schritt nach unten sein sollte oder wie viele Wochen der Übergang dauert. Die hier zitierten Arbeiten behandeln Muskelaktivität bei Klimmzügen ohne Hilfe, allgemeine Krafttrainingsempfehlungen und exzentrische Arbeit, und keine davon hat die assistierte Maschine an Anfängern getestet. Die Schrittgrößen und das 8-Wochen-Beispiel oben sind Trainingskonventionen, passe sie also daran an, wie du dich fühlst und erholst.</p>",
+      "faq": [
+        {
+          "q": "Wie viel Hilfe sollte ich an der assistierten Klimmzugmaschine nehmen?",
+          "a": "Wähle das Gewicht, bei dem du drei Sätze mit 8 bis 12 sauberen Wiederholungen über den vollen Weg schaffst. Als Startschätzung ist etwa das halbe Körpergewicht üblich. Passe nach dem ersten Satz an und notiere die Zahl."
+        },
+        {
+          "q": "Ist die assistierte Klimmzugmaschine besser als Bänder?",
+          "a": "Keines von beiden ist für den ersten Klimmzug als besser belegt. Die Maschine hilft gleichmäßig und genau, ein Band hilft unten stärker und ist transportabel. Nimm das, was du regelmäßig nutzen kannst."
+        },
+        {
+          "q": "Wie schnell sollte ich den Gewichtsblock reduzieren?",
+          "a": "Langsam. Steigere zuerst die Wiederholungen bei gleichem Gewicht und senke die Hilfe um eine Stufe, wenn du in jedem Satz 12 erreichst. Rechne damit, nach jeder Stufe auf etwa 8 Wiederholungen zurückzufallen."
+        },
+        {
+          "q": "Trainiert die Maschine dieselben Muskeln wie ein echter Klimmzug?",
+          "a": "Sie trainiert eine ähnliche Bewegung, weil du deinen Körper durch den Weg bewegst. Die Studien zur Muskelaktivität nutzten Klimmzüge ohne Hilfe, wie nah die Maschine daran liegt, können wir nicht sagen."
+        },
+        {
+          "q": "Wann sollte ich die Maschine nicht mehr nutzen?",
+          "a": "Wenn die Hilfe nur noch ein kleiner Teil deines Körpergewichts ist, probiere zu Beginn der Einheit Versuche ohne Hilfe. Sobald eine saubere Wiederholung gelingt, nutze Negativs oder Bänder für zusätzliche Wiederholungen."
+        }
+      ],
+      "sources": [
+        {
+          "label": "American College of Sports Medicine. Position stand: Progression models in resistance training for healthy adults. Med Sci Sports Exerc, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/"
+        },
+        {
+          "label": "Dickie JA, Faulkner JA, Barnes MJ, Lark SD. Electromyographic analysis of muscle activation during pull-up variations. J Electromyogr Kinesiol, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28011412/"
+        },
+        {
+          "label": "Doma K, Deakin GB, Ness KF. Kinematic and electromyographic comparisons between chin-ups and lat-pull down exercises. Sports Biomech, 2013.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24245055/"
+        },
+        {
+          "label": "Hody S, Croisier JL, Bury T, Rogister B, Leprince P. Eccentric Muscle Contractions: Risks and Benefits. Front Physiol, 2019.",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6510035/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/de/erster-klimmzug/",
+          "title": "Der erste Klimmzug: so schaffst du ihn"
+        },
+        {
+          "href": "/de/klimmzug-mit-widerstandsband/",
+          "title": "Klimmzug mit Widerstandsband: nutzen und wieder weglassen"
+        },
+        {
+          "href": "/de/negative-klimmzuege/",
+          "title": "Negative Klimmzüge: exzentrisches Training für deinen ersten Klimmzug"
+        },
+        {
+          "href": "/de/latzug-vs-klimmzug/",
+          "title": "Latzug vs. Klimmzug: was überträgt sich"
+        },
+        {
+          "href": "/de/klimmzug-fehler/",
+          "title": "Klimmzug-Fehler: Formfehler, die dich bremsen, und ihre Korrekturen"
+        },
+        {
+          "href": "/de/klimmzug-trainingsplan/",
+          "title": "Klimmzug-Trainingsplan: Wochenroutine für mehr Wiederholungen"
+        }
+      ]
+    },
+    "tr": {
+      "title": "Asiste Barfiks Makinesi: Nasıl Kullanılır, Nasıl Bırakılır",
+      "description": "Asiste barfiks makinesi rehberi: karşı ağırlık seçimi, makine mi lastik mi, yardımı adım adım azaltma, sık yapılan hatalar ve araştırmaların göstermediği şeyler.",
+      "headline": "Asiste barfiks makinesi: karşı ağırlığı seç, yardımı adım adım azalt",
+      "subtitle": "Karşı ağırlık, makine mi lastik mi ve her hafta daha az yardıma ihtiyaç duyan bir plan",
+      "read_time": "7 dk okuma",
+      "lede": "Asiste barfiks makinesi, ağırlık bloğuyla vücut ağırlığının bir kısmını senden alır; böylece barfiksi tek başına yapamadan önce tam hareketi çalışabilirsin. Kaliteli 8-12 tekrar yapabildiğin bir yardım seç, aralığın üst ucu kolaylaşınca yardımı küçük adımlarla azalt. Makine işe yarar bir araç, ama hiçbir çalışma onun ilk barfiksine lastikten ya da negatiflerden daha hızlı götürdüğünü göstermedi.",
+      "body_html": "<h2>Asiste barfiks makinesi tam olarak ne yapar?</h2>\n<p>Bir minderin üzerine diz çöker ya da platforma basarsın, tutamakları kavrar ve göğsünü onlara doğru çekersin. Platform bir ağırlık bloğuna bağlıdır. Seçtiğin ağırlık arttıkça platform seni daha çok yukarı iter ve kolların vücut ağırlığının daha küçük bir kısmını kaldırır. Blokta 30 kg seçersen, kaba bir kural olarak vücut ağırlığından yaklaşık 30 kg eksiğini kaldırırsın. Mindermin yapısı ve sürtünme cihazdan cihaza değişir; bu yüzden bloktaki sayıyı kesin yük değil, yaklaşık bir değer olarak al.</p>\n<p>Cazibesi de burada. Barfiksle aynı yol boyunca kendi vücudunu çekersin ve yardımı küçük, tekrarlanabilir adımlarla değiştirebilirsin. Lat pulldown'da ise vücudun oturur halde kalır, sen bir barı aşağı indirirsin. İki hareketin neden farklı olduğunu <a href=\"/tr/lat-pulldown-barfiks-farki/\">lat pulldown ve barfiks farkı</a> yazımızda anlattık. Chin-up ile lat pulldown'u karşılaştıran bir çalışma, iki hareket arasında biceps ve bel kaslarının aktivitesinde ve omuz ile boyun hareketinde fark buldu.<sup>[3]</sup> O çalışmada asiste makine denenmedi. Dolayısıyla çıkarılacak makul sonuç şu kadar: kendi vücudunu taşıdığın bir hareket, bir barı aşağı çektiğin harekete eşit değildir.</p>\n\n<p>Kurulumda iki ayrıntı fark yaratır. Önce duruşa karar ver: diz çöküyorsan dizlerini minderin ortasına yerleştir, ayakta duruyorsan platformda dengeni bul. Her iki durumda bacaklarını gevşek tut ve itmek için kullanma. Sonra tutamağı seç; makinede farklı tutuşlar sunuluyorsa omuzlarında en rahat hissettireni kullan ve bir antrenman boyunca değiştirme, böylece sayılar karşılaştırılabilir kalır. Başlamadan önce kollarını ve omuzlarını birkaç hafif tekrarla ısıt; bunu yüksek yardımla yapılan ayrı bir ısınma seti olarak düşünebilirsin. İlk çalışma setinin ağırlığını da kaydet; sonraki ayarlar için referans olur.</p>\n\n<h2>Karşı ağırlığı nasıl seçersin?</h2>\n<p>Egonun istediğinden daha fazla yardımla başla. Pratik hedef, üç sette 8-12 tekrarı her tekrarda aynı formla yapabileceğin yardım düzeyidir. Amerikan Spor Hekimliği Koleji (ACSM), yeni başlayanlar için 8-12 tekrar maksimumuna denk gelen yükleri ve haftada iki-üç antrenman gününü önerir.<sup>[1]</sup> Bunu bir çerçeve olarak kullan; bunun özellikle barfiks için kanıtlandığı anlamına gelmez.</p>\n<p>Sayıyı bulmanın basit yolu:</p>\n<ol>\n<li><strong>Yüksek tahmin et.</strong> Vücut ağırlığının yaklaşık yarısı kadar yardım seç.</li>\n<li><strong>Bir seti sınıra yakın yap.</strong> 12'den fazla temiz tekrar yaparsan yardımı azalt. 8'in altında kalırsan artır.</li>\n<li><strong>Bir ya da iki plakalık ayar yap.</strong> Sayıyı yaz; gelecek hafta kaldığın yerden başla.</li>\n<li><strong>Hareket genişliğini kontrol et.</strong> Kolların düz başlamalı, çenen tutamakların üstünde bitmeli. Bloktaki sayı ne olursa olsun yarım tekrarlar sayılmaz.</li>\n</ol>\n<p>Aynı ACSM metni, hedefinin bir-iki tekrar üzerine çıkabildiğinde yükü yüzde 2 ile 10 arasında artırmayı önerir.<sup>[1]</sup> Blokta bunu yapmak göründüğünden zordur. 80 kg ağırlığındaysan ve 40 kg yardım kullanıyorsan yaklaşık 40 kg kaldırıyorsundur. 5 kg'lık tek plakayı çıkarmak bu yükü yaklaşık yüzde 12 artırır ve bu zaten önerilen aralığın üstündedir. Bu yüzden ek tekrar, daha yavaş bir iniş ya da (cihazında varsa) yarım plakalar, yardımda büyük bir düşüşten daha iyi ilk hamlelerdir.</p>\n\n<h2>Makine mi lastik mi, hangisi daha iyi?</h2>\n<p>İkisi farklı biçimde yardım eder ve fark mekaniktir. Makine tüm hareket boyunca aynı yardımı verir. Lastik gerilir; en çok gerildiği alt noktada en güçlü iter, üste doğru daha az yardım eder. Lastiği nasıl kuracağını <a href=\"/tr/bantli-barfiks/\">bantlı barfiks</a> rehberimizde bulabilirsin.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th></th><th>Makine</th><th>Lastik</th></tr></thead>\n<tbody>\n<tr><td>Tekrar boyunca yardım</td><td>Yaklaşık sabit</td><td>Altta en çok, üstte daha az</td></tr>\n<tr><td>Yükü değiştirme</td><td>Küçük, kesin adımlar (pimi taşı)</td><td>Lastik kalınlığına göre adımlar; değerler markaya göre değişir</td></tr>\n<tr><td>Nerede kullanılır</td><td>Yalnızca spor salonunda</td><td>Barfiks demirinin olduğu her yerde</td></tr>\n<tr><td>Kontrol ve denge</td><td>Yüksek, minderde sabit durursun</td><td>Daha düşük, lastik zıplayabilir ya da kayabilir</td></tr>\n<tr><td>Bağımlı kalma riski</td><td>Aylarca aynı ağırlıkta kalmak kolaydır</td><td>Zor kısmı atlamak için daha kalın lastiğe uzanmak kolaydır</td></tr>\n</tbody></table></div>\n<p>Spor salonunda çalışıyorsan makine daha kesin bir araçtır; çünkü başlangıç ağırlığını bilir ve kaydedebilirsin. Evde çalışıyorsan lastik pratik olandır. İkisinden hangisinin ilk barfiksi daha hızlı kazandırdığı bilinmiyor; aşağıdaki kanıt bölümü bunu açıklıyor.</p>\n\n<h2>Araştırma kas çalışması hakkında ne söylüyor?</h2>\n<p>Kuvvet antrenmanı yapan 19 erkekle yapılan bir çalışma barfiks tutuşlarını karşılaştırdı. Tam bir tekrar boyunca omuz, kol ve ön kol kaslarının aktivitesi tutuşlar arasında benzerdi. Biceps, brachioradialis ve pektoral kasların çekiş fazında iniş fazından daha aktif olduğu görüldü.<sup>[2]</sup> Çalışma yardımsız barfiksle yapıldı; yani makine hakkında doğrudan bir şey söylemiyor. Ama çekmek ile inmenin kasların için farklı işler olduğunu ve bir planın ikisini de içermesi gerektiğini düşündürüyor.</p>\n<p>İnerken ayrıca en güçlü olduğun andasın. Eksantrik kas çalışması üzerine bir derleme, aynı hızda eksantrik kasılmalarda diğer kasılma türlerinden daha fazla kuvvet üretildiğini bildirir.<sup>[4]</sup> Makinede bunu kullanabilirsin: yüksek yardımla kendini yukarı çek, sonra yavaşça in. Bunu bir antrenman fikri olarak değerlendir; bu makinede hiçbir çalışma test etmedi.</p>\n\n<h2>Makineden nasıl vazgeçersin?</h2>\n<p>Amaç, takvimdeki bir sayıya ulaşmak değil, her hafta blokta daha az ağırlığa ihtiyaç duymaktır. Temkinli bir düzen şöyle görünür.</p>\n<ol>\n<li><strong>Sabit yardımda tekrarı artır;</strong> üç setin hepsinde 12 temiz tekrara ulaşana kadar.</li>\n<li><strong>Yardımı bir kademe düşür</strong> ve yaklaşık 8 tekrara geri in. Sonra yeniden yüksel.</li>\n<li><strong>Yavaş bir iniş fazı ekle.</strong> Yukarı çık, sonra üç-beş saniyede in. Bu, <a href=\"/tr/negatif-barfiks/\">negatif barfiksin</a> makinedeki hâlidir.</li>\n<li><strong>İki haftada bir yardımsız deneme yap.</strong> Setlerden sonra değil, antrenmanın başında, tazeyken dene.</li>\n<li><strong>Diğer araçları karıştır;</strong> yardım vücut ağırlığının yaklaşık dörtte birine indiğinde lastik, negatif ve asılma çalışmalarını ekle.</li>\n</ol>\n<p>80 kg'lık biri için örnek. Bu rakamlar bir örnektir, denenmiş bir protokol değil.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Blok</th><th>Yardım</th><th>Etkin yük</th><th>Hedef</th></tr></thead>\n<tbody>\n<tr><td>1-2. hafta</td><td>40 kg</td><td>yaklaşık 40 kg</td><td>3 x 8-12</td></tr>\n<tr><td>3-4. hafta</td><td>35 kg</td><td>yaklaşık 45 kg</td><td>3 x 8-12</td></tr>\n<tr><td>5-6. hafta</td><td>30 kg</td><td>yaklaşık 50 kg</td><td>3 x 8-12</td></tr>\n<tr><td>7-8. hafta</td><td>25 kg</td><td>yaklaşık 55 kg</td><td>3 x 6-10 ve yavaş iniş</td></tr>\n</tbody></table></div>\n<p>İki hafta takılırsan ileri atlama. Temiz hissettiren son yardım düzeyine dön ve tekrar ekle. Haftada iki-üç antrenman, ACSM'nin yeni başlayanlar için verdiği sıklıktır.<sup>[1]</sup> <a href=\"/tr/ilk-barfiks/\">İlk barfiks rehberimiz</a>, makinenin asılma, kürek ve negatif çalışmaları arasında nereye oturduğunu gösterir.</p>\n\n<h2>İnsanları hangi hatalar geride tutar?</h2>\n<ul>\n<li><strong>Çok yardım, çok uzun süre.</strong> Her set aynı ağırlıkta 15 kolay tekrarsa işi sen değil, blok yapıyordur.</li>\n<li><strong>Minderden itmek.</strong> Bacaklarla itmek yükü kollardan alır ve sayıyı olduğundan iyi gösterir.</li>\n<li><strong>Yarım tekrarlar.</strong> Altta bükülü dirseklerle ya da çene tutamakların altındayken durmak daha küçük bir hareket genişliğini çalıştırır.</li>\n<li><strong>Aşağı düşmek.</strong> Başlangıca kendini bırakmak, makinenin sana verebileceği iniş gücünü boşa harcar.</li>\n<li><strong>Omuz silkmek ve sallanmak.</strong> Her tekrara kürek kemiklerini aşağı çekerek başla, sonra dirsekleri bük. Form düzeltmeleri için <a href=\"/tr/barfiks-hatalari/\">barfiks hataları</a> rehberimize bak.</li>\n<li><strong>Salonlar arası blok sayılarını kıyaslamak.</strong> Farklı markaların cihazları aynı skalayı ya da geometriyi kullanmaz; bu yüzden yalnızca kiloyu değil, tekrarı ve formu da kaydet.</li>\n<li><strong>Dinlenmeyi kısa tutmak.</strong> Yorgun kollarla yapılan tekrarlar bozuk formla biter. Setler arasında rahatça toparlanabileceğin kadar bekle.</li>\n</ul>\n\n<h2>Araştırma neyi göstermiyor?</h2>\n<p>Makine destekli barfiksi, lastik destekli barfiksi ve negatifleri ilk barfiks için karşılaştıran bir çalışma bulamadık. Yani hangi aracın en hızlı olduğunu, her adımın ne kadar büyük olması gerektiğini ya da geçişin kaç hafta sürdüğünü veriyle kimse söyleyemez. Burada alıntılanan çalışmalar yardımsız barfiksteki kas aktivitesini, genel kuvvet antrenmanı önerilerini ve eksantrik çalışmayı ele alıyor; hiçbiri asiste makineyi yeni başlayanlarda test etmedi. Yukarıdaki adım büyüklükleri ve 8 haftalık örnek antrenör alışkanlıklarıdır; onları nasıl hissettiğine ve ne kadar toparlandığına göre ayarla.</p>",
+      "faq": [
+        {
+          "q": "Asiste barfiks makinesinde ne kadar yardım kullanmalıyım?",
+          "a": "Üç sette tam hareket genişliğinde 8-12 temiz tekrar yapabildiğin ağırlığı seç. Yaklaşık vücut ağırlığının yarısı yaygın bir başlangıç tahminidir. İlk setten sonra ayarla ve sayıyı kaydet."
+        },
+        {
+          "q": "Asiste barfiks makinesi lastikten daha mı iyi?",
+          "a": "İlk barfiks için hiçbirinin daha iyi olduğu gösterilmedi. Makine sabit ve kesin yardım verir; lastik altta daha çok yardım eder ve taşınabilir. Düzenli kullanabileceğini seç."
+        },
+        {
+          "q": "Ağırlık bloğunu ne kadar hızlı azaltmalıyım?",
+          "a": "Yavaş. Önce aynı ağırlıkta tekrarı artır, her sette 12'ye ulaşınca yardımı bir kademe düşür. Her kademeden sonra yaklaşık 8 tekrara geri dönmeyi bekle."
+        },
+        {
+          "q": "Makine gerçek barfiksle aynı kasları çalıştırır mı?",
+          "a": "Benzer bir hareketi çalıştırır, çünkü kendi vücudunu hareket boyunca taşırsın. Kas aktivitesi çalışmaları yardımsız barfiksle yapıldı; makinenin ne kadar yakın olduğunu söyleyemeyiz."
+        },
+        {
+          "q": "Makineyi ne zaman bırakmalıyım?",
+          "a": "Yardım vücut ağırlığının küçük bir kısmına düştüğünde antrenman başında yardımsız denemeler yap. Temiz bir tekrar gelince ek tekrar için negatif ya da lastiği kullanmaya devam et."
+        }
+      ],
+      "sources": [
+        {
+          "label": "American College of Sports Medicine. Position stand: Progression models in resistance training for healthy adults. Med Sci Sports Exerc, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/"
+        },
+        {
+          "label": "Dickie JA, Faulkner JA, Barnes MJ, Lark SD. Electromyographic analysis of muscle activation during pull-up variations. J Electromyogr Kinesiol, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28011412/"
+        },
+        {
+          "label": "Doma K, Deakin GB, Ness KF. Kinematic and electromyographic comparisons between chin-ups and lat-pull down exercises. Sports Biomech, 2013.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24245055/"
+        },
+        {
+          "label": "Hody S, Croisier JL, Bury T, Rogister B, Leprince P. Eccentric Muscle Contractions: Risks and Benefits. Front Physiol, 2019.",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6510035/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/tr/ilk-barfiks/",
+          "title": "İlk barfiksini nasıl yaparsın"
+        },
+        {
+          "href": "/tr/bantli-barfiks/",
+          "title": "Bantlı barfiks: nasıl kullanılır, ne zaman bırakılır"
+        },
+        {
+          "href": "/tr/negatif-barfiks/",
+          "title": "Negatif barfiks: ilk barfiksin için eksantrik antrenman"
+        },
+        {
+          "href": "/tr/lat-pulldown-barfiks-farki/",
+          "title": "Lat pulldown ve barfiks farkı: neyi taşır"
+        },
+        {
+          "href": "/tr/barfiks-hatalari/",
+          "title": "Barfiks hataları: seni geride tutan form hataları ve çözümleri"
+        },
+        {
+          "href": "/tr/barfiks-antrenman-programi/",
+          "title": "Barfiks antrenman programı: tekrar artıran haftalık rutin"
+        }
+      ]
+    },
+    "es": {
+      "title": "Máquina de dominadas asistida: cómo usarla y dejarla",
+      "description": "Máquina de dominadas asistida: cómo elegir el contrapeso, máquina o banda, cómo reducir la ayuda paso a paso, errores comunes y lo que la investigación no muestra.",
+      "headline": "Máquina de dominadas asistida: elige el contrapeso y reduce la ayuda",
+      "subtitle": "Contrapeso, máquina o banda y un plan para necesitar menos ayuda cada semana",
+      "read_time": "7 min de lectura",
+      "lede": "La máquina de dominadas asistida resta peso corporal con un bloque de contrapeso, así que puedes practicar el movimiento completo antes de lograrlo sin ayuda. Elige una asistencia que te deje hacer de 8 a 12 repeticiones limpias y bájala en pasos pequeños cuando el extremo alto del rango te resulte fácil. Es una herramienta útil, pero ningún ensayo ha demostrado que te lleve a la primera dominada más rápido que las bandas o las negativas.",
+      "body_html": "<h2>¿Qué hace exactamente la máquina de dominadas asistida?</h2>\n<p>Te arrodillas en una almohadilla o te subes a una plataforma, agarras las asas y llevas el pecho hacia ellas. La plataforma está unida a un bloque de pesas. Cuanto más peso seleccionas, más te empuja hacia arriba y menos peso corporal tienen que levantar tus brazos. Con 30 kg en el bloque, como regla aproximada, levantas tu peso corporal menos unos 30 kg. La geometría de la almohadilla y la fricción cambian de una máquina a otra, así que trata el número del bloque como una aproximación y no como una carga exacta.</p>\n<p>Ese es todo el atractivo. Te mueves a ti mismo por el mismo recorrido que una dominada y puedes cambiar la ayuda en pasos pequeños y repetibles. En el jalón al pecho, en cambio, mueves una barra mientras tu cuerpo sigue sentado. Por qué son tareas distintas lo explicamos en <a href=\"/es/jalon-al-pecho-vs-dominadas/\">jalón al pecho vs dominadas</a>. Un estudio que comparó chin-ups con jalones encontró actividad diferente del bíceps y de los erectores de la columna, y también movimientos distintos de hombro y cuello.<sup>[3]</sup> Allí no se probó una máquina asistida, así que la lectura sensata es solo esta: un movimiento en el que cargas tu propio cuerpo no es lo mismo que uno en el que bajas una barra.</p>\n\n<h2>¿Cómo eliges el contrapeso?</h2>\n<p>Empieza con más ayuda de la que te pide el ego. Un objetivo práctico es una asistencia con la que puedas completar tres series de 8 a 12 repeticiones con la misma técnica en todas. El American College of Sports Medicine recomienda para principiantes cargas equivalentes a un máximo de 8 a 12 repeticiones y entrenar de dos a tres días por semana.<sup>[1]</sup> Úsalo como marco, no como promesa de que está probado para las dominadas en concreto.</p>\n<p>Una forma sencilla de encontrar el número:</p>\n<ol>\n<li><strong>Calcula alto.</strong> Elige una asistencia de aproximadamente la mitad de tu peso corporal.</li>\n<li><strong>Haz una serie cerca del fallo.</strong> Si haces más de 12 repeticiones limpias, quita ayuda. Si haces menos de 8, añádela.</li>\n<li><strong>Ajusta una o dos placas.</strong> Apunta el número para que la semana siguiente empiece donde terminaste.</li>\n<li><strong>Revisa el recorrido.</strong> Los brazos empiezan estirados y la barbilla termina por encima de las asas. Las repeticiones a medias no cuentan, diga lo que diga el bloque.</li>\n</ol>\n<p>El mismo consenso del ACSM sugiere subir la carga entre un 2 y un 10 por ciento cuando puedes hacer una o dos repeticiones por encima de tu objetivo.<sup>[1]</sup> Con el bloque es más difícil de lo que parece. Si pesas 80 kg y usas 40 kg de ayuda, levantas unos 40 kg. Quitar una placa de 5 kg sube esa carga alrededor de un 12 por ciento, que ya queda por encima del rango. Por eso las repeticiones extra, una fase de descenso más lenta o las medias placas (si tu máquina las tiene) son mejores primeros movimientos que una gran bajada de asistencia.</p>\n\n<h2>Máquina o banda: ¿cuál es mejor?</h2>\n<p>Ayudan de formas distintas, y la diferencia es mecánica. La máquina da la misma ayuda durante todo el recorrido. La banda se estira, empuja más fuerte abajo, donde está más estirada, y ayuda menos cerca de arriba. Cómo montar una banda lo cuenta nuestra guía de <a href=\"/es/dominadas-con-banda/\">dominadas con banda</a>.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th></th><th>Máquina</th><th>Banda</th></tr></thead>\n<tbody>\n<tr><td>Ayuda durante la repetición</td><td>Más o menos constante</td><td>Máxima abajo, menor arriba</td></tr>\n<tr><td>Cambiar la carga</td><td>Pasos pequeños y exactos (mover el pasador)</td><td>Pasos según el grosor de la banda; las valoraciones varían por marca</td></tr>\n<tr><td>Dónde se usa</td><td>Solo en el gimnasio</td><td>En cualquier sitio con una barra</td></tr>\n<tr><td>Control y estabilidad</td><td>Alto, vas apoyado en una almohadilla</td><td>Menor, la banda puede rebotar o resbalar</td></tr>\n<tr><td>Riesgo de depender de ella</td><td>Es fácil quedarse meses con el mismo peso</td><td>Es fácil coger una banda más gruesa para evitar la parte difícil</td></tr>\n</tbody></table></div>\n<p>Si entrenas en un gimnasio, la máquina es la herramienta más precisa porque sabes tu peso de partida y puedes registrarlo. Si entrenas en casa, la banda es la práctica. Cuál de las dos construye antes una primera dominada no se sabe, como explica la sección de evidencia más abajo.</p>\n\n<h2>¿Qué dice la investigación sobre el trabajo muscular?</h2>\n<p>Un estudio con 19 hombres entrenados en fuerza comparó agarres de dominada. A lo largo de una repetición completa, la actividad de los músculos de hombro, brazo y antebrazo fue similar entre agarres. El bíceps, el braquiorradial y el pectoral mayor estuvieron más activos en la fase de subida que en la de bajada.<sup>[2]</sup> Ese estudio usó dominadas sin ayuda, así que no dice nada directo sobre la máquina. Lo que sugiere es que subir y bajar son trabajos distintos para tus músculos y que un plan debería incluir ambos.</p>\n<p>Al bajar, además, eres más fuerte. Una revisión sobre el trabajo muscular excéntrico indica que se produce más fuerza en las contracciones excéntricas que en otros tipos de contracción a la misma velocidad.<sup>[4]</sup> En la máquina puedes aprovecharlo: sube con más asistencia y baja despacio. Considéralo una idea de entrenamiento, ya que ningún ensayo lo ha probado en esta máquina.</p>\n\n<h2>¿Cómo dejas de depender de la máquina?</h2>\n<p>El objetivo es necesitar menos peso en el bloque cada semana, no alcanzar un número en el calendario. Un patrón prudente es este.</p>\n<ol>\n<li><strong>Sube repeticiones con la misma asistencia</strong> hasta lograr 12 limpias en las tres series.</li>\n<li><strong>Baja la asistencia un escalón</strong> y vuelve a unas 8 repeticiones. Vuelve a subir.</li>\n<li><strong>Añade una fase de descenso lenta.</strong> Sube y tarda de tres a cinco segundos en bajar. Es la versión en máquina de la <a href=\"/es/dominadas-negativas/\">dominada negativa</a>.</li>\n<li><strong>Haz un intento sin ayuda cada dos semanas.</strong> Hazlo al principio de la sesión, cuando estás fresco, no después de las series.</li>\n<li><strong>Mezcla otras herramientas</strong> cuando la asistencia baje a cerca de una cuarta parte de tu peso corporal: bandas, negativas y colgarse de la barra.</li>\n</ol>\n<p>Un ejemplo para una persona de 80 kg. Estos números son una ilustración, no un protocolo probado.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Bloque</th><th>Asistencia</th><th>Carga efectiva</th><th>Objetivo</th></tr></thead>\n<tbody>\n<tr><td>Semanas 1-2</td><td>40 kg</td><td>unos 40 kg</td><td>3 x 8-12</td></tr>\n<tr><td>Semanas 3-4</td><td>35 kg</td><td>unos 45 kg</td><td>3 x 8-12</td></tr>\n<tr><td>Semanas 5-6</td><td>30 kg</td><td>unos 50 kg</td><td>3 x 8-12</td></tr>\n<tr><td>Semanas 7-8</td><td>25 kg</td><td>unos 55 kg</td><td>3 x 6-10 más descenso lento</td></tr>\n</tbody></table></div>\n<p>Si te estancas dos semanas, no te saltes pasos. Vuelve a la última asistencia que se sintió limpia y añade repeticiones. Dos o tres sesiones por semana es la frecuencia que el ACSM da para principiantes.<sup>[1]</sup> Nuestra <a href=\"/es/primera-dominada/\">guía de la primera dominada</a> muestra cómo encaja la máquina entre colgarse, remos y negativas.</p>\n\n<h2>¿Qué errores te frenan?</h2>\n<ul>\n<li><strong>Demasiada ayuda durante demasiado tiempo.</strong> Si cada serie son 15 repeticiones fáciles con el mismo peso, el bloque hace el trabajo.</li>\n<li><strong>Empujar con la almohadilla.</strong> Impulsarte con las piernas quita carga a los brazos e infla el número.</li>\n<li><strong>Repeticiones a medias.</strong> Parar con los codos flexionados abajo o con la barbilla bajo las asas entrena un recorrido menor.</li>\n<li><strong>Dejarte caer al bajar.</strong> Caer hasta el inicio desperdicia la fuerza de descenso que la máquina puede darte.</li>\n<li><strong>Encoger los hombros y balancearte.</strong> Empieza cada repetición bajando las escápulas y luego flexiona los codos. Para corregir la técnica mira nuestra guía de <a href=\"/es/errores-dominadas/\">errores en las dominadas</a>.</li>\n<li><strong>Comparar los números del bloque entre gimnasios.</strong> Las máquinas de marcas distintas no usan la misma escala ni geometría, así que registra repeticiones y técnica, no solo kilos.</li>\n</ul>\n\n<h2>¿Qué no muestra la investigación?</h2>\n<p>No encontramos ningún ensayo que compare las dominadas asistidas con máquina, con banda y las negativas para conseguir una primera dominada. Eso significa que nadie puede decirte con datos qué herramienta es la más rápida, de qué tamaño debe ser cada paso a la baja ni cuántas semanas dura la transición. Los trabajos citados aquí tratan la actividad muscular en dominadas sin ayuda, pautas generales de entrenamiento de fuerza y trabajo excéntrico, y ninguno probó la máquina asistida con principiantes. Los tamaños de paso y el ejemplo de 8 semanas de arriba son convenciones de entrenamiento, así que ajústalos según cómo te sientas y te recuperes.</p>",
+      "faq": [
+        {
+          "q": "¿Cuánta asistencia debo usar en la máquina de dominadas asistida?",
+          "a": "Elige el peso con el que puedas hacer tres series de 8 a 12 repeticiones limpias y de recorrido completo. Una estimación inicial común es la mitad de tu peso corporal. Ajusta tras la primera serie y apunta el número."
+        },
+        {
+          "q": "¿La máquina asistida es mejor que las bandas?",
+          "a": "No se ha demostrado que ninguna sea mejor para la primera dominada. La máquina da una ayuda constante y exacta, y la banda ayuda más abajo y es portátil. Elige la que puedas usar con constancia."
+        },
+        {
+          "q": "¿Con qué rapidez debo reducir el peso del bloque?",
+          "a": "Despacio. Primero sube repeticiones con el mismo peso y baja la asistencia un escalón cuando llegues a 12 en cada serie. Espera volver a unas 8 repeticiones tras cada escalón."
+        },
+        {
+          "q": "¿Trabaja los mismos músculos que una dominada real?",
+          "a": "Entrena un movimiento parecido, porque mueves tu propio cuerpo por el recorrido. Los estudios de actividad muscular usaron dominadas sin ayuda, así que no podemos decir cuánto se parece la máquina."
+        },
+        {
+          "q": "¿Cuándo debo dejar de usar la máquina?",
+          "a": "Cuando la asistencia sea una fracción pequeña de tu peso corporal, prueba intentos sin ayuda al inicio de la sesión. Cuando logres una repetición limpia, usa negativas o bandas para sumar repeticiones."
+        }
+      ],
+      "sources": [
+        {
+          "label": "American College of Sports Medicine. Position stand: Progression models in resistance training for healthy adults. Med Sci Sports Exerc, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/"
+        },
+        {
+          "label": "Dickie JA, Faulkner JA, Barnes MJ, Lark SD. Electromyographic analysis of muscle activation during pull-up variations. J Electromyogr Kinesiol, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28011412/"
+        },
+        {
+          "label": "Doma K, Deakin GB, Ness KF. Kinematic and electromyographic comparisons between chin-ups and lat-pull down exercises. Sports Biomech, 2013.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24245055/"
+        },
+        {
+          "label": "Hody S, Croisier JL, Bury T, Rogister B, Leprince P. Eccentric Muscle Contractions: Risks and Benefits. Front Physiol, 2019.",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6510035/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/es/primera-dominada/",
+          "title": "Cómo hacer tu primera dominada"
+        },
+        {
+          "href": "/es/dominadas-con-banda/",
+          "title": "Dominadas con banda: cómo usarlas y cuándo dejarlas"
+        },
+        {
+          "href": "/es/dominadas-negativas/",
+          "title": "Dominadas negativas: entrenamiento excéntrico para tu primera dominada"
+        },
+        {
+          "href": "/es/jalon-al-pecho-vs-dominadas/",
+          "title": "Jalón al pecho vs dominadas: qué se transfiere"
+        },
+        {
+          "href": "/es/errores-dominadas/",
+          "title": "Errores en las dominadas: fallos de técnica que te frenan y cómo corregirlos"
+        },
+        {
+          "href": "/es/rutina-dominadas/",
+          "title": "Rutina de dominadas: plan semanal para sumar repeticiones"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Machine à tractions assistées : bien l'utiliser, la quitter",
+      "description": "Machine à tractions assistées : choisir le contrepoids, machine ou élastique, réduire l'aide pas à pas, erreurs fréquentes et ce que la recherche ne montre pas.",
+      "headline": "Machine à tractions assistées : choisir le contrepoids et réduire l'aide",
+      "subtitle": "Contrepoids, machine ou élastique, et un plan pour avoir besoin de moins d'aide chaque semaine",
+      "read_time": "7 min de lecture",
+      "lede": "La machine à tractions assistées retire une partie de ton poids de corps grâce à un bloc de contrepoids, ce qui te permet de travailler le mouvement complet avant de le réussir seul. Choisis une assistance qui te laisse faire 8 à 12 répétitions propres, puis réduis-la par petits paliers quand le haut de la fourchette devient facile. L'outil est utile, mais aucun essai n'a montré qu'il mène à la première traction plus vite que les élastiques ou les négatives.",
+      "body_html": "<h2>Que fait exactement la machine à tractions assistées ?</h2>\n<p>Tu te mets à genoux sur un coussin ou debout sur une plateforme, tu attrapes les poignées et tu amènes ta poitrine vers elles. La plateforme est reliée à un bloc de poids. Plus tu sélectionnes de poids, plus elle te pousse vers le haut et moins tes bras ont de poids de corps à soulever. Avec 30 kg sur le bloc, en règle approximative, tu soulèves ton poids de corps moins environ 30 kg. La géométrie du coussin et les frottements varient d'une machine à l'autre : considère donc le chiffre du bloc comme une approximation et non comme une charge exacte.</p>\n<p>Tout l'intérêt est là. Tu déplaces ton propre corps sur la même amplitude qu'une traction et tu peux modifier l'aide par petits paliers reproductibles. Au tirage vertical, au contraire, tu déplaces une barre pendant que ton corps reste assis. Pourquoi ce sont deux tâches différentes, c'est expliqué dans <a href=\"/fr/tirage-vertical-vs-tractions/\">tirage vertical vs tractions</a>. Une étude comparant chin-ups et tirages verticaux a trouvé une activité différente du biceps et des érecteurs du rachis, ainsi que des mouvements différents de l'épaule et de la nuque.<sup>[3]</sup> Elle n'a pas testé de machine assistée ; la lecture raisonnable se limite donc à ceci : un mouvement où tu portes ton propre corps n'équivaut pas à un mouvement où tu abaisses une barre.</p>\n\n<h2>Comment choisir le contrepoids ?</h2>\n<p>Commence avec plus d'aide que ton ego ne le voudrait. Un objectif pratique est une assistance avec laquelle tu enchaînes trois séries de 8 à 12 répétitions avec la même exécution à chaque répétition. L'American College of Sports Medicine recommande aux débutants des charges correspondant à 8 à 12 répétitions maximales et deux à trois jours d'entraînement par semaine.<sup>[1]</sup> Prends cela comme un cadre, pas comme une promesse que c'est démontré pour les tractions en particulier.</p>\n<p>Une façon simple de trouver le chiffre :</p>\n<ol>\n<li><strong>Vise haut.</strong> Choisis une assistance d'environ la moitié de ton poids de corps.</li>\n<li><strong>Fais une série proche de l'échec.</strong> Si tu fais plus de 12 répétitions propres, retire de l'aide. Si tu en fais moins de 8, ajoutes-en.</li>\n<li><strong>Ajuste d'une ou deux plaques.</strong> Note le chiffre pour que la semaine suivante reprenne où tu t'es arrêté.</li>\n<li><strong>Vérifie l'amplitude.</strong> Tes bras partent tendus et ton menton finit au-dessus des poignées. Les demi-répétitions ne comptent pas, quoi qu'affiche le bloc.</li>\n</ol>\n<p>Le même consensus de l'ACSM suggère d'augmenter la charge de 2 à 10 pour cent lorsque tu peux faire une à deux répétitions au-dessus de ton objectif.<sup>[1]</sup> Avec un bloc, c'est plus difficile qu'il n'y paraît. Si tu pèses 80 kg et utilises 40 kg d'aide, tu soulèves environ 40 kg. Retirer une plaque de 5 kg augmente cette charge d'environ 12 pour cent, ce qui dépasse déjà la fourchette. C'est pourquoi des répétitions en plus, une descente plus lente ou des demi-plaques (si ta machine en a) sont de meilleurs premiers leviers qu'une grosse baisse d'assistance.</p>\n\n<h2>Machine ou élastique : lequel est le meilleur ?</h2>\n<p>Ils aident de manières différentes, et la différence est mécanique. La machine donne la même aide sur toute l'amplitude. L'élastique s'étire : il pousse le plus fort en bas, là où il est le plus tendu, et aide moins vers le haut. Pour installer un élastique, consulte notre guide <a href=\"/fr/tractions-avec-elastique/\">tractions avec élastique</a>.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th></th><th>Machine</th><th>Élastique</th></tr></thead>\n<tbody>\n<tr><td>Aide pendant la répétition</td><td>À peu près constante</td><td>Maximale en bas, moindre en haut</td></tr>\n<tr><td>Changer la charge</td><td>Petits paliers précis (déplacer la goupille)</td><td>Paliers selon l'épaisseur de l'élastique ; les valeurs varient selon la marque</td></tr>\n<tr><td>Où l'utiliser</td><td>En salle uniquement</td><td>Partout où il y a une barre</td></tr>\n<tr><td>Contrôle et stabilité</td><td>Élevés, tu es calé sur un coussin</td><td>Plus faibles, l'élastique peut rebondir ou glisser</td></tr>\n<tr><td>Risque de s'y habituer</td><td>Facile de rester des mois sur le même poids</td><td>Facile de prendre un élastique plus épais pour éviter la partie difficile</td></tr>\n</tbody></table></div>\n<p>Si tu t'entraînes en salle, la machine est l'outil le plus précis car tu connais ton poids de départ et tu peux le noter. Si tu t'entraînes chez toi, l'élastique est le choix pratique. Lequel des deux construit le plus vite une première traction, on ne le sait pas, comme l'explique la section sur les preuves plus bas.</p>\n\n<h2>Que dit la recherche sur le travail musculaire ?</h2>\n<p>Une étude sur 19 hommes entraînés en force a comparé des prises de traction. Sur une répétition complète, l'activité des muscles de l'épaule, du bras et de l'avant-bras était similaire d'une prise à l'autre. Le biceps, le brachioradial et le grand pectoral étaient plus actifs pendant la phase de montée que pendant la descente.<sup>[2]</sup> Cette étude portait sur des tractions sans aide ; elle ne dit donc rien de direct sur la machine. Elle suggère en revanche que monter et descendre sont deux tâches différentes pour tes muscles et qu'un plan devrait inclure les deux.</p>\n<p>À la descente, tu es aussi plus fort. Une revue sur le travail musculaire excentrique indique qu'on produit plus de force lors des contractions excentriques que lors des autres types de contraction à la même vitesse.<sup>[4]</sup> Sur la machine, tu peux en profiter : monte avec plus d'assistance puis descends lentement. Prends cela comme une idée d'entraînement, car aucun essai ne l'a testée sur cette machine.</p>\n\n<h2>Comment se passer de la machine ?</h2>\n<p>Le but est d'avoir besoin de moins de poids sur le bloc chaque semaine, pas d'atteindre un chiffre à une date donnée. Un schéma prudent ressemble à ceci.</p>\n<ol>\n<li><strong>Ajoute des répétitions à assistance fixe</strong> jusqu'à obtenir 12 répétitions propres sur les trois séries.</li>\n<li><strong>Baisse l'assistance d'un cran</strong> et retombe à environ 8 répétitions. Remonte ensuite.</li>\n<li><strong>Ajoute une descente lente.</strong> Monte, puis mets trois à cinq secondes pour redescendre. C'est la version machine de la <a href=\"/fr/tractions-negatives/\">traction négative</a>.</li>\n<li><strong>Tente un essai sans aide toutes les deux semaines.</strong> Fais-le en début de séance, quand tu es frais, pas après tes séries.</li>\n<li><strong>Mélange d'autres outils</strong> quand l'assistance descend vers un quart de ton poids de corps : élastiques, négatives et suspensions.</li>\n</ol>\n<p>Voici un exemple pour une personne de 80 kg. Ces chiffres sont une illustration, pas un protocole testé.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Bloc</th><th>Assistance</th><th>Charge effective</th><th>Objectif</th></tr></thead>\n<tbody>\n<tr><td>Semaines 1-2</td><td>40 kg</td><td>environ 40 kg</td><td>3 x 8-12</td></tr>\n<tr><td>Semaines 3-4</td><td>35 kg</td><td>environ 45 kg</td><td>3 x 8-12</td></tr>\n<tr><td>Semaines 5-6</td><td>30 kg</td><td>environ 50 kg</td><td>3 x 8-12</td></tr>\n<tr><td>Semaines 7-8</td><td>25 kg</td><td>environ 55 kg</td><td>3 x 6-10 plus descente lente</td></tr>\n</tbody></table></div>\n<p>Si tu stagnes deux semaines, ne saute pas d'étape. Reviens à la dernière assistance qui semblait propre et ajoute des répétitions. Deux à trois séances par semaine, c'est la fréquence que l'ACSM donne pour les débutants.<sup>[1]</sup> Notre <a href=\"/fr/premiere-traction/\">guide de la première traction</a> montre comment la machine s'insère entre suspensions, rowing et négatives.</p>\n\n<h2>Quelles erreurs te freinent ?</h2>\n<ul>\n<li><strong>Trop d'aide trop longtemps.</strong> Si chaque série fait 15 répétitions faciles au même poids, c'est le bloc qui travaille.</li>\n<li><strong>Pousser sur le coussin.</strong> Te propulser avec les jambes enlève de la charge aux bras et gonfle le chiffre.</li>\n<li><strong>Les demi-répétitions.</strong> S'arrêter coudes fléchis en bas ou avec le menton sous les poignées ne travaille qu'une amplitude réduite.</li>\n<li><strong>Se laisser tomber à la descente.</strong> Retomber en position de départ gaspille la force de freinage que la machine peut t'apporter.</li>\n<li><strong>Hausser les épaules et se balancer.</strong> Commence chaque répétition en abaissant les omoplates, puis fléchis les coudes. Pour corriger l'exécution, lis nos <a href=\"/fr/erreurs-tractions/\">erreurs aux tractions</a>.</li>\n<li><strong>Comparer les chiffres du bloc d'une salle à l'autre.</strong> Les machines de marques différentes n'ont ni la même échelle ni la même géométrie ; note donc les répétitions et la technique, pas seulement les kilos.</li>\n</ul>\n\n<h2>Que ne montre pas la recherche ?</h2>\n<p>Nous n'avons trouvé aucun essai comparant les tractions assistées par machine, par élastique et les négatives pour obtenir une première traction. Cela signifie que personne ne peut te dire, données à l'appui, quel outil est le plus rapide, quelle taille doit avoir chaque palier ni combien de semaines dure la transition. Les travaux cités ici portent sur l'activité musculaire pendant des tractions sans aide, sur des recommandations générales de musculation et sur le travail excentrique ; aucun n'a testé la machine assistée chez des débutants. Les tailles de palier et l'exemple de 8 semaines ci-dessus sont des conventions d'entraînement : ajuste-les selon ton ressenti et ta récupération.</p>",
+      "faq": [
+        {
+          "q": "Quelle assistance utiliser sur la machine à tractions assistées ?",
+          "a": "Choisis le poids avec lequel tu fais trois séries de 8 à 12 répétitions propres sur toute l'amplitude. Environ la moitié de ton poids de corps est une estimation de départ courante. Ajuste après la première série et note le chiffre."
+        },
+        {
+          "q": "La machine assistée est-elle meilleure que les élastiques ?",
+          "a": "Aucune des deux n'a été démontrée meilleure pour la première traction. La machine donne une aide constante et précise, l'élastique aide plus en bas et se transporte. Prends celle que tu peux utiliser régulièrement."
+        },
+        {
+          "q": "À quelle vitesse réduire le poids du bloc ?",
+          "a": "Lentement. Ajoute d'abord des répétitions au même poids, puis baisse l'assistance d'un cran quand tu atteins 12 sur chaque série. Attends-toi à retomber à environ 8 répétitions après chaque cran."
+        },
+        {
+          "q": "Travaille-t-on les mêmes muscles qu'avec une vraie traction ?",
+          "a": "Elle entraîne un mouvement proche, puisque tu déplaces ton propre corps sur l'amplitude. Les études d'activité musculaire utilisaient des tractions sans aide : nous ne pouvons pas dire à quel point la machine s'en rapproche."
+        },
+        {
+          "q": "Quand arrêter d'utiliser la machine ?",
+          "a": "Quand l'assistance ne représente plus qu'une petite fraction de ton poids de corps, tente des essais sans aide en début de séance. Dès qu'une répétition propre passe, utilise négatives ou élastiques pour ajouter des répétitions."
+        }
+      ],
+      "sources": [
+        {
+          "label": "American College of Sports Medicine. Position stand: Progression models in resistance training for healthy adults. Med Sci Sports Exerc, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/"
+        },
+        {
+          "label": "Dickie JA, Faulkner JA, Barnes MJ, Lark SD. Electromyographic analysis of muscle activation during pull-up variations. J Electromyogr Kinesiol, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/28011412/"
+        },
+        {
+          "label": "Doma K, Deakin GB, Ness KF. Kinematic and electromyographic comparisons between chin-ups and lat-pull down exercises. Sports Biomech, 2013.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/24245055/"
+        },
+        {
+          "label": "Hody S, Croisier JL, Bury T, Rogister B, Leprince P. Eccentric Muscle Contractions: Risks and Benefits. Front Physiol, 2019.",
+          "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC6510035/"
+        }
+      ],
+      "keep_reading": [
+        {
+          "href": "/fr/premiere-traction/",
+          "title": "Comment réussir ta première traction"
+        },
+        {
+          "href": "/fr/tractions-avec-elastique/",
+          "title": "Tractions avec élastique : comment les utiliser et quand les quitter"
+        },
+        {
+          "href": "/fr/tractions-negatives/",
+          "title": "Tractions négatives : l'entraînement excentrique pour ta première traction"
+        },
+        {
+          "href": "/fr/tirage-vertical-vs-tractions/",
+          "title": "Tirage vertical vs tractions : ce qui se transfère"
+        },
+        {
+          "href": "/fr/erreurs-tractions/",
+          "title": "Erreurs aux tractions : les défauts d'exécution qui te freinent et leurs corrections"
+        },
+        {
+          "href": "/fr/programme-tractions/",
+          "title": "Programme de tractions : une routine hebdomadaire pour ajouter des répétitions"
+        }
+      ]
+    }
+  }
+}
