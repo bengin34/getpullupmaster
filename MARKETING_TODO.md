@@ -18,7 +18,7 @@
 
 ## Project-specific first experiments
 - [ ] Review pull-up progression topics; landing page CTA.
-- [ ] Pick ONE high-intent search/store-listing opportunity and write a change proposal with target audience, target query, baseline and success metric.
+- [ ] Pick ONE high-intent search/store-listing opportunity and write a change proposal with target audience, target query, baseline and success metric. _2026-11-15 (MEN-949): candidate targets are "how long does it take to do a pull-up" (`/how-long-to-first-pull-up/`) and "pull-ups without a bar" (`/pull-ups-without-a-bar/`). Metric: Search Console organic clicks + store outbound clicks, last 28d vs the 28d before merge, check by 2026-12-13. No baseline exists yet, so left unchecked._
 - [ ] Pick ONE conversion bottleneck and draft an A/B test; do not deploy until reviewed.
 
 ## Done criteria
@@ -37,6 +37,7 @@
 | 2026-11-04 | Content batch 4 (MEN-129; ecc:seo, ecc:article-writing, ecc:brand-voice) | 10 new articles x 5 langs = 50 pages (muscle-up progression, grease the groove, scapular pull-ups, over 40, calluses, rest time, training to failure, isometric holds, push-pull balance, climbing). Sitemap 164 -> 214 URLs, 0 broken internal links, 100 keep-reading links added. | Built; evidence gaps stated on-page. TR for some articles is close to the 1100-word floor; native review recommended. | Owner | 2026-11-09 |
 | 2026-11-06 | Content: ladder sets article (MEN-147; ecc:seo, article-writing, brand-voice) | New article x 5 langs (ladder-sets-pull-ups) documenting the in-app 1-2-3-4 ladder; 3 PubMed sources checked via esummary (ACSM 2009, Schoenfeld 2016 rest, Schoenfeld 2017 volume); evidence gap stated on-page (no ladder vs straight-set trial); backlinks from workout-plan + plateau (10 pages); sitemap +5 URLs | PR open, owner to merge; app guide sync follows | Owner | 2026-11-09 |
 | 2026-11-08 | Content batch 5 (MEN-184; ecc:seo, ecc:article-writing, ecc:brand-voice) | 5 new articles x 5 langs = 25 pages (pull-up variations, jumping pull-ups, assisted pull-up machine, sore after pull-ups, one-arm progression). Sitemap 219 -> 244 URLs, 0 broken internal links, 17 unique source URLs checked (PubMed 203 = real pages; PMC 200), 75 backlinks added (3 per article per lang). | Built; evidence gaps on-page (no trial for jumping/machine -> first pull-up, no one-arm training studies, no variation-vs-growth trial). TR near 1100-word floor on machine article; native review recommended. | Owner | 2026-12-06 |
+| 2026-11-15 | Content batch 6 (MEN-949; ecc:seo, ecc:article-writing, ecc:brand-voice) | 2 new articles x 5 langs = 10 pages (how-long-to-first-pull-up, pull-ups-without-a-bar). Sitemap 244 -> 254 URLs, 0 broken internal links, 9 source URLs + both store URLs checked (PubMed 203, ASEP 200, App Store/Play 200), 30 backlinks (3 targets per article per lang). | Built; evidence gaps on-page (no trial timing the weeks to a first pull-up; no trial of bar-free training for a first pull-up; ranges labelled as coaching guidelines). No search volumes: Astro MCP was down (ECONNREFUSED), topics chosen on coverage gap only. TR near 1100-word floor; native review recommended. | Owner | 2026-12-13 |
 
 ## Initial audit findings (2026-10-25, proposals only)
 | # | Finding | Evidence | Impact | Confidence | Effort |

@@ -1,0 +1,407 @@
+{
+  "slugs": {
+    "en": "how-long-to-first-pull-up",
+    "de": "wie-lange-bis-zum-ersten-klimmzug",
+    "tr": "ilk-barfiks-ne-kadar-surer",
+    "es": "cuanto-tarda-primera-dominada",
+    "fr": "combien-de-temps-premiere-traction"
+  },
+  "priority": "0.8",
+  "langs": {
+    "en": {
+      "title": "How Long Does It Take to Do a Pull-Up? A Realistic Timeline",
+      "description": "How long it takes to get your first pull-up: what sets your timeline, a self-test, honest week ranges by starting level and what speeds you up.",
+      "headline": "How long does it take to do a pull-up?",
+      "subtitle": "An honest timeline from where you are today to your first strict rep",
+      "read_time": "8 min read",
+      "lede": "It depends mostly on where you start: someone who can already hang and lower slowly may be a few weeks away, while someone who cannot hang for 10 seconds is usually looking at a few months. We found no trial that timed this, so every range below is a rough coaching guideline, not a measured result. Use it to plan, then let your own logs correct it.",
+      "faq": [
+        {
+          "q": "How long does it take to do your first pull-up?",
+          "a": "It depends on your starting level. Roughly, a few weeks if you can already lower slowly from the top, one to three months if you can hang but not lower, and often three to six months if you cannot yet hang for 10 seconds. These are coaching guidelines, not trial results."
+        },
+        {
+          "q": "Can you get a pull-up in 30 days?",
+          "a": "Sometimes, if you start with good negatives and top holds. For most beginners 30 days is too short, and chasing it can cost you elbow or shoulder trouble. Aim for steady stage-by-stage progress instead."
+        },
+        {
+          "q": "How many times a week should I train to get a pull-up?",
+          "a": "Two to three pulling sessions a week with a day or more between them suits most beginners, in line with general progression guidance for novices."
+        },
+        {
+          "q": "Why am I not getting better?",
+          "a": "The usual causes are training to failure every time, changing the plan too often, or staying on the same assisted variation. Retest every two weeks and change one thing at a time."
+        },
+        {
+          "q": "Does body weight change how long it takes?",
+          "a": "Yes, because you are lifting your own body. Heavier people can still get there; the path may simply start with rows and hangs and take longer."
+        }
+      ],
+      "sources": [
+        {
+          "label": "American College of Sports Medicine. Position stand: progression models in resistance training for healthy adults. Med Sci Sports Exerc, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/"
+        },
+        {
+          "label": "Schoenfeld BJ, Ogborn D, Krieger JW. Dose-response relationship between weekly resistance training volume and increases in muscle mass: a systematic review and meta-analysis. J Sports Sci, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27433992/"
+        },
+        {
+          "label": "Schoenfeld BJ, Pope ZK, Benik FM, et al. Longer interset rest periods enhance muscle strength and hypertrophy in resistance-trained men. J Strength Cond Res, 2016.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26605807/"
+        },
+        {
+          "label": "Plotkin D, Coleman M, Van Every D, et al. Progressive overload without progressing load? The effects of load or repetition progression on muscular adaptations. PeerJ, 2022.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36199287/"
+        },
+        {
+          "label": "Vigouroux L, Devise M. Pull-Up Performance Is Affected Differently by the Muscle Contraction Regimens Practiced during Training among Climbers. Bioengineering (Basel), 2024.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38247962/"
+        }
+      ],
+      "body_html": "<h2>How long does it take to do your first pull-up?</h2>\n<p>There is no single number, and anyone who gives you one is guessing. No study we could find followed adults from zero to a first strict pull-up and recorded the weeks. What we have instead is general training science on how strength responds to regular, progressive practice<sup>[1]</sup>, plus a lot of coaching experience about how beginners tend to move through the stages.</p>\n<p>The useful way to think about it is stages, not a calendar date. You are not waiting for a day to arrive. You are moving through a short list of abilities: hanging from the bar, holding the top, lowering under control and finally pulling up. Each stage has its own rough duration, and your timeline is the sum of the stages you still have to cover.</p>\n\n<h2>What decides your timeline?</h2>\n<ul>\n<li><strong>Your starting point.</strong> This is the biggest factor. A person who can lower slowly from the top already owns the hardest half of the movement. A person who cannot yet hang for a few seconds has more stages to cover.</li>\n<li><strong>Body weight.</strong> A pull-up lifts your whole body, so extra weight is extra load on the same muscles. This is not a verdict on you, only on the arithmetic. Our <a href=\"/body-weight-and-pull-ups/\">body weight and pull-ups guide</a> covers it in detail.</li>\n<li><strong>How often you train.</strong> Beginners usually do well with two to three pulling sessions a week, spaced so you recover between them<sup>[1]</sup>. More is not automatically better; see <a href=\"/how-often-to-do-pull-ups/\">how often to do pull-ups</a>.</li>\n<li><strong>Weekly volume.</strong> In a meta-analysis, more weekly sets per muscle group were associated with larger muscle gains, with returns that shrink as volume climbs<sup>[2]</sup>. For a beginner that means steady, repeated work beats one heroic session.</li>\n<li><strong>Consistency over months.</strong> Skipped weeks reset more than they save. A plan you can keep for 12 weeks beats a harder plan you drop at week three.</li>\n<li><strong>Age, injury history and sleep.</strong> These change how fast you recover, not whether you can get there. If something hurts, fix that first.</li>\n</ul>\n\n<h2>Where are you starting? A five-minute self-test</h2>\n<p>Do these in order and stop at the first one you cannot finish. Rest a couple of minutes between them and warm up your shoulders first.</p>\n<ol>\n<li><strong>Dead hang.</strong> Hang from the bar with straight arms and your feet off the floor. Can you hold 20 seconds?</li>\n<li><strong>Scapular pull.</strong> From the hang, pull your shoulder blades down and back without bending your elbows. Can you do five slow reps? See <a href=\"/scapular-pull-ups-how-to/\">scapular pull-ups</a>.</li>\n<li><strong>Top hold.</strong> Step or jump to the top position, chin over the bar. Can you hold it for five seconds?</li>\n<li><strong>Negative.</strong> From the top, lower for a slow count of five. Can you do three of those? See <a href=\"/negative-pull-ups/\">negative pull-ups</a>.</li>\n<li><strong>Row.</strong> Do a bodyweight row under a low bar. Can you do eight with your body in a straight line?</li>\n</ol>\n<p>The step where you stop is your level. Write it down with the date. It is the baseline the rest of this page refers to.</p>\n\n<h2>What does a realistic timeline look like?</h2>\n<p>The ranges below are rough coaching guidelines for someone training two to three times a week and recovering well. They are not trial data. Some people will be faster, plenty will be slower, and a month of illness or travel adds to any of them.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Your level today</th><th>What is missing</th><th>Rough range to a first rep</th><th>What to focus on</th></tr></thead>\n<tbody>\n<tr><td>Can do slow negatives and top holds</td><td>A little pulling strength from the bottom</td><td>Often a few weeks</td><td>Negatives, jumping reps, a band for the last inches</td></tr>\n<tr><td>Can hang 20 seconds, cannot lower under control</td><td>Eccentric strength and the top position</td><td>Often one to three months</td><td>Hangs, scapular pulls, rows, then negatives</td></tr>\n<tr><td>Cannot hang 10 seconds</td><td>Grip, shoulder tolerance and base pulling strength</td><td>Often three to six months</td><td>Short hangs, rows, easy volume, patience</td></tr>\n<tr><td>Carrying a lot of extra weight, or returning from injury</td><td>More load on the same muscles; slower tissue adaptation</td><td>Can be longer; no honest estimate exists</td><td>Rows and hangs first, check with a clinician if you have pain</td></tr>\n</tbody></table></div>\n<p>Notice what the table does not say: it gives no promise. If your logs show steady progress, you are on track even when you sit at the slow end of a range. If nothing has moved for four weeks, change something, as covered in <a href=\"/pull-up-plateau/\">the pull-up plateau guide</a>.</p>\n\n<h2>What speeds it up?</h2>\n<ul>\n<li><strong>Practise the movement itself.</strong> A study of climbers found that pull-up performance responded differently depending on the type of contraction they trained<sup>[5]</sup>. The takeaway for a beginner is to include actual pulling and lowering, not only general exercises.</li>\n<li><strong>Add reps before adding difficulty.</strong> A trial comparing load progression with repetition progression found similar muscle adaptations, so adding a rep to a set is a legitimate way to progress<sup>[4]</sup>.</li>\n<li><strong>Rest enough between hard sets.</strong> In trained men, resting three minutes between sets produced larger strength gains than one minute<sup>[3]</sup>. Beginners are not the same population, but cutting rest to rush a hard pulling set rarely helps. See <a href=\"/pull-up-rest-time-between-sets/\">rest time between sets</a>.</li>\n<li><strong>Stop before failure on most sets.</strong> Stopping a rep or two short keeps form clean and lets you train again in two days.</li>\n<li><strong>Sleep and enough food.</strong> We found no pull-up-specific trial on these, so treat them as general recovery basics rather than a hack.</li>\n</ul>\n\n<h2>What slows it down?</h2>\n<ul>\n<li>Training to exhaustion every session, which pushes your next session back. See <a href=\"/training-to-failure-pull-ups/\">training to failure</a>.</li>\n<li>Only doing the easiest variation forever. If you have done the same band or jump for six weeks, shrink the help.</li>\n<li>Sloppy hangs with shrugged shoulders and bent elbows. They feel easy and teach little.</li>\n<li>Changing the plan every week. You cannot see progress if the test keeps moving.</li>\n<li>Pushing through elbow or shoulder pain. A week off costs less than a month of tendon trouble.</li>\n</ul>\n\n<h2>A simple way to track the weeks</h2>\n<p>Retest the self-test every two weeks, not every session. Record the best number from each step: hang seconds, scapular reps, top-hold seconds, negative count, row reps. A rising number in any step counts as progress, even when your first pull-up still feels far away.</p>\n<p>That is also the logic behind the PullUp Master app: it places you on a progression block, guides every set and rest, and estimates how many weeks your first rep is away based on your logged sessions. An estimate like that is only as good as the data behind it, so treat it as a moving forecast, not a promise.</p>\n\n<h2>What should you do after the first rep?</h2>\n<p>Do not test it every day. One clean rep is a milestone, not a plan. For the next few weeks, keep the stages that got you there, add a second and third rep gradually, and use easy sets with a few reps left in reserve. When you can do three reps in a row, the <a href=\"/pull-up-workout-plan/\">pull-up workout plan</a> is the natural next step, and our <a href=\"/first-pull-up/\">first pull-up guide</a> covers the movement in full.</p>\n<p>If you are not there yet, that is fine. Pick the step from the self-test where you stopped, train it twice this week and write down the result. That is how every first pull-up begins.</p>",
+      "keep_reading": [
+        {
+          "href": "/first-pull-up/",
+          "title": "How to do your first pull-up"
+        },
+        {
+          "href": "/negative-pull-ups/",
+          "title": "Negative pull-ups: how eccentric training builds your first pull-up"
+        },
+        {
+          "href": "/pull-up-workout-plan/",
+          "title": "Pull-up workout plan: a weekly routine to add reps"
+        },
+        {
+          "href": "/body-weight-and-pull-ups/",
+          "title": "Body weight and pull-ups: why relative strength decides your reps"
+        },
+        {
+          "href": "/how-often-to-do-pull-ups/",
+          "title": "How often should you do pull-ups? Frequency, weekly volume and recovery"
+        },
+        {
+          "href": "/pull-up-plateau/",
+          "title": "Pull-up plateau: why your reps stopped going up and how to break through"
+        }
+      ]
+    },
+    "de": {
+      "title": "Wie lange bis zum ersten Klimmzug? Realistischer Zeitplan",
+      "description": "Wie lange es bis zum ersten Klimmzug dauert: Was deinen Zeitplan bestimmt, ein Selbsttest, ehrliche Wochenspannen je Startniveau und was dich beschleunigt.",
+      "headline": "Wie lange dauert es bis zum ersten Klimmzug?",
+      "subtitle": "Ein ehrlicher Zeitplan von heute bis zur ersten sauberen Wiederholung",
+      "read_time": "8 Min. Lesezeit",
+      "lede": "Das hängt vor allem davon ab, wo du startest: Wer sich schon hängen und langsam ablassen kann, ist oft nur wenige Wochen entfernt, wer keine 10 Sekunden hängen kann, braucht meist einige Monate. Wir haben keine Studie gefunden, die das gemessen hat. Alle Spannen unten sind grobe Trainer-Richtwerte, keine Messergebnisse. Plane damit und lass dein Trainingslog sie korrigieren.",
+      "faq": [
+        {
+          "q": "Wie lange dauert es bis zum ersten Klimmzug?",
+          "a": "Das hängt vom Startniveau ab. Grob: einige Wochen, wenn du dich schon langsam von oben ablassen kannst, ein bis drei Monate, wenn du hängen, aber nicht ablassen kannst, und oft drei bis sechs Monate, wenn du noch keine 10 Sekunden hängst. Das sind Trainer-Richtwerte, keine Studienergebnisse."
+        },
+        {
+          "q": "Schafft man einen Klimmzug in 30 Tagen?",
+          "a": "Manchmal, wenn du mit guten Negativen und Haltepunkten startest. Für die meisten Anfänger sind 30 Tage zu kurz, und der Druck kann Ellbogen- oder Schulterprobleme kosten. Besser ist stetiger Fortschritt Stufe für Stufe."
+        },
+        {
+          "q": "Wie oft pro Woche sollte ich für den Klimmzug trainieren?",
+          "a": "Zwei bis drei Zugeinheiten pro Woche mit mindestens einem Tag Abstand passen für die meisten Anfänger und entsprechen den allgemeinen Progressionsempfehlungen für Einsteiger."
+        },
+        {
+          "q": "Warum komme ich nicht voran?",
+          "a": "Meist liegt es daran, jedes Mal bis zum Muskelversagen zu trainieren, den Plan zu oft zu wechseln oder bei derselben Hilfsvariante zu bleiben. Teste alle zwei Wochen neu und ändere nur eine Sache."
+        },
+        {
+          "q": "Beeinflusst das Körpergewicht die Dauer?",
+          "a": "Ja, denn du hebst deinen eigenen Körper. Auch schwerere Menschen schaffen es; der Weg beginnt vielleicht mit Rudern und Hängen und dauert länger."
+        }
+      ],
+      "sources": [
+        {
+          "label": "American College of Sports Medicine. Position stand: progression models in resistance training for healthy adults. Med Sci Sports Exerc, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/"
+        },
+        {
+          "label": "Schoenfeld BJ, Ogborn D, Krieger JW. Dose-response relationship between weekly resistance training volume and increases in muscle mass: a systematic review and meta-analysis. J Sports Sci, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27433992/"
+        },
+        {
+          "label": "Schoenfeld BJ, Pope ZK, Benik FM, et al. Longer interset rest periods enhance muscle strength and hypertrophy in resistance-trained men. J Strength Cond Res, 2016.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26605807/"
+        },
+        {
+          "label": "Plotkin D, Coleman M, Van Every D, et al. Progressive overload without progressing load? The effects of load or repetition progression on muscular adaptations. PeerJ, 2022.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36199287/"
+        },
+        {
+          "label": "Vigouroux L, Devise M. Pull-Up Performance Is Affected Differently by the Muscle Contraction Regimens Practiced during Training among Climbers. Bioengineering (Basel), 2024.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38247962/"
+        }
+      ],
+      "body_html": "<h2>Wie lange dauert es bis zum ersten Klimmzug?</h2>\n<p>Eine einzige Zahl gibt es nicht, und wer dir eine nennt, rät. Wir haben keine Studie gefunden, die Erwachsene von null bis zum ersten sauberen Klimmzug begleitet und die Wochen erfasst hat. Wir haben stattdessen allgemeine Trainingswissenschaft dazu, wie Kraft auf regelmäßiges, steigendes Training reagiert<sup>[1]</sup>, und viel Trainererfahrung dazu, wie Anfänger die Stufen durchlaufen.</p>\n<p>Sinnvoll ist, in Stufen zu denken statt in einem Datum. Du wartest nicht auf einen Tag. Du arbeitest eine kurze Liste von Fähigkeiten ab: an der Stange hängen, die obere Position halten, kontrolliert ablassen und schließlich hochziehen. Jede Stufe hat ihre eigene grobe Dauer, und dein Zeitplan ist die Summe der Stufen, die dir noch fehlen.</p>\n\n<h2>Was bestimmt deinen Zeitplan?</h2>\n<ul>\n<li><strong>Dein Startpunkt.</strong> Das ist der wichtigste Faktor. Wer sich oben langsam ablassen kann, beherrscht schon die schwerere Hälfte der Bewegung. Wer noch nicht einmal einige Sekunden hängen kann, hat mehr Stufen vor sich.</li>\n<li><strong>Körpergewicht.</strong> Ein Klimmzug hebt deinen ganzen Körper, mehr Gewicht heißt mehr Last auf denselben Muskeln. Das ist kein Urteil über dich, sondern Rechnerei. Mehr dazu in unserem Ratgeber <a href=\"/de/klimmzug-koerpergewicht/\">Körpergewicht und Klimmzüge</a>.</li>\n<li><strong>Wie oft du trainierst.</strong> Anfänger fahren meist gut mit zwei bis drei Zugeinheiten pro Woche, mit genug Abstand zur Erholung<sup>[1]</sup>. Mehr ist nicht automatisch besser, siehe <a href=\"/de/klimmzuege-wie-oft-trainieren/\">wie oft Klimmzüge trainieren</a>.</li>\n<li><strong>Wochenvolumen.</strong> In einer Metaanalyse hingen mehr Wochensätze pro Muskelgruppe mit mehr Muskelzuwachs zusammen, wobei der Zusatznutzen mit steigendem Volumen abnimmt<sup>[2]</sup>. Für Anfänger heißt das: regelmäßige Arbeit schlägt eine heldenhafte Einheit.</li>\n<li><strong>Beständigkeit über Monate.</strong> Ausgefallene Wochen werfen mehr zurück, als sie sparen. Ein Plan, den du zwölf Wochen durchhältst, schlägt einen härteren, den du in Woche drei abbrichst.</li>\n<li><strong>Alter, Verletzungen und Schlaf.</strong> Sie beeinflussen, wie schnell du dich erholst, nicht ob du es schaffst. Wenn etwas wehtut, kläre das zuerst.</li>\n</ul>\n\n<h2>Wo stehst du? Ein Selbsttest in fünf Minuten</h2>\n<p>Mach die Schritte der Reihe nach und höre beim ersten auf, den du nicht schaffst. Pausiere zwischendurch ein paar Minuten und wärme die Schultern vorher auf.</p>\n<ol>\n<li><strong>Dead Hang.</strong> Hänge mit gestreckten Armen und ohne Bodenkontakt an der Stange. Schaffst du 20 Sekunden?</li>\n<li><strong>Scapula-Zug.</strong> Zieh im Hang die Schulterblätter nach unten und hinten, ohne die Ellbogen zu beugen. Schaffst du fünf langsame Wiederholungen? Siehe <a href=\"/de/scapula-pull-ups-anleitung/\">Scapula-Pull-ups</a>.</li>\n<li><strong>Haltepunkt oben.</strong> Steige oder springe in die obere Position, Kinn über der Stange. Hältst du fünf Sekunden?</li>\n<li><strong>Negative.</strong> Lass dich von oben auf fünf Sekunden ab. Schaffst du drei davon? Siehe <a href=\"/de/negative-klimmzuege/\">negative Klimmzüge</a>.</li>\n<li><strong>Rudern.</strong> Mach unter einer niedrigen Stange umgekehrtes Rudern. Schaffst du acht Wiederholungen mit gerader Körperlinie?</li>\n</ol>\n<p>Die Stufe, an der du stoppst, ist dein Niveau. Notiere sie mit Datum. Das ist die Ausgangsbasis für den Rest dieser Seite.</p>\n\n<h2>Wie sieht ein realistischer Zeitplan aus?</h2>\n<p>Die Spannen unten sind grobe Trainer-Richtwerte für jemanden, der zwei- bis dreimal pro Woche trainiert und sich gut erholt. Es sind keine Studiendaten. Manche sind schneller, viele langsamer, und ein Monat Krankheit oder Reise verlängert jede Angabe.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Dein Niveau heute</th><th>Was fehlt</th><th>Grobe Spanne bis zur ersten Wiederholung</th><th>Worauf du dich konzentrierst</th></tr></thead>\n<tbody>\n<tr><td>Kann langsame Negative und Haltepunkte oben</td><td>Etwas Zugkraft aus der unteren Position</td><td>Oft einige Wochen</td><td>Negative, Sprung-Wiederholungen, Band für die letzten Zentimeter</td></tr>\n<tr><td>Hängt 20 Sekunden, lässt sich nicht kontrolliert ab</td><td>Exzentrische Kraft und obere Position</td><td>Oft ein bis drei Monate</td><td>Hänge, Scapula-Züge, Rudern, dann Negative</td></tr>\n<tr><td>Hängt keine 10 Sekunden</td><td>Griffkraft, Schultertoleranz und grundlegende Zugkraft</td><td>Oft drei bis sechs Monate</td><td>Kurze Hänge, Rudern, leichtes Volumen, Geduld</td></tr>\n<tr><td>Viel zusätzliches Gewicht oder Rückkehr nach Verletzung</td><td>Mehr Last auf denselben Muskeln, langsamere Gewebeanpassung</td><td>Kann länger dauern, eine ehrliche Schätzung gibt es nicht</td><td>Erst Rudern und Hänge, bei Schmerzen ärztlich abklären</td></tr>\n</tbody></table></div>\n<p>Beachte, was die Tabelle nicht sagt: Sie verspricht nichts. Wenn dein Log stetigen Fortschritt zeigt, bist du im Plan, auch am langsamen Ende einer Spanne. Hat sich vier Wochen nichts bewegt, ändere etwas, wie im <a href=\"/de/klimmzug-plateau/\">Ratgeber zum Klimmzug-Plateau</a> beschrieben.</p>\n\n<h2>Was beschleunigt den Fortschritt?</h2>\n<ul>\n<li><strong>Übe die Bewegung selbst.</strong> Eine Studie mit Kletterern fand, dass die Klimmzugleistung unterschiedlich auf die trainierte Kontraktionsart reagierte<sup>[5]</sup>. Für Anfänger heißt das: echtes Ziehen und Ablassen gehören ins Training, nicht nur allgemeine Übungen.</li>\n<li><strong>Erst Wiederholungen steigern, dann die Schwierigkeit.</strong> Ein Versuch, der Laststeigerung mit Wiederholungssteigerung verglich, fand ähnliche Muskelanpassungen. Eine Wiederholung mehr pro Satz ist also ein legitimer Fortschritt<sup>[4]</sup>.</li>\n<li><strong>Genug Pause zwischen harten Sätzen.</strong> Bei trainierten Männern brachten drei Minuten Pause größere Kraftzuwächse als eine Minute<sup>[3]</sup>. Anfänger sind eine andere Gruppe, doch Pausen zu kürzen, um einen harten Zugsatz zu beschleunigen, hilft selten. Siehe <a href=\"/de/klimmzug-pause-zwischen-saetzen/\">Pause zwischen den Sätzen</a>.</li>\n<li><strong>Bei den meisten Sätzen vor dem Muskelversagen aufhören.</strong> Eine oder zwei Wiederholungen früher zu stoppen hält die Form sauber, und du kannst in zwei Tagen wieder trainieren.</li>\n<li><strong>Schlaf und ausreichend Essen.</strong> Dazu haben wir keine klimmzugspezifische Studie gefunden. Sieh es als allgemeine Erholungsgrundlage, nicht als Trick.</li>\n</ul>\n\n<h2>Was bremst?</h2>\n<ul>\n<li>Jede Einheit bis zur Erschöpfung zu trainieren, was die nächste Einheit nach hinten schiebt. Siehe <a href=\"/de/klimmzuege-bis-zum-muskelversagen/\">Training bis zum Muskelversagen</a>.</li>\n<li>Für immer nur die leichteste Variante. Wenn du seit sechs Wochen dasselbe Band oder denselben Sprung nutzt, verkleinere die Hilfe.</li>\n<li>Schlampige Hänge mit hochgezogenen Schultern und gebeugten Ellbogen. Sie fühlen sich leicht an und bringen wenig.</li>\n<li>Jede Woche den Plan wechseln. Fortschritt ist nicht sichtbar, wenn sich der Test ständig ändert.</li>\n<li>Durch Ellbogen- oder Schulterschmerz trainieren. Eine Woche Pause kostet weniger als ein Monat Sehnenärger.</li>\n</ul>\n\n<h2>Eine einfache Art, die Wochen zu verfolgen</h2>\n<p>Wiederhole den Selbsttest alle zwei Wochen, nicht jede Einheit. Notiere die beste Zahl je Schritt: Hangsekunden, Scapula-Wiederholungen, Haltesekunden oben, Negativ-Zählung, Ruder-Wiederholungen. Eine steigende Zahl in irgendeinem Schritt ist Fortschritt, auch wenn dir der erste Klimmzug noch weit weg vorkommt.</p>\n<p>Genau das ist die Logik hinter der App PullUp Master: Sie ordnet dich einem Progressionsblock zu, führt dich durch jeden Satz und jede Pause und schätzt anhand deiner geloggten Einheiten, wie viele Wochen dein erster Klimmzug entfernt ist. Eine solche Schätzung ist nur so gut wie die Daten dahinter. Nimm sie als bewegliche Prognose, nicht als Versprechen.</p>\n\n<h2>Was tun nach der ersten Wiederholung?</h2>\n<p>Teste sie nicht jeden Tag. Eine saubere Wiederholung ist ein Meilenstein, kein Plan. Behalte in den nächsten Wochen die Stufen bei, die dich hergebracht haben, füge nach und nach eine zweite und dritte Wiederholung hinzu und trainiere leichte Sätze mit ein paar Wiederholungen in Reserve. Schaffst du drei am Stück, ist der <a href=\"/de/klimmzug-trainingsplan/\">Klimmzug-Trainingsplan</a> der nächste Schritt, und unser Ratgeber zum <a href=\"/de/erster-klimmzug/\">ersten Klimmzug</a> erklärt die Bewegung vollständig.</p>\n<p>Bist du noch nicht so weit, ist das in Ordnung. Nimm die Stufe aus dem Selbsttest, an der du gestoppt hast, trainiere sie diese Woche zweimal und schreibe das Ergebnis auf. So beginnt jeder erste Klimmzug. Und wenn du zwischendurch krank bist oder reist, steige danach eine Stufe leichter wieder ein, statt dort weiterzumachen, wo du aufgehört hast. Das kostet wenige Tage und spart dir Zerrungen und Frust.</p>",
+      "keep_reading": [
+        {
+          "href": "/de/erster-klimmzug/",
+          "title": "So schaffst du deinen ersten Klimmzug"
+        },
+        {
+          "href": "/de/negative-klimmzuege/",
+          "title": "Negative Klimmzüge: So baut exzentrisches Training deinen ersten Klimmzug auf"
+        },
+        {
+          "href": "/de/klimmzug-trainingsplan/",
+          "title": "Klimmzug Trainingsplan: So steigerst du deine Wiederholungen"
+        },
+        {
+          "href": "/de/klimmzug-koerpergewicht/",
+          "title": "Klimmzug und Körpergewicht: Warum relative Kraft über deine Wiederholungen entscheidet"
+        },
+        {
+          "href": "/de/klimmzuege-wie-oft-trainieren/",
+          "title": "Wie oft solltest du Klimmzüge trainieren? Frequenz, Wochenvolumen und Erholung"
+        },
+        {
+          "href": "/de/klimmzug-plateau/",
+          "title": "Klimmzug-Plateau: So kommst du wieder voran"
+        }
+      ]
+    },
+    "tr": {
+      "title": "İlk Barfiks Ne Kadar Sürer? Gerçekçi Bir Zaman Çizelgesi",
+      "description": "İlk barfiksin ne kadar sürdüğü: süreni belirleyenler, kendini test etme, başlangıç seviyene göre dürüst hafta aralıkları ve seni hızlandıranlar.",
+      "headline": "İlk barfiks ne kadar sürer?",
+      "subtitle": "Bugünden ilk temiz tekrara dürüst bir yol haritası",
+      "read_time": "8 dk okuma",
+      "lede": "Süre en çok nereden başladığına bağlı: zaten asılıp yavaşça inebiliyorsan ilk tekrar birkaç hafta uzakta olabilir, 10 saniye asılamıyorsan genelde birkaç aydan söz ederiz. Bunu süreyle ölçen bir çalışma bulamadık, o yüzden aşağıdaki aralıkların hepsi kabaca antrenör tecrübesine dayanan rehberdir, ölçülmüş sonuç değil. Planlamak için kullan, sonra kendi kayıtların düzeltsin.",
+      "faq": [
+        {
+          "q": "İlk barfiks ne kadar sürer?",
+          "a": "Başlangıç seviyene bağlı. Kabaca: üstten yavaşça inebiliyorsan birkaç hafta, asılabilip inemiyorsan bir ila üç ay, 10 saniye asılamıyorsan çoğunlukla üç ila altı ay. Bunlar antrenör rehberi, çalışma sonucu değil."
+        },
+        {
+          "q": "30 günde barfiks yapılır mı?",
+          "a": "Bazen, iyi negatifler ve üstte tutuşla başlıyorsan. Çoğu yeni başlayan için 30 gün kısa ve acele dirsek ya da omuz sorununa mal olabilir. Aşama aşama düzenli ilerlemeyi hedefle."
+        },
+        {
+          "q": "Barfiks için haftada kaç kez çalışmalıyım?",
+          "a": "Çoğu yeni başlayan için aralarında en az bir gün olan haftada iki üç çekiş antrenmanı uygun; bu, yeni başlayanlara yönelik genel ilerleme önerileriyle uyumlu."
+        },
+        {
+          "q": "Neden gelişmiyorum?",
+          "a": "Genelde her seferinde tükenene kadar çalışmak, planı çok sık değiştirmek ya da aynı yardımlı varyasyonda kalmak yüzünden. İki haftada bir test et ve aynı anda yalnızca bir şeyi değiştir."
+        },
+        {
+          "q": "Vücut ağırlığı süreyi değiştirir mi?",
+          "a": "Evet, çünkü kendi vücudunu kaldırıyorsun. Daha ağır kişiler de başarabilir; yol belki kürek ve asılmayla başlar ve daha uzun sürer."
+        }
+      ],
+      "sources": [
+        {
+          "label": "American College of Sports Medicine. Position stand: progression models in resistance training for healthy adults. Med Sci Sports Exerc, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/"
+        },
+        {
+          "label": "Schoenfeld BJ, Ogborn D, Krieger JW. Dose-response relationship between weekly resistance training volume and increases in muscle mass: a systematic review and meta-analysis. J Sports Sci, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27433992/"
+        },
+        {
+          "label": "Schoenfeld BJ, Pope ZK, Benik FM, et al. Longer interset rest periods enhance muscle strength and hypertrophy in resistance-trained men. J Strength Cond Res, 2016.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26605807/"
+        },
+        {
+          "label": "Plotkin D, Coleman M, Van Every D, et al. Progressive overload without progressing load? The effects of load or repetition progression on muscular adaptations. PeerJ, 2022.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36199287/"
+        },
+        {
+          "label": "Vigouroux L, Devise M. Pull-Up Performance Is Affected Differently by the Muscle Contraction Regimens Practiced during Training among Climbers. Bioengineering (Basel), 2024.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38247962/"
+        }
+      ],
+      "body_html": "<h2>İlk barfiks ne kadar sürer?</h2>\n<p>Tek bir sayı yok, sana bir sayı veren de tahmin yürütüyordur. Yetişkinleri sıfırdan ilk temiz barfikse kadar takip edip haftaları kaydeden bir çalışma bulamadık. Elimizde bunun yerine kuvvetin düzenli ve kademeli antrenmana nasıl yanıt verdiğine dair genel antrenman bilimi<sup>[1]</sup> ve yeni başlayanların aşamalardan nasıl geçtiğine dair bol antrenör tecrübesi var.</p>\n<p>Faydalı olan, takvim tarihi yerine aşamalarla düşünmek. Bir günün gelmesini beklemiyorsun. Kısa bir yetenek listesinden geçiyorsun: barda asılmak, üst pozisyonu tutmak, kontrollü inmek ve sonunda yukarı çekilmek. Her aşamanın kabaca bir süresi var ve senin takvimin, henüz geçmediğin aşamaların toplamı.</p>\n\n<h2>Süreni ne belirler?</h2>\n<ul>\n<li><strong>Başlangıç noktan.</strong> En büyük etken bu. Üstten yavaşça inebilen biri hareketin zor yarısına zaten sahip. Birkaç saniye bile asılamayan birinin önünde daha çok aşama var.</li>\n<li><strong>Vücut ağırlığı.</strong> Barfiks tüm vücudunu kaldırır, fazla kilo aynı kaslara fazla yük demek. Bu senin hakkında bir hüküm değil, sadece aritmetik. Ayrıntısı <a href=\"/tr/barfiks-vucut-agirligi/\">vücut ağırlığı ve barfiks rehberinde</a>.</li>\n<li><strong>Ne sıklıkla çalıştığın.</strong> Yeni başlayanlar genelde haftada iki üç çekiş antrenmanıyla iyi ilerler, aralarda toparlanma payı bırakarak<sup>[1]</sup>. Fazlası otomatik olarak daha iyi değil, bkz. <a href=\"/tr/haftada-kac-gun-barfiks/\">haftada kaç gün barfiks</a>.</li>\n<li><strong>Haftalık hacim.</strong> Bir meta-analizde kas grubu başına haftalık set sayısı arttıkça kas kazanımı da arttı, ancak hacim yükseldikçe getiri azaldı<sup>[2]</sup>. Yeni başlayan için anlamı şu: düzenli tekrar eden iş, tek kahramanca antrenmandan iyidir.</li>\n<li><strong>Aylar boyunca süreklilik.</strong> Atlanan haftalar kazandırdığından fazlasını sıfırlar. 12 hafta sürdürebileceğin plan, üçüncü haftada bırakacağın sert plandan iyidir.</li>\n<li><strong>Yaş, sakatlık geçmişi ve uyku.</strong> Bunlar toparlanma hızını değiştirir, ulaşıp ulaşamayacağını değil. Bir yerin ağrıyorsa önce onu hallet.</li>\n</ul>\n\n<h2>Neredesin? Beş dakikalık bir kendini test</h2>\n<p>Bunları sırayla yap ve bitiremediğin ilk adımda dur. Arada birkaç dakika dinlen ve önce omuzlarını ısıt.</p>\n<ol>\n<li><strong>Dead hang.</strong> Kollar düz, ayaklar yerden kesik şekilde barda asıl. 20 saniye tutabiliyor musun?</li>\n<li><strong>Skapular çekiş.</strong> Asılıyken dirseklerini bükmeden kürek kemiklerini aşağı ve geriye çek. Beş yavaş tekrar yapabiliyor musun? Bkz. <a href=\"/tr/skapular-barfiks-nasil-yapilir/\">skapular barfiks</a>.</li>\n<li><strong>Üstte tutuş.</strong> Basamakla ya da sıçrayarak üst pozisyona çık, çene barın üstünde. Beş saniye tutabiliyor musun?</li>\n<li><strong>Negatif.</strong> Üstten beş saniyelik yavaş sayımla in. Üç tane yapabiliyor musun? Bkz. <a href=\"/tr/negatif-barfiks/\">negatif barfiks</a>.</li>\n<li><strong>Kürek.</strong> Alçak bir barın altında vücut ağırlığıyla kürek çek. Vücudun düz çizgideyken sekiz tekrar yapabiliyor musun?</li>\n</ol>\n<p>Durduğun adım senin seviyen. Tarihiyle birlikte not et. Sayfanın geri kalanının dayandığı başlangıç noktası bu.</p>\n\n<h2>Gerçekçi bir zaman çizelgesi nasıl görünür?</h2>\n<p>Aşağıdaki aralıklar, haftada iki üç kez çalışan ve iyi toparlanan biri için kabaca antrenör rehberidir. Çalışma verisi değil. Bazıları daha hızlı, birçoğu daha yavaş olur ve bir ay hastalık ya da seyahat her aralığa eklenir.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Bugünkü seviyen</th><th>Eksik olan</th><th>İlk tekrara kabaca süre</th><th>Odak noktası</th></tr></thead>\n<tbody>\n<tr><td>Yavaş negatif ve üstte tutuş yapabiliyor</td><td>Alt pozisyondan biraz çekiş gücü</td><td>Çoğunlukla birkaç hafta</td><td>Negatifler, sıçramalı tekrarlar, son santimler için bant</td></tr>\n<tr><td>20 saniye asılıyor, kontrollü inemiyor</td><td>Eksantrik kuvvet ve üst pozisyon</td><td>Çoğunlukla bir ila üç ay</td><td>Asılma, skapular çekiş, kürek, sonra negatifler</td></tr>\n<tr><td>10 saniye asılamıyor</td><td>Kavrama, omuz toleransı ve temel çekiş gücü</td><td>Çoğunlukla üç ila altı ay</td><td>Kısa asılmalar, kürek, hafif hacim, sabır</td></tr>\n<tr><td>Fazladan çok kilosu var ya da sakatlıktan dönüyor</td><td>Aynı kaslara daha fazla yük, daha yavaş doku uyumu</td><td>Daha uzun olabilir, dürüst bir tahmin yok</td><td>Önce kürek ve asılma, ağrı varsa hekime danış</td></tr>\n</tbody></table></div>\n<p>Tablonun neyi söylemediğine dikkat et: söz vermiyor. Kayıtların düzenli ilerleme gösteriyorsa, bir aralığın yavaş ucunda olsan bile yoldasın. Dört haftadır hiçbir şey kıpırdamadıysa <a href=\"/tr/barfiks-plato/\">barfiks platosu rehberindeki</a> gibi bir şeyi değiştir.</p>\n\n<h2>Neler hızlandırır?</h2>\n<ul>\n<li><strong>Hareketin kendisini çalış.</strong> Tırmanıcılarla yapılan bir çalışma, barfiks performansının çalışılan kasılma türüne göre farklı yanıt verdiğini gösterdi<sup>[5]</sup>. Yeni başlayan için çıkarım: genel egzersizlerin yanında gerçek çekme ve inme de olsun.</li>\n<li><strong>Zorluğu artırmadan önce tekrarı artır.</strong> Yük artışıyla tekrar artışını karşılaştıran bir çalışma benzer kas uyumları buldu. Yani sete bir tekrar eklemek geçerli bir ilerleme yolu<sup>[4]</sup>.</li>\n<li><strong>Zor setler arasında yeterince dinlen.</strong> Antrenmanlı erkeklerde setler arası üç dakika dinlenmek, bir dakikaya göre daha büyük kuvvet kazancı verdi<sup>[3]</sup>. Yeni başlayanlar aynı grup değil, ama zor bir çekiş setini acele etmek için molayı kısaltmak nadiren işe yarar. Bkz. <a href=\"/tr/barfiks-set-arasi-dinlenme/\">setler arası dinlenme</a>.</li>\n<li><strong>Çoğu sette tükenmeden dur.</strong> Bir iki tekrar önce durmak formu temiz tutar ve iki gün sonra tekrar çalışmana izin verir.</li>\n<li><strong>Uyku ve yeterli yemek.</strong> Bunlar için barfikse özgü bir çalışma bulamadık, bu yüzden hile değil, genel toparlanma temeli olarak gör.</li>\n</ul>\n\n<h2>Neler yavaşlatır?</h2>\n<ul>\n<li>Her antrenmanı tükenene kadar yapmak, bu da bir sonraki antrenmanı geriye atar. Bkz. <a href=\"/tr/barfiks-tukenmeye-kadar/\">tükenmeye kadar antrenman</a>.</li>\n<li>Sonsuza kadar en kolay varyasyonda kalmak. Altı haftadır aynı bant ya da sıçrayışı kullanıyorsan yardımı azalt.</li>\n<li>Omuzlar kulağa çıkmış, dirsekler bükük, özensiz asılmalar. Kolay hissettirir ama az öğretir.</li>\n<li>Planı her hafta değiştirmek. Test sürekli kayıyorsa ilerlemeyi göremezsin.</li>\n<li>Dirsek ya da omuz ağrısına rağmen devam etmek. Bir hafta ara, bir ay tendon sorunundan ucuzdur.</li>\n</ul>\n\n<h2>Örnek bir hafta nasıl görünür?</h2>\n<p>Seviyen ne olursa olsun, yeni başlayan için basit bir haftalık düzen şöyle olabilir. İki antrenman günü yeterli, üçüncüsü isteğe bağlı ve hafif.</p>\n<ul>\n<li><strong>1. gün:</strong> ısınma, skapular çekişler, durduğun seviyeye uygun asılma ya da negatifler, ardından alçak barda 3 set kürek.</li>\n<li><strong>2. gün:</strong> en az bir gün ara ver. Aynı hareketlere dön, ama bir tekrar ya da birkaç saniye ekle.</li>\n<li><strong>3. gün (isteğe bağlı):</strong> yalnızca kısa ve kolay bir asılma ve hafif kürek. Amaç yorulmak değil, hareketi taze tutmak.</li>\n</ul>\n<p>Her hafta yalnızca tek bir değişkeni artır: tekrar, saniye ya da yardım miktarı. İkisini birden artırırsan neyin işe yaradığını bilemezsin. Bir hafta kötü geçerse endişelenme: uyku, stres ve iş yükü kuvveti etkiler. Önemli olan tek bir antrenman değil, dört altı haftalık eğilimdir; kayıtlarına tek tek günlere değil, bu eğilime bakarak karar ver. Not defterine ya da uygulamaya her antrenmanın sonunda iki satır yazmak, haftalar sonra neyin işe yaradığını görmeni sağlar.</p>\n\n<h2>Haftaları takip etmenin basit yolu</h2>\n<p>Kendini testi her antrenmanda değil, iki haftada bir tekrarla. Her adımın en iyi sayısını kaydet: asılma saniyesi, skapular tekrar, üstte tutuş saniyesi, negatif sayımı, kürek tekrarı. Herhangi bir adımda artan sayı, ilk barfiks hâlâ uzak görünse bile ilerlemedir.</p>\n<p>PullUp Master uygulamasının arkasındaki mantık da bu: seni bir ilerleme bloğuna yerleştirir, her seti ve molayı yönlendirir ve kayıtlı antrenmanlarına göre ilk tekrarının kaç hafta uzakta olduğunu tahmin eder. Böyle bir tahmin, arkasındaki veri kadar iyidir; söz değil, hareketli bir öngörü olarak gör.</p>\n\n<h2>İlk tekrardan sonra ne yapmalı?</h2>\n<p>Her gün test etme. Tek bir temiz tekrar bir kilometre taşıdır, plan değil. Önümüzdeki haftalarda seni buraya getiren aşamaları sürdür, yavaş yavaş ikinci ve üçüncü tekrarı ekle ve birkaç tekrar rezervle hafif setler yap. Üst üste üç tekrar yapınca <a href=\"/tr/barfiks-antrenman-programi/\">barfiks antrenman programı</a> doğal sonraki adım, <a href=\"/tr/ilk-barfiks/\">ilk barfiks rehberimiz</a> de hareketi baştan sona anlatıyor.</p>\n<p>Henüz orada değilsen sorun değil. Kendini testte durduğun adımı seç, bu hafta iki kez çalış ve sonucu yaz. Her ilk barfiks böyle başlar. Arada hastalanırsan ya da seyahat edersen, bıraktığın yerden değil, bir aşama daha kolaydan geri dön; birkaç gün kaybettirir ama sakatlık ve hayal kırıklığından korur.</p>",
+      "keep_reading": [
+        {
+          "href": "/tr/ilk-barfiks/",
+          "title": "İlk barfiks nasıl çekilir"
+        },
+        {
+          "href": "/tr/negatif-barfiks/",
+          "title": "Negatif barfiks: eksantrik antrenman ilk barfiksini nasıl kurar"
+        },
+        {
+          "href": "/tr/barfiks-antrenman-programi/",
+          "title": "Barfiks antrenman programı: tekrar sayını artıran haftalık plan"
+        },
+        {
+          "href": "/tr/barfiks-vucut-agirligi/",
+          "title": "Barfiks ve vücut ağırlığı: Tekrarlarını göreceli kuvvet belirler"
+        },
+        {
+          "href": "/tr/haftada-kac-gun-barfiks/",
+          "title": "Haftada kaç gün barfiks yapmalısın? Sıklık, haftalık hacim ve toparlanma"
+        },
+        {
+          "href": "/tr/barfiks-plato/",
+          "title": "Barfiks plato: aynı tekrarda takılırsan ne yapmalı"
+        }
+      ]
+    },
+    "es": {
+      "title": "¿Cuánto se tarda en hacer una dominada? Plazos realistas",
+      "description": "Cuánto tardas en hacer tu primera dominada: qué marca tu plazo, un autotest, rangos honestos de semanas según tu nivel y qué te acelera.",
+      "headline": "¿Cuánto se tarda en hacer la primera dominada?",
+      "subtitle": "Un plazo honesto desde donde estás hoy hasta tu primera repetición estricta",
+      "read_time": "8 min de lectura",
+      "lede": "Depende sobre todo de tu punto de partida: quien ya puede colgarse y bajar despacio suele estar a pocas semanas, y quien no aguanta 10 segundos colgado suele necesitar unos meses. No encontramos ningún ensayo que lo midiera, así que todos los rangos de abajo son orientaciones aproximadas de entrenadores, no resultados medidos. Úsalos para planificar y deja que tus registros los corrijan.",
+      "faq": [
+        {
+          "q": "¿Cuánto se tarda en hacer la primera dominada?",
+          "a": "Depende de tu nivel de partida. Aproximadamente, unas semanas si ya bajas despacio desde arriba, de uno a tres meses si te cuelgas pero no bajas, y a menudo de tres a seis meses si aún no aguantas 10 segundos colgado. Son orientaciones de entrenadores, no resultados de ensayos."
+        },
+        {
+          "q": "¿Se puede hacer una dominada en 30 días?",
+          "a": "A veces, si partes con buenas negativas y sostenes arriba. Para la mayoría de los principiantes 30 días es poco y la prisa puede costarte problemas de codo u hombro. Busca un avance constante, etapa por etapa."
+        },
+        {
+          "q": "¿Cuántas veces por semana debo entrenar para lograr una dominada?",
+          "a": "Dos o tres sesiones de tirón por semana con al menos un día de separación sirven a la mayoría de los principiantes, en línea con las guías generales de progresión para novatos."
+        },
+        {
+          "q": "¿Por qué no mejoro?",
+          "a": "Las causas habituales son entrenar al fallo siempre, cambiar el plan demasiado o quedarte en la misma variante asistida. Repite el autotest cada dos semanas y cambia solo una cosa a la vez."
+        },
+        {
+          "q": "¿El peso corporal cambia el tiempo que se tarda?",
+          "a": "Sí, porque levantas tu propio cuerpo. Las personas más pesadas también pueden lograrlo; el camino quizá empiece con remos y colgados y dure más."
+        }
+      ],
+      "sources": [
+        {
+          "label": "American College of Sports Medicine. Position stand: progression models in resistance training for healthy adults. Med Sci Sports Exerc, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/"
+        },
+        {
+          "label": "Schoenfeld BJ, Ogborn D, Krieger JW. Dose-response relationship between weekly resistance training volume and increases in muscle mass: a systematic review and meta-analysis. J Sports Sci, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27433992/"
+        },
+        {
+          "label": "Schoenfeld BJ, Pope ZK, Benik FM, et al. Longer interset rest periods enhance muscle strength and hypertrophy in resistance-trained men. J Strength Cond Res, 2016.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26605807/"
+        },
+        {
+          "label": "Plotkin D, Coleman M, Van Every D, et al. Progressive overload without progressing load? The effects of load or repetition progression on muscular adaptations. PeerJ, 2022.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36199287/"
+        },
+        {
+          "label": "Vigouroux L, Devise M. Pull-Up Performance Is Affected Differently by the Muscle Contraction Regimens Practiced during Training among Climbers. Bioengineering (Basel), 2024.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38247962/"
+        }
+      ],
+      "body_html": "<h2>¿Cuánto se tarda en hacer la primera dominada?</h2>\n<p>No hay un número único, y quien te da uno está adivinando. No encontramos ningún estudio que siguiera a adultos desde cero hasta la primera dominada estricta y anotara las semanas. Lo que tenemos es ciencia general del entrenamiento sobre cómo responde la fuerza a una práctica regular y progresiva<sup>[1]</sup>, además de mucha experiencia de entrenadores sobre cómo avanzan los principiantes por las etapas.</p>\n<p>Lo útil es pensar en etapas, no en una fecha. No esperas a que llegue un día. Recorres una lista corta de capacidades: colgarte de la barra, sostener la posición alta, bajar con control y, por fin, subir. Cada etapa tiene su duración aproximada y tu plazo es la suma de las etapas que aún te faltan.</p>\n\n<h2>¿Qué decide tu plazo?</h2>\n<ul>\n<li><strong>Tu punto de partida.</strong> Es el factor más grande. Quien baja despacio desde arriba ya domina la mitad más difícil del movimiento. Quien aún no se cuelga unos segundos tiene más etapas por delante.</li>\n<li><strong>El peso corporal.</strong> Una dominada levanta todo tu cuerpo, así que más peso es más carga sobre los mismos músculos. No es un juicio sobre ti, solo aritmética. Lo explicamos en la <a href=\"/es/dominadas-peso-corporal/\">guía de peso corporal y dominadas</a>.</li>\n<li><strong>Con qué frecuencia entrenas.</strong> Los principiantes suelen ir bien con dos o tres sesiones de tirón por semana, con descanso entre ellas<sup>[1]</sup>. Más no es automáticamente mejor; mira <a href=\"/es/cuantas-veces-entrenar-dominadas/\">cuántas veces entrenar dominadas</a>.</li>\n<li><strong>El volumen semanal.</strong> En un metaanálisis, más series semanales por grupo muscular se asociaron con más masa muscular, con rendimientos decrecientes al subir el volumen<sup>[2]</sup>. Para un principiante significa que el trabajo constante gana a una sesión heroica.</li>\n<li><strong>La constancia durante meses.</strong> Las semanas saltadas te devuelven más atrás de lo que ahorran. Un plan que mantienes 12 semanas gana a uno más duro que abandonas en la tercera.</li>\n<li><strong>Edad, historial de lesiones y sueño.</strong> Cambian la velocidad de recuperación, no si puedes llegar. Si algo duele, resuélvelo primero.</li>\n</ul>\n\n<h2>¿Dónde estás? Un autotest de cinco minutos</h2>\n<p>Haz estos pasos en orden y para en el primero que no puedas completar. Descansa un par de minutos entre ellos y calienta antes los hombros.</p>\n<ol>\n<li><strong>Dead hang.</strong> Cuélgate de la barra con los brazos rectos y los pies sin tocar el suelo. ¿Aguantas 20 segundos?</li>\n<li><strong>Tirón escapular.</strong> Desde el colgado, baja y junta las escápulas sin doblar los codos. ¿Puedes hacer cinco repeticiones lentas? Mira las <a href=\"/es/dominadas-escapulares-como-hacerlas/\">dominadas escapulares</a>.</li>\n<li><strong>Sostén arriba.</strong> Sube con un escalón o un salto a la posición alta, con la barbilla sobre la barra. ¿Puedes sostenerla cinco segundos?</li>\n<li><strong>Negativa.</strong> Desde arriba, baja contando cinco segundos. ¿Puedes hacer tres? Mira las <a href=\"/es/dominadas-negativas/\">dominadas negativas</a>.</li>\n<li><strong>Remo.</strong> Haz remo con el peso corporal bajo una barra baja. ¿Puedes hacer ocho con el cuerpo en línea recta?</li>\n</ol>\n<p>El paso donde te detienes es tu nivel. Anótalo con la fecha. Es la referencia para el resto de esta página.</p>\n\n<h2>¿Cómo es un plazo realista?</h2>\n<p>Los rangos de abajo son orientaciones aproximadas de entrenadores para alguien que entrena dos o tres veces por semana y se recupera bien. No son datos de ensayos. Algunas personas serán más rápidas, muchas más lentas, y un mes de enfermedad o viaje se suma a cualquiera.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Tu nivel hoy</th><th>Qué falta</th><th>Rango aproximado hasta la primera repetición</th><th>En qué centrarte</th></tr></thead>\n<tbody>\n<tr><td>Hace negativas lentas y sostiene arriba</td><td>Algo de fuerza de tirón desde abajo</td><td>A menudo unas pocas semanas</td><td>Negativas, repeticiones con salto, banda para los últimos centímetros</td></tr>\n<tr><td>Se cuelga 20 segundos, no baja con control</td><td>Fuerza excéntrica y posición alta</td><td>A menudo de uno a tres meses</td><td>Colgados, tirones escapulares, remos y luego negativas</td></tr>\n<tr><td>No se cuelga 10 segundos</td><td>Agarre, tolerancia del hombro y fuerza de tirón básica</td><td>A menudo de tres a seis meses</td><td>Colgados cortos, remos, volumen fácil, paciencia</td></tr>\n<tr><td>Mucho peso extra o vuelta de una lesión</td><td>Más carga sobre los mismos músculos; adaptación más lenta de los tejidos</td><td>Puede ser más; no existe una estimación honesta</td><td>Primero remos y colgados; si hay dolor, consulta a un profesional</td></tr>\n</tbody></table></div>\n<p>Fíjate en lo que la tabla no dice: no promete nada. Si tus registros muestran progreso constante, vas bien aunque estés en el extremo lento de un rango. Si llevas cuatro semanas sin moverte, cambia algo, como explica la <a href=\"/es/estancamiento-dominadas/\">guía del estancamiento en dominadas</a>.</p>\n\n<h2>¿Qué lo acelera?</h2>\n<ul>\n<li><strong>Practica el movimiento en sí.</strong> Un estudio con escaladores encontró que el rendimiento en dominadas respondía de forma distinta según el tipo de contracción entrenada<sup>[5]</sup>. Para un principiante, la conclusión es incluir tirar y bajar de verdad, no solo ejercicios generales.</li>\n<li><strong>Añade repeticiones antes de añadir dificultad.</strong> Un ensayo que comparó progresar en carga con progresar en repeticiones halló adaptaciones musculares similares, así que sumar una repetición a una serie es una forma legítima de avanzar<sup>[4]</sup>.</li>\n<li><strong>Descansa lo suficiente entre series duras.</strong> En hombres entrenados, descansar tres minutos entre series dio mayores ganancias de fuerza que un minuto<sup>[3]</sup>. Los principiantes son otra población, pero recortar el descanso para acelerar una serie dura de tirón rara vez ayuda. Mira el <a href=\"/es/descanso-entre-series-dominadas/\">descanso entre series</a>.</li>\n<li><strong>Para antes del fallo en la mayoría de las series.</strong> Detenerte una o dos repeticiones antes mantiene limpia la técnica y te deja entrenar de nuevo en dos días.</li>\n<li><strong>Sueño y comida suficiente.</strong> No encontramos un ensayo específico de dominadas sobre esto, así que tómalo como base general de recuperación, no como truco.</li>\n</ul>\n\n<h2>¿Qué lo frena?</h2>\n<ul>\n<li>Entrenar hasta el agotamiento en cada sesión, lo que retrasa la siguiente. Mira <a href=\"/es/dominadas-al-fallo/\">entrenar al fallo</a>.</li>\n<li>Quedarte siempre en la variante más fácil. Si llevas seis semanas con la misma banda o el mismo salto, reduce la ayuda.</li>\n<li>Colgados descuidados con los hombros encogidos y los codos doblados. Parecen fáciles y enseñan poco.</li>\n<li>Cambiar el plan cada semana. No ves el progreso si la prueba cambia sin parar.</li>\n<li>Seguir pese al dolor de codo u hombro. Una semana de descanso cuesta menos que un mes de problemas de tendón.</li>\n</ul>\n\n<h2>Una forma sencilla de seguir las semanas</h2>\n<p>Repite el autotest cada dos semanas, no en cada sesión. Anota el mejor número de cada paso: segundos de colgado, repeticiones escapulares, segundos de sostén arriba, cuenta de la negativa, repeticiones de remo. Un número que sube en cualquier paso cuenta como progreso, aunque la primera dominada todavía parezca lejana.</p>\n<p>Esa es también la lógica de la app PullUp Master: te coloca en un bloque de progresión, guía cada serie y cada descanso y estima cuántas semanas te faltan para la primera repetición a partir de tus sesiones registradas. Una estimación así vale lo que valgan sus datos, así que tómala como una previsión que se mueve, no como una promesa.</p>\n\n<h2>¿Qué hacer después de la primera repetición?</h2>\n<p>No la pruebes cada día. Una repetición limpia es un hito, no un plan. Durante las siguientes semanas, mantén las etapas que te trajeron hasta aquí, añade poco a poco la segunda y la tercera repetición y haz series fáciles con algunas repeticiones de reserva. Cuando encadenes tres, la <a href=\"/es/rutina-dominadas/\">rutina de dominadas</a> es el siguiente paso natural, y nuestra guía de la <a href=\"/es/primera-dominada/\">primera dominada</a> explica el movimiento completo.</p>\n<p>Si aún no estás ahí, no pasa nada. Elige el paso del autotest donde te detuviste, entrénalo dos veces esta semana y anota el resultado. Así empieza toda primera dominada. Y si enfermas o viajas, vuelve un escalón más fácil en lugar de retomar donde lo dejaste: te cuesta unos días y te ahorra tirones y frustración.</p>",
+      "keep_reading": [
+        {
+          "href": "/es/primera-dominada/",
+          "title": "Cómo hacer tu primera dominada"
+        },
+        {
+          "href": "/es/dominadas-negativas/",
+          "title": "Dominadas negativas: cómo el trabajo excéntrico construye tu primera dominada"
+        },
+        {
+          "href": "/es/rutina-dominadas/",
+          "title": "Rutina de dominadas para ganar repeticiones"
+        },
+        {
+          "href": "/es/dominadas-peso-corporal/",
+          "title": "Dominadas y peso corporal: por qué la fuerza relativa decide tus repeticiones"
+        },
+        {
+          "href": "/es/cuantas-veces-entrenar-dominadas/",
+          "title": "¿Cuántas veces a la semana entrenar dominadas? Frecuencia, volumen semanal y recuperación"
+        },
+        {
+          "href": "/es/estancamiento-dominadas/",
+          "title": "Estancamiento en dominadas: por qué y cómo superarlo"
+        }
+      ]
+    },
+    "fr": {
+      "title": "Première traction : combien de temps faut-il vraiment ?",
+      "description": "Combien de temps pour réussir ta première traction : ce qui fixe ton délai, un auto-test, des fourchettes honnêtes selon ton niveau et ce qui t'accélère.",
+      "headline": "Combien de temps faut-il pour réussir une première traction ?",
+      "subtitle": "Un calendrier honnête de ton niveau actuel jusqu'à ta première répétition stricte",
+      "read_time": "8 min de lecture",
+      "lede": "Cela dépend surtout de ton point de départ : quelqu'un qui sait déjà se suspendre et descendre lentement est souvent à quelques semaines, alors que quelqu'un qui ne tient pas 10 secondes suspendu doit plutôt compter quelques mois. Nous n'avons trouvé aucun essai qui ait mesuré cela, donc toutes les fourchettes ci-dessous sont des repères d'entraîneurs, pas des résultats mesurés. Sers-t'en pour planifier, puis laisse tes propres carnets les corriger.",
+      "faq": [
+        {
+          "q": "Combien de temps faut-il pour réussir sa première traction ?",
+          "a": "Cela dépend de ton niveau de départ. Grosso modo, quelques semaines si tu descends déjà lentement depuis le haut, un à trois mois si tu te suspends sans savoir descendre, et souvent trois à six mois si tu ne tiens pas encore 10 secondes suspendu. Ce sont des repères d'entraîneurs, pas des résultats d'essais."
+        },
+        {
+          "q": "Peut-on réussir une traction en 30 jours ?",
+          "a": "Parfois, si tu pars avec de bonnes négatives et des maintiens en haut. Pour la plupart des débutants, 30 jours est trop court et la précipitation peut coûter des soucis de coude ou d'épaule. Vise une progression régulière, étape par étape."
+        },
+        {
+          "q": "Combien de fois par semaine m'entraîner pour réussir une traction ?",
+          "a": "Deux à trois séances de tirage par semaine, avec au moins un jour d'écart, conviennent à la plupart des débutants, conformément aux recommandations générales de progression pour novices."
+        },
+        {
+          "q": "Pourquoi est-ce que je ne progresse pas ?",
+          "a": "Les causes habituelles : s'entraîner à l'échec à chaque fois, changer trop souvent de plan ou rester sur la même variante assistée. Refais l'auto-test toutes les deux semaines et ne change qu'une chose à la fois."
+        },
+        {
+          "q": "Le poids du corps change-t-il la durée ?",
+          "a": "Oui, car tu soulèves ton propre corps. Les personnes plus lourdes peuvent y arriver aussi ; le chemin commence peut-être par des rowings et des suspensions et dure plus longtemps."
+        }
+      ],
+      "sources": [
+        {
+          "label": "American College of Sports Medicine. Position stand: progression models in resistance training for healthy adults. Med Sci Sports Exerc, 2009.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/19204579/"
+        },
+        {
+          "label": "Schoenfeld BJ, Ogborn D, Krieger JW. Dose-response relationship between weekly resistance training volume and increases in muscle mass: a systematic review and meta-analysis. J Sports Sci, 2017.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/27433992/"
+        },
+        {
+          "label": "Schoenfeld BJ, Pope ZK, Benik FM, et al. Longer interset rest periods enhance muscle strength and hypertrophy in resistance-trained men. J Strength Cond Res, 2016.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/26605807/"
+        },
+        {
+          "label": "Plotkin D, Coleman M, Van Every D, et al. Progressive overload without progressing load? The effects of load or repetition progression on muscular adaptations. PeerJ, 2022.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/36199287/"
+        },
+        {
+          "label": "Vigouroux L, Devise M. Pull-Up Performance Is Affected Differently by the Muscle Contraction Regimens Practiced during Training among Climbers. Bioengineering (Basel), 2024.",
+          "url": "https://pubmed.ncbi.nlm.nih.gov/38247962/"
+        }
+      ],
+      "body_html": "<h2>Combien de temps faut-il pour réussir sa première traction ?</h2>\n<p>Il n'existe pas de chiffre unique, et celui qui t'en donne un devine. Nous n'avons trouvé aucune étude qui ait suivi des adultes de zéro à la première traction stricte en notant les semaines. Nous disposons à la place de la science générale de l'entraînement sur la façon dont la force répond à une pratique régulière et progressive<sup>[1]</sup>, et de beaucoup d'expérience d'entraîneurs sur la façon dont les débutants franchissent les étapes.</p>\n<p>Le plus utile est de penser en étapes plutôt qu'en date. Tu n'attends pas qu'un jour arrive. Tu parcours une courte liste de capacités : se suspendre à la barre, tenir la position haute, descendre avec contrôle et enfin monter. Chaque étape a sa durée approximative, et ton délai est la somme des étapes qu'il te reste à franchir.</p>\n\n<h2>Qu'est-ce qui fixe ton délai ?</h2>\n<ul>\n<li><strong>Ton point de départ.</strong> C'est le facteur le plus important. Celui qui descend lentement depuis le haut maîtrise déjà la moitié la plus dure du mouvement. Celui qui ne tient pas encore quelques secondes suspendu a plus d'étapes devant lui.</li>\n<li><strong>Le poids du corps.</strong> Une traction soulève tout ton corps, donc plus de poids signifie plus de charge sur les mêmes muscles. Ce n'est pas un jugement sur toi, juste de l'arithmétique. Le <a href=\"/fr/tractions-poids-du-corps/\">guide poids du corps et tractions</a> détaille le sujet.</li>\n<li><strong>La fréquence d'entraînement.</strong> Les débutants progressent généralement bien avec deux à trois séances de tirage par semaine, espacées pour récupérer<sup>[1]</sup>. Plus n'est pas automatiquement mieux ; voir <a href=\"/fr/tractions-frequence-entrainement/\">à quelle fréquence faire des tractions</a>.</li>\n<li><strong>Le volume hebdomadaire.</strong> Dans une méta-analyse, davantage de séries hebdomadaires par groupe musculaire allaient de pair avec un gain de masse musculaire plus grand, avec des rendements décroissants quand le volume augmente<sup>[2]</sup>. Pour un débutant, cela veut dire qu'un travail régulier bat une séance héroïque.</li>\n<li><strong>La constance sur des mois.</strong> Les semaines sautées font perdre plus qu'elles n'économisent. Un plan tenu 12 semaines bat un plan plus dur abandonné à la troisième.</li>\n<li><strong>L'âge, les antécédents de blessure et le sommeil.</strong> Ils changent la vitesse de récupération, pas la possibilité d'y arriver. Si quelque chose fait mal, règle d'abord cela.</li>\n</ul>\n\n<h2>Où en es-tu ? Un auto-test de cinq minutes</h2>\n<p>Fais ces étapes dans l'ordre et arrête-toi à la première que tu ne peux pas finir. Repose-toi quelques minutes entre elles et échauffe d'abord les épaules.</p>\n<ol>\n<li><strong>Dead hang.</strong> Suspends-toi à la barre, bras tendus, pieds décollés du sol. Peux-tu tenir 20 secondes ?</li>\n<li><strong>Tirage scapulaire.</strong> Depuis la suspension, abaisse et rapproche les omoplates sans plier les coudes. Peux-tu faire cinq répétitions lentes ? Voir les <a href=\"/fr/tractions-scapulaires-comment-faire/\">tractions scapulaires</a>.</li>\n<li><strong>Maintien en haut.</strong> Monte avec un step ou un saut en position haute, menton au-dessus de la barre. Peux-tu tenir cinq secondes ?</li>\n<li><strong>Négative.</strong> Depuis le haut, descends en comptant cinq secondes. Peux-tu en faire trois ? Voir les <a href=\"/fr/tractions-negatives/\">tractions négatives</a>.</li>\n<li><strong>Rowing.</strong> Fais un rowing au poids du corps sous une barre basse. Peux-tu en faire huit, corps bien aligné ?</li>\n</ol>\n<p>L'étape où tu t'arrêtes est ton niveau. Note-la avec la date. C'est la référence pour le reste de cette page.</p>\n\n<h2>À quoi ressemble un calendrier réaliste ?</h2>\n<p>Les fourchettes ci-dessous sont des repères d'entraîneurs pour quelqu'un qui s'entraîne deux à trois fois par semaine et récupère bien. Ce ne sont pas des données d'essais. Certains iront plus vite, beaucoup plus lentement, et un mois de maladie ou de voyage s'ajoute à chacune.</p>\n<div class=\"table-scroll\"><table>\n<thead><tr><th>Ton niveau aujourd'hui</th><th>Ce qui manque</th><th>Fourchette approximative jusqu'à la première répétition</th><th>Sur quoi te concentrer</th></tr></thead>\n<tbody>\n<tr><td>Fait des négatives lentes et tient en haut</td><td>Un peu de force de tirage depuis le bas</td><td>Souvent quelques semaines</td><td>Négatives, répétitions sautées, élastique pour les derniers centimètres</td></tr>\n<tr><td>Tient 20 secondes suspendu, ne descend pas avec contrôle</td><td>Force excentrique et position haute</td><td>Souvent un à trois mois</td><td>Suspensions, tirages scapulaires, rowings, puis négatives</td></tr>\n<tr><td>Ne tient pas 10 secondes suspendu</td><td>Prise, tolérance de l'épaule et force de tirage de base</td><td>Souvent trois à six mois</td><td>Suspensions courtes, rowings, volume facile, patience</td></tr>\n<tr><td>Beaucoup de poids en plus ou retour de blessure</td><td>Plus de charge sur les mêmes muscles ; adaptation des tissus plus lente</td><td>Peut être plus long ; aucune estimation honnête n'existe</td><td>Rowings et suspensions d'abord ; en cas de douleur, consulte un professionnel</td></tr>\n</tbody></table></div>\n<p>Remarque ce que le tableau ne dit pas : il ne promet rien. Si tes carnets montrent une progression régulière, tu es dans les temps, même au bas d'une fourchette. Si rien n'a bougé depuis quatre semaines, change quelque chose, comme l'explique le <a href=\"/fr/plateau-tractions/\">guide du plateau en tractions</a>.</p>\n\n<h2>Qu'est-ce qui accélère ?</h2>\n<ul>\n<li><strong>Pratique le mouvement lui-même.</strong> Une étude sur des grimpeurs a montré que la performance en traction répondait différemment selon le type de contraction entraîné<sup>[5]</sup>. Pour un débutant, cela signifie inclure de vrais tirages et de vraies descentes, pas seulement des exercices généraux.</li>\n<li><strong>Ajoute des répétitions avant d'ajouter de la difficulté.</strong> Un essai comparant la progression en charge et la progression en répétitions a trouvé des adaptations musculaires similaires : ajouter une répétition à une série est donc une façon légitime de progresser<sup>[4]</sup>.</li>\n<li><strong>Repose-toi assez entre les séries dures.</strong> Chez des hommes entraînés, trois minutes de repos entre les séries ont donné de plus grands gains de force qu'une minute<sup>[3]</sup>. Les débutants sont une autre population, mais raccourcir le repos pour presser une série dure de tirage aide rarement. Voir le <a href=\"/fr/repos-entre-series-tractions/\">repos entre les séries</a>.</li>\n<li><strong>Arrête-toi avant l'échec sur la plupart des séries.</strong> S'arrêter une ou deux répétitions plus tôt garde une exécution propre et permet de t'entraîner de nouveau deux jours plus tard.</li>\n<li><strong>Sommeil et alimentation suffisante.</strong> Nous n'avons pas trouvé d'essai propre aux tractions sur ce point ; vois-les comme des bases générales de récupération, pas comme une astuce.</li>\n</ul>\n\n<h2>Qu'est-ce qui ralentit ?</h2>\n<ul>\n<li>S'entraîner jusqu'à l'épuisement à chaque séance, ce qui repousse la suivante. Voir <a href=\"/fr/tractions-jusqu-a-l-echec/\">s'entraîner jusqu'à l'échec</a>.</li>\n<li>Rester pour toujours sur la variante la plus facile. Si tu utilises le même élastique ou le même saut depuis six semaines, réduis l'aide.</li>\n<li>Des suspensions bâclées, épaules haussées et coudes pliés. Elles paraissent faciles et apprennent peu.</li>\n<li>Changer de plan chaque semaine. On ne voit pas le progrès si le test change sans cesse.</li>\n<li>Forcer malgré une douleur au coude ou à l'épaule. Une semaine de repos coûte moins qu'un mois de souci de tendon.</li>\n</ul>\n\n<h2>Une façon simple de suivre les semaines</h2>\n<p>Refais l'auto-test toutes les deux semaines, pas à chaque séance. Note le meilleur chiffre de chaque étape : secondes de suspension, répétitions scapulaires, secondes de maintien en haut, durée de la négative, répétitions de rowing. Un chiffre qui monte à n'importe quelle étape compte comme un progrès, même si la première traction te paraît encore lointaine.</p>\n<p>C'est aussi la logique de l'application PullUp Master : elle te place dans un bloc de progression, guide chaque série et chaque repos, et estime dans combien de semaines ta première répétition arrivera à partir de tes séances enregistrées. Une telle estimation vaut ce que valent ses données ; prends-la comme une prévision mouvante, pas comme une promesse.</p>\n\n<h2>Que faire après la première répétition ?</h2>\n<p>Ne la teste pas tous les jours. Une répétition propre est un jalon, pas un plan. Pendant les semaines suivantes, garde les étapes qui t'ont amené là, ajoute peu à peu une deuxième et une troisième répétition et fais des séries faciles avec quelques répétitions en réserve. Quand tu enchaînes trois répétitions, le <a href=\"/fr/programme-tractions/\">programme de tractions</a> est la suite naturelle, et notre guide de la <a href=\"/fr/premiere-traction/\">première traction</a> explique tout le mouvement.</p>\n<p>Si tu n'y es pas encore, ce n'est pas grave. Choisis l'étape de l'auto-test où tu t'es arrêté, travaille-la deux fois cette semaine et note le résultat. Toute première traction commence ainsi. Et si tu tombes malade ou voyages, reprends une étape plus facile plutôt que là où tu t'étais arrêté : cela coûte quelques jours et t'épargne claquages et frustration.</p>",
+      "keep_reading": [
+        {
+          "href": "/fr/premiere-traction/",
+          "title": "Comment faire ta première traction"
+        },
+        {
+          "href": "/fr/tractions-negatives/",
+          "title": "Tractions négatives : comment le travail excentrique construit ta première traction"
+        },
+        {
+          "href": "/fr/programme-tractions/",
+          "title": "Programme de tractions : un plan de la semaine pour progresser"
+        },
+        {
+          "href": "/fr/tractions-poids-du-corps/",
+          "title": "Tractions et poids du corps : pourquoi la force relative décide de tes répétitions"
+        },
+        {
+          "href": "/fr/tractions-frequence-entrainement/",
+          "title": "Combien de fois par semaine faire des tractions ? Fréquence, volume hebdomadaire et récupération"
+        },
+        {
+          "href": "/fr/plateau-tractions/",
+          "title": "Plateau aux tractions : pourquoi tu stagnes et comment avancer"
+        }
+      ]
+    }
+  }
+}
